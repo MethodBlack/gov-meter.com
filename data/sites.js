@@ -12,8 +12,8 @@ module.exports = {
 			.then((json) => json.map((site) => site.url).filter((url) => !blocklist.has(url)));
 
 		return {
-			name: 'Showcase',
-			description: 'Sites from the Astro showcase',
+			name: 'Gov Clock',
+			description: 'Indian Govt Websites',
 			options: { frequency: 1380 },
 			urls,
 		};
