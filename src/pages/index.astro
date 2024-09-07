@@ -1,0 +1,100 @@
+---
+import { db, Result, sql } from 'astro:db';
+import LeaderboardSpeedlifyScore from '../components/LeaderboardSpeedlifyScore.astro';
+import LeaderboardURL from '../components/LeaderboardURL.astro';
+import Layout from '../layouts/Layout.astro';
+import { TestResult } from '../util/data-schema';
+
+const SiteBucket = sql`(PARTITION BY ${Result.siteHash} ORDER BY ${Result.siteHash})`;
+const ExtendedResult = db.$with('ExtendedResult').as(
+	db
+		.select({
+			siteHash: Result.siteHash,
+			runTime: Result.runTime,
+			data: Result.data,
+			latestRun: sql`unixepoch (MAX(${Result.runTime}) OVER ${SiteBucket})`
+				.mapWith(Number)
+				.as('latestRun'),
+			isNew: sql`CASE WHEN COUNT(*) OVER ${SiteBucket} IS 1 THEN 1 ELSE 0 END`
+				.mapWith(Boolean)
+				.as('isNew'),
+		})
+		.from(Result)
+);
+
+const sites = (
+	await db
+		.with(ExtendedResult)
+		.select()
+		.from(ExtendedResult)
+		.where(
+			sql`unixepoch (${ExtendedResult.runTime}) >= (${ExtendedResult.latestRun} - 24 * 60 * 60)`
+		)
+		.orderBy(sql`${ExtendedResult.data}->>'$.ranks.cumulative'`)
+).map((site) => ({ ...site, data: TestResult.parse(site.data) }));
+---
+
+<Layout>
+	<div class="leaderboard-wrapper">
+		<table class="leaderboard">
+			<thead>
+				<tr>
+					<th>Rank</th>
+					<th class="leaderboard-hide-md">Trophy</th>
+					<th>URL</th>
+					<th class="leaderboard-hide-md">Host</th>
+					<th class="leaderboard-score">Lighthouse</th>
+					<th class="leaderboard-data-right"><span class="sr-only">Data and Graphs</span></th>
+				</tr>
+			</thead>
+			<tbody>
+				{
+					sites.map(({ isNew, siteHash, data }, index) => {
+						const id = 'site-' + siteHash;
+						const detailsHref = `/site/${siteHash}`;
+						return (
+							<>
+								<tr {id} class="leaderboard-list-entry">
+									<td>
+										<a href={`#${id}`}>{index + 1}</a>
+									</td>
+									<td class="leaderboard-hide-md leaderboard-trophies">
+										{data.lighthouse.total === 400 && '🏆'}
+										{['🥇', '🥈', '🥉'][index]}
+										{isNew && <span title="New entry">✨</span>}
+									</td>
+									<LeaderboardURL {data} href={detailsHref} />
+									<LeaderboardSpeedlifyScore {data} {siteHash} />
+									<td class="leaderboard-data-right">
+										<a href={detailsHref} data-expand-alias data-js-only>
+											<span class="leaderboard-hide-md">Historical</span> Data
+										</a>
+									</td>
+								</tr>
+							</>
+						);
+					})
+				}
+			</tbody>
+		</table>
+	</div>
+	<script>
+		import 'speedlify-score';
+	</script>
+	<style>
+		a[href^='/site/'] {
+			white-space: nowrap;
+			display: inline-block;
+			text-decoration: none;
+			background-color: #fff1;
+			border-radius: 50px;
+			border: 1px solid #fff3;
+			padding: 0.5em 1em;
+			text-align: center;
+			line-height: normal;
+		}
+		.leaderboard-trophies {
+			white-space: nowrap;
+		}
+	</style>
+</Layout>
