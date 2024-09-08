@@ -1,0 +1,67 @@
+{
+  "url": "https://www.eci.gov.in/",
+  "requestedUrl": "https://eci.gov.in/",
+  "timestamp": 1725813254275,
+  "ranks": {
+    "hundos": 9,
+    "performance": 9,
+    "accessibility": 8,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.69,
+    "bestPractices": 0.52,
+    "seo": 0.79,
+    "total": 233
+  },
+  "firstContentfulPaint": 3999.3478275,
+  "firstMeaningfulPaint": 14040.283889999999,
+  "speedIndex": 20080.60254934257,
+  "largestContentfulPaint": 41125.49409750002,
+  "totalBlockingTime": 842.5,
+  "cumulativeLayoutShift": 0.13173397420135935,
+  "timeToInteractive": 49668.62254999997,
+  "maxPotentialFirstInputDelay": 333,
+  "timeToFirstByte": 26.250999999999998,
+  "weight": {
+    "summary": "259 requests • 35.1 MiB",
+    "total": 36827210,
+    "image": 29726980,
+    "imageCount": 143,
+    "script": 5416865,
+    "scriptCount": 50,
+    "document": 1041013,
+    "font": 339737,
+    "fontCount": 10,
+    "stylesheet": 147273,
+    "stylesheetCount": 12,
+    "thirdParty": 5678048,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 9,
+    "+weight.total": 1,
+    "-weight.document": 9,
+    "+weight.document": 1,
+    "-weight.script": 9,
+    "+weight.script": 1,
+    "-weight.image": 9,
+    "+weight.image": 1,
+    "-weight.font": 7,
+    "+weight.font": 2,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 8
+  },
+  "axe": {
+    "passes": 9,
+    "violations": 5
+  }
+}
