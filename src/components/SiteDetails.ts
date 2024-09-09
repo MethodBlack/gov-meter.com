@@ -1,4 +1,4 @@
-import Chartist from 'https://esm.sh/chartist@0.11.4';
+import Chartist from 'https://esm.sh/chartist@1.3';
 
 function makeTable(table: Element) {
 	const labels = [];
