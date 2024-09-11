@@ -10,17 +10,21 @@ module.exports = {
 			'https://dfpd.nic.in/?q=node/979',
 			'https://dfpd.nic.in/?q=node/981',
 			'https://indiacoffee.org',
+			'http://jalshakti-dowr.gov.in',
+			'http://shipmin.gov.in',
+			'http://jalshakti-dowr.gov.in',
+			'http://shipmin.gov.in',		
 		]);
 
 		const fetch = (await import('node-fetch')).default;
 
 		/** @type {string[]} */
-		const urls = await fetch('https://cdn.jsdelivr.net/npm/make-in-india@0.0.4/dist/directory.json')
+		const urls = await fetch('https://cdn.jsdelivr.net/npm/make-in-india@0.0.7/src/api/igod/union-government/independent-departments/independent-departments.json')
 			.then((res) => res.json())
 			.then((json) => json.map((site) => site.url).filter((url) => !blocklist.has(url)));
 
 		return {
-			name: 'Gov Clock',
+			name: 'Gov Meter',
 			description: 'A central hub for all Indian Government websites.',
 			options: { frequency: 260 },
 			urls,

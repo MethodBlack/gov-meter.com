@@ -1,0 +1,66 @@
+{
+  "url": "https://www.isro.gov.in/",
+  "requestedUrl": "https://www.dos.gov.in/",
+  "timestamp": 1726047051389,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.86,
+    "accessibility": 0.97,
+    "bestPractices": 0.96,
+    "seo": 0.81,
+    "total": 360
+  },
+  "firstContentfulPaint": 2116.3585,
+  "firstMeaningfulPaint": 2191.3585,
+  "speedIndex": 6544.592345901035,
+  "largestContentfulPaint": 2982.3585,
+  "totalBlockingTime": 20.5,
+  "cumulativeLayoutShift": 0.019146468445072253,
+  "timeToInteractive": 2232.8585,
+  "maxPotentialFirstInputDelay": 71.5,
+  "timeToFirstByte": 77.98399999999992,
+  "weight": {
+    "summary": "89 requests • 6.3 MiB",
+    "total": 6623333,
+    "image": 2335226,
+    "imageCount": 68,
+    "script": 117003,
+    "scriptCount": 14,
+    "document": 16940,
+    "font": 273931,
+    "fontCount": 3,
+    "stylesheet": 27256,
+    "stylesheetCount": 1,
+    "thirdParty": 174,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 1,
+    "-weight.document": 1,
+    "+weight.document": 2,
+    "-weight.script": 1,
+    "+weight.script": 2,
+    "-weight.image": 1,
+    "+weight.image": 2,
+    "-weight.font": 2,
+    "+weight.font": 1,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}
