@@ -9,8 +9,8 @@ interface Props {
 }
 
 const {
-	title = 'Gov Meter',
-	description = 'Measuring the performance of Indian government sites over time.',
+	title = 'GovMeter',
+	description = 'Measuring performance of Indian government websites. Sites lacking HTTPS or with slow load times are automatically excluded.',
 } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const ogImageSrc = screenshotUrl(canonical);
@@ -52,8 +52,8 @@ const ogImageAlt = `Screenshot of “${title}”`;
 	</head>
 	<body>
 		<header>
-			<h1>Gov Meter</h1>
-			<p>Measuring the performance of Indian government sites over time.</p>
+			<h1>GovMeter</h1>
+			<p>Measuring performance of Indian government websites. Sites lacking HTTPS or with slow load times are automatically excluded.</p>
 		</header>
 		<main>
 			<slot />
