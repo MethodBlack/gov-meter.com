@@ -1,8 +1,9 @@
 {
-  "name": "gov-clock",
+  "name": "gov-meter",
   "version": "0.0.1",
   "private": true,
   "license": "MIT",
+  "author": "@planetabhi",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
