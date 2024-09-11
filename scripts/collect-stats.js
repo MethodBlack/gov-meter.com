@@ -7,7 +7,7 @@ const sites = require('../data/sites');
 
 const NUMBER_OF_RUNS = 3;
 const FREQUENCY = 60; // in minutes
-const LONG_RUN_MS = 30_000; // in milliseconds
+const LONG_RUN_MS = 20_000; // in milliseconds
 
 const prettyTime = (seconds) => {
 	// Based on https://johnresig.com/blog/javascript-pretty-date/

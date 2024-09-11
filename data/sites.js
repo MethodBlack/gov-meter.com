@@ -19,14 +19,14 @@ module.exports = {
 		const fetch = (await import('node-fetch')).default;
 
 		/** @type {string[]} */
-		const urls = await fetch('https://cdn.jsdelivr.net/npm/make-in-india@0.0.7/src/api/igod/union-government/independent-departments/independent-departments.json')
+		const urls = await fetch('https://cdn.jsdelivr.net/npm/make-in-india@0.0.7/dist/directory.json')
 			.then((res) => res.json())
 			.then((json) => json.map((site) => site.url).filter((url) => !blocklist.has(url)));
 
 		return {
-			name: 'Gov Meter',
-			description: 'A central hub for all Indian Government websites.',
-			options: { frequency: 260 },
+			name: 'GovMeter',
+			description: 'Measuring performance of Indian government sites.',
+			options: { frequency: 120 },
 			urls,
 		};
 	},
