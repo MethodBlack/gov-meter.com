@@ -1,0 +1,66 @@
+{
+  "url": "https://www.isro.gov.in/",
+  "requestedUrl": "https://www.dos.gov.in/",
+  "timestamp": 1726077222034,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.81,
+    "accessibility": 0.97,
+    "bestPractices": 0.96,
+    "seo": 0.81,
+    "total": 355
+  },
+  "firstContentfulPaint": 2182.0995000000003,
+  "firstMeaningfulPaint": 2182.0995000000003,
+  "speedIndex": 5219.290981298349,
+  "largestContentfulPaint": 3753.0995000000003,
+  "totalBlockingTime": 9,
+  "cumulativeLayoutShift": 0.07613604318199138,
+  "timeToInteractive": 2212.0995000000003,
+  "maxPotentialFirstInputDelay": 51,
+  "timeToFirstByte": 69.91000000000001,
+  "weight": {
+    "summary": "89 requests • 6.4 MiB",
+    "total": 6688867,
+    "image": 2334980,
+    "imageCount": 68,
+    "script": 117148,
+    "scriptCount": 14,
+    "document": 16941,
+    "font": 273796,
+    "fontCount": 3,
+    "stylesheet": 27258,
+    "stylesheetCount": 1,
+    "thirdParty": 174,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 1,
+    "-weight.document": 1,
+    "+weight.document": 2,
+    "-weight.script": 1,
+    "+weight.script": 2,
+    "-weight.image": 1,
+    "+weight.image": 2,
+    "-weight.font": 2,
+    "+weight.font": 1,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://dae.gov.in/",
+  "requestedUrl": "https://dae.gov.in/",
+  "timestamp": 1726077183730,
+  "ranks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 2,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.18,
+    "accessibility": 0.91,
+    "bestPractices": 1,
+    "seo": 0.76,
+    "total": 285
+  },
+  "firstContentfulPaint": 3574.9400000000023,
+  "firstMeaningfulPaint": 3574.9400000000023,
+  "speedIndex": 7877.492076098741,
+  "largestContentfulPaint": 11683.156500000005,
+  "totalBlockingTime": 1150.500000000001,
+  "cumulativeLayoutShift": 0.4198910371457931,
+  "timeToInteractive": 10124.987000000005,
+  "maxPotentialFirstInputDelay": 984.0000000000018,
+  "timeToFirstByte": 117.16599999999994,
+  "weight": {
+    "summary": "91 requests • 5.8 MiB",
+    "total": 6043300,
+    "image": 5320439,
+    "imageCount": 45,
+    "script": 240648,
+    "scriptCount": 18,
+    "document": 21814,
+    "font": 192904,
+    "fontCount": 6,
+    "stylesheet": 265120,
+    "stylesheetCount": 19,
+    "thirdParty": 5152537,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 2,
+    "-weight.document": 2,
+    "+weight.document": 1,
+    "-weight.script": 2,
+    "+weight.script": 1,
+    "-weight.image": 2,
+    "+weight.image": 1,
+    "-weight.font": 1,
+    "+weight.font": 2,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 2,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 1500,
+    "violations": 1
+  }
+}
