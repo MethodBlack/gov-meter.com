@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nvvn.co.in/",
+  "requestedUrl": "https://www.nvvn.co.in/",
+  "timestamp": 1726153608565,
+  "ranks": {
+    "hundos": 281,
+    "performance": 219,
+    "accessibility": 600,
+    "cumulative": 282
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.56,
+    "accessibility": 0.58,
+    "bestPractices": 0.96,
+    "seo": 0.73,
+    "total": 283
+  },
+  "firstContentfulPaint": 4803.414999999999,
+  "firstMeaningfulPaint": 5936.1404999999995,
+  "speedIndex": 14447.914398965768,
+  "largestContentfulPaint": 15757.924000000003,
+  "totalBlockingTime": 52,
+  "cumulativeLayoutShift": 0.0016252784888361892,
+  "timeToInteractive": 12731.1205,
+  "maxPotentialFirstInputDelay": 108,
+  "timeToFirstByte": 73.39999999999986,
+  "weight": {
+    "summary": "59 requests • 4.8 MiB",
+    "total": 5043348,
+    "image": 3770903,
+    "imageCount": 23,
+    "script": 704527,
+    "scriptCount": 10,
+    "document": 40714,
+    "font": 102248,
+    "fontCount": 7,
+    "stylesheet": 424703,
+    "stylesheetCount": 16,
+    "thirdParty": 311797,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 276,
+    "+weight.total": 378,
+    "-weight.document": 294,
+    "+weight.document": 349,
+    "-weight.script": 343,
+    "+weight.script": 253,
+    "-weight.image": 293,
+    "+weight.image": 357,
+    "-weight.font": 161,
+    "+weight.font": 296,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 68,
+    "-totalBlockingTime": 74,
+    "-largestContentfulPaint": 306
+  },
+  "axe": {
+    "passes": 646,
+    "violations": 31
+  }
+}

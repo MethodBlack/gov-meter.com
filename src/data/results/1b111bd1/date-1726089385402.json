@@ -1,0 +1,67 @@
+{
+  "url": "https://dagshai.cantt.gov.in/",
+  "requestedUrl": "https://dagshai.cantt.gov.in/",
+  "timestamp": 1726113620937,
+  "ranks": {
+    "hundos": 446,
+    "performance": 554,
+    "accessibility": 231,
+    "cumulative": 449
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.76,
+    "total": 263
+  },
+  "firstContentfulPaint": 5115.239500000001,
+  "firstMeaningfulPaint": 5115.239500000001,
+  "speedIndex": 13116.456848434887,
+  "largestContentfulPaint": 36028.88100000002,
+  "totalBlockingTime": 77.5,
+  "cumulativeLayoutShift": 0.9739009529974382,
+  "timeToInteractive": 22021.88100000003,
+  "maxPotentialFirstInputDelay": 162,
+  "timeToFirstByte": 519.358,
+  "weight": {
+    "summary": "81 requests • 5.2 MiB",
+    "total": 5470592,
+    "image": 4805091,
+    "imageCount": 22,
+    "script": 346180,
+    "scriptCount": 28,
+    "document": 15535,
+    "font": 78112,
+    "fontCount": 1,
+    "stylesheet": 225674,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 296,
+    "+weight.total": 358,
+    "-weight.document": 115,
+    "+weight.document": 528,
+    "-weight.script": 183,
+    "+weight.script": 413,
+    "-weight.image": 343,
+    "+weight.image": 307,
+    "-weight.font": 100,
+    "+weight.font": 357,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 443,
+    "-totalBlockingTime": 317,
+    "-largestContentfulPaint": 622
+  },
+  "axe": {
+    "passes": 800,
+    "violations": 40
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://dcmsme.gov.in/",
+  "requestedUrl": "https://dcmsme.gov.in/",
+  "timestamp": 1726098077225,
+  "ranks": {
+    "hundos": 634,
+    "performance": 565,
+    "accessibility": 571,
+    "cumulative": 634
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.3,
+    "accessibility": 0.63,
+    "bestPractices": 0.48,
+    "seo": 0.68,
+    "total": 209
+  },
+  "firstContentfulPaint": 10955.763500000005,
+  "firstMeaningfulPaint": 11888.068500000005,
+  "speedIndex": 18705.842980530695,
+  "largestContentfulPaint": 20846.064000000006,
+  "totalBlockingTime": 150.5,
+  "cumulativeLayoutShift": 0.699918097487476,
+  "timeToInteractive": 31197.118000000006,
+  "maxPotentialFirstInputDelay": 107,
+  "timeToFirstByte": 282.603,
+  "weight": {
+    "summary": "156 requests • 4.7 MiB",
+    "total": 4897671,
+    "image": 1329047,
+    "imageCount": 47,
+    "script": 2716460,
+    "scriptCount": 50,
+    "document": 350762,
+    "font": 172094,
+    "fontCount": 9,
+    "stylesheet": 283650,
+    "stylesheetCount": 27,
+    "thirdParty": 2268499,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 270,
+    "+weight.total": 384,
+    "-weight.document": 612,
+    "+weight.document": 31,
+    "-weight.script": 556,
+    "+weight.script": 40,
+    "-weight.image": 143,
+    "+weight.image": 507,
+    "-weight.font": 289,
+    "+weight.font": 168,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 378,
+    "-totalBlockingTime": 125,
+    "-largestContentfulPaint": 342
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

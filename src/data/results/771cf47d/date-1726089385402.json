@@ -1,0 +1,66 @@
+{
+  "url": "https://nhp.mowr.gov.in/",
+  "requestedUrl": "https://nhp.mowr.gov.in/",
+  "timestamp": 1726130024437,
+  "ranks": {
+    "hundos": 230,
+    "performance": 521,
+    "accessibility": 150,
+    "cumulative": 261
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.85,
+    "bestPractices": 0.7,
+    "seo": 0.99,
+    "total": 292
+  },
+  "firstContentfulPaint": 20953.659,
+  "firstMeaningfulPaint": 20953.659,
+  "speedIndex": 29858.025044329752,
+  "largestContentfulPaint": 23142.252,
+  "totalBlockingTime": 1000.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 45122.27200000001,
+  "maxPotentialFirstInputDelay": 1067,
+  "timeToFirstByte": 1769.8260000000002,
+  "weight": {
+    "summary": "191 requests • 6.4 MiB",
+    "total": 6679240,
+    "image": 470236,
+    "imageCount": 60,
+    "script": 3164417,
+    "scriptCount": 40,
+    "document": 1220156,
+    "font": 22186,
+    "fontCount": 2,
+    "stylesheet": 670968,
+    "stylesheetCount": 15,
+    "thirdParty": 2819207,
+    "thirdPartyCount": 33
+  },
+  "run": {
+    "number": 2,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 349,
+    "+weight.total": 305,
+    "-weight.document": 637,
+    "+weight.document": 6,
+    "-weight.script": 579,
+    "+weight.script": 17,
+    "-weight.image": 65,
+    "+weight.image": 585,
+    "-weight.font": 19,
+    "+weight.font": 438,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 575,
+    "-totalBlockingTime": 393,
+    "-largestContentfulPaint": 579
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

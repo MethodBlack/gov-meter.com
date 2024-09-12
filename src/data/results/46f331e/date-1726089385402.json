@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nbfgr.res.in/",
+  "requestedUrl": "https://www.nbfgr.res.in/",
+  "timestamp": 1726125834558,
+  "ranks": {
+    "hundos": 288,
+    "performance": 265,
+    "accessibility": 617,
+    "cumulative": 289
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.57,
+    "bestPractices": 0.89,
+    "seo": 0.81,
+    "total": 282
+  },
+  "firstContentfulPaint": 3455.6009999999987,
+  "firstMeaningfulPaint": 3723.262499999999,
+  "speedIndex": 44790.93540630314,
+  "largestContentfulPaint": 5565.923999999999,
+  "totalBlockingTime": 76.5,
+  "cumulativeLayoutShift": 0.1748708826151238,
+  "timeToInteractive": 44234.54000000003,
+  "maxPotentialFirstInputDelay": 132,
+  "timeToFirstByte": 305.1369999999997,
+  "weight": {
+    "summary": "101 requests • 19.3 MiB",
+    "total": 20241725,
+    "image": 19602194,
+    "imageCount": 60,
+    "script": 324516,
+    "scriptCount": 18,
+    "document": 18016,
+    "font": 214901,
+    "fontCount": 6,
+    "stylesheet": 84862,
+    "stylesheetCount": 16,
+    "thirdParty": 123814,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 552,
+    "+weight.total": 102,
+    "-weight.document": 161,
+    "+weight.document": 482,
+    "-weight.script": 160,
+    "+weight.script": 436,
+    "-weight.image": 560,
+    "+weight.image": 90,
+    "-weight.font": 328,
+    "+weight.font": 129,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 388,
+    "-totalBlockingTime": 90,
+    "-largestContentfulPaint": 131
+  },
+  "axe": {
+    "passes": 1782,
+    "violations": 83
+  }
+}

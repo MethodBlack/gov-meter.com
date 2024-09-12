@@ -1,0 +1,67 @@
+{
+  "url": "https://cexpatna.bih.nic.in/",
+  "requestedUrl": "https://cexpatna.bih.nic.in/",
+  "timestamp": 1726139202756,
+  "ranks": {
+    "hundos": 186,
+    "performance": 3,
+    "accessibility": 599,
+    "cumulative": 184
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.58,
+    "bestPractices": 0.85,
+    "seo": 0.54,
+    "total": 297
+  },
+  "firstContentfulPaint": 966.4010000000001,
+  "firstMeaningfulPaint": 966.4010000000001,
+  "speedIndex": 2608.606125992619,
+  "largestContentfulPaint": 1205.401,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.003327510628634067,
+  "timeToInteractive": 966.4010000000001,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 42.291999999999916,
+  "weight": {
+    "summary": "16 requests • 95.2 KiB",
+    "total": 97479,
+    "image": 70954,
+    "imageCount": 13,
+    "script": 4140,
+    "scriptCount": 1,
+    "document": 22315,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 7,
+    "+weight.total": 647,
+    "-weight.document": 212,
+    "+weight.document": 431,
+    "-weight.script": 3,
+    "+weight.script": 593,
+    "-weight.image": 20,
+    "+weight.image": 630,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 12,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 6
+  },
+  "axe": {
+    "passes": 491,
+    "violations": 18
+  }
+}

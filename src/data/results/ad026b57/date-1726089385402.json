@@ -1,0 +1,67 @@
+{
+  "url": "https://mmtclimited.com/",
+  "requestedUrl": "https://mmtclimited.com/",
+  "timestamp": 1726104927960,
+  "ranks": {
+    "hundos": 138,
+    "performance": 8,
+    "accessibility": 595,
+    "cumulative": 136
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.59,
+    "bestPractices": 0.96,
+    "seo": 0.5,
+    "total": 304
+  },
+  "firstContentfulPaint": 1096.375,
+  "firstMeaningfulPaint": 1096.375,
+  "speedIndex": 3508.0702739955927,
+  "largestContentfulPaint": 1096.375,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1096.375,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 382.80100000000016,
+  "weight": {
+    "summary": "1 request • 555 B",
+    "total": 555,
+    "image": 0,
+    "imageCount": 0,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 555,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 653,
+    "-weight.document": 2,
+    "+weight.document": 641,
+    "-weight.script": 1,
+    "+weight.script": 596,
+    "-weight.image": 1,
+    "+weight.image": 650,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 420,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 5
+  },
+  "axe": {
+    "passes": 710,
+    "violations": 65
+  }
+}

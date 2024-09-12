@@ -1,0 +1,66 @@
+{
+  "url": "https://iiopr.icar.gov.in/",
+  "requestedUrl": "https://iiopr.icar.gov.in/",
+  "timestamp": 1726122333193,
+  "ranks": {
+    "hundos": 477,
+    "performance": 140,
+    "accessibility": 634,
+    "cumulative": 480
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.63,
+    "accessibility": 0.53,
+    "bestPractices": 0.7,
+    "seo": 0.73,
+    "total": 259
+  },
+  "firstContentfulPaint": 3284.9260000000004,
+  "firstMeaningfulPaint": 3584.9260000000004,
+  "speedIndex": 6602.812757156202,
+  "largestContentfulPaint": 14582.991499999996,
+  "totalBlockingTime": 2,
+  "cumulativeLayoutShift": 0.000027410144375350312,
+  "timeToInteractive": 8321.481999999998,
+  "maxPotentialFirstInputDelay": 54,
+  "timeToFirstByte": 133.35899999999992,
+  "weight": {
+    "summary": "75 requests • 99.7 MiB",
+    "total": 104529944,
+    "image": 103915329,
+    "imageCount": 52,
+    "script": 334284,
+    "scriptCount": 10,
+    "document": 52886,
+    "font": 20334,
+    "fontCount": 2,
+    "stylesheet": 207111,
+    "stylesheetCount": 10,
+    "thirdParty": 27361,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 646,
+    "+weight.total": 8,
+    "-weight.document": 340,
+    "+weight.document": 303,
+    "-weight.script": 171,
+    "+weight.script": 425,
+    "-weight.image": 643,
+    "+weight.image": 7,
+    "-weight.font": 15,
+    "+weight.font": 442,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 225,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 293
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

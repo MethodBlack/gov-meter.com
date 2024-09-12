@@ -1,0 +1,67 @@
+{
+  "url": "https://csez.com/",
+  "requestedUrl": "https://csez.com/",
+  "timestamp": 1726139961972,
+  "ranks": {
+    "hundos": 371,
+    "performance": 84,
+    "accessibility": 552,
+    "cumulative": 369
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.73,
+    "accessibility": 0.64,
+    "bestPractices": 0.85,
+    "seo": 0.5,
+    "total": 272
+  },
+  "firstContentfulPaint": 2999.6549999999997,
+  "firstMeaningfulPaint": 2999.6549999999997,
+  "speedIndex": 6949.192628773558,
+  "largestContentfulPaint": 4426.073999999999,
+  "totalBlockingTime": 5,
+  "cumulativeLayoutShift": 0.0043505257865044935,
+  "timeToInteractive": 4308.6174999999985,
+  "maxPotentialFirstInputDelay": 60,
+  "timeToFirstByte": 1315.3660000000002,
+  "weight": {
+    "summary": "36 requests • 838.4 KiB",
+    "total": 858550,
+    "image": 612977,
+    "imageCount": 26,
+    "script": 212703,
+    "scriptCount": 5,
+    "document": 20593,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 12277,
+    "stylesheetCount": 4,
+    "thirdParty": 598051,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 40,
+    "+weight.total": 614,
+    "-weight.document": 192,
+    "+weight.document": 451,
+    "-weight.script": 86,
+    "+weight.script": 510,
+    "-weight.image": 76,
+    "+weight.image": 574,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 553,
+    "-totalBlockingTime": 253,
+    "-largestContentfulPaint": 87
+  },
+  "axe": {
+    "passes": 383,
+    "violations": 50
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://mausam.imd.gov.in/mumbai/",
+  "requestedUrl": "https://mausam.imd.gov.in/mumbai",
+  "timestamp": 1726133493922,
+  "ranks": {
+    "hundos": 164,
+    "performance": 158,
+    "accessibility": 449,
+    "cumulative": 166
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.6,
+    "accessibility": 0.72,
+    "bestPractices": 0.89,
+    "seo": 0.79,
+    "total": 300
+  },
+  "firstContentfulPaint": 4004.1225000000004,
+  "firstMeaningfulPaint": 4004.1225000000004,
+  "speedIndex": 7376.045154814174,
+  "largestContentfulPaint": 13516.573,
+  "totalBlockingTime": 41.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 8212.5345,
+  "maxPotentialFirstInputDelay": 81,
+  "timeToFirstByte": 105.915,
+  "weight": {
+    "summary": "63 requests • 2.1 MiB",
+    "total": 2220160,
+    "image": 1342646,
+    "imageCount": 40,
+    "script": 612536,
+    "scriptCount": 11,
+    "document": 63532,
+    "font": 74930,
+    "fontCount": 1,
+    "stylesheet": 125440,
+    "stylesheetCount": 4,
+    "thirdParty": 700610,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 133,
+    "+weight.total": 521,
+    "-weight.document": 373,
+    "+weight.document": 270,
+    "-weight.script": 295,
+    "+weight.script": 301,
+    "-weight.image": 144,
+    "+weight.image": 506,
+    "-weight.font": 73,
+    "+weight.font": 384,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 173,
+    "-totalBlockingTime": 64,
+    "-largestContentfulPaint": 276
+  },
+  "axe": {
+    "passes": 1690,
+    "violations": 113
+  }
+}

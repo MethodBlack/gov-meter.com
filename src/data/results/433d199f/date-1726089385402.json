@@ -1,0 +1,67 @@
+{
+  "url": "https://slusi.dacnet.nic.in/",
+  "requestedUrl": "https://slusi.dacnet.nic.in/",
+  "timestamp": 1726134320476,
+  "ranks": {
+    "hundos": 271,
+    "performance": 1,
+    "accessibility": 643,
+    "cumulative": 265
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.47,
+    "bestPractices": 0.89,
+    "seo": 0.5,
+    "total": 286
+  },
+  "firstContentfulPaint": 786.576,
+  "firstMeaningfulPaint": 786.576,
+  "speedIndex": 1212.1209260043443,
+  "largestContentfulPaint": 786.576,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0037585429488274542,
+  "timeToInteractive": 786.576,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 60.044000000000096,
+  "weight": {
+    "summary": "2 requests • 1.7 KiB",
+    "total": 1782,
+    "image": 1245,
+    "imageCount": 1,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 537,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 652,
+    "-weight.document": 1,
+    "+weight.document": 642,
+    "-weight.script": 1,
+    "+weight.script": 596,
+    "-weight.image": 3,
+    "+weight.image": 647,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 43,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 9,
+    "violations": 6
+  }
+}

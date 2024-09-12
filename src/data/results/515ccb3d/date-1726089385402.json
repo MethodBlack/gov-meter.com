@@ -1,0 +1,67 @@
+{
+  "url": "https://aajeevika.gov.in/",
+  "requestedUrl": "https://aajeevika.gov.in/",
+  "timestamp": 1726141983090,
+  "ranks": {
+    "hundos": 373,
+    "performance": 354,
+    "accessibility": 255,
+    "cumulative": 398
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.48,
+    "accessibility": 0.81,
+    "bestPractices": 0.7,
+    "seo": 0.69,
+    "total": 272
+  },
+  "firstContentfulPaint": 4377.9439999999995,
+  "firstMeaningfulPaint": 30093.806499999937,
+  "speedIndex": 23187.164989494726,
+  "largestContentfulPaint": 63011.84099999988,
+  "totalBlockingTime": 215,
+  "cumulativeLayoutShift": 0.13168270863946124,
+  "timeToInteractive": 59541.13249999986,
+  "maxPotentialFirstInputDelay": 340,
+  "timeToFirstByte": 33.14299999999999,
+  "weight": {
+    "summary": "55 requests • 15.4 MiB",
+    "total": 16117604,
+    "image": 4929388,
+    "imageCount": 23,
+    "script": 10644299,
+    "scriptCount": 13,
+    "document": 106924,
+    "font": 105311,
+    "fontCount": 3,
+    "stylesheet": 322514,
+    "stylesheetCount": 4,
+    "thirdParty": 2342261,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 516,
+    "+weight.total": 138,
+    "-weight.document": 444,
+    "+weight.document": 199,
+    "-weight.script": 595,
+    "+weight.script": 1,
+    "-weight.image": 349,
+    "+weight.image": 301,
+    "-weight.font": 164,
+    "+weight.font": 293,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 6,
+    "-totalBlockingTime": 145,
+    "-largestContentfulPaint": 411
+  },
+  "axe": {
+    "passes": 446,
+    "violations": 21
+  }
+}

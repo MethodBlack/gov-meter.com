@@ -1,0 +1,67 @@
+{
+  "url": "https://www.niti.gov.in/",
+  "requestedUrl": "https://niti.gov.in/",
+  "timestamp": 1726107391459,
+  "ranks": {
+    "hundos": 92,
+    "performance": 501,
+    "accessibility": 29,
+    "cumulative": 86
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.94,
+    "bestPractices": 0.93,
+    "seo": 0.91,
+    "total": 312
+  },
+  "firstContentfulPaint": 4008.0054999999998,
+  "firstMeaningfulPaint": 4008.0054999999998,
+  "speedIndex": 12133.732717758845,
+  "largestContentfulPaint": 15278.0055,
+  "totalBlockingTime": 83.5,
+  "cumulativeLayoutShift": 0.6538049687886418,
+  "timeToInteractive": 5070.505499999999,
+  "maxPotentialFirstInputDelay": 133,
+  "timeToFirstByte": 55.84699999999998,
+  "weight": {
+    "summary": "170 requests • 16.1 MiB",
+    "total": 16892453,
+    "image": 16514888,
+    "imageCount": 63,
+    "script": 192589,
+    "scriptCount": 53,
+    "document": 18291,
+    "font": 77199,
+    "fontCount": 1,
+    "stylesheet": 88345,
+    "stylesheetCount": 50,
+    "thirdParty": 1852,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 522,
+    "+weight.total": 132,
+    "-weight.document": 164,
+    "+weight.document": 479,
+    "-weight.script": 81,
+    "+weight.script": 515,
+    "-weight.image": 533,
+    "+weight.image": 117,
+    "-weight.font": 86,
+    "+weight.font": 371,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 35,
+    "-totalBlockingTime": 94,
+    "-largestContentfulPaint": 302
+  },
+  "axe": {
+    "passes": 2129,
+    "violations": 13
+  }
+}

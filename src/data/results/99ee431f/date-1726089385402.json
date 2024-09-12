@@ -1,0 +1,67 @@
+{
+  "url": "https://serc.res.in/",
+  "requestedUrl": "https://www.serc.res.in/",
+  "timestamp": 1726117143893,
+  "ranks": {
+    "hundos": 358,
+    "performance": 562,
+    "accessibility": 97,
+    "cumulative": 355
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.88,
+    "bestPractices": 0.67,
+    "seo": 0.88,
+    "total": 274
+  },
+  "firstContentfulPaint": 7469.171000000003,
+  "firstMeaningfulPaint": 7525.371000000003,
+  "speedIndex": 21719.061852817664,
+  "largestContentfulPaint": 25260.70850000001,
+  "totalBlockingTime": 158.4999999999991,
+  "cumulativeLayoutShift": 0.5965978128797084,
+  "timeToInteractive": 40704.365000000005,
+  "maxPotentialFirstInputDelay": 165.9999999999991,
+  "timeToFirstByte": 250.33100000000002,
+  "weight": {
+    "summary": "106 requests • 21.3 MiB",
+    "total": 22367620,
+    "image": 11908749,
+    "imageCount": 49,
+    "script": 680778,
+    "scriptCount": 18,
+    "document": 92410,
+    "font": 384952,
+    "fontCount": 6,
+    "stylesheet": 305828,
+    "stylesheetCount": 12,
+    "thirdParty": 271763,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 561,
+    "+weight.total": 93,
+    "-weight.document": 424,
+    "+weight.document": 219,
+    "-weight.script": 327,
+    "+weight.script": 269,
+    "-weight.image": 488,
+    "+weight.image": 162,
+    "-weight.font": 418,
+    "+weight.font": 39,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 363,
+    "-totalBlockingTime": 127,
+    "-largestContentfulPaint": 363
+  },
+  "axe": {
+    "passes": 1775,
+    "violations": 14
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://akshayurja.gov.in/res/renw-all-india-cp",
+  "requestedUrl": "https://akshayurja.gov.in/",
+  "timestamp": 1726136315210,
+  "ranks": {
+    "hundos": 491,
+    "performance": 306,
+    "accessibility": 621,
+    "cumulative": 495
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.52,
+    "accessibility": 0.56,
+    "bestPractices": 0.67,
+    "seo": 0.82,
+    "total": 257
+  },
+  "firstContentfulPaint": 11473.945999999989,
+  "firstMeaningfulPaint": 12155.90549999999,
+  "speedIndex": 13194.425543770789,
+  "largestContentfulPaint": 24060.576000000015,
+  "totalBlockingTime": 198.5,
+  "cumulativeLayoutShift": 0.0027126711925836025,
+  "timeToInteractive": 24987.475000000013,
+  "maxPotentialFirstInputDelay": 188.5,
+  "timeToFirstByte": 66.584,
+  "weight": {
+    "summary": "57 requests • 4.2 MiB",
+    "total": 4361190,
+    "image": 658417,
+    "imageCount": 17,
+    "script": 1290521,
+    "scriptCount": 22,
+    "document": 99920,
+    "font": 279903,
+    "fontCount": 3,
+    "stylesheet": 408880,
+    "stylesheetCount": 7,
+    "thirdParty": 625087,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 244,
+    "+weight.total": 410,
+    "-weight.document": 433,
+    "+weight.document": 210,
+    "-weight.script": 462,
+    "+weight.script": 134,
+    "-weight.image": 83,
+    "+weight.image": 567,
+    "-weight.font": 375,
+    "+weight.font": 82,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 55,
+    "-totalBlockingTime": 140,
+    "-largestContentfulPaint": 355
+  },
+  "axe": {
+    "passes": 656,
+    "violations": 46
+  }
+}

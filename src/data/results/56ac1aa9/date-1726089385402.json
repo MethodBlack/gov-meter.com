@@ -1,0 +1,67 @@
+{
+  "url": "https://www.pmindia.gov.in/en/",
+  "requestedUrl": "https://www.pmindia.gov.in/en/",
+  "timestamp": 1726154368196,
+  "ranks": {
+    "hundos": 30,
+    "performance": 110,
+    "accessibility": 139,
+    "cumulative": 30
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.68,
+    "accessibility": 0.85,
+    "bestPractices": 0.96,
+    "seo": 0.83,
+    "total": 332
+  },
+  "firstContentfulPaint": 1974.0230000000004,
+  "firstMeaningfulPaint": 2525.438,
+  "speedIndex": 5759.865605111655,
+  "largestContentfulPaint": 13416.835500000001,
+  "totalBlockingTime": 13.5,
+  "cumulativeLayoutShift": 0.04728840158052261,
+  "timeToInteractive": 4657.103999999999,
+  "maxPotentialFirstInputDelay": 77,
+  "timeToFirstByte": 68.303,
+  "weight": {
+    "summary": "93 requests • 8.3 MiB",
+    "total": 8728136,
+    "image": 8142291,
+    "imageCount": 50,
+    "script": 260595,
+    "scriptCount": 21,
+    "document": 121409,
+    "font": 148008,
+    "fontCount": 5,
+    "stylesheet": 54933,
+    "stylesheetCount": 12,
+    "thirdParty": 775999,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 402,
+    "+weight.total": 252,
+    "-weight.document": 461,
+    "+weight.document": 182,
+    "-weight.script": 138,
+    "+weight.script": 458,
+    "-weight.image": 435,
+    "+weight.image": 215,
+    "-weight.font": 242,
+    "+weight.font": 215,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 61,
+    "-totalBlockingTime": 28,
+    "-largestContentfulPaint": 275
+  },
+  "axe": {
+    "passes": 9,
+    "violations": 5
+  }
+}

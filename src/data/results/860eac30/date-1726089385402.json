@@ -1,0 +1,66 @@
+{
+  "url": "https://cgstap.gov.in/",
+  "requestedUrl": "https://cgstap.gov.in/",
+  "timestamp": 1726115240607,
+  "ranks": {
+    "hundos": 376,
+    "performance": 211,
+    "accessibility": 619,
+    "cumulative": 383
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.56,
+    "accessibility": 0.57,
+    "bestPractices": 0.93,
+    "seo": 0.65,
+    "total": 271
+  },
+  "firstContentfulPaint": 6170.5555,
+  "firstMeaningfulPaint": 6170.5555,
+  "speedIndex": 9330.551126970822,
+  "largestContentfulPaint": 21310.15725,
+  "totalBlockingTime": 26.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 10875.754250000004,
+  "maxPotentialFirstInputDelay": 103,
+  "timeToFirstByte": 79.98799999999994,
+  "weight": {
+    "summary": "83 requests • 46.6 MiB",
+    "total": 48863636,
+    "image": 47209368,
+    "imageCount": 33,
+    "script": 792560,
+    "scriptCount": 29,
+    "document": 68484,
+    "font": 80793,
+    "fontCount": 2,
+    "stylesheet": 712431,
+    "stylesheetCount": 18,
+    "thirdParty": 15849,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 626,
+    "+weight.total": 28,
+    "-weight.document": 387,
+    "+weight.document": 256,
+    "-weight.script": 365,
+    "+weight.script": 231,
+    "-weight.image": 622,
+    "+weight.image": 28,
+    "-weight.font": 118,
+    "+weight.font": 339,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 89,
+    "-totalBlockingTime": 49,
+    "-largestContentfulPaint": 343
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

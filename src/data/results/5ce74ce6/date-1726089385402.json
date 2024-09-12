@@ -1,0 +1,67 @@
+{
+  "url": "https://msmedimumbai.gov.in/",
+  "requestedUrl": "https://msmedimumbai.gov.in/",
+  "timestamp": 1726097947586,
+  "ranks": {
+    "hundos": 258,
+    "performance": 133,
+    "accessibility": 422,
+    "cumulative": 255
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.64,
+    "accessibility": 0.73,
+    "bestPractices": 0.7,
+    "seo": 0.81,
+    "total": 288
+  },
+  "firstContentfulPaint": 2555.934,
+  "firstMeaningfulPaint": 2555.934,
+  "speedIndex": 6074.509221694104,
+  "largestContentfulPaint": 2855.934,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.6590897176093039,
+  "timeToInteractive": 2555.934,
+  "maxPotentialFirstInputDelay": 29,
+  "timeToFirstByte": 110.66100000000006,
+  "weight": {
+    "summary": "72 requests • 9.2 MiB",
+    "total": 9616799,
+    "image": 9055400,
+    "imageCount": 42,
+    "script": 197197,
+    "scriptCount": 9,
+    "document": 33279,
+    "font": 165005,
+    "fontCount": 8,
+    "stylesheet": 165918,
+    "stylesheetCount": 12,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 422,
+    "+weight.total": 232,
+    "-weight.document": 267,
+    "+weight.document": 376,
+    "-weight.script": 82,
+    "+weight.script": 514,
+    "-weight.image": 448,
+    "+weight.image": 202,
+    "-weight.font": 273,
+    "+weight.font": 184,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 179,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 40
+  },
+  "axe": {
+    "passes": 554,
+    "violations": 26
+  }
+}

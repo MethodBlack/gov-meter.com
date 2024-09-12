@@ -1,0 +1,66 @@
+{
+  "url": "https://www.newindia.co.in/",
+  "requestedUrl": "https://www.newindia.co.in/",
+  "timestamp": 1726156629346,
+  "ranks": {
+    "hundos": 432,
+    "performance": 611,
+    "accessibility": 536,
+    "cumulative": 435
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.22,
+    "accessibility": 0.67,
+    "bestPractices": 0.96,
+    "seo": 0.79,
+    "total": 264
+  },
+  "firstContentfulPaint": 21198.104000000007,
+  "firstMeaningfulPaint": 21198.104000000007,
+  "speedIndex": 34058.26899727882,
+  "largestContentfulPaint": 22039.846000000012,
+  "totalBlockingTime": 356.5,
+  "cumulativeLayoutShift": 0.9762465135946992,
+  "timeToInteractive": 39765.208,
+  "maxPotentialFirstInputDelay": 482,
+  "timeToFirstByte": 1120.263,
+  "weight": {
+    "summary": "56 requests • 8.2 MiB",
+    "total": 8644227,
+    "image": 1954064,
+    "imageCount": 42,
+    "script": 2771055,
+    "scriptCount": 10,
+    "document": 3478019,
+    "font": 77883,
+    "fontCount": 1,
+    "stylesheet": 362959,
+    "stylesheetCount": 1,
+    "thirdParty": 204319,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 400,
+    "+weight.total": 254,
+    "-weight.document": 640,
+    "+weight.document": 3,
+    "-weight.script": 559,
+    "+weight.script": 37,
+    "-weight.image": 196,
+    "+weight.image": 454,
+    "-weight.font": 97,
+    "+weight.font": 360,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 539,
+    "-totalBlockingTime": 365,
+    "-largestContentfulPaint": 574
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://jalandhar.cantt.gov.in/",
+  "requestedUrl": "https://jalandhar.cantt.gov.in/",
+  "timestamp": 1726092865008,
+  "ranks": {
+    "hundos": 427,
+    "performance": 512,
+    "accessibility": 211,
+    "cumulative": 421
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.76,
+    "total": 265
+  },
+  "firstContentfulPaint": 5213.384500000001,
+  "firstMeaningfulPaint": 5213.384500000001,
+  "speedIndex": 11548.698685812837,
+  "largestContentfulPaint": 7511.780499999999,
+  "totalBlockingTime": 51,
+  "cumulativeLayoutShift": 1.240697996449668,
+  "timeToInteractive": 15785.347000000014,
+  "maxPotentialFirstInputDelay": 152,
+  "timeToFirstByte": 2094.839,
+  "weight": {
+    "summary": "79 requests • 3.8 MiB",
+    "total": 3997381,
+    "image": 3329309,
+    "imageCount": 20,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 15605,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 227769,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 221,
+    "+weight.total": 433,
+    "-weight.document": 118,
+    "+weight.document": 525,
+    "-weight.script": 185,
+    "+weight.script": 411,
+    "-weight.image": 268,
+    "+weight.image": 382,
+    "-weight.font": 101,
+    "+weight.font": 356,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 589,
+    "-totalBlockingTime": 290,
+    "-largestContentfulPaint": 456
+  },
+  "axe": {
+    "passes": 704,
+    "violations": 33
+  }
+}

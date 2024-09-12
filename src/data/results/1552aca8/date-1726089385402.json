@@ -1,0 +1,67 @@
+{
+  "url": "https://www.igtrahd.com/",
+  "requestedUrl": "https://www.igtrahd.com/",
+  "timestamp": 1726149733793,
+  "ranks": {
+    "hundos": 525,
+    "performance": 381,
+    "accessibility": 622,
+    "cumulative": 525
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.45,
+    "accessibility": 0.56,
+    "bestPractices": 0.7,
+    "seo": 0.79,
+    "total": 250
+  },
+  "firstContentfulPaint": 3173.6524999999997,
+  "firstMeaningfulPaint": 3173.6524999999997,
+  "speedIndex": 8106.114732890723,
+  "largestContentfulPaint": 18796.625500000002,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.34593752666769534,
+  "timeToInteractive": 3173.6524999999997,
+  "maxPotentialFirstInputDelay": 21,
+  "timeToFirstByte": 96.27799999999996,
+  "weight": {
+    "summary": "76 requests • 8.6 MiB",
+    "total": 9021651,
+    "image": 8527100,
+    "imageCount": 43,
+    "script": 225838,
+    "scriptCount": 14,
+    "document": 120383,
+    "font": 56880,
+    "fontCount": 1,
+    "stylesheet": 88733,
+    "stylesheetCount": 13,
+    "thirdParty": 174971,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 409,
+    "+weight.total": 245,
+    "-weight.document": 458,
+    "+weight.document": 185,
+    "-weight.script": 99,
+    "+weight.script": 497,
+    "-weight.image": 442,
+    "+weight.image": 208,
+    "-weight.font": 54,
+    "+weight.font": 403,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 146,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 329
+  },
+  "axe": {
+    "passes": 628,
+    "violations": 115
+  }
+}

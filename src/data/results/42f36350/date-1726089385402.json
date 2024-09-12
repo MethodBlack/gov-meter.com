@@ -1,0 +1,66 @@
+{
+  "url": "https://www.kaplindia.com/",
+  "requestedUrl": "https://www.kaplindia.com/",
+  "timestamp": 1726150325104,
+  "ranks": {
+    "hundos": 604,
+    "performance": 604,
+    "accessibility": 506,
+    "cumulative": 604
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.23,
+    "accessibility": 0.69,
+    "bestPractices": 0.67,
+    "seo": 0.68,
+    "total": 227
+  },
+  "firstContentfulPaint": 5183.795000000002,
+  "firstMeaningfulPaint": 5183.795000000002,
+  "speedIndex": 14866.075683686751,
+  "largestContentfulPaint": 6345.903750000002,
+  "totalBlockingTime": 3351.999999999998,
+  "cumulativeLayoutShift": 0.14563864662476092,
+  "timeToInteractive": 22307.626000000004,
+  "maxPotentialFirstInputDelay": 918.0000000000009,
+  "timeToFirstByte": 1210.0839999999998,
+  "weight": {
+    "summary": "344 requests • 47.5 MiB",
+    "total": 49771064,
+    "image": 48414324,
+    "imageCount": 230,
+    "script": 883639,
+    "scriptCount": 74,
+    "document": 109212,
+    "font": 218687,
+    "fontCount": 4,
+    "stylesheet": 140810,
+    "stylesheetCount": 23,
+    "thirdParty": 586604,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 628,
+    "+weight.total": 26,
+    "-weight.document": 447,
+    "+weight.document": 196,
+    "-weight.script": 388,
+    "+weight.script": 208,
+    "-weight.image": 625,
+    "+weight.image": 25,
+    "-weight.font": 334,
+    "+weight.font": 123,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 548,
+    "-totalBlockingTime": 427,
+    "-largestContentfulPaint": 447
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

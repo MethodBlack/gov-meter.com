@@ -1,0 +1,67 @@
+{
+  "url": "https://narakas.rajbhasha.gov.in/",
+  "requestedUrl": "https://narakas.rajbhasha.gov.in/",
+  "timestamp": 1726110818195,
+  "ranks": {
+    "hundos": 430,
+    "performance": 56,
+    "accessibility": 524,
+    "cumulative": 430
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.8,
+    "accessibility": 0.67,
+    "bestPractices": 0.63,
+    "seo": 0.54,
+    "total": 264
+  },
+  "firstContentfulPaint": 1148.9735,
+  "firstMeaningfulPaint": 3118.447,
+  "speedIndex": 5522.789229542634,
+  "largestContentfulPaint": 4361.9205,
+  "totalBlockingTime": 5,
+  "cumulativeLayoutShift": 0.047848938785399905,
+  "timeToInteractive": 3118.447,
+  "maxPotentialFirstInputDelay": 55,
+  "timeToFirstByte": 65.42599999999993,
+  "weight": {
+    "summary": "19 requests • 619.4 KiB",
+    "total": 634224,
+    "image": 228972,
+    "imageCount": 7,
+    "script": 222067,
+    "scriptCount": 5,
+    "document": 57999,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 125186,
+    "stylesheetCount": 6,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 29,
+    "+weight.total": 625,
+    "-weight.document": 361,
+    "+weight.document": 282,
+    "-weight.script": 93,
+    "+weight.script": 503,
+    "-weight.image": 38,
+    "+weight.image": 612,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 51,
+    "-totalBlockingTime": 11,
+    "-largestContentfulPaint": 86
+  },
+  "axe": {
+    "passes": 1346,
+    "violations": 16
+  }
+}

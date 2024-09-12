@@ -1,0 +1,67 @@
+{
+  "url": "https://www.iccr.gov.in/",
+  "requestedUrl": "https://www.iccr.gov.in/",
+  "timestamp": 1726126909584,
+  "ranks": {
+    "hundos": 598,
+    "performance": 522,
+    "accessibility": 275,
+    "cumulative": 594
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.8,
+    "bestPractices": 0.48,
+    "seo": 0.68,
+    "total": 229
+  },
+  "firstContentfulPaint": 5663.434000000007,
+  "firstMeaningfulPaint": 5663.434000000007,
+  "speedIndex": 63263.38200990224,
+  "largestContentfulPaint": 20559.820000000036,
+  "totalBlockingTime": 1076.500000000029,
+  "cumulativeLayoutShift": 0.031229210530363226,
+  "timeToInteractive": 93834.47840000011,
+  "maxPotentialFirstInputDelay": 387,
+  "timeToFirstByte": 841.1210000000001,
+  "weight": {
+    "summary": "737 requests • 26.0 MiB",
+    "total": 27304409,
+    "image": 20220329,
+    "imageCount": 263,
+    "script": 4055270,
+    "scriptCount": 198,
+    "document": 635742,
+    "font": 344048,
+    "fontCount": 24,
+    "stylesheet": 447870,
+    "stylesheetCount": 99,
+    "thirdParty": 13059016,
+    "thirdPartyCount": 15
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 579,
+    "+weight.total": 75,
+    "-weight.document": 632,
+    "+weight.document": 11,
+    "-weight.script": 585,
+    "+weight.script": 11,
+    "-weight.image": 564,
+    "+weight.image": 86,
+    "-weight.font": 402,
+    "+weight.font": 55,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 504,
+    "-totalBlockingTime": 396,
+    "-largestContentfulPaint": 565
+  },
+  "axe": {
+    "passes": 2539,
+    "violations": 17
+  }
+}

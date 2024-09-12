@@ -1,0 +1,67 @@
+{
+  "url": "https://ceil.co.in/",
+  "requestedUrl": "https://www.ceil.co.in/",
+  "timestamp": 1726094200669,
+  "ranks": {
+    "hundos": 482,
+    "performance": 510,
+    "accessibility": 421,
+    "cumulative": 482
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.73,
+    "bestPractices": 0.7,
+    "seo": 0.82,
+    "total": 258
+  },
+  "firstContentfulPaint": 4892.29666,
+  "firstMeaningfulPaint": 4892.29666,
+  "speedIndex": 10926.674854845383,
+  "largestContentfulPaint": 14502.77252,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.7469608051405932,
+  "timeToInteractive": 4892.29666,
+  "maxPotentialFirstInputDelay": 45,
+  "timeToFirstByte": 317.026,
+  "weight": {
+    "summary": "59 requests • 2.3 MiB",
+    "total": 2430813,
+    "image": 1960855,
+    "imageCount": 29,
+    "script": 245204,
+    "scriptCount": 14,
+    "document": 6352,
+    "font": 140238,
+    "fontCount": 4,
+    "stylesheet": 71429,
+    "stylesheetCount": 8,
+    "thirdParty": 155585,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 146,
+    "+weight.total": 508,
+    "-weight.document": 16,
+    "+weight.document": 627,
+    "-weight.script": 127,
+    "+weight.script": 469,
+    "-weight.image": 197,
+    "+weight.image": 453,
+    "-weight.font": 233,
+    "+weight.font": 224,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 398,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 292
+  },
+  "axe": {
+    "passes": 676,
+    "violations": 26
+  }
+}

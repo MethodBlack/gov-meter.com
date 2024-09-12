@@ -1,0 +1,67 @@
+{
+  "url": "https://tourism.gov.in/",
+  "requestedUrl": "https://tourism.gov.in/",
+  "timestamp": 1726135206526,
+  "ranks": {
+    "hundos": 340,
+    "performance": 457,
+    "accessibility": 116,
+    "cumulative": 343
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.37,
+    "accessibility": 0.87,
+    "bestPractices": 0.7,
+    "seo": 0.82,
+    "total": 276
+  },
+  "firstContentfulPaint": 8683.5625,
+  "firstMeaningfulPaint": 8683.5625,
+  "speedIndex": 27657.141185335553,
+  "largestContentfulPaint": 24805.59749999999,
+  "totalBlockingTime": 119.5,
+  "cumulativeLayoutShift": 0.3523861084324017,
+  "timeToInteractive": 40261.449499999995,
+  "maxPotentialFirstInputDelay": 124,
+  "timeToFirstByte": 125.35300000000001,
+  "weight": {
+    "summary": "229 requests • 7.9 MiB",
+    "total": 8324355,
+    "image": 5968673,
+    "imageCount": 75,
+    "script": 1923732,
+    "scriptCount": 54,
+    "document": 60361,
+    "font": 166645,
+    "fontCount": 10,
+    "stylesheet": 159636,
+    "stylesheetCount": 72,
+    "thirdParty": 2289209,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 392,
+    "+weight.total": 262,
+    "-weight.document": 363,
+    "+weight.document": 280,
+    "-weight.script": 517,
+    "+weight.script": 79,
+    "-weight.image": 378,
+    "+weight.image": 272,
+    "-weight.font": 275,
+    "+weight.font": 182,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 210,
+    "-totalBlockingTime": 108,
+    "-largestContentfulPaint": 358
+  },
+  "axe": {
+    "passes": 1538,
+    "violations": 39
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://ncsc.nic.in/",
+  "requestedUrl": "https://ncsc.nic.in/",
+  "timestamp": 1726105760016,
+  "ranks": {
+    "hundos": 232,
+    "performance": 116,
+    "accessibility": 428,
+    "cumulative": 230
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.67,
+    "accessibility": 0.73,
+    "bestPractices": 0.89,
+    "seo": 0.62,
+    "total": 291
+  },
+  "firstContentfulPaint": 3108.8334999999997,
+  "firstMeaningfulPaint": 3108.8334999999997,
+  "speedIndex": 4662.060011994345,
+  "largestContentfulPaint": 13689.629999999997,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0024532303077111563,
+  "timeToInteractive": 3108.8334999999997,
+  "maxPotentialFirstInputDelay": 46,
+  "timeToFirstByte": 223.84099999999995,
+  "weight": {
+    "summary": "73 requests • 15.3 MiB",
+    "total": 16067038,
+    "image": 15755829,
+    "imageCount": 47,
+    "script": 216609,
+    "scriptCount": 8,
+    "document": 24626,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 68965,
+    "stylesheetCount": 16,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 515,
+    "+weight.total": 139,
+    "-weight.document": 227,
+    "+weight.document": 416,
+    "-weight.script": 87,
+    "+weight.script": 509,
+    "-weight.image": 526,
+    "+weight.image": 124,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 344,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 279
+  },
+  "axe": {
+    "passes": 595,
+    "violations": 52
+  }
+}

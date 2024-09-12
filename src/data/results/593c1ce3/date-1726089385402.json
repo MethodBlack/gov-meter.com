@@ -1,0 +1,67 @@
+{
+  "url": "https://konkanrailway.com/",
+  "requestedUrl": "https://www.konkanrailway.com/",
+  "timestamp": 1726104074910,
+  "ranks": {
+    "hundos": 570,
+    "performance": 502,
+    "accessibility": 570,
+    "cumulative": 570
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.63,
+    "bestPractices": 0.7,
+    "seo": 0.72,
+    "total": 239
+  },
+  "firstContentfulPaint": 4034.1177500000003,
+  "firstMeaningfulPaint": 4034.1177500000003,
+  "speedIndex": 13484.324806347879,
+  "largestContentfulPaint": 6828.194999999999,
+  "totalBlockingTime": 1442.999999999999,
+  "cumulativeLayoutShift": 0.0010062368480579635,
+  "timeToInteractive": 21665.173749999994,
+  "maxPotentialFirstInputDelay": 1031,
+  "timeToFirstByte": 361.092,
+  "weight": {
+    "summary": "400 requests • 14.7 MiB",
+    "total": 15364155,
+    "image": 13203077,
+    "imageCount": 303,
+    "script": 1490865,
+    "scriptCount": 56,
+    "document": 191743,
+    "font": 89915,
+    "fontCount": 2,
+    "stylesheet": 92559,
+    "stylesheetCount": 15,
+    "thirdParty": 14230494,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 509,
+    "+weight.total": 145,
+    "-weight.document": 542,
+    "+weight.document": 101,
+    "-weight.script": 487,
+    "+weight.script": 109,
+    "-weight.image": 508,
+    "+weight.image": 142,
+    "-weight.font": 135,
+    "+weight.font": 322,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 414,
+    "-totalBlockingTime": 232,
+    "-largestContentfulPaint": 155
+  },
+  "axe": {
+    "passes": 22467,
+    "violations": 216
+  }
+}

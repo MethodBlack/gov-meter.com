@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ceeindia.org/404.php?noref=envis",
+  "requestedUrl": "https://ceeindia.org/envis",
+  "timestamp": 1726099791346,
+  "ranks": {
+    "hundos": 69,
+    "performance": 161,
+    "accessibility": 277,
+    "cumulative": 68
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.6,
+    "accessibility": 0.8,
+    "bestPractices": 0.96,
+    "seo": 0.81,
+    "total": 317
+  },
+  "firstContentfulPaint": 4009.462,
+  "firstMeaningfulPaint": 4009.462,
+  "speedIndex": 9760.71528680006,
+  "largestContentfulPaint": 6904.195,
+  "totalBlockingTime": 30.5,
+  "cumulativeLayoutShift": 0.0020981831694036855,
+  "timeToInteractive": 10016.723499999996,
+  "maxPotentialFirstInputDelay": 111,
+  "timeToFirstByte": 309.223,
+  "weight": {
+    "summary": "50 requests • 1.0 MiB",
+    "total": 1089900,
+    "image": 461009,
+    "imageCount": 7,
+    "script": 472701,
+    "scriptCount": 19,
+    "document": 8269,
+    "font": 81580,
+    "fontCount": 2,
+    "stylesheet": 64720,
+    "stylesheetCount": 14,
+    "thirdParty": 415818,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 59,
+    "+weight.total": 595,
+    "-weight.document": 24,
+    "+weight.document": 619,
+    "-weight.script": 247,
+    "+weight.script": 349,
+    "-weight.image": 63,
+    "+weight.image": 587,
+    "-weight.font": 119,
+    "+weight.font": 338,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 390,
+    "-totalBlockingTime": 56,
+    "-largestContentfulPaint": 157
+  },
+  "axe": {
+    "passes": 872,
+    "violations": 21
+  }
+}

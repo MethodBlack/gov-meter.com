@@ -1,0 +1,67 @@
+{
+  "url": "https://bcasindia.gov.in/",
+  "requestedUrl": "https://bcasindia.gov.in/",
+  "timestamp": 1726092367886,
+  "ranks": {
+    "hundos": 53,
+    "performance": 109,
+    "accessibility": 308,
+    "cumulative": 53
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.68,
+    "accessibility": 0.79,
+    "bestPractices": 0.93,
+    "seo": 0.81,
+    "total": 321
+  },
+  "firstContentfulPaint": 3963.6499999999996,
+  "firstMeaningfulPaint": 3963.6499999999996,
+  "speedIndex": 5378.015802722286,
+  "largestContentfulPaint": 5490.145999999997,
+  "totalBlockingTime": 3.5,
+  "cumulativeLayoutShift": 0.0001925830142398496,
+  "timeToInteractive": 4935.15,
+  "maxPotentialFirstInputDelay": 57,
+  "timeToFirstByte": 46.95399999999995,
+  "weight": {
+    "summary": "39 requests • 1.0 MiB",
+    "total": 1081779,
+    "image": 449237,
+    "imageCount": 25,
+    "script": 251680,
+    "scriptCount": 6,
+    "document": 27828,
+    "font": 157193,
+    "fontCount": 2,
+    "stylesheet": 175281,
+    "stylesheetCount": 4,
+    "thirdParty": 233222,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 57,
+    "+weight.total": 597,
+    "-weight.document": 253,
+    "+weight.document": 390,
+    "-weight.script": 132,
+    "+weight.script": 464,
+    "-weight.image": 61,
+    "+weight.image": 589,
+    "-weight.font": 259,
+    "+weight.font": 198,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 18,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 124
+  },
+  "axe": {
+    "passes": 722,
+    "violations": 64
+  }
+}

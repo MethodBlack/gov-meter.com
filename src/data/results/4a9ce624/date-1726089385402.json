@@ -1,0 +1,66 @@
+{
+  "url": "https://www.nationalfertilizers.com/",
+  "requestedUrl": "https://www.nationalfertilizers.com/",
+  "timestamp": 1726105926959,
+  "ranks": {
+    "hundos": 269,
+    "performance": 575,
+    "accessibility": 78,
+    "cumulative": 270
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.29,
+    "accessibility": 0.9,
+    "bestPractices": 0.96,
+    "seo": 0.71,
+    "total": 286
+  },
+  "firstContentfulPaint": 5166.975309999999,
+  "firstMeaningfulPaint": 5166.975309999999,
+  "speedIndex": 30312.21240216882,
+  "largestContentfulPaint": 8806.105437499999,
+  "totalBlockingTime": 1757.5000000000073,
+  "cumulativeLayoutShift": 0.0005990166389146448,
+  "timeToInteractive": 42719.743132500014,
+  "maxPotentialFirstInputDelay": 1118.0000000000073,
+  "timeToFirstByte": 235.0999999999999,
+  "weight": {
+    "summary": "523 requests • 40.2 MiB",
+    "total": 42195154,
+    "image": 21643704,
+    "imageCount": 467,
+    "script": 1193110,
+    "scriptCount": 31,
+    "document": 317079,
+    "font": 155870,
+    "fontCount": 4,
+    "stylesheet": 220501,
+    "stylesheetCount": 13,
+    "thirdParty": 14496463,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 621,
+    "+weight.total": 33,
+    "-weight.document": 603,
+    "+weight.document": 40,
+    "-weight.script": 444,
+    "+weight.script": 152,
+    "-weight.image": 572,
+    "+weight.image": 78,
+    "-weight.font": 256,
+    "+weight.font": 201,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 354,
+    "-totalBlockingTime": 239,
+    "-largestContentfulPaint": 193
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

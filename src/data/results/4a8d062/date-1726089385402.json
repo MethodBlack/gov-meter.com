@@ -1,0 +1,67 @@
+{
+  "url": "https://cbri.res.in/",
+  "requestedUrl": "https://www.cbri.res.in/",
+  "timestamp": 1726140728417,
+  "ranks": {
+    "hundos": 581,
+    "performance": 603,
+    "accessibility": 454,
+    "cumulative": 580
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.24,
+    "accessibility": 0.71,
+    "bestPractices": 0.7,
+    "seo": 0.7,
+    "total": 235
+  },
+  "firstContentfulPaint": 7709.105799999999,
+  "firstMeaningfulPaint": 7953.486399999999,
+  "speedIndex": 32757.002780100855,
+  "largestContentfulPaint": 43162.32760000002,
+  "totalBlockingTime": 4855.000000000004,
+  "cumulativeLayoutShift": 0.0627659733788673,
+  "timeToInteractive": 36032.73540000001,
+  "maxPotentialFirstInputDelay": 2051,
+  "timeToFirstByte": 3356.427,
+  "weight": {
+    "summary": "210 requests • 6.9 MiB",
+    "total": 7187758,
+    "image": 4661362,
+    "imageCount": 48,
+    "script": 1528528,
+    "scriptCount": 62,
+    "document": 113716,
+    "font": 360814,
+    "fontCount": 15,
+    "stylesheet": 434534,
+    "stylesheetCount": 56,
+    "thirdParty": 1486051,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 360,
+    "+weight.total": 294,
+    "-weight.document": 450,
+    "+weight.document": 193,
+    "-weight.script": 493,
+    "+weight.script": 103,
+    "-weight.image": 338,
+    "+weight.image": 312,
+    "-weight.font": 405,
+    "+weight.font": 52,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 625,
+    "-totalBlockingTime": 429,
+    "-largestContentfulPaint": 632
+  },
+  "axe": {
+    "passes": 2023,
+    "violations": 40
+  }
+}

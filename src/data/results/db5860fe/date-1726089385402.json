@@ -1,0 +1,67 @@
+{
+  "url": "https://www.registry.in/",
+  "requestedUrl": "https://www.registry.in/",
+  "timestamp": 1726135881004,
+  "ranks": {
+    "hundos": 34,
+    "performance": 80,
+    "accessibility": 393,
+    "cumulative": 33
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.74,
+    "accessibility": 0.74,
+    "bestPractices": 0.96,
+    "seo": 0.85,
+    "total": 329
+  },
+  "firstContentfulPaint": 3034.6972499999993,
+  "firstMeaningfulPaint": 3034.6972499999993,
+  "speedIndex": 4069.74602900661,
+  "largestContentfulPaint": 5033.905749999998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3034.6972499999993,
+  "maxPotentialFirstInputDelay": 39,
+  "timeToFirstByte": 93.12300000000005,
+  "weight": {
+    "summary": "15 requests • 5.6 MiB",
+    "total": 5920805,
+    "image": 94179,
+    "imageCount": 2,
+    "script": 178440,
+    "scriptCount": 2,
+    "document": 4477,
+    "font": 8432,
+    "fontCount": 1,
+    "stylesheet": 303323,
+    "stylesheetCount": 3,
+    "thirdParty": 188105,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 314,
+    "+weight.total": 340,
+    "-weight.document": 12,
+    "+weight.document": 631,
+    "-weight.script": 72,
+    "+weight.script": 524,
+    "-weight.image": 24,
+    "+weight.image": 626,
+    "-weight.font": 4,
+    "+weight.font": 453,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 138,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 110
+  },
+  "axe": {
+    "passes": 17,
+    "violations": 6
+  }
+}

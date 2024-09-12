@@ -1,0 +1,67 @@
+{
+  "url": "https://crpf.gov.in/",
+  "requestedUrl": "https://crpf.gov.in/",
+  "timestamp": 1726139459382,
+  "ranks": {
+    "hundos": 558,
+    "performance": 516,
+    "accessibility": 633,
+    "cumulative": 558
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.53,
+    "bestPractices": 0.89,
+    "seo": 0.67,
+    "total": 242
+  },
+  "firstContentfulPaint": 8255.415,
+  "firstMeaningfulPaint": 12937.220000000001,
+  "speedIndex": 12784.393808924691,
+  "largestContentfulPaint": 23915.414999999994,
+  "totalBlockingTime": 1017.9999999999982,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 21602.22,
+  "maxPotentialFirstInputDelay": 1805.9999999999964,
+  "timeToFirstByte": 52.52999999999997,
+  "weight": {
+    "summary": "118 requests • 13.2 MiB",
+    "total": 13890733,
+    "image": 11433069,
+    "imageCount": 79,
+    "script": 950944,
+    "scriptCount": 17,
+    "document": 241807,
+    "font": 779009,
+    "fontCount": 7,
+    "stylesheet": 485662,
+    "stylesheetCount": 13,
+    "thirdParty": 246049,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 483,
+    "+weight.total": 171,
+    "-weight.document": 579,
+    "+weight.document": 64,
+    "-weight.script": 401,
+    "+weight.script": 195,
+    "-weight.image": 482,
+    "+weight.image": 168,
+    "-weight.font": 447,
+    "+weight.font": 10,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 26,
+    "-totalBlockingTime": 214,
+    "-largestContentfulPaint": 354
+  },
+  "axe": {
+    "passes": 2055,
+    "violations": 115
+  }
+}

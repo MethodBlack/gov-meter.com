@@ -1,0 +1,67 @@
+{
+  "url": "https://moef.gov.in/",
+  "requestedUrl": "https://moef.gov.in/",
+  "timestamp": 1726123136427,
+  "ranks": {
+    "hundos": 233,
+    "performance": 363,
+    "accessibility": 555,
+    "cumulative": 260
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.47,
+    "accessibility": 0.64,
+    "bestPractices": 0.93,
+    "seo": 0.83,
+    "total": 291
+  },
+  "firstContentfulPaint": 2555.204,
+  "firstMeaningfulPaint": 2910.0510000000004,
+  "speedIndex": 14706.170842759442,
+  "largestContentfulPaint": 4483.827000000001,
+  "totalBlockingTime": 66,
+  "cumulativeLayoutShift": 0.6872105703985802,
+  "timeToInteractive": 6804.1950000000015,
+  "maxPotentialFirstInputDelay": 163,
+  "timeToFirstByte": 244.82600000000002,
+  "weight": {
+    "summary": "65 requests • 15.3 MiB",
+    "total": 16032153,
+    "image": 15412642,
+    "imageCount": 39,
+    "script": 388953,
+    "scriptCount": 9,
+    "document": 34883,
+    "font": 104154,
+    "fontCount": 2,
+    "stylesheet": 80705,
+    "stylesheetCount": 13,
+    "thirdParty": 46384,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 514,
+    "+weight.total": 140,
+    "-weight.document": 273,
+    "+weight.document": 370,
+    "-weight.script": 212,
+    "+weight.script": 384,
+    "-weight.image": 525,
+    "+weight.image": 125,
+    "-weight.font": 163,
+    "+weight.font": 294,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 360,
+    "-totalBlockingTime": 85,
+    "-largestContentfulPaint": 89
+  },
+  "axe": {
+    "passes": 1173,
+    "violations": 56
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://online.ksb.gov.in/",
+  "requestedUrl": "https://online.ksb.gov.in/",
+  "timestamp": 1726128162310,
+  "ranks": {
+    "hundos": 67,
+    "performance": 99,
+    "accessibility": 335,
+    "cumulative": 67
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.7,
+    "accessibility": 0.78,
+    "bestPractices": 0.89,
+    "seo": 0.8,
+    "total": 317
+  },
+  "firstContentfulPaint": 2293.534,
+  "firstMeaningfulPaint": 3375.1525,
+  "speedIndex": 6092.885652736539,
+  "largestContentfulPaint": 5083.8745,
+  "totalBlockingTime": 6,
+  "cumulativeLayoutShift": 0.10487875533502172,
+  "timeToInteractive": 5211.759,
+  "maxPotentialFirstInputDelay": 62,
+  "timeToFirstByte": 415.751,
+  "weight": {
+    "summary": "74 requests • 1.5 MiB",
+    "total": 1529031,
+    "image": 1117914,
+    "imageCount": 57,
+    "script": 191432,
+    "scriptCount": 8,
+    "document": 66263,
+    "font": 118968,
+    "fontCount": 3,
+    "stylesheet": 34222,
+    "stylesheetCount": 4,
+    "thirdParty": 19318,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 86,
+    "+weight.total": 568,
+    "-weight.document": 380,
+    "+weight.document": 263,
+    "-weight.script": 78,
+    "+weight.script": 518,
+    "-weight.image": 124,
+    "+weight.image": 526,
+    "-weight.font": 191,
+    "+weight.font": 266,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 426,
+    "-totalBlockingTime": 254,
+    "-largestContentfulPaint": 113
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

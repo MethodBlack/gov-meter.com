@@ -1,0 +1,67 @@
+{
+  "url": "https://www.aai.aero/",
+  "requestedUrl": "https://www.aai.aero/",
+  "timestamp": 1726136299398,
+  "ranks": {
+    "hundos": 498,
+    "performance": 616,
+    "accessibility": 520,
+    "cumulative": 498
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.2,
+    "accessibility": 0.68,
+    "bestPractices": 0.89,
+    "seo": 0.79,
+    "total": 256
+  },
+  "firstContentfulPaint": 8237.58099999999,
+  "firstMeaningfulPaint": 8237.58099999999,
+  "speedIndex": 55712.448421201945,
+  "largestContentfulPaint": 12174.775499999987,
+  "totalBlockingTime": 2227.9999999999927,
+  "cumulativeLayoutShift": 0.160652037733381,
+  "timeToInteractive": 28986.70974999999,
+  "maxPotentialFirstInputDelay": 2566.9999999999964,
+  "timeToFirstByte": 1758.41,
+  "weight": {
+    "summary": "531 requests • 27.5 MiB",
+    "total": 28868096,
+    "image": 27416080,
+    "imageCount": 400,
+    "script": 884299,
+    "scriptCount": 73,
+    "document": 213901,
+    "font": 116216,
+    "fontCount": 2,
+    "stylesheet": 233154,
+    "stylesheetCount": 48,
+    "thirdParty": 14021846,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 586,
+    "+weight.total": 68,
+    "-weight.document": 560,
+    "+weight.document": 83,
+    "-weight.script": 389,
+    "+weight.script": 207,
+    "-weight.image": 592,
+    "+weight.image": 58,
+    "-weight.font": 187,
+    "+weight.font": 270,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 573,
+    "-totalBlockingTime": 413,
+    "-largestContentfulPaint": 503
+  },
+  "axe": {
+    "passes": 23237,
+    "violations": 160
+  }
+}

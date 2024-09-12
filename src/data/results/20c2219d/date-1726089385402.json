@@ -1,0 +1,67 @@
+{
+  "url": "https://posoco.in/",
+  "requestedUrl": "https://posoco.in/",
+  "timestamp": 1726132473088,
+  "ranks": {
+    "hundos": 338,
+    "performance": 485,
+    "accessibility": 226,
+    "cumulative": 342
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.35,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.85,
+    "total": 276
+  },
+  "firstContentfulPaint": 6903.662499999998,
+  "firstMeaningfulPaint": 7290.714499999998,
+  "speedIndex": 12364.830653885809,
+  "largestContentfulPaint": 10891.299999999996,
+  "totalBlockingTime": 25,
+  "cumulativeLayoutShift": 0.46534391027403577,
+  "timeToInteractive": 20012.472499999985,
+  "maxPotentialFirstInputDelay": 96,
+  "timeToFirstByte": 57.42099999999999,
+  "weight": {
+    "summary": "128 requests • 3.1 MiB",
+    "total": 3270618,
+    "image": 1717472,
+    "imageCount": 36,
+    "script": 1228031,
+    "scriptCount": 53,
+    "document": 140331,
+    "font": 56379,
+    "fontCount": 3,
+    "stylesheet": 138308,
+    "stylesheetCount": 26,
+    "thirdParty": 1081536,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 186,
+    "+weight.total": 468,
+    "-weight.document": 489,
+    "+weight.document": 154,
+    "-weight.script": 452,
+    "+weight.script": 144,
+    "-weight.image": 186,
+    "+weight.image": 464,
+    "-weight.font": 53,
+    "+weight.font": 404,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 38,
+    "-totalBlockingTime": 46,
+    "-largestContentfulPaint": 228
+  },
+  "axe": {
+    "passes": 2138,
+    "violations": 39
+  }
+}

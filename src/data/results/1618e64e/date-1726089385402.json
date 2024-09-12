@@ -1,0 +1,67 @@
+{
+  "url": "https://www.hoclindia.com/",
+  "requestedUrl": "https://www.hoclindia.com/",
+  "timestamp": 1726101477450,
+  "ranks": {
+    "hundos": 4,
+    "performance": 96,
+    "accessibility": 10,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.7,
+    "accessibility": 0.97,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 360
+  },
+  "firstContentfulPaint": 2989.1605,
+  "firstMeaningfulPaint": 3273.768,
+  "speedIndex": 5087.46250030593,
+  "largestContentfulPaint": 5789.9619999999995,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3273.768,
+  "maxPotentialFirstInputDelay": 41,
+  "timeToFirstByte": 105.00699999999995,
+  "weight": {
+    "summary": "11 requests • 874.7 KiB",
+    "total": 895725,
+    "image": 574764,
+    "imageCount": 4,
+    "script": 126848,
+    "scriptCount": 2,
+    "document": 3947,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 190166,
+    "stylesheetCount": 4,
+    "thirdParty": 475462,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 43,
+    "+weight.total": 611,
+    "-weight.document": 8,
+    "+weight.document": 635,
+    "-weight.script": 48,
+    "+weight.script": 548,
+    "-weight.image": 73,
+    "+weight.image": 577,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 169,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 137
+  },
+  "axe": {
+    "passes": 46,
+    "violations": 1
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://neepco.co.in/hi",
+  "requestedUrl": "https://www.neepco.co.in/",
+  "timestamp": 1726131267160,
+  "ranks": {
+    "hundos": 344,
+    "performance": 300,
+    "accessibility": 373,
+    "cumulative": 338
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.53,
+    "accessibility": 0.75,
+    "bestPractices": 0.67,
+    "seo": 0.81,
+    "total": 276
+  },
+  "firstContentfulPaint": 17626.069500000012,
+  "firstMeaningfulPaint": 17626.069500000012,
+  "speedIndex": 28497.52742800141,
+  "largestContentfulPaint": 18015.123500000012,
+  "totalBlockingTime": 78,
+  "cumulativeLayoutShift": 0.08761969259872807,
+  "timeToInteractive": 20382.053000000014,
+  "maxPotentialFirstInputDelay": 127.5,
+  "timeToFirstByte": 4551.802000000001,
+  "weight": {
+    "summary": "147 requests • 8.5 MiB",
+    "total": 8934831,
+    "image": 6669689,
+    "imageCount": 37,
+    "script": 1368197,
+    "scriptCount": 56,
+    "document": 100098,
+    "font": 286444,
+    "fontCount": 4,
+    "stylesheet": 509113,
+    "stylesheetCount": 44,
+    "thirdParty": 719721,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 407,
+    "+weight.total": 247,
+    "-weight.document": 434,
+    "+weight.document": 209,
+    "-weight.script": 475,
+    "+weight.script": 121,
+    "-weight.image": 397,
+    "+weight.image": 253,
+    "-weight.font": 377,
+    "+weight.font": 80,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 637,
+    "-totalBlockingTime": 247,
+    "-largestContentfulPaint": 323
+  },
+  "axe": {
+    "passes": 1580,
+    "violations": 24
+  }
+}

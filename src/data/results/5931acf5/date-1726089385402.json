@@ -1,0 +1,66 @@
+{
+  "url": "https://disha.gov.in/",
+  "requestedUrl": "https://disha.gov.in/",
+  "timestamp": 1726122523225,
+  "ranks": {
+    "hundos": 199,
+    "performance": 165,
+    "accessibility": 538,
+    "cumulative": 200
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.6,
+    "accessibility": 0.66,
+    "bestPractices": 0.93,
+    "seo": 0.76,
+    "total": 295
+  },
+  "firstContentfulPaint": 2208.5830000000005,
+  "firstMeaningfulPaint": 2208.5830000000005,
+  "speedIndex": 31077.93530211181,
+  "largestContentfulPaint": 47407.35000000002,
+  "totalBlockingTime": 190.5,
+  "cumulativeLayoutShift": 0.0009866472791319795,
+  "timeToInteractive": 68363.86250000003,
+  "maxPotentialFirstInputDelay": 431,
+  "timeToFirstByte": 192.73400000000004,
+  "weight": {
+    "summary": "111 requests • 27.9 MiB",
+    "total": 29264795,
+    "image": 4312907,
+    "imageCount": 67,
+    "script": 5668431,
+    "scriptCount": 5,
+    "document": 71638,
+    "font": 40295,
+    "fontCount": 5,
+    "stylesheet": 891,
+    "stylesheetCount": 1,
+    "thirdParty": 144787,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 587,
+    "+weight.total": 67,
+    "-weight.document": 395,
+    "+weight.document": 248,
+    "-weight.script": 592,
+    "+weight.script": 4,
+    "-weight.image": 316,
+    "+weight.image": 334,
+    "-weight.font": 38,
+    "+weight.font": 419,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 321,
+    "-totalBlockingTime": 137,
+    "-largestContentfulPaint": 403
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

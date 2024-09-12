@@ -1,0 +1,67 @@
+{
+  "url": "https://fagmil.nic.in/en/",
+  "requestedUrl": "https://www.fagmil.nic.in/",
+  "timestamp": 1726123786441,
+  "ranks": {
+    "hundos": 168,
+    "performance": 261,
+    "accessibility": 259,
+    "cumulative": 168
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.81,
+    "bestPractices": 0.96,
+    "seo": 0.67,
+    "total": 299
+  },
+  "firstContentfulPaint": 17567.292999999998,
+  "firstMeaningfulPaint": 17567.292999999998,
+  "speedIndex": 31784.766022133146,
+  "largestContentfulPaint": 19544.588000000003,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 17567.292999999998,
+  "maxPotentialFirstInputDelay": 45,
+  "timeToFirstByte": 233.88,
+  "weight": {
+    "summary": "43 requests • 1.6 MiB",
+    "total": 1707660,
+    "image": 949614,
+    "imageCount": 14,
+    "script": 235433,
+    "scriptCount": 13,
+    "document": 12244,
+    "font": 124966,
+    "fontCount": 3,
+    "stylesheet": 384775,
+    "stylesheetCount": 10,
+    "thirdParty": 78205,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 99,
+    "+weight.total": 555,
+    "-weight.document": 62,
+    "+weight.document": 581,
+    "-weight.script": 119,
+    "+weight.script": 477,
+    "-weight.image": 108,
+    "+weight.image": 542,
+    "-weight.font": 203,
+    "+weight.font": 254,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 353,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 337
+  },
+  "axe": {
+    "passes": 601,
+    "violations": 33
+  }
+}

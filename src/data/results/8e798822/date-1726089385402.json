@@ -1,0 +1,66 @@
+{
+  "url": "https://www.bridgeroof.co.in/",
+  "requestedUrl": "https://www.bridgeroof.co.in/",
+  "timestamp": 1726137785566,
+  "ranks": {
+    "hundos": 154,
+    "performance": 319,
+    "accessibility": 135,
+    "cumulative": 155
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.51,
+    "accessibility": 0.86,
+    "bestPractices": 0.89,
+    "seo": 0.76,
+    "total": 302
+  },
+  "firstContentfulPaint": 11485.456499999998,
+  "firstMeaningfulPaint": 11485.456499999998,
+  "speedIndex": 32457.3462316782,
+  "largestContentfulPaint": 69582.03250000004,
+  "totalBlockingTime": 231,
+  "cumulativeLayoutShift": 0.0342454168347207,
+  "timeToInteractive": 68204.67350000003,
+  "maxPotentialFirstInputDelay": 512,
+  "timeToFirstByte": 61.19300000000004,
+  "weight": {
+    "summary": "160 requests • 29.5 MiB",
+    "total": 30969577,
+    "image": 22103174,
+    "imageCount": 119,
+    "script": 449105,
+    "scriptCount": 19,
+    "document": 25690,
+    "font": 111575,
+    "fontCount": 5,
+    "stylesheet": 184450,
+    "stylesheetCount": 15,
+    "thirdParty": 55971,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 596,
+    "+weight.total": 58,
+    "-weight.document": 233,
+    "+weight.document": 410,
+    "-weight.script": 234,
+    "+weight.script": 362,
+    "-weight.image": 574,
+    "+weight.image": 76,
+    "-weight.font": 174,
+    "+weight.font": 283,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 45,
+    "-totalBlockingTime": 148,
+    "-largestContentfulPaint": 412
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

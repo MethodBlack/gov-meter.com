@@ -1,0 +1,67 @@
+{
+  "url": "https://naarm.org.in/home/",
+  "requestedUrl": "https://www.naarm.org.in/",
+  "timestamp": 1726125742265,
+  "ranks": {
+    "hundos": 488,
+    "performance": 456,
+    "accessibility": 569,
+    "cumulative": 484
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.37,
+    "accessibility": 0.63,
+    "bestPractices": 0.81,
+    "seo": 0.77,
+    "total": 258
+  },
+  "firstContentfulPaint": 6689.496000000001,
+  "firstMeaningfulPaint": 6689.496000000001,
+  "speedIndex": 20419.49838725067,
+  "largestContentfulPaint": 39627.35400000001,
+  "totalBlockingTime": 66.00000000000091,
+  "cumulativeLayoutShift": 0.36910771135395803,
+  "timeToInteractive": 12692.673250000007,
+  "maxPotentialFirstInputDelay": 99,
+  "timeToFirstByte": 3370.988,
+  "weight": {
+    "summary": "95 requests • 5.5 MiB",
+    "total": 5791939,
+    "image": 4928625,
+    "imageCount": 34,
+    "script": 643676,
+    "scriptCount": 35,
+    "document": 20347,
+    "font": 89486,
+    "fontCount": 2,
+    "stylesheet": 109096,
+    "stylesheetCount": 18,
+    "thirdParty": 544594,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 308,
+    "+weight.total": 346,
+    "-weight.document": 187,
+    "+weight.document": 456,
+    "-weight.script": 315,
+    "+weight.script": 281,
+    "-weight.image": 348,
+    "+weight.image": 302,
+    "-weight.font": 134,
+    "+weight.font": 323,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 626,
+    "-totalBlockingTime": 311,
+    "-largestContentfulPaint": 627
+  },
+  "axe": {
+    "passes": 1181,
+    "violations": 75
+  }
+}

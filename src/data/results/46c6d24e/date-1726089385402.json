@@ -1,0 +1,67 @@
+{
+  "url": "https://socialjustice.gov.in/",
+  "requestedUrl": "https://socialjustice.gov.in/",
+  "timestamp": 1726110016465,
+  "ranks": {
+    "hundos": 586,
+    "performance": 639,
+    "accessibility": 131,
+    "cumulative": 596
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.1,
+    "accessibility": 0.86,
+    "bestPractices": 0.48,
+    "seo": 0.85,
+    "total": 234
+  },
+  "firstContentfulPaint": 3893.3301,
+  "firstMeaningfulPaint": 3893.3301,
+  "speedIndex": 31746.71234488123,
+  "largestContentfulPaint": 41037.35834999998,
+  "totalBlockingTime": 8319.499999999993,
+  "cumulativeLayoutShift": 0.359758989959208,
+  "timeToInteractive": 44130.522649999984,
+  "maxPotentialFirstInputDelay": 5685,
+  "timeToFirstByte": 339.0129999999999,
+  "weight": {
+    "summary": "474 requests • 10.1 MiB",
+    "total": 10583803,
+    "image": 5121274,
+    "imageCount": 333,
+    "script": 4537802,
+    "scriptCount": 85,
+    "document": 297263,
+    "font": 102164,
+    "fontCount": 4,
+    "stylesheet": 483050,
+    "stylesheetCount": 19,
+    "thirdParty": 5177268,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 2,
+    "total": 6
+  },
+  "sidequests": {
+    "-weight.total": 444,
+    "+weight.total": 210,
+    "-weight.document": 599,
+    "+weight.document": 44,
+    "-weight.script": 589,
+    "+weight.script": 7,
+    "-weight.image": 355,
+    "+weight.image": 295,
+    "-weight.font": 159,
+    "+weight.font": 298,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 406,
+    "-totalBlockingTime": 434,
+    "-largestContentfulPaint": 630
+  },
+  "axe": {
+    "passes": 2264,
+    "violations": 52
+  }
+}

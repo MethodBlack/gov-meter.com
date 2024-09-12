@@ -1,0 +1,67 @@
+{
+  "url": "https://www.kioclltd.in/",
+  "requestedUrl": "https://www.kioclltd.in/",
+  "timestamp": 1726104111989,
+  "ranks": {
+    "hundos": 19,
+    "performance": 38,
+    "accessibility": 282,
+    "cumulative": 18
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.86,
+    "accessibility": 0.8,
+    "bestPractices": 0.96,
+    "seo": 0.77,
+    "total": 339
+  },
+  "firstContentfulPaint": 2082.9115,
+  "firstMeaningfulPaint": 2301.73175,
+  "speedIndex": 6388.912868653029,
+  "largestContentfulPaint": 3020.552,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2301.73175,
+  "maxPotentialFirstInputDelay": 41,
+  "timeToFirstByte": 151.16899999999998,
+  "weight": {
+    "summary": "52 requests • 16.3 MiB",
+    "total": 17141332,
+    "image": 16819598,
+    "imageCount": 35,
+    "script": 132432,
+    "scriptCount": 7,
+    "document": 36126,
+    "font": 123577,
+    "fontCount": 2,
+    "stylesheet": 30781,
+    "stylesheetCount": 7,
+    "thirdParty": 298816,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 524,
+    "+weight.total": 130,
+    "-weight.document": 279,
+    "+weight.document": 364,
+    "-weight.script": 51,
+    "+weight.script": 545,
+    "-weight.image": 540,
+    "+weight.image": 110,
+    "-weight.font": 198,
+    "+weight.font": 259,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 263,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 47
+  },
+  "axe": {
+    "passes": 710,
+    "violations": 67
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nhpcindia.com/",
+  "requestedUrl": "https://www.nhpcindia.com/",
+  "timestamp": 1726129997775,
+  "ranks": {
+    "hundos": 231,
+    "performance": 444,
+    "accessibility": 129,
+    "cumulative": 228
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.38,
+    "accessibility": 0.86,
+    "bestPractices": 0.93,
+    "seo": 0.75,
+    "total": 292
+  },
+  "firstContentfulPaint": 2408.6185,
+  "firstMeaningfulPaint": 2408.6185,
+  "speedIndex": 12402.153625945219,
+  "largestContentfulPaint": 10733.6185,
+  "totalBlockingTime": 78,
+  "cumulativeLayoutShift": 0.7707132118312254,
+  "timeToInteractive": 5389.6185000000005,
+  "maxPotentialFirstInputDelay": 206,
+  "timeToFirstByte": 3612.8,
+  "weight": {
+    "summary": "73 requests • 4.2 MiB",
+    "total": 4412612,
+    "image": 2257711,
+    "imageCount": 38,
+    "script": 143232,
+    "scriptCount": 14,
+    "document": 165696,
+    "font": 150276,
+    "fontCount": 1,
+    "stylesheet": 84825,
+    "stylesheetCount": 8,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 6
+  },
+  "sidequests": {
+    "-weight.total": 246,
+    "+weight.total": 408,
+    "-weight.document": 516,
+    "+weight.document": 127,
+    "-weight.script": 53,
+    "+weight.script": 543,
+    "-weight.image": 210,
+    "+weight.image": 440,
+    "-weight.font": 245,
+    "+weight.font": 212,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 628,
+    "-totalBlockingTime": 318,
+    "-largestContentfulPaint": 488
+  },
+  "axe": {
+    "passes": 1088,
+    "violations": 43
+  }
+}

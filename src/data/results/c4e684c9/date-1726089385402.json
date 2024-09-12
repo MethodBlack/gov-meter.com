@@ -1,0 +1,67 @@
+{
+  "url": "https://yas.nic.in/youth-affairs",
+  "requestedUrl": "https://yas.nic.in/youth-affairs",
+  "timestamp": 1726097688139,
+  "ranks": {
+    "hundos": 532,
+    "performance": 408,
+    "accessibility": 69,
+    "cumulative": 532
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.42,
+    "accessibility": 0.9,
+    "bestPractices": 0.33,
+    "seo": 0.83,
+    "total": 248
+  },
+  "firstContentfulPaint": 6232.445500000002,
+  "firstMeaningfulPaint": 6408.917000000001,
+  "speedIndex": 6346.36901897996,
+  "largestContentfulPaint": 8191.94,
+  "totalBlockingTime": 40,
+  "cumulativeLayoutShift": 0.3758360921590828,
+  "timeToInteractive": 7194.1225,
+  "maxPotentialFirstInputDelay": 130,
+  "timeToFirstByte": 95.57900000000001,
+  "weight": {
+    "summary": "128 requests • 2.1 MiB",
+    "total": 2165151,
+    "image": 1226821,
+    "imageCount": 67,
+    "script": 681279,
+    "scriptCount": 21,
+    "document": 19480,
+    "font": 49095,
+    "fontCount": 3,
+    "stylesheet": 178826,
+    "stylesheetCount": 17,
+    "thirdParty": 335967,
+    "thirdPartyCount": 12
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 128,
+    "+weight.total": 526,
+    "-weight.document": 180,
+    "+weight.document": 463,
+    "-weight.script": 329,
+    "+weight.script": 267,
+    "-weight.image": 132,
+    "+weight.image": 518,
+    "-weight.font": 47,
+    "+weight.font": 410,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 142,
+    "-totalBlockingTime": 61,
+    "-largestContentfulPaint": 185
+  },
+  "axe": {
+    "passes": 648,
+    "violations": 9
+  }
+}

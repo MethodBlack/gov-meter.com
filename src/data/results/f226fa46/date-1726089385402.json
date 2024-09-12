@@ -1,0 +1,67 @@
+{
+  "url": "https://usof.gov.in/en/home",
+  "requestedUrl": "https://usof.gov.in/",
+  "timestamp": 1726111035712,
+  "ranks": {
+    "hundos": 460,
+    "performance": 582,
+    "accessibility": 299,
+    "cumulative": 453
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.28,
+    "accessibility": 0.79,
+    "bestPractices": 0.7,
+    "seo": 0.85,
+    "total": 262
+  },
+  "firstContentfulPaint": 4092.3920000000003,
+  "firstMeaningfulPaint": 4092.3920000000003,
+  "speedIndex": 18249.076956636767,
+  "largestContentfulPaint": 6622.898000000003,
+  "totalBlockingTime": 3145,
+  "cumulativeLayoutShift": 0.08534864517070744,
+  "timeToInteractive": 21388.973500000007,
+  "maxPotentialFirstInputDelay": 1559,
+  "timeToFirstByte": 92.58,
+  "weight": {
+    "summary": "183 requests • 13.3 MiB",
+    "total": 13924953,
+    "image": 11246001,
+    "imageCount": 97,
+    "script": 1928330,
+    "scriptCount": 54,
+    "document": 155895,
+    "font": 370498,
+    "fontCount": 6,
+    "stylesheet": 200318,
+    "stylesheetCount": 18,
+    "thirdParty": 2316975,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 492,
+    "+weight.total": 162,
+    "-weight.document": 506,
+    "+weight.document": 137,
+    "-weight.script": 518,
+    "+weight.script": 78,
+    "-weight.image": 479,
+    "+weight.image": 171,
+    "-weight.font": 412,
+    "+weight.font": 45,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 133,
+    "-totalBlockingTime": 425,
+    "-largestContentfulPaint": 449
+  },
+  "axe": {
+    "passes": 1136,
+    "violations": 22
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://upsconline.nic.in/",
+  "requestedUrl": "https://upsconline.nic.in/",
+  "timestamp": 1726110963526,
+  "ranks": {
+    "hundos": 180,
+    "performance": 24,
+    "accessibility": 597,
+    "cumulative": 173
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.93,
+    "accessibility": 0.58,
+    "bestPractices": 0.89,
+    "seo": 0.58,
+    "total": 298
+  },
+  "firstContentfulPaint": 2324.4405,
+  "firstMeaningfulPaint": 2324.4405,
+  "speedIndex": 2791.242592003924,
+  "largestContentfulPaint": 2732.6495,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2324.4405,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 84.45799999999997,
+  "weight": {
+    "summary": "9 requests • 192.5 KiB",
+    "total": 197116,
+    "image": 31748,
+    "imageCount": 2,
+    "script": 145291,
+    "scriptCount": 4,
+    "document": 12579,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 7498,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 10,
+    "+weight.total": 644,
+    "-weight.document": 70,
+    "+weight.document": 573,
+    "-weight.script": 56,
+    "+weight.script": 540,
+    "-weight.image": 10,
+    "+weight.image": 640,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 108,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 33
+  },
+  "axe": {
+    "passes": 193,
+    "violations": 12
+  }
+}

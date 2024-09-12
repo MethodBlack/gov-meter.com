@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ddpmod.gov.in/",
+  "requestedUrl": "https://ddpmod.gov.in/",
+  "timestamp": 1726118087394,
+  "ranks": {
+    "hundos": 107,
+    "performance": 349,
+    "accessibility": 90,
+    "cumulative": 106
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.48,
+    "accessibility": 0.89,
+    "bestPractices": 0.85,
+    "seo": 0.87,
+    "total": 309
+  },
+  "firstContentfulPaint": 6125.37,
+  "firstMeaningfulPaint": 6125.37,
+  "speedIndex": 12841.413599462663,
+  "largestContentfulPaint": 13300.341500000002,
+  "totalBlockingTime": 1,
+  "cumulativeLayoutShift": 0.16622370623249558,
+  "timeToInteractive": 8571.084,
+  "maxPotentialFirstInputDelay": 52,
+  "timeToFirstByte": 1583.897,
+  "weight": {
+    "summary": "97 requests • 2.8 MiB",
+    "total": 2910557,
+    "image": 2125156,
+    "imageCount": 74,
+    "script": 468568,
+    "scriptCount": 10,
+    "document": 71368,
+    "font": 71195,
+    "fontCount": 5,
+    "stylesheet": 173900,
+    "stylesheetCount": 5,
+    "thirdParty": 573943,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 172,
+    "+weight.total": 482,
+    "-weight.document": 392,
+    "+weight.document": 251,
+    "-weight.script": 245,
+    "+weight.script": 351,
+    "-weight.image": 200,
+    "+weight.image": 450,
+    "-weight.font": 66,
+    "+weight.font": 391,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 563,
+    "-totalBlockingTime": 248,
+    "-largestContentfulPaint": 271
+  },
+  "axe": {
+    "passes": 1066,
+    "violations": 44
+  }
+}

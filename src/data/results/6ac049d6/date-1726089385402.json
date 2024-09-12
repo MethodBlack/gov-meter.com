@@ -1,0 +1,67 @@
+{
+  "url": "https://www.hindustanpetroleum.com/",
+  "requestedUrl": "https://www.hindustanpetroleum.com/",
+  "timestamp": 1726147522094,
+  "ranks": {
+    "hundos": 355,
+    "performance": 163,
+    "accessibility": 360,
+    "cumulative": 356
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.6,
+    "accessibility": 0.76,
+    "bestPractices": 0.52,
+    "seo": 0.86,
+    "total": 274
+  },
+  "firstContentfulPaint": 2094.69,
+  "firstMeaningfulPaint": 2094.69,
+  "speedIndex": 11169.276920978038,
+  "largestContentfulPaint": 5094.6630000000005,
+  "totalBlockingTime": 47.5,
+  "cumulativeLayoutShift": 0.20935010500961024,
+  "timeToInteractive": 14719.276999999995,
+  "maxPotentialFirstInputDelay": 88,
+  "timeToFirstByte": 101.07399999999998,
+  "weight": {
+    "summary": "87 requests • 3.3 MiB",
+    "total": 3425481,
+    "image": 1972139,
+    "imageCount": 28,
+    "script": 884373,
+    "scriptCount": 26,
+    "document": 31102,
+    "font": 385323,
+    "fontCount": 5,
+    "stylesheet": 145834,
+    "stylesheetCount": 16,
+    "thirdParty": 1570869,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 190,
+    "+weight.total": 464,
+    "-weight.document": 260,
+    "+weight.document": 383,
+    "-weight.script": 390,
+    "+weight.script": 206,
+    "-weight.image": 198,
+    "+weight.image": 452,
+    "-weight.font": 419,
+    "+weight.font": 38,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 165,
+    "-totalBlockingTime": 71,
+    "-largestContentfulPaint": 114
+  },
+  "axe": {
+    "passes": 1105,
+    "violations": 51
+  }
+}

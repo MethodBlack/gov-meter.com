@@ -1,0 +1,67 @@
+{
+  "url": "https://ner.indianrailways.gov.in/",
+  "requestedUrl": "https://ner.indianrailways.gov.in/",
+  "timestamp": 1726131331479,
+  "ranks": {
+    "hundos": 575,
+    "performance": 46,
+    "accessibility": 528,
+    "cumulative": 574
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.84,
+    "accessibility": 0.67,
+    "bestPractices": 0.44,
+    "seo": 0.42,
+    "total": 237
+  },
+  "firstContentfulPaint": 2491.0535,
+  "firstMeaningfulPaint": 2548.0535,
+  "speedIndex": 6498.850355438679,
+  "largestContentfulPaint": 2810.2785000000003,
+  "totalBlockingTime": 161,
+  "cumulativeLayoutShift": 0.029865250582857137,
+  "timeToInteractive": 9667.688750000001,
+  "maxPotentialFirstInputDelay": 277,
+  "timeToFirstByte": 157.26199999999994,
+  "weight": {
+    "summary": "72 requests • 7.6 MiB",
+    "total": 7961734,
+    "image": 7567374,
+    "imageCount": 43,
+    "script": 227556,
+    "scriptCount": 15,
+    "document": 156794,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 6908,
+    "stylesheetCount": 5,
+    "thirdParty": 841372,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 381,
+    "+weight.total": 273,
+    "-weight.document": 507,
+    "+weight.document": 136,
+    "-weight.script": 105,
+    "+weight.script": 491,
+    "-weight.image": 422,
+    "+weight.image": 228,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 275,
+    "-totalBlockingTime": 130,
+    "-largestContentfulPaint": 36
+  },
+  "axe": {
+    "passes": 932,
+    "violations": 58
+  }
+}

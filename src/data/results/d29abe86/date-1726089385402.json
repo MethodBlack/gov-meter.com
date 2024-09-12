@@ -1,0 +1,67 @@
+{
+  "url": "https://mausam.imd.gov.in/ahmedabad/",
+  "requestedUrl": "https://mausam.imd.gov.in/ahmedabad",
+  "timestamp": 1726128834554,
+  "ranks": {
+    "hundos": 308,
+    "performance": 400,
+    "accessibility": 466,
+    "cumulative": 307
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.43,
+    "accessibility": 0.71,
+    "bestPractices": 0.93,
+    "seo": 0.72,
+    "total": 279
+  },
+  "firstContentfulPaint": 3800.6670000000004,
+  "firstMeaningfulPaint": 4101.621,
+  "speedIndex": 5288.331209947516,
+  "largestContentfulPaint": 219050.79000000333,
+  "totalBlockingTime": 931.5229999999992,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 8061.059999999999,
+  "maxPotentialFirstInputDelay": 158,
+  "timeToFirstByte": 98.458,
+  "weight": {
+    "summary": "52 requests • 42.2 MiB",
+    "total": 44201847,
+    "image": 43343173,
+    "imageCount": 29,
+    "script": 612574,
+    "scriptCount": 11,
+    "document": 44616,
+    "font": 74937,
+    "fontCount": 1,
+    "stylesheet": 125477,
+    "stylesheetCount": 4,
+    "thirdParty": 700643,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 623,
+    "+weight.total": 31,
+    "-weight.document": 305,
+    "+weight.document": 338,
+    "-weight.script": 297,
+    "+weight.script": 299,
+    "-weight.image": 621,
+    "+weight.image": 29,
+    "-weight.font": 75,
+    "+weight.font": 382,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 159,
+    "-totalBlockingTime": 209,
+    "-largestContentfulPaint": 419
+  },
+  "axe": {
+    "passes": 1323,
+    "violations": 95
+  }
+}

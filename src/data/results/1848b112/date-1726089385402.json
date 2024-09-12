@@ -1,0 +1,67 @@
+{
+  "url": "https://mopng.gov.in/en",
+  "requestedUrl": "https://mopng.gov.in/",
+  "timestamp": 1726132267777,
+  "ranks": {
+    "hundos": 649,
+    "performance": 628,
+    "accessibility": 502,
+    "cumulative": 648
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.17,
+    "accessibility": 0.69,
+    "bestPractices": 0.3,
+    "seo": 0.83,
+    "total": 199
+  },
+  "firstContentfulPaint": 7448.198499999999,
+  "firstMeaningfulPaint": 7448.198499999999,
+  "speedIndex": 43519.80404060477,
+  "largestContentfulPaint": 31046.676999999992,
+  "totalBlockingTime": 666.5000000000018,
+  "cumulativeLayoutShift": 0.5374312845502647,
+  "timeToInteractive": 56426.84624999995,
+  "maxPotentialFirstInputDelay": 434,
+  "timeToFirstByte": 761.674,
+  "weight": {
+    "summary": "220 requests • 31.5 MiB",
+    "total": 32993878,
+    "image": 29385100,
+    "imageCount": 92,
+    "script": 2363133,
+    "scriptCount": 62,
+    "document": 213650,
+    "font": 426662,
+    "fontCount": 5,
+    "stylesheet": 207013,
+    "stylesheetCount": 26,
+    "thirdParty": 5569098,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 601,
+    "+weight.total": 53,
+    "-weight.document": 559,
+    "+weight.document": 84,
+    "-weight.script": 544,
+    "+weight.script": 52,
+    "-weight.image": 601,
+    "+weight.image": 49,
+    "-weight.font": 427,
+    "+weight.font": 30,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 492,
+    "-totalBlockingTime": 384,
+    "-largestContentfulPaint": 608
+  },
+  "axe": {
+    "passes": 2504,
+    "violations": 138
+  }
+}

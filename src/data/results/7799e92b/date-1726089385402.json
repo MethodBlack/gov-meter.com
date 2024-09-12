@@ -1,0 +1,67 @@
+{
+  "url": "https://cic.gov.in/",
+  "requestedUrl": "https://cic.gov.in/",
+  "timestamp": 1726114687105,
+  "ranks": {
+    "hundos": 8,
+    "performance": 66,
+    "accessibility": 42,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.77,
+    "accessibility": 0.93,
+    "bestPractices": 0.89,
+    "seo": 0.9,
+    "total": 349
+  },
+  "firstContentfulPaint": 1299.0014999999999,
+  "firstMeaningfulPaint": 1921.00275,
+  "speedIndex": 3356.951244052688,
+  "largestContentfulPaint": 4971.006,
+  "totalBlockingTime": 23.5,
+  "cumulativeLayoutShift": 0.11700310656007368,
+  "timeToInteractive": 4003.5075000000006,
+  "maxPotentialFirstInputDelay": 97,
+  "timeToFirstByte": 72.606,
+  "weight": {
+    "summary": "54 requests • 3.8 MiB",
+    "total": 3945662,
+    "image": 3519167,
+    "imageCount": 40,
+    "script": 321415,
+    "scriptCount": 5,
+    "document": 12963,
+    "font": 21572,
+    "fontCount": 2,
+    "stylesheet": 70304,
+    "stylesheetCount": 5,
+    "thirdParty": 272057,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 214,
+    "+weight.total": 440,
+    "-weight.document": 71,
+    "+weight.document": 572,
+    "-weight.script": 158,
+    "+weight.script": 438,
+    "-weight.image": 276,
+    "+weight.image": 374,
+    "-weight.font": 16,
+    "+weight.font": 441,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 67,
+    "-totalBlockingTime": 44,
+    "-largestContentfulPaint": 106
+  },
+  "axe": {
+    "passes": 861,
+    "violations": 37
+  }
+}

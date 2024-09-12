@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ncaer.org/",
+  "requestedUrl": "https://www.ncaer.org/",
+  "timestamp": 1726151882026,
+  "ranks": {
+    "hundos": 198,
+    "performance": 458,
+    "accessibility": 180,
+    "cumulative": 197
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.37,
+    "accessibility": 0.83,
+    "bestPractices": 0.96,
+    "seo": 0.8,
+    "total": 296
+  },
+  "firstContentfulPaint": 4006.8985000000002,
+  "firstMeaningfulPaint": 4006.8985000000002,
+  "speedIndex": 48694.26973632347,
+  "largestContentfulPaint": 14094.022749999996,
+  "totalBlockingTime": 74.60950000000025,
+  "cumulativeLayoutShift": 0.46935936561457037,
+  "timeToInteractive": 96964.65899999994,
+  "maxPotentialFirstInputDelay": 141,
+  "timeToFirstByte": 299.39899999999994,
+  "weight": {
+    "summary": "99 requests • 47.0 MiB",
+    "total": 49275222,
+    "image": 48027244,
+    "imageCount": 59,
+    "script": 675248,
+    "scriptCount": 19,
+    "document": 18012,
+    "font": 488742,
+    "fontCount": 5,
+    "stylesheet": 65425,
+    "stylesheetCount": 11,
+    "thirdParty": 461872,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 627,
+    "+weight.total": 27,
+    "-weight.document": 160,
+    "+weight.document": 483,
+    "-weight.script": 326,
+    "+weight.script": 270,
+    "-weight.image": 624,
+    "+weight.image": 26,
+    "-weight.font": 431,
+    "+weight.font": 26,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 385,
+    "-totalBlockingTime": 88,
+    "-largestContentfulPaint": 287
+  },
+  "axe": {
+    "passes": 1387,
+    "violations": 83
+  }
+}

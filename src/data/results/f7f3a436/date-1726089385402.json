@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ucobank.com/en/",
+  "requestedUrl": "https://www.ucobank.com/",
+  "timestamp": 1726110948546,
+  "ranks": {
+    "hundos": 638,
+    "performance": 647,
+    "accessibility": 573,
+    "cumulative": 635
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.06,
+    "accessibility": 0.62,
+    "bestPractices": 0.7,
+    "seo": 0.7,
+    "total": 208
+  },
+  "firstContentfulPaint": 5892.9094000000005,
+  "firstMeaningfulPaint": 5892.9094000000005,
+  "speedIndex": 14083.577591010711,
+  "largestContentfulPaint": 24204.912032141117,
+  "totalBlockingTime": 16835.994599999998,
+  "cumulativeLayoutShift": 0.4297324239914558,
+  "timeToInteractive": 26163.904000000002,
+  "maxPotentialFirstInputDelay": 5635.000000000002,
+  "timeToFirstByte": 77.26599999999999,
+  "weight": {
+    "summary": "353 requests • 4.1 MiB",
+    "total": 4278348,
+    "image": 1421534,
+    "imageCount": 226,
+    "script": 2175724,
+    "scriptCount": 42,
+    "document": 128632,
+    "font": 79004,
+    "fontCount": 8,
+    "stylesheet": 278735,
+    "stylesheetCount": 30,
+    "thirdParty": 2484155,
+    "thirdPartyCount": 13
+  },
+  "run": {
+    "number": 1,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 242,
+    "+weight.total": 412,
+    "-weight.document": 469,
+    "+weight.document": 174,
+    "-weight.script": 535,
+    "+weight.script": 61,
+    "-weight.image": 150,
+    "+weight.image": 500,
+    "-weight.font": 108,
+    "+weight.font": 349,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 83,
+    "-totalBlockingTime": 439,
+    "-largestContentfulPaint": 583
+  },
+  "axe": {
+    "passes": 58,
+    "violations": 4
+  }
+}

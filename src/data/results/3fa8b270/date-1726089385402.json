@@ -1,0 +1,67 @@
+{
+  "url": "https://dgciskol.gov.in/",
+  "requestedUrl": "https://dgciskol.gov.in/",
+  "timestamp": 1726098253054,
+  "ranks": {
+    "hundos": 513,
+    "performance": 318,
+    "accessibility": 646,
+    "cumulative": 544
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.51,
+    "accessibility": 0.46,
+    "bestPractices": 0.7,
+    "seo": 0.79,
+    "total": 252
+  },
+  "firstContentfulPaint": 8441.612000000001,
+  "firstMeaningfulPaint": 8547.044000000002,
+  "speedIndex": 25793.918344361373,
+  "largestContentfulPaint": 71911.67600000017,
+  "totalBlockingTime": 64,
+  "cumulativeLayoutShift": 0.1220283010393538,
+  "timeToInteractive": 64722.25300000013,
+  "maxPotentialFirstInputDelay": 76,
+  "timeToFirstByte": 269.0050000000001,
+  "weight": {
+    "summary": "81 requests • 24.8 MiB",
+    "total": 26019929,
+    "image": 24564700,
+    "imageCount": 36,
+    "script": 1095562,
+    "scriptCount": 24,
+    "document": 50213,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 308899,
+    "stylesheetCount": 17,
+    "thirdParty": 320965,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 578,
+    "+weight.total": 76,
+    "-weight.document": 325,
+    "+weight.document": 318,
+    "-weight.script": 425,
+    "+weight.script": 171,
+    "-weight.image": 584,
+    "+weight.image": 66,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 372,
+    "-totalBlockingTime": 83,
+    "-largestContentfulPaint": 413
+  },
+  "axe": {
+    "passes": 730,
+    "violations": 82
+  }
+}

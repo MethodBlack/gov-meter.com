@@ -1,0 +1,67 @@
+{
+  "url": "https://heavyindustries.gov.in/",
+  "requestedUrl": "https://heavyindustries.gov.in/",
+  "timestamp": 1726125036398,
+  "ranks": {
+    "hundos": 363,
+    "performance": 542,
+    "accessibility": 434,
+    "cumulative": 364
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.73,
+    "bestPractices": 0.85,
+    "seo": 0.84,
+    "total": 273
+  },
+  "firstContentfulPaint": 4813.6565,
+  "firstMeaningfulPaint": 6013.6565,
+  "speedIndex": 7821.594763016628,
+  "largestContentfulPaint": 11680.554000000002,
+  "totalBlockingTime": 1671.500000000001,
+  "cumulativeLayoutShift": 0.05331475105819081,
+  "timeToInteractive": 10161.966750000003,
+  "maxPotentialFirstInputDelay": 789,
+  "timeToFirstByte": 98.03800000000001,
+  "weight": {
+    "summary": "170 requests • 9.1 MiB",
+    "total": 9522155,
+    "image": 2574091,
+    "imageCount": 23,
+    "script": 796712,
+    "scriptCount": 65,
+    "document": 22247,
+    "font": 388788,
+    "fontCount": 8,
+    "stylesheet": 204774,
+    "stylesheetCount": 48,
+    "thirdParty": 0,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 418,
+    "+weight.total": 236,
+    "-weight.document": 211,
+    "+weight.document": 432,
+    "-weight.script": 366,
+    "+weight.script": 230,
+    "-weight.image": 227,
+    "+weight.image": 423,
+    "-weight.font": 420,
+    "+weight.font": 37,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 156,
+    "-totalBlockingTime": 238,
+    "-largestContentfulPaint": 241
+  },
+  "axe": {
+    "passes": 2152,
+    "violations": 91
+  }
+}

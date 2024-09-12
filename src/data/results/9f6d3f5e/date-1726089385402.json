@@ -1,0 +1,67 @@
+{
+  "url": "https://www.sail.co.in/",
+  "requestedUrl": "https://www.sail.co.in/",
+  "timestamp": 1726156397737,
+  "ranks": {
+    "hundos": 462,
+    "performance": 560,
+    "accessibility": 417,
+    "cumulative": 461
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.74,
+    "bestPractices": 0.7,
+    "seo": 0.86,
+    "total": 261
+  },
+  "firstContentfulPaint": 5015.694,
+  "firstMeaningfulPaint": 5015.694,
+  "speedIndex": 18363.34800460098,
+  "largestContentfulPaint": 8719.14875,
+  "totalBlockingTime": 1387,
+  "cumulativeLayoutShift": 0.00008747371367490354,
+  "timeToInteractive": 35608.69775000001,
+  "maxPotentialFirstInputDelay": 1320,
+  "timeToFirstByte": 62.819999999999936,
+  "weight": {
+    "summary": "160 requests • 12.2 MiB",
+    "total": 12765776,
+    "image": 11025126,
+    "imageCount": 73,
+    "script": 1020043,
+    "scriptCount": 29,
+    "document": 198564,
+    "font": 366382,
+    "fontCount": 7,
+    "stylesheet": 139608,
+    "stylesheetCount": 40,
+    "thirdParty": 2471431,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 471,
+    "+weight.total": 183,
+    "-weight.document": 550,
+    "+weight.document": 93,
+    "-weight.script": 417,
+    "+weight.script": 179,
+    "-weight.image": 474,
+    "+weight.image": 176,
+    "-weight.font": 410,
+    "+weight.font": 47,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 47,
+    "-totalBlockingTime": 227,
+    "-largestContentfulPaint": 190
+  },
+  "axe": {
+    "passes": 25067,
+    "violations": 484
+  }
+}

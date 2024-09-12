@@ -1,0 +1,67 @@
+{
+  "url": "https://dmi.gov.in/",
+  "requestedUrl": "https://dmi.gov.in/",
+  "timestamp": 1726122272147,
+  "ranks": {
+    "hundos": 272,
+    "performance": 143,
+    "accessibility": 281,
+    "cumulative": 274
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.62,
+    "accessibility": 0.8,
+    "bestPractices": 0.85,
+    "seo": 0.58,
+    "total": 285
+  },
+  "firstContentfulPaint": 4126.609,
+  "firstMeaningfulPaint": 4126.609,
+  "speedIndex": 5850.395952909617,
+  "largestContentfulPaint": 8373.26,
+  "totalBlockingTime": 62.5,
+  "cumulativeLayoutShift": 0.058180508225999655,
+  "timeToInteractive": 4780.5199999999995,
+  "maxPotentialFirstInputDelay": 112.5,
+  "timeToFirstByte": 166.74800000000005,
+  "weight": {
+    "summary": "65 requests • 2.0 MiB",
+    "total": 2112080,
+    "image": 1587203,
+    "imageCount": 47,
+    "script": 401389,
+    "scriptCount": 8,
+    "document": 53497,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 69991,
+    "stylesheetCount": 9,
+    "thirdParty": 123425,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 126,
+    "+weight.total": 528,
+    "-weight.document": 344,
+    "+weight.document": 299,
+    "-weight.script": 218,
+    "+weight.script": 378,
+    "-weight.image": 176,
+    "+weight.image": 474,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 288,
+    "-totalBlockingTime": 80,
+    "-largestContentfulPaint": 186
+  },
+  "axe": {
+    "passes": 954,
+    "violations": 62
+  }
+}

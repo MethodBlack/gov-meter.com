@@ -1,0 +1,67 @@
+{
+  "url": "https://nch.org.in/",
+  "requestedUrl": "https://nch.org.in/",
+  "timestamp": 1726129666019,
+  "ranks": {
+    "hundos": 394,
+    "performance": 311,
+    "accessibility": 425,
+    "cumulative": 392
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.51,
+    "accessibility": 0.73,
+    "bestPractices": 0.7,
+    "seo": 0.75,
+    "total": 269
+  },
+  "firstContentfulPaint": 1442.6870000000001,
+  "firstMeaningfulPaint": 2474.3370000000004,
+  "speedIndex": 4304.67769222829,
+  "largestContentfulPaint": 6155.087000000001,
+  "totalBlockingTime": 11,
+  "cumulativeLayoutShift": 0.8099805550395466,
+  "timeToInteractive": 2474.3370000000004,
+  "maxPotentialFirstInputDelay": 170,
+  "timeToFirstByte": 345.11899999999997,
+  "weight": {
+    "summary": "66 requests • 1.4 MiB",
+    "total": 1444781,
+    "image": 1065635,
+    "imageCount": 32,
+    "script": 157151,
+    "scriptCount": 11,
+    "document": 17864,
+    "font": 163584,
+    "fontCount": 8,
+    "stylesheet": 40306,
+    "stylesheetCount": 13,
+    "thirdParty": 98448,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 80,
+    "+weight.total": 574,
+    "-weight.document": 158,
+    "+weight.document": 485,
+    "-weight.script": 64,
+    "+weight.script": 532,
+    "-weight.image": 119,
+    "+weight.image": 531,
+    "-weight.font": 266,
+    "+weight.font": 191,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 410,
+    "-totalBlockingTime": 23,
+    "-largestContentfulPaint": 143
+  },
+  "axe": {
+    "passes": 828,
+    "violations": 31
+  }
+}

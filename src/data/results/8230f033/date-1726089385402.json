@@ -1,0 +1,67 @@
+{
+  "url": "https://hal-india.co.in/",
+  "requestedUrl": "https://hal-india.co.in/",
+  "timestamp": 1726147390153,
+  "ranks": {
+    "hundos": 579,
+    "performance": 605,
+    "accessibility": 264,
+    "cumulative": 579
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.22,
+    "accessibility": 0.81,
+    "bestPractices": 0.52,
+    "seo": 0.81,
+    "total": 236
+  },
+  "firstContentfulPaint": 4197.796,
+  "firstMeaningfulPaint": 12786.548999999999,
+  "speedIndex": 10256.741865827966,
+  "largestContentfulPaint": 24574.55550000001,
+  "totalBlockingTime": 453,
+  "cumulativeLayoutShift": 1.293737606019509,
+  "timeToInteractive": 21378.627000000004,
+  "maxPotentialFirstInputDelay": 229,
+  "timeToFirstByte": 77.55699999999999,
+  "weight": {
+    "summary": "138 requests • 7.2 MiB",
+    "total": 7498936,
+    "image": 4467872,
+    "imageCount": 68,
+    "script": 2308147,
+    "scriptCount": 27,
+    "document": 82191,
+    "font": 190408,
+    "fontCount": 5,
+    "stylesheet": 363456,
+    "stylesheetCount": 11,
+    "thirdParty": 1053999,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 369,
+    "+weight.total": 285,
+    "-weight.document": 412,
+    "+weight.document": 231,
+    "-weight.script": 540,
+    "+weight.script": 56,
+    "-weight.image": 326,
+    "+weight.image": 324,
+    "-weight.font": 303,
+    "+weight.font": 154,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 84,
+    "-totalBlockingTime": 242,
+    "-largestContentfulPaint": 357
+  },
+  "axe": {
+    "passes": 1233,
+    "violations": 50
+  }
+}

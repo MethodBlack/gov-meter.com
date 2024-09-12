@@ -1,0 +1,67 @@
+{
+  "url": "https://midh.gov.in/",
+  "requestedUrl": "https://midh.gov.in/",
+  "timestamp": 1726129144215,
+  "ranks": {
+    "hundos": 501,
+    "performance": 187,
+    "accessibility": 583,
+    "cumulative": 503
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.57,
+    "accessibility": 0.61,
+    "bestPractices": 0.7,
+    "seo": 0.67,
+    "total": 255
+  },
+  "firstContentfulPaint": 3276.7740000000003,
+  "firstMeaningfulPaint": 3276.7740000000003,
+  "speedIndex": 6541.124873997326,
+  "largestContentfulPaint": 3642.9030000000007,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.5212005861917328,
+  "timeToInteractive": 3276.7740000000003,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 91.52500000000009,
+  "weight": {
+    "summary": "43 requests • 14.3 MiB",
+    "total": 14967227,
+    "image": 14800559,
+    "imageCount": 16,
+    "script": 81695,
+    "scriptCount": 6,
+    "document": 10145,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 74828,
+    "stylesheetCount": 20,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 506,
+    "+weight.total": 148,
+    "-weight.document": 39,
+    "+weight.document": 604,
+    "-weight.script": 22,
+    "+weight.script": 574,
+    "-weight.image": 521,
+    "+weight.image": 129,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 128,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 63
+  },
+  "axe": {
+    "passes": 501,
+    "violations": 49
+  }
+}

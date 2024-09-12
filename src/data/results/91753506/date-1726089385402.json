@@ -1,0 +1,67 @@
+{
+  "url": "https://deolali.cantt.gov.in/",
+  "requestedUrl": "https://deolali.cantt.gov.in/",
+  "timestamp": 1726138298674,
+  "ranks": {
+    "hundos": 365,
+    "performance": 495,
+    "accessibility": 227,
+    "cumulative": 366
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.83,
+    "total": 273
+  },
+  "firstContentfulPaint": 3782.2050000000004,
+  "firstMeaningfulPaint": 3782.2050000000004,
+  "speedIndex": 9183.615416287124,
+  "largestContentfulPaint": 30463.9845,
+  "totalBlockingTime": 68.5,
+  "cumulativeLayoutShift": 1.2330144496614752,
+  "timeToInteractive": 8701.410000000002,
+  "maxPotentialFirstInputDelay": 187,
+  "timeToFirstByte": 1143.656,
+  "weight": {
+    "summary": "85 requests • 5.1 MiB",
+    "total": 5323033,
+    "image": 4653556,
+    "imageCount": 26,
+    "script": 346175,
+    "scriptCount": 28,
+    "document": 17281,
+    "font": 78112,
+    "fontCount": 1,
+    "stylesheet": 227909,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 290,
+    "+weight.total": 364,
+    "-weight.document": 152,
+    "+weight.document": 491,
+    "-weight.script": 182,
+    "+weight.script": 414,
+    "-weight.image": 337,
+    "+weight.image": 313,
+    "-weight.font": 100,
+    "+weight.font": 357,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 541,
+    "-totalBlockingTime": 314,
+    "-largestContentfulPaint": 606
+  },
+  "axe": {
+    "passes": 895,
+    "violations": 39
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://dahd.nic.in/",
+  "requestedUrl": "https://dahd.nic.in/",
+  "timestamp": 1726124137274,
+  "ranks": {
+    "hundos": 497,
+    "performance": 399,
+    "accessibility": 44,
+    "cumulative": 496
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.44,
+    "accessibility": 0.93,
+    "bestPractices": 0.3,
+    "seo": 0.9,
+    "total": 257
+  },
+  "firstContentfulPaint": 11732.180249999998,
+  "firstMeaningfulPaint": 11746.180249999998,
+  "speedIndex": 42843.76159940245,
+  "largestContentfulPaint": 16898.729000000003,
+  "totalBlockingTime": 335.5,
+  "cumulativeLayoutShift": 0.12258704037650417,
+  "timeToInteractive": 52871.501834465016,
+  "maxPotentialFirstInputDelay": 142,
+  "timeToFirstByte": 8257.738,
+  "weight": {
+    "summary": "244 requests • 12.1 MiB",
+    "total": 12730372,
+    "image": 9305814,
+    "imageCount": 88,
+    "script": 2269137,
+    "scriptCount": 63,
+    "document": 299081,
+    "font": 81753,
+    "fontCount": 6,
+    "stylesheet": 554528,
+    "stylesheetCount": 45,
+    "thirdParty": 3499329,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 470,
+    "+weight.total": 184,
+    "-weight.document": 600,
+    "+weight.document": 43,
+    "-weight.script": 539,
+    "+weight.script": 57,
+    "-weight.image": 452,
+    "+weight.image": 198,
+    "-weight.font": 120,
+    "+weight.font": 337,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 648,
+    "-totalBlockingTime": 363,
+    "-largestContentfulPaint": 543
+  },
+  "axe": {
+    "passes": 2335,
+    "violations": 68
+  }
+}

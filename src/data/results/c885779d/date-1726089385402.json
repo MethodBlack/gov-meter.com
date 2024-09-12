@@ -1,0 +1,67 @@
+{
+  "url": "https://mhow.cantt.gov.in/",
+  "requestedUrl": "https://mhow.cantt.gov.in/",
+  "timestamp": 1726138529563,
+  "ranks": {
+    "hundos": 366,
+    "performance": 503,
+    "accessibility": 235,
+    "cumulative": 367
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.83,
+    "total": 273
+  },
+  "firstContentfulPaint": 5120.168249999998,
+  "firstMeaningfulPaint": 5120.168249999998,
+  "speedIndex": 14002.71145663462,
+  "largestContentfulPaint": 6254.533499999998,
+  "totalBlockingTime": 59.5,
+  "cumulativeLayoutShift": 1.3765988903807482,
+  "timeToInteractive": 14016.471249999984,
+  "maxPotentialFirstInputDelay": 169,
+  "timeToFirstByte": 1800.007,
+  "weight": {
+    "summary": "76 requests • 3.1 MiB",
+    "total": 3212628,
+    "image": 2549056,
+    "imageCount": 17,
+    "script": 346180,
+    "scriptCount": 28,
+    "document": 13682,
+    "font": 78112,
+    "fontCount": 1,
+    "stylesheet": 225598,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 183,
+    "+weight.total": 471,
+    "-weight.document": 80,
+    "+weight.document": 563,
+    "-weight.script": 183,
+    "+weight.script": 413,
+    "-weight.image": 226,
+    "+weight.image": 424,
+    "-weight.font": 100,
+    "+weight.font": 357,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 578,
+    "-totalBlockingTime": 302,
+    "-largestContentfulPaint": 445
+  },
+  "axe": {
+    "passes": 688,
+    "violations": 41
+  }
+}

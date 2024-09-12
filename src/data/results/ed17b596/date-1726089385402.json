@@ -1,0 +1,67 @@
+{
+  "url": "https://moes.gov.in/",
+  "requestedUrl": "https://moes.gov.in/",
+  "timestamp": 1726122613072,
+  "ranks": {
+    "hundos": 292,
+    "performance": 484,
+    "accessibility": 173,
+    "cumulative": 291
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.35,
+    "accessibility": 0.83,
+    "bestPractices": 0.89,
+    "seo": 0.75,
+    "total": 282
+  },
+  "firstContentfulPaint": 4494.2505,
+  "firstMeaningfulPaint": 4795.51275,
+  "speedIndex": 12177.781032208046,
+  "largestContentfulPaint": 13084.4745,
+  "totalBlockingTime": 17,
+  "cumulativeLayoutShift": 0.5729040097205347,
+  "timeToInteractive": 14034.370500000003,
+  "maxPotentialFirstInputDelay": 84,
+  "timeToFirstByte": 189.49399999999997,
+  "weight": {
+    "summary": "169 requests • 3.7 MiB",
+    "total": 3881444,
+    "image": 3258143,
+    "imageCount": 61,
+    "script": 348967,
+    "scriptCount": 54,
+    "document": 19187,
+    "font": 128664,
+    "fontCount": 6,
+    "stylesheet": 125999,
+    "stylesheetCount": 45,
+    "thirdParty": 256299,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 208,
+    "+weight.total": 446,
+    "-weight.document": 174,
+    "+weight.document": 469,
+    "-weight.script": 190,
+    "+weight.script": 406,
+    "-weight.image": 261,
+    "+weight.image": 389,
+    "-weight.font": 209,
+    "+weight.font": 248,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 319,
+    "-totalBlockingTime": 34,
+    "-largestContentfulPaint": 268
+  },
+  "axe": {
+    "passes": 934,
+    "violations": 39
+  }
+}

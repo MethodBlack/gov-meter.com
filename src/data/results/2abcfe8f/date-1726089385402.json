@@ -1,0 +1,66 @@
+{
+  "url": "https://www.btsso.org/",
+  "requestedUrl": "https://www.btsso.org/",
+  "timestamp": 1726112266735,
+  "ranks": {
+    "hundos": 52,
+    "performance": 68,
+    "accessibility": 468,
+    "cumulative": 51
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.77,
+    "accessibility": 0.71,
+    "bestPractices": 0.89,
+    "seo": 0.85,
+    "total": 322
+  },
+  "firstContentfulPaint": 2904.1140000000005,
+  "firstMeaningfulPaint": 2904.1140000000005,
+  "speedIndex": 6076.416156400614,
+  "largestContentfulPaint": 4042.884000000001,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2904.1140000000005,
+  "maxPotentialFirstInputDelay": 23,
+  "timeToFirstByte": 266.26099999999997,
+  "weight": {
+    "summary": "93 requests • 37.6 MiB",
+    "total": 39457902,
+    "image": 38892054,
+    "imageCount": 65,
+    "script": 255837,
+    "scriptCount": 10,
+    "document": 8781,
+    "font": 198847,
+    "fontCount": 5,
+    "stylesheet": 102383,
+    "stylesheetCount": 12,
+    "thirdParty": 7180,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 616,
+    "+weight.total": 38,
+    "-weight.document": 31,
+    "+weight.document": 612,
+    "-weight.script": 133,
+    "+weight.script": 463,
+    "-weight.image": 619,
+    "+weight.image": 31,
+    "-weight.font": 314,
+    "+weight.font": 143,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 371,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 75
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

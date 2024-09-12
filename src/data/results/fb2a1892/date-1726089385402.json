@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cbaurangabad.in/lander",
+  "requestedUrl": "https://www.cbaurangabad.in/",
+  "timestamp": 1726113442590,
+  "ranks": {
+    "hundos": 35,
+    "performance": 54,
+    "accessibility": 338,
+    "cumulative": 34
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.81,
+    "accessibility": 0.77,
+    "bestPractices": 0.96,
+    "seo": 0.75,
+    "total": 329
+  },
+  "firstContentfulPaint": 2248.9055000000003,
+  "firstMeaningfulPaint": 2753.65025,
+  "speedIndex": 4993.115050404367,
+  "largestContentfulPaint": 3815.8,
+  "totalBlockingTime": 56.5,
+  "cumulativeLayoutShift": 0.07707481475871236,
+  "timeToInteractive": 3777.599,
+  "maxPotentialFirstInputDelay": 142,
+  "timeToFirstByte": 73.863,
+  "weight": {
+    "summary": "31 requests • 413.6 KiB",
+    "total": 423573,
+    "image": 2883,
+    "imageCount": 7,
+    "script": 336494,
+    "scriptCount": 7,
+    "document": 6675,
+    "font": 66236,
+    "fontCount": 2,
+    "stylesheet": 7041,
+    "stylesheetCount": 2,
+    "thirdParty": 422358,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 21,
+    "+weight.total": 633,
+    "-weight.document": 20,
+    "+weight.document": 623,
+    "-weight.script": 172,
+    "+weight.script": 424,
+    "-weight.image": 7,
+    "+weight.image": 643,
+    "-weight.font": 61,
+    "+weight.font": 396,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 73,
+    "-totalBlockingTime": 77,
+    "-largestContentfulPaint": 66
+  },
+  "axe": {
+    "passes": 129,
+    "violations": 11
+  }
+}

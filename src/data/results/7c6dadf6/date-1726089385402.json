@@ -1,0 +1,67 @@
+{
+  "url": "https://pharmaceuticals.gov.in/",
+  "requestedUrl": "https://pharmaceuticals.gov.in/",
+  "timestamp": 1726097445655,
+  "ranks": {
+    "hundos": 42,
+    "performance": 420,
+    "accessibility": 3,
+    "cumulative": 42
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.41,
+    "accessibility": 1,
+    "bestPractices": 0.89,
+    "seo": 0.97,
+    "total": 327
+  },
+  "firstContentfulPaint": 6276.629,
+  "firstMeaningfulPaint": 6294.129,
+  "speedIndex": 10309.301833480058,
+  "largestContentfulPaint": 8825.11175,
+  "totalBlockingTime": 1.5,
+  "cumulativeLayoutShift": 0.31147396728184157,
+  "timeToInteractive": 8001.629000000001,
+  "maxPotentialFirstInputDelay": 53,
+  "timeToFirstByte": 106.91899999999998,
+  "weight": {
+    "summary": "128 requests • 3.0 MiB",
+    "total": 3147541,
+    "image": 2182682,
+    "imageCount": 63,
+    "script": 758792,
+    "scriptCount": 29,
+    "document": 14445,
+    "font": 123728,
+    "fontCount": 7,
+    "stylesheet": 67645,
+    "stylesheetCount": 27,
+    "thirdParty": 754550,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 179,
+    "+weight.total": 475,
+    "-weight.document": 90,
+    "+weight.document": 553,
+    "-weight.script": 358,
+    "+weight.script": 238,
+    "-weight.image": 204,
+    "+weight.image": 446,
+    "-weight.font": 199,
+    "+weight.font": 258,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 174,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 194
+  },
+  "axe": {
+    "passes": 1131,
+    "violations": 19
+  }
+}

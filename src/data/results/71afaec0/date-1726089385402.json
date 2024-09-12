@@ -1,0 +1,67 @@
+{
+  "url": "https://depwd.gov.in/",
+  "requestedUrl": "https://depwd.gov.in/",
+  "timestamp": 1726118208958,
+  "ranks": {
+    "hundos": 509,
+    "performance": 646,
+    "accessibility": 89,
+    "cumulative": 507
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.07,
+    "accessibility": 0.89,
+    "bestPractices": 0.74,
+    "seo": 0.84,
+    "total": 254
+  },
+  "firstContentfulPaint": 4176.879,
+  "firstMeaningfulPaint": 4442.091,
+  "speedIndex": 9228.804746639584,
+  "largestContentfulPaint": 15060.289499999999,
+  "totalBlockingTime": 1527.208499999997,
+  "cumulativeLayoutShift": 1.1132543462299622,
+  "timeToInteractive": 16234.324499999999,
+  "maxPotentialFirstInputDelay": 893,
+  "timeToFirstByte": 112.56200000000001,
+  "weight": {
+    "summary": "164 requests • 10.0 MiB",
+    "total": 10465391,
+    "image": 9232143,
+    "imageCount": 84,
+    "script": 632496,
+    "scriptCount": 38,
+    "document": 40403,
+    "font": 208805,
+    "fontCount": 7,
+    "stylesheet": 308487,
+    "stylesheetCount": 28,
+    "thirdParty": 9549409,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 438,
+    "+weight.total": 216,
+    "-weight.document": 292,
+    "+weight.document": 351,
+    "-weight.script": 311,
+    "+weight.script": 285,
+    "-weight.image": 449,
+    "+weight.image": 201,
+    "-weight.font": 322,
+    "+weight.font": 135,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 181,
+    "-totalBlockingTime": 234,
+    "-largestContentfulPaint": 299
+  },
+  "axe": {
+    "passes": 2146,
+    "violations": 32
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://pensionersportal.gov.in/",
+  "requestedUrl": "https://pensionersportal.gov.in/",
+  "timestamp": 1726097412985,
+  "ranks": {
+    "hundos": 262,
+    "performance": 567,
+    "accessibility": 523,
+    "cumulative": 269
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.3,
+    "accessibility": 0.68,
+    "bestPractices": 0.96,
+    "seo": 0.92,
+    "total": 288
+  },
+  "firstContentfulPaint": 5432.381,
+  "firstMeaningfulPaint": 5432.381,
+  "speedIndex": 55036.09956987393,
+  "largestContentfulPaint": 32555.952500000003,
+  "totalBlockingTime": 1392.9999999999927,
+  "cumulativeLayoutShift": 0.03741927084535287,
+  "timeToInteractive": 58517.60449999999,
+  "maxPotentialFirstInputDelay": 1187,
+  "timeToFirstByte": 323.725,
+  "weight": {
+    "summary": "451 requests • 17.7 MiB",
+    "total": 18586683,
+    "image": 16672480,
+    "imageCount": 400,
+    "script": 850195,
+    "scriptCount": 31,
+    "document": 325645,
+    "font": 245176,
+    "fontCount": 3,
+    "stylesheet": 490181,
+    "stylesheetCount": 12,
+    "thirdParty": 2124162,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 543,
+    "+weight.total": 111,
+    "-weight.document": 607,
+    "+weight.document": 36,
+    "-weight.script": 377,
+    "+weight.script": 219,
+    "-weight.image": 535,
+    "+weight.image": 115,
+    "-weight.font": 353,
+    "+weight.font": 104,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 403,
+    "-totalBlockingTime": 229,
+    "-largestContentfulPaint": 388
+  },
+  "axe": {
+    "passes": 30665,
+    "violations": 618
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://msmedi-agartala.nic.in/",
+  "requestedUrl": "https://msmedi-agartala.nic.in/",
+  "timestamp": 1726097696918,
+  "ranks": {
+    "hundos": 187,
+    "performance": 379,
+    "accessibility": 45,
+    "cumulative": 187
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.45,
+    "accessibility": 0.92,
+    "bestPractices": 0.7,
+    "seo": 0.9,
+    "total": 297
+  },
+  "firstContentfulPaint": 3047.794,
+  "firstMeaningfulPaint": 4331.294,
+  "speedIndex": 4757.050725462557,
+  "largestContentfulPaint": 8531.294,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.5998460204764253,
+  "timeToInteractive": 4331.294,
+  "maxPotentialFirstInputDelay": 29,
+  "timeToFirstByte": 127.60199999999998,
+  "weight": {
+    "summary": "71 requests • 2.1 MiB",
+    "total": 2234241,
+    "image": 1500266,
+    "imageCount": 41,
+    "script": 212386,
+    "scriptCount": 10,
+    "document": 28769,
+    "font": 148551,
+    "fontCount": 7,
+    "stylesheet": 344269,
+    "stylesheetCount": 12,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 134,
+    "+weight.total": 520,
+    "-weight.document": 254,
+    "+weight.document": 389,
+    "-weight.script": 85,
+    "+weight.script": 511,
+    "-weight.image": 157,
+    "+weight.image": 493,
+    "-weight.font": 243,
+    "+weight.font": 214,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 214,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 188
+  },
+  "axe": {
+    "passes": 576,
+    "violations": 17
+  }
+}

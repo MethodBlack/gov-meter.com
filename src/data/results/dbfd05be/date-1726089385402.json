@@ -1,0 +1,67 @@
+{
+  "url": "https://www.desw.gov.in/",
+  "requestedUrl": "https://www.desw.gov.in/",
+  "timestamp": 1726142569169,
+  "ranks": {
+    "hundos": 257,
+    "performance": 205,
+    "accessibility": 354,
+    "cumulative": 256
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.56,
+    "accessibility": 0.76,
+    "bestPractices": 0.7,
+    "seo": 0.86,
+    "total": 288
+  },
+  "firstContentfulPaint": 6908.487500000001,
+  "firstMeaningfulPaint": 6915.487500000001,
+  "speedIndex": 8531.219722425194,
+  "largestContentfulPaint": 10110.36475,
+  "totalBlockingTime": 26.5,
+  "cumulativeLayoutShift": 0.060220179242890484,
+  "timeToInteractive": 18035.885000000002,
+  "maxPotentialFirstInputDelay": 103,
+  "timeToFirstByte": 73.64200000000001,
+  "weight": {
+    "summary": "130 requests • 3.8 MiB",
+    "total": 4030603,
+    "image": 2964253,
+    "imageCount": 51,
+    "script": 637559,
+    "scriptCount": 27,
+    "document": 64707,
+    "font": 125763,
+    "fontCount": 21,
+    "stylesheet": 238030,
+    "stylesheetCount": 28,
+    "thirdParty": 822525,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 224,
+    "+weight.total": 430,
+    "-weight.document": 378,
+    "+weight.document": 265,
+    "-weight.script": 313,
+    "+weight.script": 283,
+    "-weight.image": 244,
+    "+weight.image": 406,
+    "-weight.font": 205,
+    "+weight.font": 252,
+    "+weight.fontCount": 5,
+    "-timeToFirstByte": 71,
+    "-totalBlockingTime": 49,
+    "-largestContentfulPaint": 218
+  },
+  "axe": {
+    "passes": 865,
+    "violations": 28
+  }
+}

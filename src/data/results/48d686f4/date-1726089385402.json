@@ -1,0 +1,66 @@
+{
+  "url": "https://dirbcglab.gov.in/",
+  "requestedUrl": "https://dirbcglab.gov.in/",
+  "timestamp": 1726136827754,
+  "ranks": {
+    "hundos": 200,
+    "performance": 390,
+    "accessibility": 418,
+    "cumulative": 201
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.45,
+    "accessibility": 0.74,
+    "bestPractices": 0.93,
+    "seo": 0.83,
+    "total": 295
+  },
+  "firstContentfulPaint": 4645.843999999999,
+  "firstMeaningfulPaint": 4645.843999999999,
+  "speedIndex": 41642.579798035054,
+  "largestContentfulPaint": 114229.34800000006,
+  "totalBlockingTime": 458.0000000000073,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 51070.18100000001,
+  "maxPotentialFirstInputDelay": 705.0000000000146,
+  "timeToFirstByte": 161.2230000000004,
+  "weight": {
+    "summary": "115 requests • 99.6 MiB",
+    "total": 104474149,
+    "image": 101098044,
+    "imageCount": 84,
+    "script": 2811847,
+    "scriptCount": 15,
+    "document": 78798,
+    "font": 82418,
+    "fontCount": 2,
+    "stylesheet": 402673,
+    "stylesheetCount": 11,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 645,
+    "+weight.total": 9,
+    "-weight.document": 406,
+    "+weight.document": 237,
+    "-weight.script": 561,
+    "+weight.script": 35,
+    "-weight.image": 642,
+    "+weight.image": 8,
+    "-weight.font": 122,
+    "+weight.font": 335,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 280,
+    "-totalBlockingTime": 182,
+    "-largestContentfulPaint": 417
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

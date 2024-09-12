@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nio.res.in/",
+  "requestedUrl": "https://www.nio.org/",
+  "timestamp": 1726117005010,
+  "ranks": {
+    "hundos": 81,
+    "performance": 294,
+    "accessibility": 159,
+    "cumulative": 80
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.53,
+    "accessibility": 0.84,
+    "bestPractices": 0.93,
+    "seo": 0.83,
+    "total": 313
+  },
+  "firstContentfulPaint": 5338.148999999999,
+  "firstMeaningfulPaint": 5470.9529999999995,
+  "speedIndex": 9742.374341216324,
+  "largestContentfulPaint": 6063.516999999999,
+  "totalBlockingTime": 15,
+  "cumulativeLayoutShift": 0.16423665721742303,
+  "timeToInteractive": 6007.365,
+  "maxPotentialFirstInputDelay": 73,
+  "timeToFirstByte": 1197.225,
+  "weight": {
+    "summary": "70 requests • 1.6 MiB",
+    "total": 1715514,
+    "image": 994254,
+    "imageCount": 41,
+    "script": 189878,
+    "scriptCount": 7,
+    "document": 202358,
+    "font": 187881,
+    "fontCount": 4,
+    "stylesheet": 116953,
+    "stylesheetCount": 13,
+    "thirdParty": 123058,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 100,
+    "+weight.total": 554,
+    "-weight.document": 553,
+    "+weight.document": 90,
+    "-weight.script": 76,
+    "+weight.script": 520,
+    "-weight.image": 111,
+    "+weight.image": 539,
+    "-weight.font": 300,
+    "+weight.font": 157,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 546,
+    "-totalBlockingTime": 259,
+    "-largestContentfulPaint": 443
+  },
+  "axe": {
+    "passes": 2735,
+    "violations": 34
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://www.drdo.gov.in/drdo/",
+  "requestedUrl": "https://www.drdo.gov.in/",
+  "timestamp": 1726097011224,
+  "ranks": {
+    "hundos": 51,
+    "performance": 243,
+    "accessibility": 295,
+    "cumulative": 52
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.8,
+    "bestPractices": 0.89,
+    "seo": 0.98,
+    "total": 322
+  },
+  "firstContentfulPaint": 5042.85,
+  "firstMeaningfulPaint": 5042.85,
+  "speedIndex": 14146.969279555953,
+  "largestContentfulPaint": 25296.85,
+  "totalBlockingTime": 141,
+  "cumulativeLayoutShift": 0.0001806013225446061,
+  "timeToInteractive": 17051.849999999995,
+  "maxPotentialFirstInputDelay": 290,
+  "timeToFirstByte": 169.34900000000002,
+  "weight": {
+    "summary": "208 requests • 5.3 MiB",
+    "total": 5561001,
+    "image": 3269099,
+    "imageCount": 40,
+    "script": 1222313,
+    "scriptCount": 38,
+    "document": 232639,
+    "font": 150810,
+    "fontCount": 4,
+    "stylesheet": 683608,
+    "stylesheetCount": 110,
+    "thirdParty": 448490,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 301,
+    "+weight.total": 353,
+    "-weight.document": 573,
+    "+weight.document": 70,
+    "-weight.script": 449,
+    "+weight.script": 147,
+    "-weight.image": 265,
+    "+weight.image": 385,
+    "-weight.font": 250,
+    "+weight.font": 207,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 292,
+    "-totalBlockingTime": 118,
+    "-largestContentfulPaint": 364
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

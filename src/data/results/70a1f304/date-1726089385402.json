@@ -1,0 +1,66 @@
+{
+  "url": "https://www.wrldc.in/content/Hindi/index.aspx",
+  "requestedUrl": "https://www.wrldc.in/",
+  "timestamp": 1726111303759,
+  "ranks": {
+    "hundos": 517,
+    "performance": 498,
+    "accessibility": 579,
+    "cumulative": 515
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.62,
+    "bestPractices": 0.74,
+    "seo": 0.82,
+    "total": 252
+  },
+  "firstContentfulPaint": 8134.0560000000005,
+  "firstMeaningfulPaint": 10534.056,
+  "speedIndex": 10702.968134315726,
+  "largestContentfulPaint": 18484.056,
+  "totalBlockingTime": 14.5,
+  "cumulativeLayoutShift": 0.5543808357257857,
+  "timeToInteractive": 12133.438999999998,
+  "maxPotentialFirstInputDelay": 79,
+  "timeToFirstByte": 203.19,
+  "weight": {
+    "summary": "156 requests • 5.0 MiB",
+    "total": 5288434,
+    "image": 3655338,
+    "imageCount": 92,
+    "script": 752708,
+    "scriptCount": 30,
+    "document": 202455,
+    "font": 303362,
+    "fontCount": 11,
+    "stylesheet": 272778,
+    "stylesheetCount": 20,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 285,
+    "+weight.total": 369,
+    "-weight.document": 554,
+    "+weight.document": 89,
+    "-weight.script": 357,
+    "+weight.script": 239,
+    "-weight.image": 283,
+    "+weight.image": 367,
+    "-weight.font": 383,
+    "+weight.font": 74,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 329,
+    "-totalBlockingTime": 29,
+    "-largestContentfulPaint": 327
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

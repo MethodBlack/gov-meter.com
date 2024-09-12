@@ -1,0 +1,67 @@
+{
+  "url": "https://bbnl.nic.in/",
+  "requestedUrl": "https://bbnl.nic.in/",
+  "timestamp": 1726091668561,
+  "ranks": {
+    "hundos": 577,
+    "performance": 459,
+    "accessibility": 105,
+    "cumulative": 575
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.36,
+    "accessibility": 0.88,
+    "bestPractices": 0.67,
+    "seo": 0.46,
+    "total": 237
+  },
+  "firstContentfulPaint": 4057.513,
+  "firstMeaningfulPaint": 4057.513,
+  "speedIndex": 6924.358493998201,
+  "largestContentfulPaint": 9985.667250000002,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.9985884885316492,
+  "timeToInteractive": 4057.513,
+  "maxPotentialFirstInputDelay": 44,
+  "timeToFirstByte": 1076.549,
+  "weight": {
+    "summary": "88 requests • 2.6 MiB",
+    "total": 2773685,
+    "image": 2281034,
+    "imageCount": 69,
+    "script": 298060,
+    "scriptCount": 10,
+    "document": 114085,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 65492,
+    "stylesheetCount": 6,
+    "thirdParty": 300,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 167,
+    "+weight.total": 487,
+    "-weight.document": 452,
+    "+weight.document": 191,
+    "-weight.script": 148,
+    "+weight.script": 448,
+    "-weight.image": 213,
+    "+weight.image": 437,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 535,
+    "-totalBlockingTime": 246,
+    "-largestContentfulPaint": 216
+  },
+  "axe": {
+    "passes": 1144,
+    "violations": 58
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://pcdaopune.gov.in/",
+  "requestedUrl": "https://pcdaopune.gov.in/",
+  "timestamp": 1726132707344,
+  "ranks": {
+    "hundos": 117,
+    "performance": 188,
+    "accessibility": 112,
+    "cumulative": 119
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.57,
+    "accessibility": 0.87,
+    "bestPractices": 0.93,
+    "seo": 0.69,
+    "total": 307
+  },
+  "firstContentfulPaint": 7531.550000000002,
+  "firstMeaningfulPaint": 7531.550000000002,
+  "speedIndex": 7749.311894003191,
+  "largestContentfulPaint": 9406.550000000001,
+  "totalBlockingTime": 7.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 12031.550000000003,
+  "maxPotentialFirstInputDelay": 65,
+  "timeToFirstByte": 131.96899999999994,
+  "weight": {
+    "summary": "53 requests • 60.1 MiB",
+    "total": 62986767,
+    "image": 61879291,
+    "imageCount": 30,
+    "script": 664628,
+    "scriptCount": 12,
+    "document": 46893,
+    "font": 86585,
+    "fontCount": 2,
+    "stylesheet": 309370,
+    "stylesheetCount": 8,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 636,
+    "+weight.total": 18,
+    "-weight.document": 317,
+    "+weight.document": 326,
+    "-weight.script": 321,
+    "+weight.script": 275,
+    "-weight.image": 633,
+    "+weight.image": 17,
+    "-weight.font": 130,
+    "+weight.font": 327,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 223,
+    "-totalBlockingTime": 15,
+    "-largestContentfulPaint": 203
+  },
+  "axe": {
+    "passes": 292,
+    "violations": 22
+  }
+}

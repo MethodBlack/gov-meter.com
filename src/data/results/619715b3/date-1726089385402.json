@@ -1,0 +1,67 @@
+{
+  "url": "https://yas.nic.in/",
+  "requestedUrl": "https://yas.nic.in/",
+  "timestamp": 1726111408930,
+  "ranks": {
+    "hundos": 602,
+    "performance": 443,
+    "accessibility": 316,
+    "cumulative": 602
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.38,
+    "accessibility": 0.78,
+    "bestPractices": 0.3,
+    "seo": 0.81,
+    "total": 227
+  },
+  "firstContentfulPaint": 7213.1500000000015,
+  "firstMeaningfulPaint": 8103.584000000001,
+  "speedIndex": 10048.17092107747,
+  "largestContentfulPaint": 12169.981000000003,
+  "totalBlockingTime": 350,
+  "cumulativeLayoutShift": 0.20787620636259327,
+  "timeToInteractive": 18444.738000000005,
+  "maxPotentialFirstInputDelay": 154,
+  "timeToFirstByte": 90.93,
+  "weight": {
+    "summary": "224 requests • 4.3 MiB",
+    "total": 4475043,
+    "image": 2253461,
+    "imageCount": 85,
+    "script": 1619650,
+    "scriptCount": 38,
+    "document": 144390,
+    "font": 87917,
+    "fontCount": 10,
+    "stylesheet": 228009,
+    "stylesheetCount": 20,
+    "thirdParty": 1867588,
+    "thirdPartyCount": 17
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 252,
+    "+weight.total": 402,
+    "-weight.document": 496,
+    "+weight.document": 147,
+    "-weight.script": 499,
+    "+weight.script": 97,
+    "-weight.image": 208,
+    "+weight.image": 442,
+    "-weight.font": 132,
+    "+weight.font": 325,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 127,
+    "-totalBlockingTime": 167,
+    "-largestContentfulPaint": 254
+  },
+  "axe": {
+    "passes": 1063,
+    "violations": 21
+  }
+}

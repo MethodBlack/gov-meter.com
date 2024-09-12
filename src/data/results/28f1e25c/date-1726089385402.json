@@ -1,0 +1,66 @@
+{
+  "url": "https://www.indiaculture.gov.in///",
+  "requestedUrl": "https://indiaculture.gov.in/",
+  "timestamp": 1726096244019,
+  "ranks": {
+    "hundos": 648,
+    "performance": 353,
+    "accessibility": 631,
+    "cumulative": 647
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.48,
+    "accessibility": 0.54,
+    "bestPractices": 0.44,
+    "seo": 0.54,
+    "total": 200
+  },
+  "firstContentfulPaint": 7368.541400000002,
+  "firstMeaningfulPaint": 7416.041400000002,
+  "speedIndex": 22434.140632491788,
+  "largestContentfulPaint": 12330.62945,
+  "totalBlockingTime": 289.5,
+  "cumulativeLayoutShift": 0.06877558423480282,
+  "timeToInteractive": 21954.646262500006,
+  "maxPotentialFirstInputDelay": 351,
+  "timeToFirstByte": 632.954,
+  "weight": {
+    "summary": "641 requests • 106.4 MiB",
+    "total": 111618109,
+    "image": 110006922,
+    "imageCount": 570,
+    "script": 1177191,
+    "scriptCount": 33,
+    "document": 208282,
+    "font": 25259,
+    "fontCount": 1,
+    "stylesheet": 196599,
+    "stylesheetCount": 27,
+    "thirdParty": 109547687,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 648,
+    "+weight.total": 6,
+    "-weight.document": 556,
+    "+weight.document": 87,
+    "-weight.script": 442,
+    "+weight.script": 154,
+    "-weight.image": 645,
+    "+weight.image": 5,
+    "-weight.font": 23,
+    "+weight.font": 434,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 469,
+    "-totalBlockingTime": 358,
+    "-largestContentfulPaint": 507
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

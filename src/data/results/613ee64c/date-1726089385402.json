@@ -1,0 +1,67 @@
+{
+  "url": "https://srfmtti.dacnet.nic.in/",
+  "requestedUrl": "https://srfmtti.dacnet.nic.in/",
+  "timestamp": 1726156134098,
+  "ranks": {
+    "hundos": 489,
+    "performance": 517,
+    "accessibility": 628,
+    "cumulative": 490
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.54,
+    "bestPractices": 0.89,
+    "seo": 0.81,
+    "total": 257
+  },
+  "firstContentfulPaint": 7425.150999999998,
+  "firstMeaningfulPaint": 7575.029499999998,
+  "speedIndex": 13764.563671777934,
+  "largestContentfulPaint": 28721.76699999998,
+  "totalBlockingTime": 120,
+  "cumulativeLayoutShift": 0.4973148176620309,
+  "timeToInteractive": 12094.533999999994,
+  "maxPotentialFirstInputDelay": 185,
+  "timeToFirstByte": 89.12900000000002,
+  "weight": {
+    "summary": "127 requests • 10.5 MiB",
+    "total": 10979302,
+    "image": 6424732,
+    "imageCount": 69,
+    "script": 856178,
+    "scriptCount": 30,
+    "document": 64558,
+    "font": 147454,
+    "fontCount": 7,
+    "stylesheet": 478062,
+    "stylesheetCount": 16,
+    "thirdParty": 417384,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 450,
+    "+weight.total": 204,
+    "-weight.document": 377,
+    "+weight.document": 266,
+    "-weight.script": 380,
+    "+weight.script": 216,
+    "-weight.image": 389,
+    "+weight.image": 261,
+    "-weight.font": 240,
+    "+weight.font": 217,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 124,
+    "-totalBlockingTime": 109,
+    "-largestContentfulPaint": 378
+  },
+  "axe": {
+    "passes": 1024,
+    "violations": 60
+  }
+}

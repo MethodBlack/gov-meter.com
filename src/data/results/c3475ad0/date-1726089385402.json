@@ -1,0 +1,67 @@
+{
+  "url": "https://dare.gov.in/",
+  "requestedUrl": "https://dare.gov.in/",
+  "timestamp": 1726117846130,
+  "ranks": {
+    "hundos": 354,
+    "performance": 396,
+    "accessibility": 99,
+    "cumulative": 350
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.44,
+    "accessibility": 0.88,
+    "bestPractices": 0.52,
+    "seo": 0.9,
+    "total": 274
+  },
+  "firstContentfulPaint": 6984.76,
+  "firstMeaningfulPaint": 6984.76,
+  "speedIndex": 21273.55455342628,
+  "largestContentfulPaint": 27903.119500000008,
+  "totalBlockingTime": 232,
+  "cumulativeLayoutShift": 0.15859374282187255,
+  "timeToInteractive": 27390.653500000004,
+  "maxPotentialFirstInputDelay": 169,
+  "timeToFirstByte": 4007.014,
+  "weight": {
+    "summary": "112 requests • 6.1 MiB",
+    "total": 6350765,
+    "image": 4552987,
+    "imageCount": 39,
+    "script": 1175384,
+    "scriptCount": 20,
+    "document": 101148,
+    "font": 218004,
+    "fontCount": 12,
+    "stylesheet": 258676,
+    "stylesheetCount": 26,
+    "thirdParty": 1100898,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 341,
+    "+weight.total": 313,
+    "-weight.document": 437,
+    "+weight.document": 206,
+    "-weight.script": 441,
+    "+weight.script": 155,
+    "-weight.image": 332,
+    "+weight.image": 318,
+    "-weight.font": 333,
+    "+weight.font": 124,
+    "+weight.fontCount": 12,
+    "-timeToFirstByte": 631,
+    "-totalBlockingTime": 349,
+    "-largestContentfulPaint": 596
+  },
+  "axe": {
+    "passes": 700,
+    "violations": 22
+  }
+}

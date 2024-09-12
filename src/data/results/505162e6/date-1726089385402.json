@@ -1,0 +1,66 @@
+{
+  "url": "https://erpc.gov.in/",
+  "requestedUrl": "https://erpc.gov.in/",
+  "timestamp": 1726144752909,
+  "ranks": {
+    "hundos": 580,
+    "performance": 559,
+    "accessibility": 451,
+    "cumulative": 581
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.72,
+    "bestPractices": 0.7,
+    "seo": 0.62,
+    "total": 235
+  },
+  "firstContentfulPaint": 14850.847999999994,
+  "firstMeaningfulPaint": 15012.429999999995,
+  "speedIndex": 16289.04980695924,
+  "largestContentfulPaint": 15254.802999999996,
+  "totalBlockingTime": 307.5,
+  "cumulativeLayoutShift": 0.34433496154202764,
+  "timeToInteractive": 24089.14505413818,
+  "maxPotentialFirstInputDelay": 236,
+  "timeToFirstByte": 2536.785,
+  "weight": {
+    "summary": "118 requests • 4.3 MiB",
+    "total": 4447267,
+    "image": 1439086,
+    "imageCount": 35,
+    "script": 2096673,
+    "scriptCount": 34,
+    "document": 200645,
+    "font": 162326,
+    "fontCount": 5,
+    "stylesheet": 578707,
+    "stylesheetCount": 27,
+    "thirdParty": 540980,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 251,
+    "+weight.total": 403,
+    "-weight.document": 551,
+    "+weight.document": 92,
+    "-weight.script": 530,
+    "+weight.script": 66,
+    "-weight.image": 151,
+    "+weight.image": 499,
+    "-weight.font": 264,
+    "+weight.font": 193,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 610,
+    "-totalBlockingTime": 361,
+    "-largestContentfulPaint": 525
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

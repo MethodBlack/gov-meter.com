@@ -1,0 +1,67 @@
+{
+  "url": "https://secr.indianrailways.gov.in/",
+  "requestedUrl": "https://secr.indianrailways.gov.in/",
+  "timestamp": 1726110108818,
+  "ranks": {
+    "hundos": 490,
+    "performance": 33,
+    "accessibility": 475,
+    "cumulative": 489
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.88,
+    "accessibility": 0.7,
+    "bestPractices": 0.41,
+    "seo": 0.58,
+    "total": 257
+  },
+  "firstContentfulPaint": 2410.797,
+  "firstMeaningfulPaint": 2469.797,
+  "speedIndex": 6001.882042742665,
+  "largestContentfulPaint": 2596.215,
+  "totalBlockingTime": 50.5,
+  "cumulativeLayoutShift": 0.06586106951633773,
+  "timeToInteractive": 13901.775999999998,
+  "maxPotentialFirstInputDelay": 118,
+  "timeToFirstByte": 144.322,
+  "weight": {
+    "summary": "68 requests • 6.1 MiB",
+    "total": 6426381,
+    "image": 6047534,
+    "imageCount": 43,
+    "script": 225501,
+    "scriptCount": 14,
+    "document": 143787,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 6908,
+    "stylesheetCount": 5,
+    "thirdParty": 316942,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 343,
+    "+weight.total": 311,
+    "-weight.document": 494,
+    "+weight.document": 149,
+    "-weight.script": 97,
+    "+weight.script": 499,
+    "-weight.image": 381,
+    "+weight.image": 269,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 248,
+    "-totalBlockingTime": 73,
+    "-largestContentfulPaint": 28
+  },
+  "axe": {
+    "passes": 845,
+    "violations": 37
+  }
+}

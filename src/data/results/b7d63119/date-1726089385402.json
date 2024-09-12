@@ -1,0 +1,67 @@
+{
+  "url": "https://saarc-sdmc.org/",
+  "requestedUrl": "https://saarc-sdmc.org/",
+  "timestamp": 1726109639432,
+  "ranks": {
+    "hundos": 228,
+    "performance": 239,
+    "accessibility": 563,
+    "cumulative": 225
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.63,
+    "bestPractices": 0.89,
+    "seo": 0.85,
+    "total": 292
+  },
+  "firstContentfulPaint": 6929.9180000000015,
+  "firstMeaningfulPaint": 6929.9180000000015,
+  "speedIndex": 13590.202212721038,
+  "largestContentfulPaint": 9765.654999999999,
+  "totalBlockingTime": 48,
+  "cumulativeLayoutShift": 0.004898807532021804,
+  "timeToInteractive": 13723.089500000006,
+  "maxPotentialFirstInputDelay": 146,
+  "timeToFirstByte": 1341.878,
+  "weight": {
+    "summary": "163 requests • 3.8 MiB",
+    "total": 3993270,
+    "image": 3172367,
+    "imageCount": 88,
+    "script": 540017,
+    "scriptCount": 34,
+    "document": 21765,
+    "font": 136508,
+    "fontCount": 4,
+    "stylesheet": 122376,
+    "stylesheetCount": 34,
+    "thirdParty": 290005,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 220,
+    "+weight.total": 434,
+    "-weight.document": 207,
+    "+weight.document": 436,
+    "-weight.script": 268,
+    "+weight.script": 328,
+    "-weight.image": 252,
+    "+weight.image": 398,
+    "-weight.font": 225,
+    "+weight.font": 232,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 554,
+    "-totalBlockingTime": 284,
+    "-largestContentfulPaint": 479
+  },
+  "axe": {
+    "passes": 20,
+    "violations": 5
+  }
+}

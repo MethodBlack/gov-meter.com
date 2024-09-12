@@ -1,0 +1,66 @@
+{
+  "url": "https://fsi.nic.in/",
+  "requestedUrl": "https://fsi.nic.in/",
+  "timestamp": 1726146394359,
+  "ranks": {
+    "hundos": 322,
+    "performance": 204,
+    "accessibility": 539,
+    "cumulative": 328
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.56,
+    "accessibility": 0.66,
+    "bestPractices": 0.96,
+    "seo": 0.59,
+    "total": 277
+  },
+  "firstContentfulPaint": 6418.456,
+  "firstMeaningfulPaint": 7918.456,
+  "speedIndex": 6418.456,
+  "largestContentfulPaint": 14077.568,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.10611165327337233,
+  "timeToInteractive": 7918.456,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 40.38099999999997,
+  "weight": {
+    "summary": "72 requests • 73.6 MiB",
+    "total": 77143561,
+    "image": 75472178,
+    "imageCount": 24,
+    "script": 646206,
+    "scriptCount": 22,
+    "document": 37970,
+    "font": 217500,
+    "fontCount": 7,
+    "stylesheet": 769707,
+    "stylesheetCount": 18,
+    "thirdParty": 156187,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 642,
+    "+weight.total": 12,
+    "-weight.document": 287,
+    "+weight.document": 356,
+    "-weight.script": 316,
+    "+weight.script": 280,
+    "-weight.image": 638,
+    "+weight.image": 12,
+    "-weight.font": 331,
+    "+weight.font": 126,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 10,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 286
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

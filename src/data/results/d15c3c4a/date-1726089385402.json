@@ -1,0 +1,67 @@
+{
+  "url": "https://www.asdc.org.in/",
+  "requestedUrl": "https://www.asdc.org.in/",
+  "timestamp": 1726136630684,
+  "ranks": {
+    "hundos": 413,
+    "performance": 543,
+    "accessibility": 488,
+    "cumulative": 415
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.7,
+    "bestPractices": 0.74,
+    "seo": 0.91,
+    "total": 266
+  },
+  "firstContentfulPaint": 3044.7675,
+  "firstMeaningfulPaint": 3044.7675,
+  "speedIndex": 8318.693086619409,
+  "largestContentfulPaint": 13699.7675,
+  "totalBlockingTime": 333.5,
+  "cumulativeLayoutShift": 0.6626748096767325,
+  "timeToInteractive": 9186.2005,
+  "maxPotentialFirstInputDelay": 277,
+  "timeToFirstByte": 757.7200000000001,
+  "weight": {
+    "summary": "169 requests • 7.3 MiB",
+    "total": 7657972,
+    "image": 6903299,
+    "imageCount": 131,
+    "script": 543492,
+    "scriptCount": 22,
+    "document": 21680,
+    "font": 132725,
+    "fontCount": 3,
+    "stylesheet": 53137,
+    "stylesheetCount": 7,
+    "thirdParty": 426005,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 374,
+    "+weight.total": 280,
+    "-weight.document": 206,
+    "+weight.document": 437,
+    "-weight.script": 270,
+    "+weight.script": 326,
+    "-weight.image": 401,
+    "+weight.image": 249,
+    "-weight.font": 217,
+    "+weight.font": 240,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 491,
+    "-totalBlockingTime": 362,
+    "-largestContentfulPaint": 518
+  },
+  "axe": {
+    "passes": 2430,
+    "violations": 319
+  }
+}

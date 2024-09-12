@@ -1,0 +1,67 @@
+{
+  "url": "https://meerut.cantt.gov.in/",
+  "requestedUrl": "https://meerut.cantt.gov.in/",
+  "timestamp": 1726138515526,
+  "ranks": {
+    "hundos": 408,
+    "performance": 532,
+    "accessibility": 232,
+    "cumulative": 406
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.32,
+    "accessibility": 0.82,
+    "bestPractices": 0.7,
+    "seo": 0.83,
+    "total": 267
+  },
+  "firstContentfulPaint": 5075.693250000002,
+  "firstMeaningfulPaint": 5075.693250000002,
+  "speedIndex": 11943.612482842673,
+  "largestContentfulPaint": 25115.838000000018,
+  "totalBlockingTime": 49,
+  "cumulativeLayoutShift": 1.2841187154734421,
+  "timeToInteractive": 16600.305750000014,
+  "maxPotentialFirstInputDelay": 132,
+  "timeToFirstByte": 2597.59,
+  "weight": {
+    "summary": "84 requests • 3.2 MiB",
+    "total": 3373026,
+    "image": 2707836,
+    "imageCount": 23,
+    "script": 346175,
+    "scriptCount": 28,
+    "document": 15388,
+    "font": 78112,
+    "fontCount": 1,
+    "stylesheet": 225515,
+    "stylesheetCount": 31,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 188,
+    "+weight.total": 466,
+    "-weight.document": 105,
+    "+weight.document": 538,
+    "-weight.script": 182,
+    "+weight.script": 414,
+    "-weight.image": 235,
+    "+weight.image": 415,
+    "-weight.font": 100,
+    "+weight.font": 357,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 613,
+    "-totalBlockingTime": 286,
+    "-largestContentfulPaint": 585
+  },
+  "axe": {
+    "passes": 780,
+    "violations": 40
+  }
+}

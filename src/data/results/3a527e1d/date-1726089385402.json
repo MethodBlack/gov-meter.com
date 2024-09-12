@@ -1,0 +1,66 @@
+{
+  "url": "https://www.cgcri.res.in/",
+  "requestedUrl": "https://www.cgcri.res.in/",
+  "timestamp": 1726140842156,
+  "ranks": {
+    "hundos": 571,
+    "performance": 523,
+    "accessibility": 535,
+    "cumulative": 571
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.67,
+    "bestPractices": 0.7,
+    "seo": 0.69,
+    "total": 239
+  },
+  "firstContentfulPaint": 9761.919499999996,
+  "firstMeaningfulPaint": 9985.287499999997,
+  "speedIndex": 87262.85108587763,
+  "largestContentfulPaint": 17524.569499999998,
+  "totalBlockingTime": 1022.4999999999854,
+  "cumulativeLayoutShift": 0.0011073627148277148,
+  "timeToInteractive": 153535.28600000008,
+  "maxPotentialFirstInputDelay": 340,
+  "timeToFirstByte": 2409.315,
+  "weight": {
+    "summary": "300 requests • 54.2 MiB",
+    "total": 56833688,
+    "image": 51659273,
+    "imageCount": 171,
+    "script": 1582093,
+    "scriptCount": 91,
+    "document": 157392,
+    "font": 258859,
+    "fontCount": 4,
+    "stylesheet": 193966,
+    "stylesheetCount": 21,
+    "thirdParty": 2211792,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 633,
+    "+weight.total": 21,
+    "-weight.document": 508,
+    "+weight.document": 135,
+    "-weight.script": 496,
+    "+weight.script": 100,
+    "-weight.image": 627,
+    "+weight.image": 23,
+    "-weight.font": 362,
+    "+weight.font": 95,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 602,
+    "-totalBlockingTime": 395,
+    "-largestContentfulPaint": 549
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

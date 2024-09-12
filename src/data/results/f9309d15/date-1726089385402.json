@@ -1,0 +1,67 @@
+{
+  "url": "https://cannanore.cantt.gov.in/",
+  "requestedUrl": "https://cannanore.cantt.gov.in/",
+  "timestamp": 1726092677618,
+  "ranks": {
+    "hundos": 389,
+    "performance": 550,
+    "accessibility": 224,
+    "cumulative": 388
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.83,
+    "total": 270
+  },
+  "firstContentfulPaint": 5033.2485000000015,
+  "firstMeaningfulPaint": 5033.2485000000015,
+  "speedIndex": 12380.983809417081,
+  "largestContentfulPaint": 29427.354499999965,
+  "totalBlockingTime": 50,
+  "cumulativeLayoutShift": 1.5344343936517988,
+  "timeToInteractive": 16479.96349999998,
+  "maxPotentialFirstInputDelay": 150,
+  "timeToFirstByte": 2229.242,
+  "weight": {
+    "summary": "83 requests • 4.0 MiB",
+    "total": 4228516,
+    "image": 3562470,
+    "imageCount": 24,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 15056,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 226292,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 236,
+    "+weight.total": 418,
+    "-weight.document": 96,
+    "+weight.document": 547,
+    "-weight.script": 185,
+    "+weight.script": 411,
+    "-weight.image": 278,
+    "+weight.image": 372,
+    "-weight.font": 101,
+    "+weight.font": 356,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 593,
+    "-totalBlockingTime": 288,
+    "-largestContentfulPaint": 603
+  },
+  "axe": {
+    "passes": 789,
+    "violations": 37
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.sscer.org/",
+  "requestedUrl": "https://www.sscer.org/",
+  "timestamp": 1726134636621,
+  "ranks": {
+    "hundos": 215,
+    "performance": 392,
+    "accessibility": 345,
+    "cumulative": 213
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.44,
+    "accessibility": 0.77,
+    "bestPractices": 0.93,
+    "seo": 0.8,
+    "total": 294
+  },
+  "firstContentfulPaint": 3082.1549999999997,
+  "firstMeaningfulPaint": 3134.6549999999997,
+  "speedIndex": 6145.881648672754,
+  "largestContentfulPaint": 6946.747000000001,
+  "totalBlockingTime": 941.0000000000009,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 6719.539000000002,
+  "maxPotentialFirstInputDelay": 1782.0000000000018,
+  "timeToFirstByte": 197.84900000000002,
+  "weight": {
+    "summary": "41 requests • 1.0 MiB",
+    "total": 1053754,
+    "image": 714537,
+    "imageCount": 19,
+    "script": 76584,
+    "scriptCount": 7,
+    "document": 142688,
+    "font": 71430,
+    "fontCount": 7,
+    "stylesheet": 48515,
+    "stylesheetCount": 7,
+    "thirdParty": 73243,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 54,
+    "+weight.total": 600,
+    "-weight.document": 492,
+    "+weight.document": 151,
+    "-weight.script": 21,
+    "+weight.script": 575,
+    "-weight.image": 91,
+    "+weight.image": 559,
+    "-weight.font": 68,
+    "+weight.font": 389,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 326,
+    "-totalBlockingTime": 210,
+    "-largestContentfulPaint": 159
+  },
+  "axe": {
+    "passes": 901,
+    "violations": 137
+  }
+}

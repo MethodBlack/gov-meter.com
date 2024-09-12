@@ -1,0 +1,67 @@
+{
+  "url": "https://dolr.gov.in/",
+  "requestedUrl": "https://dolr.gov.in/",
+  "timestamp": 1726097363640,
+  "ranks": {
+    "hundos": 526,
+    "performance": 634,
+    "accessibility": 141,
+    "cumulative": 522
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.15,
+    "accessibility": 0.85,
+    "bestPractices": 0.74,
+    "seo": 0.76,
+    "total": 250
+  },
+  "firstContentfulPaint": 4194.8189999999995,
+  "firstMeaningfulPaint": 4194.8189999999995,
+  "speedIndex": 10678.57883602748,
+  "largestContentfulPaint": 12498.943499999996,
+  "totalBlockingTime": 941,
+  "cumulativeLayoutShift": 0.5415808830231281,
+  "timeToInteractive": 19810.968000000004,
+  "maxPotentialFirstInputDelay": 478,
+  "timeToFirstByte": 82.33200000000033,
+  "weight": {
+    "summary": "128 requests • 7.0 MiB",
+    "total": 7293955,
+    "image": 5350290,
+    "imageCount": 51,
+    "script": 1110849,
+    "scriptCount": 26,
+    "document": 60182,
+    "font": 369085,
+    "fontCount": 10,
+    "stylesheet": 356893,
+    "stylesheetCount": 25,
+    "thirdParty": 6213173,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 362,
+    "+weight.total": 292,
+    "-weight.document": 362,
+    "+weight.document": 281,
+    "-weight.script": 433,
+    "+weight.script": 163,
+    "-weight.image": 366,
+    "+weight.image": 284,
+    "-weight.font": 411,
+    "+weight.font": 46,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 99,
+    "-totalBlockingTime": 392,
+    "-largestContentfulPaint": 508
+  },
+  "axe": {
+    "passes": 1523,
+    "violations": 14
+  }
+}

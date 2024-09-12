@@ -1,0 +1,67 @@
+{
+  "url": "https://kasauli.cantt.gov.in/",
+  "requestedUrl": "https://kasauli.cantt.gov.in/",
+  "timestamp": 1726113868769,
+  "ranks": {
+    "hundos": 439,
+    "performance": 531,
+    "accessibility": 234,
+    "cumulative": 439
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.32,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.76,
+    "total": 264
+  },
+  "firstContentfulPaint": 5147.8225,
+  "firstMeaningfulPaint": 5147.8225,
+  "speedIndex": 11830.058751198023,
+  "largestContentfulPaint": 43069.15499999997,
+  "totalBlockingTime": 60.5,
+  "cumulativeLayoutShift": 0.9969445472628456,
+  "timeToInteractive": 23023.474999999988,
+  "maxPotentialFirstInputDelay": 168,
+  "timeToFirstByte": 1015.6129999999999,
+  "weight": {
+    "summary": "81 requests • 6.5 MiB",
+    "total": 6799734,
+    "image": 6131908,
+    "imageCount": 22,
+    "script": 347244,
+    "scriptCount": 28,
+    "document": 15679,
+    "font": 78150,
+    "fontCount": 1,
+    "stylesheet": 226753,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 351,
+    "+weight.total": 303,
+    "-weight.document": 120,
+    "+weight.document": 523,
+    "-weight.script": 186,
+    "+weight.script": 410,
+    "-weight.image": 383,
+    "+weight.image": 267,
+    "-weight.font": 102,
+    "+weight.font": 355,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 530,
+    "-totalBlockingTime": 304,
+    "-largestContentfulPaint": 631
+  },
+  "axe": {
+    "passes": 789,
+    "violations": 41
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://delhimetrorail.com/",
+  "requestedUrl": "https://www.delhimetrorail.com/",
+  "timestamp": 1726117695789,
+  "ranks": {
+    "hundos": 409,
+    "performance": 587,
+    "accessibility": 269,
+    "cumulative": 408
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.27,
+    "accessibility": 0.81,
+    "bestPractices": 0.74,
+    "seo": 0.85,
+    "total": 267
+  },
+  "firstContentfulPaint": 5018.2935,
+  "firstMeaningfulPaint": 5325.548371368408,
+  "speedIndex": 17612.328603976017,
+  "largestContentfulPaint": 15023.2935,
+  "totalBlockingTime": 2991.4999999999964,
+  "cumulativeLayoutShift": 0.0161250297155439,
+  "timeToInteractive": 31260.293499999974,
+  "maxPotentialFirstInputDelay": 1842.9999999999964,
+  "timeToFirstByte": 1200.3059999999998,
+  "weight": {
+    "summary": "384 requests • 12.0 MiB",
+    "total": 12614418,
+    "image": 9547115,
+    "imageCount": 258,
+    "script": 2631376,
+    "scriptCount": 63,
+    "document": 171591,
+    "font": 112825,
+    "fontCount": 9,
+    "stylesheet": 109492,
+    "stylesheetCount": 13,
+    "thirdParty": 10098835,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 468,
+    "+weight.total": 186,
+    "-weight.document": 523,
+    "+weight.document": 120,
+    "-weight.script": 551,
+    "+weight.script": 45,
+    "-weight.image": 459,
+    "+weight.image": 191,
+    "-weight.font": 176,
+    "+weight.font": 281,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 547,
+    "-totalBlockingTime": 424,
+    "-largestContentfulPaint": 524
+  },
+  "axe": {
+    "passes": 23128,
+    "violations": 212
+  }
+}

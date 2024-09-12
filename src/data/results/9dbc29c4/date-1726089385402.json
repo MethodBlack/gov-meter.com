@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cisf.gov.in/",
+  "requestedUrl": "https://cisf.gov.in/",
+  "timestamp": 1726093736783,
+  "ranks": {
+    "hundos": 37,
+    "performance": 185,
+    "accessibility": 18,
+    "cumulative": 38
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.58,
+    "accessibility": 0.96,
+    "bestPractices": 0.85,
+    "seo": 0.9,
+    "total": 329
+  },
+  "firstContentfulPaint": 3661.202,
+  "firstMeaningfulPaint": 3661.202,
+  "speedIndex": 26352.60411550037,
+  "largestContentfulPaint": 14584.691499999994,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.012468799194970879,
+  "timeToInteractive": 3661.202,
+  "maxPotentialFirstInputDelay": 33,
+  "timeToFirstByte": 397.98300000000006,
+  "weight": {
+    "summary": "90 requests • 11.0 MiB",
+    "total": 11489324,
+    "image": 11150300,
+    "imageCount": 73,
+    "script": 248355,
+    "scriptCount": 9,
+    "document": 21356,
+    "font": 484,
+    "fontCount": 1,
+    "stylesheet": 67574,
+    "stylesheetCount": 5,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 453,
+    "+weight.total": 201,
+    "-weight.document": 202,
+    "+weight.document": 441,
+    "-weight.script": 130,
+    "+weight.script": 466,
+    "-weight.image": 477,
+    "+weight.image": 173,
+    "-weight.font": 1,
+    "+weight.font": 456,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 422,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 294
+  },
+  "axe": {
+    "passes": 970,
+    "violations": 52
+  }
+}

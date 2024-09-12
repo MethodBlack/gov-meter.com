@@ -1,0 +1,20 @@
+{
+  "url": "https://uyrb.gov.in/",
+  "error": "Unknown error.",
+  "sidequests": {
+    "-weight.total": 654,
+    "+weight.total": 654,
+    "-weight.document": 643,
+    "+weight.document": 643,
+    "-weight.script": 596,
+    "+weight.script": 596,
+    "-weight.image": 650,
+    "+weight.image": 650,
+    "-weight.font": 457,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 655,
+    "-totalBlockingTime": 441,
+    "-largestContentfulPaint": 652
+  }
+}

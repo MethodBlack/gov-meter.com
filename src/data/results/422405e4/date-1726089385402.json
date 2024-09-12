@@ -1,0 +1,67 @@
+{
+  "url": "https://nia.gov.in/",
+  "requestedUrl": "https://nia.gov.in/",
+  "timestamp": 1726152537959,
+  "ranks": {
+    "hundos": 415,
+    "performance": 323,
+    "accessibility": 389,
+    "cumulative": 414
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.5,
+    "accessibility": 0.75,
+    "bestPractices": 0.7,
+    "seo": 0.71,
+    "total": 266
+  },
+  "firstContentfulPaint": 2803.402,
+  "firstMeaningfulPaint": 4113.603,
+  "speedIndex": 10615.773876953921,
+  "largestContentfulPaint": 9653.4045,
+  "totalBlockingTime": 134.5,
+  "cumulativeLayoutShift": 0.20733916192179078,
+  "timeToInteractive": 9989.703500000001,
+  "maxPotentialFirstInputDelay": 161,
+  "timeToFirstByte": 1559.2610000000002,
+  "weight": {
+    "summary": "78 requests • 9.5 MiB",
+    "total": 9936402,
+    "image": 9043742,
+    "imageCount": 52,
+    "script": 357287,
+    "scriptCount": 8,
+    "document": 30394,
+    "font": 422832,
+    "fontCount": 7,
+    "stylesheet": 82239,
+    "stylesheetCount": 6,
+    "thirdParty": 21693,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 426,
+    "+weight.total": 228,
+    "-weight.document": 258,
+    "+weight.document": 385,
+    "-weight.script": 195,
+    "+weight.script": 401,
+    "-weight.image": 446,
+    "+weight.image": 204,
+    "-weight.font": 426,
+    "+weight.font": 31,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 561,
+    "-totalBlockingTime": 337,
+    "-largestContentfulPaint": 478
+  },
+  "axe": {
+    "passes": 928,
+    "violations": 81
+  }
+}

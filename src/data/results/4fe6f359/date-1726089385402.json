@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ennoreport.gov.in/content/",
+  "requestedUrl": "https://www.ennoreport.gov.in/",
+  "timestamp": 1726128030002,
+  "ranks": {
+    "hundos": 247,
+    "performance": 437,
+    "accessibility": 117,
+    "cumulative": 242
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.39,
+    "accessibility": 0.87,
+    "bestPractices": 0.85,
+    "seo": 0.78,
+    "total": 289
+  },
+  "firstContentfulPaint": 5328.109999999999,
+  "firstMeaningfulPaint": 5328.109999999999,
+  "speedIndex": 7653.897576005176,
+  "largestContentfulPaint": 6313.887499999999,
+  "totalBlockingTime": 11.5,
+  "cumulativeLayoutShift": 0.5361310864319091,
+  "timeToInteractive": 5562.165499999999,
+  "maxPotentialFirstInputDelay": 39.5,
+  "timeToFirstByte": 82.131,
+  "weight": {
+    "summary": "80 requests • 7.5 MiB",
+    "total": 7878513,
+    "image": 6442310,
+    "imageCount": 55,
+    "script": 216799,
+    "scriptCount": 9,
+    "document": 68290,
+    "font": 231225,
+    "fontCount": 4,
+    "stylesheet": 263456,
+    "stylesheetCount": 9,
+    "thirdParty": 1228,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 378,
+    "+weight.total": 276,
+    "-weight.document": 385,
+    "+weight.document": 258,
+    "-weight.script": 88,
+    "+weight.script": 508,
+    "-weight.image": 392,
+    "+weight.image": 258,
+    "-weight.font": 344,
+    "+weight.font": 113,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 98,
+    "-totalBlockingTime": 24,
+    "-largestContentfulPaint": 146
+  },
+  "axe": {
+    "passes": 729,
+    "violations": 43
+  }
+}

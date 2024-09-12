@@ -1,0 +1,67 @@
+{
+  "url": "https://www.stqc.gov.in/",
+  "requestedUrl": "https://www.stqc.gov.in/",
+  "timestamp": 1726156295710,
+  "ranks": {
+    "hundos": 131,
+    "performance": 344,
+    "accessibility": 28,
+    "cumulative": 129
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.48,
+    "accessibility": 0.94,
+    "bestPractices": 0.89,
+    "seo": 0.73,
+    "total": 304
+  },
+  "firstContentfulPaint": 4529.08,
+  "firstMeaningfulPaint": 5004.218,
+  "speedIndex": 6996.205030942064,
+  "largestContentfulPaint": 5305.256,
+  "totalBlockingTime": 159.5,
+  "cumulativeLayoutShift": 0.3036050559348269,
+  "timeToInteractive": 8619.488500000001,
+  "maxPotentialFirstInputDelay": 328,
+  "timeToFirstByte": 128.88599999999997,
+  "weight": {
+    "summary": "112 requests • 3.3 MiB",
+    "total": 3506348,
+    "image": 2652877,
+    "imageCount": 30,
+    "script": 444790,
+    "scriptCount": 19,
+    "document": 15078,
+    "font": 238410,
+    "fontCount": 5,
+    "stylesheet": 155193,
+    "stylesheetCount": 57,
+    "thirdParty": 475462,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 196,
+    "+weight.total": 458,
+    "-weight.document": 99,
+    "+weight.document": 544,
+    "-weight.script": 232,
+    "+weight.script": 364,
+    "-weight.image": 233,
+    "+weight.image": 417,
+    "-weight.font": 348,
+    "+weight.font": 109,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 217,
+    "-totalBlockingTime": 129,
+    "-largestContentfulPaint": 120
+  },
+  "axe": {
+    "passes": 908,
+    "violations": 11
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.psa.gov.in/",
+  "requestedUrl": "https://www.psa.gov.in/",
+  "timestamp": 1726153875775,
+  "ranks": {
+    "hundos": 133,
+    "performance": 335,
+    "accessibility": 145,
+    "cumulative": 134
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.49,
+    "accessibility": 0.85,
+    "bestPractices": 0.85,
+    "seo": 0.85,
+    "total": 304
+  },
+  "firstContentfulPaint": 5172.745000000005,
+  "firstMeaningfulPaint": 8924.431750000003,
+  "speedIndex": 11467.264413336794,
+  "largestContentfulPaint": 7066.405500000002,
+  "totalBlockingTime": 365,
+  "cumulativeLayoutShift": 0.00347588805669534,
+  "timeToInteractive": 18244.90835827637,
+  "maxPotentialFirstInputDelay": 408,
+  "timeToFirstByte": 322.7320000000002,
+  "weight": {
+    "summary": "104 requests • 3.1 MiB",
+    "total": 3228971,
+    "image": 1779943,
+    "imageCount": 30,
+    "script": 1097120,
+    "scriptCount": 45,
+    "document": 57811,
+    "font": 83849,
+    "fontCount": 5,
+    "stylesheet": 209114,
+    "stylesheetCount": 11,
+    "thirdParty": 902524,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 185,
+    "+weight.total": 469,
+    "-weight.document": 360,
+    "+weight.document": 283,
+    "-weight.script": 426,
+    "+weight.script": 170,
+    "-weight.image": 189,
+    "+weight.image": 461,
+    "-weight.font": 125,
+    "+weight.font": 332,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 401,
+    "-totalBlockingTime": 169,
+    "-largestContentfulPaint": 162
+  },
+  "axe": {
+    "passes": 645,
+    "violations": 40
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.hhecworld.com/",
+  "requestedUrl": "https://www.hhecworld.com/",
+  "timestamp": 1726147195493,
+  "ranks": {
+    "hundos": 436,
+    "performance": 166,
+    "accessibility": 375,
+    "cumulative": 436
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.59,
+    "accessibility": 0.75,
+    "bestPractices": 0.44,
+    "seo": 0.86,
+    "total": 264
+  },
+  "firstContentfulPaint": 2595.5165,
+  "firstMeaningfulPaint": 2595.5165,
+  "speedIndex": 6791.993211584829,
+  "largestContentfulPaint": 6327.6135,
+  "totalBlockingTime": 142.5,
+  "cumulativeLayoutShift": 0.16363275733816227,
+  "timeToInteractive": 13933.5165,
+  "maxPotentialFirstInputDelay": 146,
+  "timeToFirstByte": 341.3320000000001,
+  "weight": {
+    "summary": "61 requests • 2.2 MiB",
+    "total": 2319398,
+    "image": 845263,
+    "imageCount": 18,
+    "script": 1221411,
+    "scriptCount": 18,
+    "document": 49119,
+    "font": 99723,
+    "fontCount": 3,
+    "stylesheet": 59752,
+    "stylesheetCount": 7,
+    "thirdParty": 1483046,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 139,
+    "+weight.total": 515,
+    "-weight.document": 321,
+    "+weight.document": 322,
+    "-weight.script": 448,
+    "+weight.script": 148,
+    "-weight.image": 100,
+    "+weight.image": 550,
+    "-weight.font": 154,
+    "+weight.font": 303,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 408,
+    "-totalBlockingTime": 120,
+    "-largestContentfulPaint": 147
+  },
+  "axe": {
+    "passes": 331,
+    "violations": 28
+  }
+}

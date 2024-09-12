@@ -1,0 +1,67 @@
+{
+  "url": "https://peso.gov.in/web/",
+  "requestedUrl": "https://peso.gov.in/",
+  "timestamp": 1726108168334,
+  "ranks": {
+    "hundos": 401,
+    "performance": 352,
+    "accessibility": 362,
+    "cumulative": 402
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.48,
+    "accessibility": 0.76,
+    "bestPractices": 0.67,
+    "seo": 0.77,
+    "total": 268
+  },
+  "firstContentfulPaint": 18899.92500000001,
+  "firstMeaningfulPaint": 18899.92500000001,
+  "speedIndex": 22046.021247340457,
+  "largestContentfulPaint": 21567.380500000017,
+  "totalBlockingTime": 314.5,
+  "cumulativeLayoutShift": 0.023634761157231576,
+  "timeToInteractive": 24802.25200000001,
+  "maxPotentialFirstInputDelay": 156,
+  "timeToFirstByte": 157.162,
+  "weight": {
+    "summary": "166 requests • 4.9 MiB",
+    "total": 5109946,
+    "image": 2300783,
+    "imageCount": 21,
+    "script": 2001472,
+    "scriptCount": 79,
+    "document": 26290,
+    "font": 610804,
+    "fontCount": 3,
+    "stylesheet": 153444,
+    "stylesheetCount": 51,
+    "thirdParty": 613173,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 277,
+    "+weight.total": 377,
+    "-weight.document": 239,
+    "+weight.document": 404,
+    "-weight.script": 523,
+    "+weight.script": 73,
+    "-weight.image": 215,
+    "+weight.image": 435,
+    "-weight.font": 440,
+    "+weight.font": 17,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 274,
+    "-totalBlockingTime": 163,
+    "-largestContentfulPaint": 345
+  },
+  "axe": {
+    "passes": 1850,
+    "violations": 61
+  }
+}

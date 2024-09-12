@@ -1,0 +1,67 @@
+{
+  "url": "https://photodivision.gov.in/",
+  "requestedUrl": "https://photodivision.gov.in/",
+  "timestamp": 1726154225659,
+  "ranks": {
+    "hundos": 616,
+    "performance": 332,
+    "accessibility": 564,
+    "cumulative": 615
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.49,
+    "accessibility": 0.63,
+    "bestPractices": 0.44,
+    "seo": 0.65,
+    "total": 221
+  },
+  "firstContentfulPaint": 7397.129000000001,
+  "firstMeaningfulPaint": 7397.129000000001,
+  "speedIndex": 7836.466101357664,
+  "largestContentfulPaint": 15268.6935,
+  "totalBlockingTime": 25,
+  "cumulativeLayoutShift": 0.17717286421695919,
+  "timeToInteractive": 18572.129,
+  "maxPotentialFirstInputDelay": 82,
+  "timeToFirstByte": 122.02200000000005,
+  "weight": {
+    "summary": "41 requests • 8.0 MiB",
+    "total": 8402921,
+    "image": 7122362,
+    "imageCount": 19,
+    "script": 860550,
+    "scriptCount": 9,
+    "document": 61459,
+    "font": 77875,
+    "fontCount": 1,
+    "stylesheet": 280675,
+    "stylesheetCount": 11,
+    "thirdParty": 0,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 395,
+    "+weight.total": 259,
+    "-weight.document": 366,
+    "+weight.document": 277,
+    "-weight.script": 382,
+    "+weight.script": 214,
+    "-weight.image": 409,
+    "+weight.image": 241,
+    "-weight.font": 96,
+    "+weight.font": 361,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 200,
+    "-totalBlockingTime": 46,
+    "-largestContentfulPaint": 301
+  },
+  "axe": {
+    "passes": 362,
+    "violations": 28
+  }
+}

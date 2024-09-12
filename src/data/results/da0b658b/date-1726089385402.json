@@ -1,0 +1,67 @@
+{
+  "url": "https://www.mstcindia.co.in/",
+  "requestedUrl": "https://www.mstcindia.co.in/",
+  "timestamp": 1726104986702,
+  "ranks": {
+    "hundos": 487,
+    "performance": 610,
+    "accessibility": 534,
+    "cumulative": 486
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.22,
+    "accessibility": 0.67,
+    "bestPractices": 0.89,
+    "seo": 0.8,
+    "total": 258
+  },
+  "firstContentfulPaint": 4503.535,
+  "firstMeaningfulPaint": 4503.535,
+  "speedIndex": 31920.725406367455,
+  "largestContentfulPaint": 60847.63000000009,
+  "totalBlockingTime": 2316.5,
+  "cumulativeLayoutShift": 0.15227800060627653,
+  "timeToInteractive": 46111.94575000004,
+  "maxPotentialFirstInputDelay": 2623,
+  "timeToFirstByte": 143.2500000000001,
+  "weight": {
+    "summary": "505 requests • 31.9 MiB",
+    "total": 33456382,
+    "image": 30762782,
+    "imageCount": 380,
+    "script": 739257,
+    "scriptCount": 27,
+    "document": 281138,
+    "font": 1076175,
+    "fontCount": 12,
+    "stylesheet": 70457,
+    "stylesheetCount": 16,
+    "thirdParty": 14988768,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 602,
+    "+weight.total": 52,
+    "-weight.document": 592,
+    "+weight.document": 51,
+    "-weight.script": 352,
+    "+weight.script": 244,
+    "-weight.image": 604,
+    "+weight.image": 46,
+    "-weight.font": 454,
+    "+weight.font": 3,
+    "+weight.fontCount": 12,
+    "-timeToFirstByte": 246,
+    "-totalBlockingTime": 416,
+    "-largestContentfulPaint": 641
+  },
+  "axe": {
+    "passes": 30653,
+    "violations": 497
+  }
+}

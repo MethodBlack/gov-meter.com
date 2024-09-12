@@ -1,0 +1,67 @@
+{
+  "url": "https://dehuroad.cantt.gov.in/",
+  "requestedUrl": "https://dehuroad.cantt.gov.in/",
+  "timestamp": 1726113681034,
+  "ranks": {
+    "hundos": 343,
+    "performance": 448,
+    "accessibility": 212,
+    "cumulative": 341
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.37,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.83,
+    "total": 276
+  },
+  "firstContentfulPaint": 5045.213750000002,
+  "firstMeaningfulPaint": 5045.213750000002,
+  "speedIndex": 8689.699688056766,
+  "largestContentfulPaint": 5709.193250000002,
+  "totalBlockingTime": 33,
+  "cumulativeLayoutShift": 0.9726054036264667,
+  "timeToInteractive": 9686.794999999995,
+  "maxPotentialFirstInputDelay": 116,
+  "timeToFirstByte": 1159.082,
+  "weight": {
+    "summary": "78 requests • 1.8 MiB",
+    "total": 1925853,
+    "image": 1257738,
+    "imageCount": 18,
+    "script": 346180,
+    "scriptCount": 28,
+    "document": 15068,
+    "font": 78112,
+    "fontCount": 1,
+    "stylesheet": 228755,
+    "stylesheetCount": 30,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 114,
+    "+weight.total": 540,
+    "-weight.document": 98,
+    "+weight.document": 545,
+    "-weight.script": 183,
+    "+weight.script": 413,
+    "-weight.image": 135,
+    "+weight.image": 515,
+    "-weight.font": 100,
+    "+weight.font": 357,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 543,
+    "-totalBlockingTime": 271,
+    "-largestContentfulPaint": 436
+  },
+  "axe": {
+    "passes": 663,
+    "violations": 33
+  }
+}

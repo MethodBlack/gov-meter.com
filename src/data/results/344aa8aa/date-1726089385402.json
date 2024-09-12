@@ -1,0 +1,67 @@
+{
+  "url": "https://www.dvc.gov.in/",
+  "requestedUrl": "https://www.dvc.gov.in/",
+  "timestamp": 1726096449603,
+  "ranks": {
+    "hundos": 111,
+    "performance": 453,
+    "accessibility": 15,
+    "cumulative": 111
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.37,
+    "accessibility": 0.96,
+    "bestPractices": 0.93,
+    "seo": 0.82,
+    "total": 308
+  },
+  "firstContentfulPaint": 2341.781,
+  "firstMeaningfulPaint": 2341.781,
+  "speedIndex": 11031.054897193135,
+  "largestContentfulPaint": 73697.56249999994,
+  "totalBlockingTime": 227,
+  "cumulativeLayoutShift": 0.5514259325755089,
+  "timeToInteractive": 29947.054000000004,
+  "maxPotentialFirstInputDelay": 219,
+  "timeToFirstByte": 1766.0349999999999,
+  "weight": {
+    "summary": "48 requests • 29.7 MiB",
+    "total": 31128275,
+    "image": 29616255,
+    "imageCount": 24,
+    "script": 1147809,
+    "scriptCount": 13,
+    "document": 21309,
+    "font": 262004,
+    "fontCount": 2,
+    "stylesheet": 80898,
+    "stylesheetCount": 8,
+    "thirdParty": 359547,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 597,
+    "+weight.total": 57,
+    "-weight.document": 201,
+    "+weight.document": 442,
+    "-weight.script": 440,
+    "+weight.script": 156,
+    "-weight.image": 603,
+    "+weight.image": 47,
+    "-weight.font": 366,
+    "+weight.font": 91,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 574,
+    "-totalBlockingTime": 347,
+    "-largestContentfulPaint": 643
+  },
+  "axe": {
+    "passes": 900,
+    "violations": 25
+  }
+}

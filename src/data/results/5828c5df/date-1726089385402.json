@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cgsc.in/",
+  "requestedUrl": "https://www.cgsc.in/",
+  "timestamp": 1726093256145,
+  "ranks": {
+    "hundos": 502,
+    "performance": 95,
+    "accessibility": 559,
+    "cumulative": 505
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.71,
+    "accessibility": 0.64,
+    "bestPractices": 0.7,
+    "seo": 0.5,
+    "total": 255
+  },
+  "firstContentfulPaint": 2631.410499999999,
+  "firstMeaningfulPaint": 2732.190999999999,
+  "speedIndex": 9547.99918725208,
+  "largestContentfulPaint": 4099.117999999999,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.11426705339014995,
+  "timeToInteractive": 2732.190999999999,
+  "maxPotentialFirstInputDelay": 44,
+  "timeToFirstByte": 138.00300000000016,
+  "weight": {
+    "summary": "75 requests • 3.3 MiB",
+    "total": 3472563,
+    "image": 3127192,
+    "imageCount": 58,
+    "script": 282683,
+    "scriptCount": 8,
+    "document": 20354,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 42099,
+    "stylesheetCount": 5,
+    "thirdParty": 115252,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 195,
+    "+weight.total": 459,
+    "-weight.document": 188,
+    "+weight.document": 455,
+    "-weight.script": 141,
+    "+weight.script": 455,
+    "-weight.image": 249,
+    "+weight.image": 401,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 235,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 77
+  },
+  "axe": {
+    "passes": 608,
+    "violations": 78
+  }
+}

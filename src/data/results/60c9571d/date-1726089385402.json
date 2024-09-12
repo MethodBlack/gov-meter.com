@@ -1,0 +1,67 @@
+{
+  "url": "https://nzpnewdelhi.gov.in/?ln=en",
+  "requestedUrl": "https://nzpnewdelhi.gov.in/",
+  "timestamp": 1726153285651,
+  "ranks": {
+    "hundos": 350,
+    "performance": 431,
+    "accessibility": 584,
+    "cumulative": 351
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.4,
+    "accessibility": 0.61,
+    "bestPractices": 0.96,
+    "seo": 0.77,
+    "total": 274
+  },
+  "firstContentfulPaint": 2330.0919999999996,
+  "firstMeaningfulPaint": 3910.184,
+  "speedIndex": 28091.837964909006,
+  "largestContentfulPaint": 14160.413999999995,
+  "totalBlockingTime": 30,
+  "cumulativeLayoutShift": 0.6054543903296223,
+  "timeToInteractive": 29679.905500000023,
+  "maxPotentialFirstInputDelay": 86,
+  "timeToFirstByte": 78.502,
+  "weight": {
+    "summary": "87 requests • 8.5 MiB",
+    "total": 8901760,
+    "image": 7049293,
+    "imageCount": 61,
+    "script": 1400826,
+    "scriptCount": 14,
+    "document": 11740,
+    "font": 338556,
+    "fontCount": 5,
+    "stylesheet": 100454,
+    "stylesheetCount": 5,
+    "thirdParty": 31323,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 405,
+    "+weight.total": 249,
+    "-weight.document": 54,
+    "+weight.document": 589,
+    "-weight.script": 479,
+    "+weight.script": 117,
+    "-weight.image": 407,
+    "+weight.image": 243,
+    "-weight.font": 399,
+    "+weight.font": 58,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 85,
+    "-totalBlockingTime": 55,
+    "-largestContentfulPaint": 289
+  },
+  "axe": {
+    "passes": 541,
+    "violations": 55
+  }
+}

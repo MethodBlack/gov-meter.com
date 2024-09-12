@@ -1,0 +1,67 @@
+{
+  "url": "https://ifgtb.icfre.gov.in/",
+  "requestedUrl": "https://ifgtb.icfre.gov.in/",
+  "timestamp": 1726127697281,
+  "ranks": {
+    "hundos": 473,
+    "performance": 280,
+    "accessibility": 626,
+    "cumulative": 473
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.54,
+    "accessibility": 0.55,
+    "bestPractices": 0.85,
+    "seo": 0.65,
+    "total": 259
+  },
+  "firstContentfulPaint": 6446.036,
+  "firstMeaningfulPaint": 6577.1465,
+  "speedIndex": 22982.890560957687,
+  "largestContentfulPaint": 6918.8005,
+  "totalBlockingTime": 28,
+  "cumulativeLayoutShift": 0.1062211655180492,
+  "timeToInteractive": 26772.247500000005,
+  "maxPotentialFirstInputDelay": 81,
+  "timeToFirstByte": 229.45299999999997,
+  "weight": {
+    "summary": "110 requests • 7.7 MiB",
+    "total": 8106235,
+    "image": 6935179,
+    "imageCount": 71,
+    "script": 775017,
+    "scriptCount": 24,
+    "document": 68271,
+    "font": 99682,
+    "fontCount": 3,
+    "stylesheet": 228040,
+    "stylesheetCount": 9,
+    "thirdParty": 317044,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 386,
+    "+weight.total": 268,
+    "-weight.document": 384,
+    "+weight.document": 259,
+    "-weight.script": 363,
+    "+weight.script": 233,
+    "-weight.image": 404,
+    "+weight.image": 246,
+    "-weight.font": 153,
+    "+weight.font": 304,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 349,
+    "-totalBlockingTime": 52,
+    "-largestContentfulPaint": 158
+  },
+  "axe": {
+    "passes": 917,
+    "violations": 74
+  }
+}

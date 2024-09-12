@@ -1,0 +1,67 @@
+{
+  "url": "https://vcrc.icmr.org.in/",
+  "requestedUrl": "https://vcrc.icmr.org.in/",
+  "timestamp": 1726126312715,
+  "ranks": {
+    "hundos": 197,
+    "performance": 397,
+    "accessibility": 47,
+    "cumulative": 192
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.44,
+    "accessibility": 0.92,
+    "bestPractices": 0.74,
+    "seo": 0.86,
+    "total": 296
+  },
+  "firstContentfulPaint": 3790.34,
+  "firstMeaningfulPaint": 3865.34,
+  "speedIndex": 22569.392313006727,
+  "largestContentfulPaint": 16564.99,
+  "totalBlockingTime": 94,
+  "cumulativeLayoutShift": 0.2549261588851817,
+  "timeToInteractive": 34668.34,
+  "maxPotentialFirstInputDelay": 194,
+  "timeToFirstByte": 172.591,
+  "weight": {
+    "summary": "96 requests • 14.7 MiB",
+    "total": 15395951,
+    "image": 14881964,
+    "imageCount": 34,
+    "script": 291600,
+    "scriptCount": 32,
+    "document": 20071,
+    "font": 91067,
+    "fontCount": 2,
+    "stylesheet": 111249,
+    "stylesheetCount": 27,
+    "thirdParty": 1261,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 510,
+    "+weight.total": 144,
+    "-weight.document": 184,
+    "+weight.document": 459,
+    "-weight.script": 146,
+    "+weight.script": 450,
+    "-weight.image": 523,
+    "+weight.image": 127,
+    "-weight.font": 138,
+    "+weight.font": 319,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 298,
+    "-totalBlockingTime": 100,
+    "-largestContentfulPaint": 311
+  },
+  "axe": {
+    "passes": 1767,
+    "violations": 22
+  }
+}

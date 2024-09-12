@@ -1,0 +1,67 @@
+{
+  "url": "https://censusindia.gov.in/census.website/",
+  "requestedUrl": "https://censusindia.gov.in/",
+  "timestamp": 1726107907883,
+  "ranks": {
+    "hundos": 213,
+    "performance": 475,
+    "accessibility": 290,
+    "cumulative": 211
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.36,
+    "accessibility": 0.8,
+    "bestPractices": 0.96,
+    "seo": 0.82,
+    "total": 294
+  },
+  "firstContentfulPaint": 21170.555699999968,
+  "firstMeaningfulPaint": 21170.555699999968,
+  "speedIndex": 33557.86891842381,
+  "largestContentfulPaint": 83729.13619999992,
+  "totalBlockingTime": 509.5,
+  "cumulativeLayoutShift": 0.15592542545793847,
+  "timeToInteractive": 66881.78569999993,
+  "maxPotentialFirstInputDelay": 240,
+  "timeToFirstByte": 112.522,
+  "weight": {
+    "summary": "260 requests • 18.5 MiB",
+    "total": 19429200,
+    "image": 17384499,
+    "imageCount": 71,
+    "script": 801859,
+    "scriptCount": 41,
+    "document": 264264,
+    "font": 583087,
+    "fontCount": 8,
+    "stylesheet": 391846,
+    "stylesheetCount": 132,
+    "thirdParty": 2434370,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 549,
+    "+weight.total": 105,
+    "-weight.document": 589,
+    "+weight.document": 54,
+    "-weight.script": 368,
+    "+weight.script": 228,
+    "-weight.image": 547,
+    "+weight.image": 103,
+    "-weight.font": 438,
+    "+weight.font": 19,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 180,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 414
+  },
+  "axe": {
+    "passes": 5082,
+    "violations": 92
+  }
+}

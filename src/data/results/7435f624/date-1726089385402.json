@@ -1,0 +1,67 @@
+{
+  "url": "https://cexauditjaipur.gov.in/",
+  "requestedUrl": "https://cexauditjaipur.gov.in/",
+  "timestamp": 1726094633198,
+  "ranks": {
+    "hundos": 183,
+    "performance": 312,
+    "accessibility": 397,
+    "cumulative": 186
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.51,
+    "accessibility": 0.74,
+    "bestPractices": 0.89,
+    "seo": 0.83,
+    "total": 297
+  },
+  "firstContentfulPaint": 1934.2925,
+  "firstMeaningfulPaint": 1934.2925,
+  "speedIndex": 6161.2071414421425,
+  "largestContentfulPaint": 5058.4344999999985,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.7028235549859236,
+  "timeToInteractive": 1934.2925,
+  "maxPotentialFirstInputDelay": 32,
+  "timeToFirstByte": 153.1099999999999,
+  "weight": {
+    "summary": "59 requests • 3.9 MiB",
+    "total": 4118798,
+    "image": 3842907,
+    "imageCount": 39,
+    "script": 97167,
+    "scriptCount": 7,
+    "document": 17334,
+    "font": 102207,
+    "fontCount": 4,
+    "stylesheet": 59183,
+    "stylesheetCount": 8,
+    "thirdParty": 114427,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 233,
+    "+weight.total": 421,
+    "-weight.document": 154,
+    "+weight.document": 489,
+    "-weight.script": 29,
+    "+weight.script": 567,
+    "-weight.image": 295,
+    "+weight.image": 355,
+    "-weight.font": 160,
+    "+weight.font": 297,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 268,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 111
+  },
+  "axe": {
+    "passes": 697,
+    "violations": 41
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.imdnagpur.gov.in/Welcome%20To%20RMC%20Nagpur/Welcome.php",
+  "requestedUrl": "https://www.imdnagpur.gov.in/",
+  "timestamp": 1726133505258,
+  "ranks": {
+    "hundos": 614,
+    "performance": 128,
+    "accessibility": 636,
+    "cumulative": 613
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.65,
+    "accessibility": 0.51,
+    "bestPractices": 0.48,
+    "seo": 0.58,
+    "total": 222
+  },
+  "firstContentfulPaint": 1339.683,
+  "firstMeaningfulPaint": 5764.244000000001,
+  "speedIndex": 12700.08678801655,
+  "largestContentfulPaint": 13350.134500000004,
+  "totalBlockingTime": 3.5,
+  "cumulativeLayoutShift": 0.0007060964491248182,
+  "timeToInteractive": 21183.000500000006,
+  "maxPotentialFirstInputDelay": 56,
+  "timeToFirstByte": 65.803,
+  "weight": {
+    "summary": "45 requests • 4.2 MiB",
+    "total": 4394738,
+    "image": 1281734,
+    "imageCount": 28,
+    "script": 1109074,
+    "scriptCount": 7,
+    "document": 1787300,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 216630,
+    "stylesheetCount": 3,
+    "thirdParty": 169060,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 245,
+    "+weight.total": 409,
+    "-weight.document": 638,
+    "+weight.document": 5,
+    "-weight.script": 431,
+    "+weight.script": 165,
+    "-weight.image": 138,
+    "+weight.image": 512,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 52,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 272
+  },
+  "axe": {
+    "passes": 1155,
+    "violations": 53
+  }
+}

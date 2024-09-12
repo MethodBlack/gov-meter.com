@@ -1,0 +1,67 @@
+{
+  "url": "https://steel.gov.in/",
+  "requestedUrl": "https://steel.gov.in/",
+  "timestamp": 1726110441558,
+  "ranks": {
+    "hundos": 123,
+    "performance": 445,
+    "accessibility": 11,
+    "cumulative": 121
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.38,
+    "accessibility": 0.97,
+    "bestPractices": 0.89,
+    "seo": 0.82,
+    "total": 306
+  },
+  "firstContentfulPaint": 7150.4299999999985,
+  "firstMeaningfulPaint": 7150.4299999999985,
+  "speedIndex": 15124.064390690768,
+  "largestContentfulPaint": 19653.845999999994,
+  "totalBlockingTime": 15.5,
+  "cumulativeLayoutShift": 0.3442162982417018,
+  "timeToInteractive": 12416.404999999999,
+  "maxPotentialFirstInputDelay": 70,
+  "timeToFirstByte": 1983.423,
+  "weight": {
+    "summary": "136 requests • 10.2 MiB",
+    "total": 10701669,
+    "image": 9529221,
+    "imageCount": 67,
+    "script": 692882,
+    "scriptCount": 31,
+    "document": 63934,
+    "font": 196203,
+    "fontCount": 9,
+    "stylesheet": 219186,
+    "stylesheetCount": 27,
+    "thirdParty": 760389,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 446,
+    "+weight.total": 208,
+    "-weight.document": 376,
+    "+weight.document": 267,
+    "-weight.script": 341,
+    "+weight.script": 255,
+    "-weight.image": 458,
+    "+weight.image": 192,
+    "-weight.font": 310,
+    "+weight.font": 147,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 586,
+    "-totalBlockingTime": 260,
+    "-largestContentfulPaint": 560
+  },
+  "axe": {
+    "passes": 1471,
+    "violations": 37
+  }
+}

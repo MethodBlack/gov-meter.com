@@ -1,0 +1,67 @@
+{
+  "url": "https://ramgarh.cantt.gov.in/",
+  "requestedUrl": "https://ramgarh.cantt.gov.in/",
+  "timestamp": 1726093129237,
+  "ranks": {
+    "hundos": 364,
+    "performance": 412,
+    "accessibility": 198,
+    "cumulative": 361
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.42,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.75,
+    "total": 273
+  },
+  "firstContentfulPaint": 5125.923750000002,
+  "firstMeaningfulPaint": 5125.923750000002,
+  "speedIndex": 16918.64698889239,
+  "largestContentfulPaint": 37569.55250000001,
+  "totalBlockingTime": 45.5,
+  "cumulativeLayoutShift": 0.2808139491387336,
+  "timeToInteractive": 22784.86125000001,
+  "maxPotentialFirstInputDelay": 141,
+  "timeToFirstByte": 2927.6540000000005,
+  "weight": {
+    "summary": "82 requests • 5.5 MiB",
+    "total": 5733746,
+    "image": 5067075,
+    "imageCount": 23,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 16019,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 225954,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 306,
+    "+weight.total": 348,
+    "-weight.document": 131,
+    "+weight.document": 512,
+    "-weight.script": 185,
+    "+weight.script": 411,
+    "-weight.image": 352,
+    "+weight.image": 298,
+    "-weight.font": 101,
+    "+weight.font": 356,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 620,
+    "-totalBlockingTime": 281,
+    "-largestContentfulPaint": 624
+  },
+  "axe": {
+    "passes": 782,
+    "violations": 28
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://ongcindia.com/",
+  "requestedUrl": "https://www.ongcindia.com/",
+  "timestamp": 1726107948608,
+  "ranks": {
+    "hundos": 250,
+    "performance": 384,
+    "accessibility": 313,
+    "cumulative": 249
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.45,
+    "accessibility": 0.79,
+    "bestPractices": 0.81,
+    "seo": 0.84,
+    "total": 289
+  },
+  "firstContentfulPaint": 6496.459999999999,
+  "firstMeaningfulPaint": 6768.996499999999,
+  "speedIndex": 13675.534795850319,
+  "largestContentfulPaint": 8746.815,
+  "totalBlockingTime": 407.5000000000018,
+  "cumulativeLayoutShift": 0.05851170092377559,
+  "timeToInteractive": 16362.701,
+  "maxPotentialFirstInputDelay": 619.0000000000036,
+  "timeToFirstByte": 341.729,
+  "weight": {
+    "summary": "115 requests • 8.8 MiB",
+    "total": 9192665,
+    "image": 1034821,
+    "imageCount": 40,
+    "script": 1293195,
+    "scriptCount": 45,
+    "document": 35315,
+    "font": 77936,
+    "fontCount": 1,
+    "stylesheet": 229955,
+    "stylesheetCount": 13,
+    "thirdParty": 418040,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 411,
+    "+weight.total": 243,
+    "-weight.document": 275,
+    "+weight.document": 368,
+    "-weight.script": 463,
+    "+weight.script": 133,
+    "-weight.image": 117,
+    "+weight.image": 533,
+    "-weight.font": 99,
+    "+weight.font": 358,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 409,
+    "-totalBlockingTime": 175,
+    "-largestContentfulPaint": 191
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

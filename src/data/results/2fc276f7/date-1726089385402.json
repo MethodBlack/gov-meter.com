@@ -1,0 +1,67 @@
+{
+  "url": "https://nationalarchives.nic.in/",
+  "requestedUrl": "https://nationalarchives.nic.in/",
+  "timestamp": 1726151493408,
+  "ranks": {
+    "hundos": 144,
+    "performance": 345,
+    "accessibility": 9,
+    "cumulative": 140
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.48,
+    "accessibility": 0.98,
+    "bestPractices": 0.74,
+    "seo": 0.83,
+    "total": 303
+  },
+  "firstContentfulPaint": 2959.03,
+  "firstMeaningfulPaint": 2959.0300000000007,
+  "speedIndex": 7873.172442918811,
+  "largestContentfulPaint": 7698.175500000003,
+  "totalBlockingTime": 81.5,
+  "cumulativeLayoutShift": 0.29214693632342587,
+  "timeToInteractive": 6536.30375,
+  "maxPotentialFirstInputDelay": 213,
+  "timeToFirstByte": 2264.29,
+  "weight": {
+    "summary": "54 requests • 5.5 MiB",
+    "total": 5792347,
+    "image": 5217338,
+    "imageCount": 40,
+    "script": 192337,
+    "scriptCount": 5,
+    "document": 21680,
+    "font": 246469,
+    "fontCount": 4,
+    "stylesheet": 114523,
+    "stylesheetCount": 4,
+    "thirdParty": 150265,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 310,
+    "+weight.total": 344,
+    "-weight.document": 206,
+    "+weight.document": 437,
+    "-weight.script": 80,
+    "+weight.script": 516,
+    "-weight.image": 359,
+    "+weight.image": 291,
+    "-weight.font": 354,
+    "+weight.font": 103,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 596,
+    "-totalBlockingTime": 321,
+    "-largestContentfulPaint": 460
+  },
+  "axe": {
+    "passes": 787,
+    "violations": 35
+  }
+}

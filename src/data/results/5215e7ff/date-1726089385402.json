@@ -1,0 +1,67 @@
+{
+  "url": "https://www.hecltd.com/",
+  "requestedUrl": "https://www.hecltd.com/",
+  "timestamp": 1726101289915,
+  "ranks": {
+    "hundos": 296,
+    "performance": 152,
+    "accessibility": 341,
+    "cumulative": 295
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.61,
+    "accessibility": 0.77,
+    "bestPractices": 0.7,
+    "seo": 0.73,
+    "total": 281
+  },
+  "firstContentfulPaint": 3380.2195,
+  "firstMeaningfulPaint": 3380.2195,
+  "speedIndex": 12872.536331808482,
+  "largestContentfulPaint": 5461.5225,
+  "totalBlockingTime": 126,
+  "cumulativeLayoutShift": 0.08388879333381562,
+  "timeToInteractive": 12651.016000000001,
+  "maxPotentialFirstInputDelay": 130,
+  "timeToFirstByte": 878.915,
+  "weight": {
+    "summary": "102 requests • 1.8 MiB",
+    "total": 1900787,
+    "image": 764163,
+    "imageCount": 29,
+    "script": 960297,
+    "scriptCount": 53,
+    "document": 120574,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 54739,
+    "stylesheetCount": 15,
+    "thirdParty": 877461,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 110,
+    "+weight.total": 544,
+    "-weight.document": 459,
+    "+weight.document": 184,
+    "-weight.script": 404,
+    "+weight.script": 192,
+    "-weight.image": 95,
+    "+weight.image": 555,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 507,
+    "-totalBlockingTime": 334,
+    "-largestContentfulPaint": 434
+  },
+  "axe": {
+    "passes": 453,
+    "violations": 44
+  }
+}

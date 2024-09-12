@@ -1,0 +1,66 @@
+{
+  "url": "https://www.celindia.co.in/",
+  "requestedUrl": "https://www.celindia.co.in/",
+  "timestamp": 1726093436097,
+  "ranks": {
+    "hundos": 530,
+    "performance": 439,
+    "accessibility": 450,
+    "cumulative": 529
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.39,
+    "accessibility": 0.72,
+    "bestPractices": 0.74,
+    "seo": 0.64,
+    "total": 249
+  },
+  "firstContentfulPaint": 6122.403,
+  "firstMeaningfulPaint": 6122.403,
+  "speedIndex": 13351.884556191373,
+  "largestContentfulPaint": 25621.218000000026,
+  "totalBlockingTime": 6,
+  "cumulativeLayoutShift": 0.34654657595053207,
+  "timeToInteractive": 14066.0225,
+  "maxPotentialFirstInputDelay": 54,
+  "timeToFirstByte": 139.97000000000003,
+  "weight": {
+    "summary": "52 requests • 54.5 MiB",
+    "total": 57161940,
+    "image": 56041525,
+    "imageCount": 29,
+    "script": 375397,
+    "scriptCount": 7,
+    "document": 77515,
+    "font": 123742,
+    "fontCount": 6,
+    "stylesheet": 546657,
+    "stylesheetCount": 9,
+    "thirdParty": 128660,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 634,
+    "+weight.total": 20,
+    "-weight.document": 402,
+    "+weight.document": 241,
+    "-weight.script": 208,
+    "+weight.script": 388,
+    "-weight.image": 630,
+    "+weight.image": 20,
+    "-weight.font": 200,
+    "+weight.font": 257,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 241,
+    "-totalBlockingTime": 12,
+    "-largestContentfulPaint": 365
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

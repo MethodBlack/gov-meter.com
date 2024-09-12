@@ -1,0 +1,67 @@
+{
+  "url": "https://nsg.gov.in/",
+  "requestedUrl": "https://nsg.gov.in/",
+  "timestamp": 1726106944844,
+  "ranks": {
+    "hundos": 379,
+    "performance": 382,
+    "accessibility": 241,
+    "cumulative": 380
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.45,
+    "accessibility": 0.82,
+    "bestPractices": 0.67,
+    "seo": 0.77,
+    "total": 271
+  },
+  "firstContentfulPaint": 3342.209,
+  "firstMeaningfulPaint": 3342.209,
+  "speedIndex": 12416.53536157756,
+  "largestContentfulPaint": 7271.9794999999995,
+  "totalBlockingTime": 169.5,
+  "cumulativeLayoutShift": 0.26369301878469503,
+  "timeToInteractive": 16558.768000000004,
+  "maxPotentialFirstInputDelay": 167,
+  "timeToFirstByte": 579.4859999999999,
+  "weight": {
+    "summary": "92 requests • 24.4 MiB",
+    "total": 25544030,
+    "image": 24062022,
+    "imageCount": 50,
+    "script": 1029991,
+    "scriptCount": 12,
+    "document": 52284,
+    "font": 238748,
+    "fontCount": 6,
+    "stylesheet": 116491,
+    "stylesheetCount": 9,
+    "thirdParty": 1114778,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 576,
+    "+weight.total": 78,
+    "-weight.document": 338,
+    "+weight.document": 305,
+    "-weight.script": 419,
+    "+weight.script": 177,
+    "-weight.image": 583,
+    "+weight.image": 67,
+    "-weight.font": 349,
+    "+weight.font": 108,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 461,
+    "-totalBlockingTime": 341,
+    "-largestContentfulPaint": 454
+  },
+  "axe": {
+    "passes": 1100,
+    "violations": 45
+  }
+}

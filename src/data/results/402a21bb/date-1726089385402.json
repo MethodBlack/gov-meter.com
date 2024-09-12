@@ -1,0 +1,67 @@
+{
+  "url": "https://www.irel.co.in/",
+  "requestedUrl": "https://www.irel.co.in/",
+  "timestamp": 1726149590679,
+  "ranks": {
+    "hundos": 229,
+    "performance": 324,
+    "accessibility": 320,
+    "cumulative": 253
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.5,
+    "accessibility": 0.78,
+    "bestPractices": 0.85,
+    "seo": 0.75,
+    "total": 292
+  },
+  "firstContentfulPaint": 6624.370499999999,
+  "firstMeaningfulPaint": 6771.370499999999,
+  "speedIndex": 10764.557286509404,
+  "largestContentfulPaint": 8106.446000000001,
+  "totalBlockingTime": 304.5,
+  "cumulativeLayoutShift": 0.010872895671580823,
+  "timeToInteractive": 9394.961,
+  "maxPotentialFirstInputDelay": 294,
+  "timeToFirstByte": 288.85099999999994,
+  "weight": {
+    "summary": "96 requests • 7.7 MiB",
+    "total": 8070069,
+    "image": 6920978,
+    "imageCount": 44,
+    "script": 671911,
+    "scriptCount": 27,
+    "document": 45269,
+    "font": 46645,
+    "fontCount": 5,
+    "stylesheet": 155801,
+    "stylesheetCount": 16,
+    "thirdParty": 29693,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 384,
+    "+weight.total": 270,
+    "-weight.document": 309,
+    "+weight.document": 334,
+    "-weight.script": 325,
+    "+weight.script": 271,
+    "-weight.image": 403,
+    "+weight.image": 247,
+    "-weight.font": 45,
+    "+weight.font": 412,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 381,
+    "-totalBlockingTime": 160,
+    "-largestContentfulPaint": 181
+  },
+  "axe": {
+    "passes": 1638,
+    "violations": 28
+  }
+}

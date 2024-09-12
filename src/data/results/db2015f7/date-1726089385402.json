@@ -1,0 +1,67 @@
+{
+  "url": "https://alimco.in/",
+  "requestedUrl": "https://www.alimco.in/",
+  "timestamp": 1726156582908,
+  "ranks": {
+    "hundos": 522,
+    "performance": 519,
+    "accessibility": 58,
+    "cumulative": 520
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.91,
+    "bestPractices": 0.52,
+    "seo": 0.75,
+    "total": 251
+  },
+  "firstContentfulPaint": 12642.378659999995,
+  "firstMeaningfulPaint": 13856.059379999992,
+  "speedIndex": 18721.426830126227,
+  "largestContentfulPaint": 18255.651989999995,
+  "totalBlockingTime": 715,
+  "cumulativeLayoutShift": 0.12657170538573095,
+  "timeToInteractive": 32988.11054,
+  "maxPotentialFirstInputDelay": 320,
+  "timeToFirstByte": 47.77199999999999,
+  "weight": {
+    "summary": "197 requests • 9.9 MiB",
+    "total": 10379660,
+    "image": 4385292,
+    "imageCount": 80,
+    "script": 2465507,
+    "scriptCount": 45,
+    "document": 101075,
+    "font": 889791,
+    "fontCount": 13,
+    "stylesheet": 2235528,
+    "stylesheetCount": 22,
+    "thirdParty": 3204258,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 6,
+    "total": 6
+  },
+  "sidequests": {
+    "-weight.total": 434,
+    "+weight.total": 220,
+    "-weight.document": 436,
+    "+weight.document": 207,
+    "-weight.script": 547,
+    "+weight.script": 49,
+    "-weight.image": 319,
+    "+weight.image": 331,
+    "-weight.font": 452,
+    "+weight.font": 5,
+    "+weight.fontCount": 11,
+    "-timeToFirstByte": 20,
+    "-totalBlockingTime": 196,
+    "-largestContentfulPaint": 324
+  },
+  "axe": {
+    "passes": 1946,
+    "violations": 23
+  }
+}

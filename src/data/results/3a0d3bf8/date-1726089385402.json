@@ -1,0 +1,67 @@
+{
+  "url": "https://civilaviation.gov.in/",
+  "requestedUrl": "https://civilaviation.gov.in/",
+  "timestamp": 1726115305367,
+  "ranks": {
+    "hundos": 210,
+    "performance": 496,
+    "accessibility": 91,
+    "cumulative": 208
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.89,
+    "bestPractices": 0.93,
+    "seo": 0.78,
+    "total": 294
+  },
+  "firstContentfulPaint": 4191.5255000000025,
+  "firstMeaningfulPaint": 4191.5255000000025,
+  "speedIndex": 9564.021859480828,
+  "largestContentfulPaint": 8095.292000000001,
+  "totalBlockingTime": 416,
+  "cumulativeLayoutShift": 0.2915727583641149,
+  "timeToInteractive": 10957.352750000005,
+  "maxPotentialFirstInputDelay": 246,
+  "timeToFirstByte": 73.46499999999969,
+  "weight": {
+    "summary": "92 requests • 1.3 MiB",
+    "total": 1409730,
+    "image": 667606,
+    "imageCount": 29,
+    "script": 449017,
+    "scriptCount": 13,
+    "document": 128710,
+    "font": 55022,
+    "fontCount": 6,
+    "stylesheet": 107079,
+    "stylesheetCount": 39,
+    "thirdParty": 556274,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 77,
+    "+weight.total": 577,
+    "-weight.document": 470,
+    "+weight.document": 173,
+    "-weight.script": 233,
+    "+weight.script": 363,
+    "-weight.image": 87,
+    "+weight.image": 563,
+    "-weight.font": 52,
+    "+weight.font": 405,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 70,
+    "-totalBlockingTime": 241,
+    "-largestContentfulPaint": 180
+  },
+  "axe": {
+    "passes": 2579,
+    "violations": 57
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://ncfc.gov.in/",
+  "requestedUrl": "https://ncfc.gov.in/",
+  "timestamp": 1726150652272,
+  "ranks": {
+    "hundos": 99,
+    "performance": 200,
+    "accessibility": 431,
+    "cumulative": 100
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.57,
+    "accessibility": 0.73,
+    "bestPractices": 0.89,
+    "seo": 0.92,
+    "total": 311
+  },
+  "firstContentfulPaint": 4101.798500000001,
+  "firstMeaningfulPaint": 4519.077500000001,
+  "speedIndex": 14698.132371295465,
+  "largestContentfulPaint": 28668.947500000006,
+  "totalBlockingTime": 4.5,
+  "cumulativeLayoutShift": 0.0015651363772724235,
+  "timeToInteractive": 15398.274500000007,
+  "maxPotentialFirstInputDelay": 59,
+  "timeToFirstByte": 137.62799999999993,
+  "weight": {
+    "summary": "59 requests • 9.7 MiB",
+    "total": 10156065,
+    "image": 9049615,
+    "imageCount": 20,
+    "script": 534577,
+    "scriptCount": 19,
+    "document": 45949,
+    "font": 134226,
+    "fontCount": 7,
+    "stylesheet": 383404,
+    "stylesheetCount": 11,
+    "thirdParty": 67198,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 431,
+    "+weight.total": 223,
+    "-weight.document": 313,
+    "+weight.document": 330,
+    "-weight.script": 264,
+    "+weight.script": 332,
+    "-weight.image": 447,
+    "+weight.image": 203,
+    "-weight.font": 219,
+    "+weight.font": 238,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 233,
+    "-totalBlockingTime": 10,
+    "-largestContentfulPaint": 377
+  },
+  "axe": {
+    "passes": 889,
+    "violations": 68
+  }
+}

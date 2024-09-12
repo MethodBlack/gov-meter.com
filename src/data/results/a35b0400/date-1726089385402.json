@@ -1,0 +1,67 @@
+{
+  "url": "https://caaa.gov.in/",
+  "requestedUrl": "https://caaa.gov.in/",
+  "timestamp": 1726111613869,
+  "ranks": {
+    "hundos": 267,
+    "performance": 192,
+    "accessibility": 615,
+    "cumulative": 267
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.57,
+    "accessibility": 0.57,
+    "bestPractices": 0.93,
+    "seo": 0.79,
+    "total": 286
+  },
+  "firstContentfulPaint": 6016.317,
+  "firstMeaningfulPaint": 6466.317,
+  "speedIndex": 8417.675864007166,
+  "largestContentfulPaint": 8416.317,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.07163580974301585,
+  "timeToInteractive": 6466.317,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 258.80899999999974,
+  "weight": {
+    "summary": "64 requests • 2.3 MiB",
+    "total": 2414976,
+    "image": 1271778,
+    "imageCount": 30,
+    "script": 412932,
+    "scriptCount": 13,
+    "document": 53527,
+    "font": 138040,
+    "fontCount": 5,
+    "stylesheet": 538699,
+    "stylesheetCount": 15,
+    "thirdParty": 43551,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 145,
+    "+weight.total": 509,
+    "-weight.document": 345,
+    "+weight.document": 298,
+    "-weight.script": 225,
+    "+weight.script": 371,
+    "-weight.image": 137,
+    "+weight.image": 513,
+    "-weight.font": 230,
+    "+weight.font": 227,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 368,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 187
+  },
+  "axe": {
+    "passes": 761,
+    "violations": 77
+  }
+}

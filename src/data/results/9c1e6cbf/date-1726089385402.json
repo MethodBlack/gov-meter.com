@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cimap.res.in/pages/AdminHomePage.aspx",
+  "requestedUrl": "https://www.cimap.res.in/",
+  "timestamp": 1726116298026,
+  "ranks": {
+    "hundos": 612,
+    "performance": 310,
+    "accessibility": 530,
+    "cumulative": 611
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.52,
+    "accessibility": 0.67,
+    "bestPractices": 0.44,
+    "seo": 0.6,
+    "total": 223
+  },
+  "firstContentfulPaint": 8470.526000000002,
+  "firstMeaningfulPaint": 8470.526000000002,
+  "speedIndex": 18022.214755185974,
+  "largestContentfulPaint": 10800.315750000002,
+  "totalBlockingTime": 191,
+  "cumulativeLayoutShift": 0.03322996271390793,
+  "timeToInteractive": 23599.94325,
+  "maxPotentialFirstInputDelay": 142,
+  "timeToFirstByte": 79.23100000000001,
+  "weight": {
+    "summary": "248 requests • 12.7 MiB",
+    "total": 13365729,
+    "image": 9672664,
+    "imageCount": 118,
+    "script": 1807092,
+    "scriptCount": 54,
+    "document": 79058,
+    "font": 161074,
+    "fontCount": 10,
+    "stylesheet": 150540,
+    "stylesheetCount": 27,
+    "thirdParty": 4681144,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 478,
+    "+weight.total": 176,
+    "-weight.document": 408,
+    "+weight.document": 235,
+    "-weight.script": 512,
+    "+weight.script": 84,
+    "-weight.image": 460,
+    "+weight.image": 190,
+    "-weight.font": 263,
+    "+weight.font": 194,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 87,
+    "-totalBlockingTime": 138,
+    "-largestContentfulPaint": 227
+  },
+  "axe": {
+    "passes": 1712,
+    "violations": 122
+  }
+}

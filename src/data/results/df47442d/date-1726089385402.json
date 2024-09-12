@@ -1,0 +1,67 @@
+{
+  "url": "https://patna.idtr.gov.in/",
+  "requestedUrl": "https://patna.idtr.gov.in/",
+  "timestamp": 1726156727811,
+  "ranks": {
+    "hundos": 280,
+    "performance": 470,
+    "accessibility": 386,
+    "cumulative": 278
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.36,
+    "accessibility": 0.75,
+    "bestPractices": 0.96,
+    "seo": 0.77,
+    "total": 284
+  },
+  "firstContentfulPaint": 7367.7695,
+  "firstMeaningfulPaint": 7367.7695,
+  "speedIndex": 11731.173050012687,
+  "largestContentfulPaint": 8953.475,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.4474103888213852,
+  "timeToInteractive": 7367.7695,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 313.328,
+  "weight": {
+    "summary": "35 requests • 1.7 MiB",
+    "total": 1797537,
+    "image": 867265,
+    "imageCount": 8,
+    "script": 685310,
+    "scriptCount": 14,
+    "document": 31650,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 210859,
+    "stylesheetCount": 2,
+    "thirdParty": 835782,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 102,
+    "+weight.total": 552,
+    "-weight.document": 261,
+    "+weight.document": 382,
+    "-weight.script": 330,
+    "+weight.script": 266,
+    "-weight.image": 104,
+    "+weight.image": 546,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 392,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 196
+  },
+  "axe": {
+    "passes": 593,
+    "violations": 64
+  }
+}

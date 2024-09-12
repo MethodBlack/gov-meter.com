@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cift.res.in/",
+  "requestedUrl": "https://www.cift.res.in/",
+  "timestamp": 1726147675727,
+  "ranks": {
+    "hundos": 286,
+    "performance": 539,
+    "accessibility": 330,
+    "cumulative": 288
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.32,
+    "accessibility": 0.78,
+    "bestPractices": 0.89,
+    "seo": 0.83,
+    "total": 282
+  },
+  "firstContentfulPaint": 4755.082,
+  "firstMeaningfulPaint": 4755.082,
+  "speedIndex": 30063.357875403042,
+  "largestContentfulPaint": 17991.085999999996,
+  "totalBlockingTime": 10.5,
+  "cumulativeLayoutShift": 0.9224140760272428,
+  "timeToInteractive": 31539.795999999995,
+  "maxPotentialFirstInputDelay": 70,
+  "timeToFirstByte": 203.264,
+  "weight": {
+    "summary": "128 requests • 13.8 MiB",
+    "total": 14446281,
+    "image": 12983065,
+    "imageCount": 96,
+    "script": 720761,
+    "scriptCount": 15,
+    "document": 193271,
+    "font": 200030,
+    "fontCount": 3,
+    "stylesheet": 348237,
+    "stylesheetCount": 9,
+    "thirdParty": 288011,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 498,
+    "+weight.total": 156,
+    "-weight.document": 545,
+    "+weight.document": 98,
+    "-weight.script": 347,
+    "+weight.script": 249,
+    "-weight.image": 506,
+    "+weight.image": 144,
+    "-weight.font": 317,
+    "+weight.font": 140,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 330,
+    "-totalBlockingTime": 22,
+    "-largestContentfulPaint": 322
+  },
+  "axe": {
+    "passes": 2248,
+    "violations": 67
+  }
+}

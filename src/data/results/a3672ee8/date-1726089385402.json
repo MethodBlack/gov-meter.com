@@ -1,0 +1,67 @@
+{
+  "url": "https://www.niist.res.in/",
+  "requestedUrl": "https://www.niist.res.in/",
+  "timestamp": 1726096001963,
+  "ranks": {
+    "hundos": 541,
+    "performance": 434,
+    "accessibility": 461,
+    "cumulative": 539
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.4,
+    "accessibility": 0.71,
+    "bestPractices": 0.74,
+    "seo": 0.62,
+    "total": 247
+  },
+  "firstContentfulPaint": 5139.027000000001,
+  "firstMeaningfulPaint": 5139.027000000001,
+  "speedIndex": 75961.33053708333,
+  "largestContentfulPaint": 26436.202500000003,
+  "totalBlockingTime": 227.5,
+  "cumulativeLayoutShift": 0.24087555678259756,
+  "timeToInteractive": 96629.75749999998,
+  "maxPotentialFirstInputDelay": 158,
+  "timeToFirstByte": 127.64899999999989,
+  "weight": {
+    "summary": "250 requests • 60.3 MiB",
+    "total": 63209140,
+    "image": 61865782,
+    "imageCount": 150,
+    "script": 987016,
+    "scriptCount": 49,
+    "document": 146563,
+    "font": 77836,
+    "fontCount": 1,
+    "stylesheet": 100201,
+    "stylesheetCount": 40,
+    "thirdParty": 1873101,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 637,
+    "+weight.total": 17,
+    "-weight.document": 499,
+    "+weight.document": 144,
+    "-weight.script": 409,
+    "+weight.script": 187,
+    "-weight.image": 632,
+    "+weight.image": 18,
+    "-weight.font": 92,
+    "+weight.font": 365,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 215,
+    "-totalBlockingTime": 147,
+    "-largestContentfulPaint": 370
+  },
+  "axe": {
+    "passes": 2118,
+    "violations": 74
+  }
+}

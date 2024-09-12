@@ -1,0 +1,67 @@
+{
+  "url": "https://mausam.imd.gov.in/dehradun/",
+  "requestedUrl": "https://mausam.imd.gov.in/dehradun",
+  "timestamp": 1726104722377,
+  "ranks": {
+    "hundos": 175,
+    "performance": 169,
+    "accessibility": 464,
+    "cumulative": 181
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.59,
+    "accessibility": 0.71,
+    "bestPractices": 0.89,
+    "seo": 0.79,
+    "total": 298
+  },
+  "firstContentfulPaint": 4486.048499999999,
+  "firstMeaningfulPaint": 4486.048499999999,
+  "speedIndex": 7267.838883695497,
+  "largestContentfulPaint": 25082.125,
+  "totalBlockingTime": 45.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 8595.313,
+  "maxPotentialFirstInputDelay": 81,
+  "timeToFirstByte": 181.89100000000002,
+  "weight": {
+    "summary": "54 requests • 3.5 MiB",
+    "total": 3716554,
+    "image": 2846123,
+    "imageCount": 31,
+    "script": 612512,
+    "scriptCount": 11,
+    "document": 56462,
+    "font": 74937,
+    "fontCount": 1,
+    "stylesheet": 125442,
+    "stylesheetCount": 4,
+    "thirdParty": 700598,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 203,
+    "+weight.total": 451,
+    "-weight.document": 357,
+    "+weight.document": 286,
+    "-weight.script": 293,
+    "+weight.script": 303,
+    "-weight.image": 241,
+    "+weight.image": 409,
+    "-weight.font": 75,
+    "+weight.font": 382,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 311,
+    "-totalBlockingTime": 68,
+    "-largestContentfulPaint": 362
+  },
+  "axe": {
+    "passes": 1273,
+    "violations": 87
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://mdoner.gov.in/",
+  "requestedUrl": "https://mdoner.gov.in/",
+  "timestamp": 1726098107718,
+  "ranks": {
+    "hundos": 464,
+    "performance": 520,
+    "accessibility": 250,
+    "cumulative": 464
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.72,
+    "total": 261
+  },
+  "firstContentfulPaint": 2588.4269999999997,
+  "firstMeaningfulPaint": 4837.0095,
+  "speedIndex": 28881.707964079866,
+  "largestContentfulPaint": 33189.451,
+  "totalBlockingTime": 2667.999999999998,
+  "cumulativeLayoutShift": 0.024263593271116997,
+  "timeToInteractive": 33063.1655,
+  "maxPotentialFirstInputDelay": 2443.9999999999964,
+  "timeToFirstByte": 953.673,
+  "weight": {
+    "summary": "361 requests • 20.2 MiB",
+    "total": 21166908,
+    "image": 16541314,
+    "imageCount": 212,
+    "script": 2044478,
+    "scriptCount": 95,
+    "document": 214673,
+    "font": 610475,
+    "fontCount": 5,
+    "stylesheet": 75429,
+    "stylesheetCount": 15,
+    "thirdParty": 18275680,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 557,
+    "+weight.total": 97,
+    "-weight.document": 562,
+    "+weight.document": 81,
+    "-weight.script": 527,
+    "+weight.script": 69,
+    "-weight.image": 534,
+    "+weight.image": 116,
+    "-weight.font": 439,
+    "+weight.font": 18,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 519,
+    "-totalBlockingTime": 421,
+    "-largestContentfulPaint": 616
+  },
+  "axe": {
+    "passes": 24269,
+    "violations": 142
+  }
+}

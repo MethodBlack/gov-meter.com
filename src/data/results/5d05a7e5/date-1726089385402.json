@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ndrf.gov.in/",
+  "requestedUrl": "https://www.ndrf.gov.in/",
+  "timestamp": 1726129831708,
+  "ranks": {
+    "hundos": 578,
+    "performance": 424,
+    "accessibility": 557,
+    "cumulative": 576
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.41,
+    "accessibility": 0.64,
+    "bestPractices": 0.52,
+    "seo": 0.8,
+    "total": 237
+  },
+  "firstContentfulPaint": 6164.2840000000015,
+  "firstMeaningfulPaint": 6164.2840000000015,
+  "speedIndex": 24374.60900707299,
+  "largestContentfulPaint": 83417.10299999994,
+  "totalBlockingTime": 231.5,
+  "cumulativeLayoutShift": 0.21447349918388878,
+  "timeToInteractive": 58709.25949999997,
+  "maxPotentialFirstInputDelay": 176,
+  "timeToFirstByte": 1644.483,
+  "weight": {
+    "summary": "121 requests • 28.5 MiB",
+    "total": 29841908,
+    "image": 28258150,
+    "imageCount": 62,
+    "script": 1139461,
+    "scriptCount": 16,
+    "document": 92769,
+    "font": 48143,
+    "fontCount": 3,
+    "stylesheet": 258349,
+    "stylesheetCount": 24,
+    "thirdParty": 1172101,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 592,
+    "+weight.total": 62,
+    "-weight.document": 426,
+    "+weight.document": 217,
+    "-weight.script": 439,
+    "+weight.script": 157,
+    "-weight.image": 593,
+    "+weight.image": 57,
+    "-weight.font": 46,
+    "+weight.font": 411,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 566,
+    "-totalBlockingTime": 348,
+    "-largestContentfulPaint": 644
+  },
+  "axe": {
+    "passes": 1330,
+    "violations": 58
+  }
+}

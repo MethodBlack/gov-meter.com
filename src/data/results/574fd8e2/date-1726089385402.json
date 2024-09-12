@@ -1,0 +1,66 @@
+{
+  "url": "https://bcplonline.co.in/",
+  "requestedUrl": "https://bcplonline.co.in/",
+  "timestamp": 1726113124045,
+  "ranks": {
+    "hundos": 235,
+    "performance": 289,
+    "accessibility": 561,
+    "cumulative": 232
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.54,
+    "accessibility": 0.64,
+    "bestPractices": 0.93,
+    "seo": 0.79,
+    "total": 290
+  },
+  "firstContentfulPaint": 7265.41,
+  "firstMeaningfulPaint": 7491.532999999999,
+  "speedIndex": 46303.03887512418,
+  "largestContentfulPaint": 11127.896499999999,
+  "totalBlockingTime": 110.5,
+  "cumulativeLayoutShift": 0.05063270581947621,
+  "timeToInteractive": 98263.51799999998,
+  "maxPotentialFirstInputDelay": 161,
+  "timeToFirstByte": 339.70400000000006,
+  "weight": {
+    "summary": "90 requests • 68.8 MiB",
+    "total": 72179561,
+    "image": 70784125,
+    "imageCount": 69,
+    "script": 739847,
+    "scriptCount": 11,
+    "document": 243753,
+    "font": 91396,
+    "fontCount": 2,
+    "stylesheet": 320440,
+    "stylesheetCount": 7,
+    "thirdParty": 104609,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 641,
+    "+weight.total": 13,
+    "-weight.document": 580,
+    "+weight.document": 63,
+    "-weight.script": 353,
+    "+weight.script": 243,
+    "-weight.image": 637,
+    "+weight.image": 13,
+    "-weight.font": 139,
+    "+weight.font": 318,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 407,
+    "-totalBlockingTime": 106,
+    "-largestContentfulPaint": 232
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

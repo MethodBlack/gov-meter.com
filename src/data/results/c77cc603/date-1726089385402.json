@@ -1,0 +1,67 @@
+{
+  "url": "https://ueppcb.uk.gov.in/",
+  "requestedUrl": "https://ueppcb.uk.gov.in/",
+  "timestamp": 1726156994137,
+  "ranks": {
+    "hundos": 48,
+    "performance": 45,
+    "accessibility": 146,
+    "cumulative": 48
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.84,
+    "accessibility": 0.85,
+    "bestPractices": 0.74,
+    "seo": 0.8,
+    "total": 323
+  },
+  "firstContentfulPaint": 2686.253,
+  "firstMeaningfulPaint": 2686.253,
+  "speedIndex": 4969.978471907613,
+  "largestContentfulPaint": 3066.2530000000006,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.09552645014676223,
+  "timeToInteractive": 2686.253,
+  "maxPotentialFirstInputDelay": 43,
+  "timeToFirstByte": 307.5139999999999,
+  "weight": {
+    "summary": "51 requests • 320.4 KiB",
+    "total": 328093,
+    "image": 42080,
+    "imageCount": 27,
+    "script": 118590,
+    "scriptCount": 7,
+    "document": 37475,
+    "font": 77916,
+    "fontCount": 1,
+    "stylesheet": 52032,
+    "stylesheetCount": 15,
+    "thirdParty": 84217,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 19,
+    "+weight.total": 635,
+    "-weight.document": 286,
+    "+weight.document": 357,
+    "-weight.script": 41,
+    "+weight.script": 555,
+    "-weight.image": 16,
+    "+weight.image": 634,
+    "-weight.font": 98,
+    "+weight.font": 359,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 389,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 51
+  },
+  "axe": {
+    "passes": 721,
+    "violations": 50
+  }
+}

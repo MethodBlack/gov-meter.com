@@ -1,0 +1,67 @@
+{
+  "url": "https://mausam.imd.gov.in/bhubaneswar/",
+  "requestedUrl": "https://mausam.imd.gov.in/bhubaneswar",
+  "timestamp": 1726104690533,
+  "ranks": {
+    "hundos": 207,
+    "performance": 168,
+    "accessibility": 529,
+    "cumulative": 210
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.59,
+    "accessibility": 0.67,
+    "bestPractices": 0.89,
+    "seo": 0.79,
+    "total": 294
+  },
+  "firstContentfulPaint": 4757.4439999999995,
+  "firstMeaningfulPaint": 4757.4439999999995,
+  "speedIndex": 7212.129975509532,
+  "largestContentfulPaint": 17016.342500000002,
+  "totalBlockingTime": 10.5,
+  "cumulativeLayoutShift": 0.00004089649278006368,
+  "timeToInteractive": 8926.774,
+  "maxPotentialFirstInputDelay": 61,
+  "timeToFirstByte": 172.449,
+  "weight": {
+    "summary": "54 requests • 1.9 MiB",
+    "total": 1963719,
+    "image": 1097316,
+    "imageCount": 31,
+    "script": 612582,
+    "scriptCount": 11,
+    "document": 52363,
+    "font": 74939,
+    "fontCount": 1,
+    "stylesheet": 125438,
+    "stylesheetCount": 4,
+    "thirdParty": 700665,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 116,
+    "+weight.total": 538,
+    "-weight.document": 339,
+    "+weight.document": 304,
+    "-weight.script": 298,
+    "+weight.script": 298,
+    "-weight.image": 123,
+    "+weight.image": 527,
+    "-weight.font": 76,
+    "+weight.font": 381,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 297,
+    "-totalBlockingTime": 22,
+    "-largestContentfulPaint": 315
+  },
+  "axe": {
+    "passes": 1204,
+    "violations": 85
+  }
+}

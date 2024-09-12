@@ -1,0 +1,67 @@
+{
+  "url": "https://pune.cantt.gov.in/",
+  "requestedUrl": "https://pune.cantt.gov.in/",
+  "timestamp": 1726093111066,
+  "ranks": {
+    "hundos": 330,
+    "performance": 467,
+    "accessibility": 160,
+    "cumulative": 331
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.36,
+    "accessibility": 0.84,
+    "bestPractices": 0.74,
+    "seo": 0.83,
+    "total": 277
+  },
+  "firstContentfulPaint": 5134.521000000003,
+  "firstMeaningfulPaint": 5134.521000000003,
+  "speedIndex": 10701.114921951648,
+  "largestContentfulPaint": 5925.379500000005,
+  "totalBlockingTime": 40.5,
+  "cumulativeLayoutShift": 1.0340866991213264,
+  "timeToInteractive": 11153.27050000001,
+  "maxPotentialFirstInputDelay": 77.5,
+  "timeToFirstByte": 961.8330000000001,
+  "weight": {
+    "summary": "73 requests • 2.2 MiB",
+    "total": 2263584,
+    "image": 1600742,
+    "imageCount": 14,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 14999,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 223145,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 135,
+    "+weight.total": 519,
+    "-weight.document": 95,
+    "+weight.document": 548,
+    "-weight.script": 185,
+    "+weight.script": 411,
+    "-weight.image": 177,
+    "+weight.image": 473,
+    "-weight.font": 101,
+    "+weight.font": 356,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 521,
+    "-totalBlockingTime": 274,
+    "-largestContentfulPaint": 439
+  },
+  "axe": {
+    "passes": 696,
+    "violations": 41
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.srpc.kar.nic.in/html/index.html",
+  "requestedUrl": "https://srpc.kar.nic.in/",
+  "timestamp": 1726156146500,
+  "ranks": {
+    "hundos": 617,
+    "performance": 331,
+    "accessibility": 476,
+    "cumulative": 616
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.49,
+    "accessibility": 0.7,
+    "bestPractices": 0.44,
+    "seo": 0.58,
+    "total": 221
+  },
+  "firstContentfulPaint": 1987.6029200000003,
+  "firstMeaningfulPaint": 1987.6029200000003,
+  "speedIndex": 3606.2689217881875,
+  "largestContentfulPaint": 5587.60292,
+  "totalBlockingTime": 1174.5,
+  "cumulativeLayoutShift": 0.11579974274470368,
+  "timeToInteractive": 18303.60292,
+  "maxPotentialFirstInputDelay": 2031,
+  "timeToFirstByte": 151.613,
+  "weight": {
+    "summary": "95 requests • 4.4 MiB",
+    "total": 4565078,
+    "image": 3229664,
+    "imageCount": 26,
+    "script": 851912,
+    "scriptCount": 19,
+    "document": 29886,
+    "font": 115084,
+    "fontCount": 3,
+    "stylesheet": 243699,
+    "stylesheetCount": 36,
+    "thirdParty": 319754,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 256,
+    "+weight.total": 398,
+    "-weight.document": 256,
+    "+weight.document": 387,
+    "-weight.script": 379,
+    "+weight.script": 217,
+    "-weight.image": 259,
+    "+weight.image": 391,
+    "-weight.font": 183,
+    "+weight.font": 274,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 264,
+    "-totalBlockingTime": 222,
+    "-largestContentfulPaint": 133
+  },
+  "axe": {
+    "passes": 725,
+    "violations": 37
+  }
+}

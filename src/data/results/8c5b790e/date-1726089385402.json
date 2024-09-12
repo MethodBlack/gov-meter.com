@@ -1,0 +1,67 @@
+{
+  "url": "http://103.154.2.115/~nationalseedscor/dev/",
+  "requestedUrl": "https://www.indiaseeds.com/",
+  "timestamp": 1726153020728,
+  "ranks": {
+    "hundos": 642,
+    "performance": 474,
+    "accessibility": 610,
+    "cumulative": 642
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.36,
+    "accessibility": 0.58,
+    "bestPractices": 0.67,
+    "seo": 0.42,
+    "total": 203
+  },
+  "firstContentfulPaint": 3065.49,
+  "firstMeaningfulPaint": 8025.8585,
+  "speedIndex": 18287.790079985098,
+  "largestContentfulPaint": 15767.974999999995,
+  "totalBlockingTime": 1139.999999999999,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 26007.972249999977,
+  "maxPotentialFirstInputDelay": 1157.9999999999955,
+  "timeToFirstByte": 181.42,
+  "weight": {
+    "summary": "257 requests • 6.6 MiB",
+    "total": 6927040,
+    "image": 4115486,
+    "imageCount": 178,
+    "script": 1317448,
+    "scriptCount": 43,
+    "document": 400184,
+    "font": 371496,
+    "fontCount": 7,
+    "stylesheet": 608304,
+    "stylesheetCount": 19,
+    "thirdParty": 2947286,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 357,
+    "+weight.total": 297,
+    "-weight.document": 621,
+    "+weight.document": 22,
+    "-weight.script": 467,
+    "+weight.script": 129,
+    "-weight.image": 308,
+    "+weight.image": 342,
+    "-weight.font": 414,
+    "+weight.font": 43,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 310,
+    "-totalBlockingTime": 220,
+    "-largestContentfulPaint": 307
+  },
+  "axe": {
+    "passes": 29794,
+    "violations": 836
+  }
+}

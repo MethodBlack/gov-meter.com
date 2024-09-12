@@ -1,0 +1,67 @@
+{
+  "url": "https://ucil.gov.in/",
+  "requestedUrl": "https://ucil.gov.in/",
+  "timestamp": 1726135420253,
+  "ranks": {
+    "hundos": 174,
+    "performance": 67,
+    "accessibility": 624,
+    "cumulative": 180
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.77,
+    "accessibility": 0.55,
+    "bestPractices": 0.93,
+    "seo": 0.73,
+    "total": 298
+  },
+  "firstContentfulPaint": 2169.6499999999996,
+  "firstMeaningfulPaint": 2169.6499999999996,
+  "speedIndex": 4237.351259996921,
+  "largestContentfulPaint": 4604.474999999999,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.09072917297207117,
+  "timeToInteractive": 2169.6499999999996,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 84.10699999999997,
+  "weight": {
+    "summary": "58 requests • 5.7 MiB",
+    "total": 6016910,
+    "image": 5843682,
+    "imageCount": 52,
+    "script": 144477,
+    "scriptCount": 2,
+    "document": 12324,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 16427,
+    "stylesheetCount": 3,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 332,
+    "+weight.total": 322,
+    "-weight.document": 66,
+    "+weight.document": 577,
+    "-weight.script": 54,
+    "+weight.script": 542,
+    "-weight.image": 374,
+    "+weight.image": 276,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 107,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 94
+  },
+  "axe": {
+    "passes": 1134,
+    "violations": 52
+  }
+}

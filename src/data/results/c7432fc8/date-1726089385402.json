@@ -1,0 +1,66 @@
+{
+  "url": "https://hwr.bhel.com/bhelweb/",
+  "requestedUrl": "https://hwr.bhel.com/",
+  "timestamp": 1726091884943,
+  "ranks": {
+    "hundos": 122,
+    "performance": 466,
+    "accessibility": 94,
+    "cumulative": 122
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.36,
+    "accessibility": 0.89,
+    "bestPractices": 0.89,
+    "seo": 0.92,
+    "total": 306
+  },
+  "firstContentfulPaint": 8248.064,
+  "firstMeaningfulPaint": 8248.064,
+  "speedIndex": 10004.625650001528,
+  "largestContentfulPaint": 11416.207999999999,
+  "totalBlockingTime": 13,
+  "cumulativeLayoutShift": 0.4311240622288258,
+  "timeToInteractive": 8248.064,
+  "maxPotentialFirstInputDelay": 76,
+  "timeToFirstByte": 573.8050000000001,
+  "weight": {
+    "summary": "66 requests • 4.2 MiB",
+    "total": 4415241,
+    "image": 2719831,
+    "imageCount": 44,
+    "script": 657543,
+    "scriptCount": 9,
+    "document": 63712,
+    "font": 247534,
+    "fontCount": 3,
+    "stylesheet": 726621,
+    "stylesheetCount": 8,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 247,
+    "+weight.total": 407,
+    "-weight.document": 375,
+    "+weight.document": 268,
+    "-weight.script": 318,
+    "+weight.script": 278,
+    "-weight.image": 237,
+    "+weight.image": 413,
+    "-weight.font": 355,
+    "+weight.font": 102,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 459,
+    "-totalBlockingTime": 257,
+    "-largestContentfulPaint": 498
+  },
+  "axe": {
+    "error": "{}"
+  }
+}

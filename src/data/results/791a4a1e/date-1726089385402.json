@@ -1,0 +1,66 @@
+{
+  "url": "https://mpa.gov.in/",
+  "requestedUrl": "https://mpa.gov.in/",
+  "timestamp": 1726108069961,
+  "ranks": {
+    "hundos": 162,
+    "performance": 429,
+    "accessibility": 79,
+    "cumulative": 162
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.4,
+    "accessibility": 0.9,
+    "bestPractices": 0.89,
+    "seo": 0.81,
+    "total": 300
+  },
+  "firstContentfulPaint": 7065.841500000002,
+  "firstMeaningfulPaint": 7065.841500000002,
+  "speedIndex": 24104.79129697338,
+  "largestContentfulPaint": 13291.155000000004,
+  "totalBlockingTime": 226.5,
+  "cumulativeLayoutShift": 0.2270478691881204,
+  "timeToInteractive": 18728.543750000008,
+  "maxPotentialFirstInputDelay": 327,
+  "timeToFirstByte": 6676.102000000001,
+  "weight": {
+    "summary": "203 requests • 5.8 MiB",
+    "total": 6054215,
+    "image": 4634143,
+    "imageCount": 120,
+    "script": 896448,
+    "scriptCount": 43,
+    "document": 201592,
+    "font": 78405,
+    "fontCount": 5,
+    "stylesheet": 235907,
+    "stylesheetCount": 29,
+    "thirdParty": 3347692,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 334,
+    "+weight.total": 320,
+    "-weight.document": 552,
+    "+weight.document": 91,
+    "-weight.script": 392,
+    "+weight.script": 204,
+    "-weight.image": 336,
+    "+weight.image": 314,
+    "-weight.font": 105,
+    "+weight.font": 352,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 646,
+    "-totalBlockingTime": 346,
+    "-largestContentfulPaint": 511
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

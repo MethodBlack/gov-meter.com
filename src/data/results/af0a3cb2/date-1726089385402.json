@@ -1,0 +1,67 @@
+{
+  "url": "https://mausam.imd.gov.in/kolkata/",
+  "requestedUrl": "https://mausam.imd.gov.in/kolkata",
+  "timestamp": 1726133479588,
+  "ranks": {
+    "hundos": 163,
+    "performance": 155,
+    "accessibility": 447,
+    "cumulative": 165
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.6,
+    "accessibility": 0.72,
+    "bestPractices": 0.89,
+    "seo": 0.79,
+    "total": 300
+  },
+  "firstContentfulPaint": 4209.272000000001,
+  "firstMeaningfulPaint": 4209.272000000001,
+  "speedIndex": 6965.3217565318055,
+  "largestContentfulPaint": 12338.107500000002,
+  "totalBlockingTime": 65,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 8283.2665,
+  "maxPotentialFirstInputDelay": 110,
+  "timeToFirstByte": 93.113,
+  "weight": {
+    "summary": "57 requests • 1.5 MiB",
+    "total": 1524427,
+    "image": 658579,
+    "imageCount": 34,
+    "script": 612744,
+    "scriptCount": 11,
+    "document": 51636,
+    "font": 74958,
+    "fontCount": 1,
+    "stylesheet": 125442,
+    "stylesheetCount": 4,
+    "thirdParty": 700839,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 85,
+    "+weight.total": 569,
+    "-weight.document": 336,
+    "+weight.document": 307,
+    "-weight.script": 301,
+    "+weight.script": 295,
+    "-weight.image": 84,
+    "+weight.image": 566,
+    "-weight.font": 80,
+    "+weight.font": 377,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 137,
+    "-totalBlockingTime": 84,
+    "-largestContentfulPaint": 257
+  },
+  "axe": {
+    "passes": 1339,
+    "violations": 93
+  }
+}

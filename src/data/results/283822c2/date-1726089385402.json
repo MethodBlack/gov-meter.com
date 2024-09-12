@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cdot.in/cdotweb/web/home.php",
+  "requestedUrl": "https://www.cdot.in/",
+  "timestamp": 1726115078002,
+  "ranks": {
+    "hundos": 510,
+    "performance": 576,
+    "accessibility": 346,
+    "cumulative": 510
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.29,
+    "accessibility": 0.77,
+    "bestPractices": 0.74,
+    "seo": 0.74,
+    "total": 254
+  },
+  "firstContentfulPaint": 7241.598900000004,
+  "firstMeaningfulPaint": 7241.598900000004,
+  "speedIndex": 40835.02372644558,
+  "largestContentfulPaint": 35902.908550000015,
+  "totalBlockingTime": 1584.0000000000036,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 50872.2422,
+  "maxPotentialFirstInputDelay": 1333.0000000000036,
+  "timeToFirstByte": 47.708,
+  "weight": {
+    "summary": "682 requests • 31.1 MiB",
+    "total": 32613233,
+    "image": 28470917,
+    "imageCount": 598,
+    "script": 3253494,
+    "scriptCount": 44,
+    "document": 348640,
+    "font": 165094,
+    "fontCount": 5,
+    "stylesheet": 327218,
+    "stylesheetCount": 16,
+    "thirdParty": 20060326,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 600,
+    "+weight.total": 54,
+    "-weight.document": 611,
+    "+weight.document": 32,
+    "-weight.script": 581,
+    "+weight.script": 15,
+    "-weight.image": 594,
+    "+weight.image": 56,
+    "-weight.font": 274,
+    "+weight.font": 183,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 19,
+    "-totalBlockingTime": 235,
+    "-largestContentfulPaint": 393
+  },
+  "axe": {
+    "passes": 27720,
+    "violations": 168
+  }
+}

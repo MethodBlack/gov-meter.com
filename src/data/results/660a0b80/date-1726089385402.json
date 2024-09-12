@@ -1,0 +1,67 @@
+{
+  "url": "https://www.msmedithrissur.gov.in/",
+  "requestedUrl": "https://www.msmedithrissur.gov.in/",
+  "timestamp": 1726098020742,
+  "ranks": {
+    "hundos": 72,
+    "performance": 194,
+    "accessibility": 470,
+    "cumulative": 70
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.57,
+    "accessibility": 0.7,
+    "bestPractices": 0.93,
+    "seo": 0.96,
+    "total": 316
+  },
+  "firstContentfulPaint": 5090.739500000001,
+  "firstMeaningfulPaint": 5090.739500000001,
+  "speedIndex": 9054.537193003136,
+  "largestContentfulPaint": 22324.986,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.000008682286692444582,
+  "timeToInteractive": 5090.739500000001,
+  "maxPotentialFirstInputDelay": 47,
+  "timeToFirstByte": 150.51200000000017,
+  "weight": {
+    "summary": "37 requests • 5.2 MiB",
+    "total": 5430798,
+    "image": 4584520,
+    "imageCount": 15,
+    "script": 376292,
+    "scriptCount": 8,
+    "document": 39119,
+    "font": 178311,
+    "fontCount": 3,
+    "stylesheet": 252556,
+    "stylesheetCount": 10,
+    "thirdParty": 1041,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 294,
+    "+weight.total": 360,
+    "-weight.document": 288,
+    "+weight.document": 355,
+    "-weight.script": 209,
+    "+weight.script": 387,
+    "-weight.image": 334,
+    "+weight.image": 316,
+    "-weight.font": 295,
+    "+weight.font": 162,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 261,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 348
+  },
+  "axe": {
+    "passes": 409,
+    "violations": 13
+  }
+}

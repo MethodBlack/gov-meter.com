@@ -1,0 +1,67 @@
+{
+  "url": "https://mazagondock.in/",
+  "requestedUrl": "https://mazagondock.in/",
+  "timestamp": 1726150788430,
+  "ranks": {
+    "hundos": 540,
+    "performance": 607,
+    "accessibility": 388,
+    "cumulative": 540
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.22,
+    "accessibility": 0.75,
+    "bestPractices": 0.7,
+    "seo": 0.8,
+    "total": 247
+  },
+  "firstContentfulPaint": 4473.914,
+  "firstMeaningfulPaint": 4473.914,
+  "speedIndex": 19350.80652443531,
+  "largestContentfulPaint": 18260.871,
+  "totalBlockingTime": 425.5,
+  "cumulativeLayoutShift": 1.0000497369902972,
+  "timeToInteractive": 37969.673500000004,
+  "maxPotentialFirstInputDelay": 367,
+  "timeToFirstByte": 199.6479999999999,
+  "weight": {
+    "summary": "98 requests • 14.1 MiB",
+    "total": 14759077,
+    "image": 13108009,
+    "imageCount": 64,
+    "script": 724965,
+    "scriptCount": 10,
+    "document": 129229,
+    "font": 410192,
+    "fontCount": 9,
+    "stylesheet": 385950,
+    "stylesheetCount": 12,
+    "thirdParty": 214921,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 503,
+    "+weight.total": 151,
+    "-weight.document": 471,
+    "+weight.document": 172,
+    "-weight.script": 350,
+    "+weight.script": 246,
+    "-weight.image": 507,
+    "+weight.image": 143,
+    "-weight.font": 424,
+    "+weight.font": 33,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 327,
+    "-totalBlockingTime": 179,
+    "-largestContentfulPaint": 325
+  },
+  "axe": {
+    "passes": 2708,
+    "violations": 81
+  }
+}

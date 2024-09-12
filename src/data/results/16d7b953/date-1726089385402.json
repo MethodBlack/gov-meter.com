@@ -1,0 +1,67 @@
+{
+  "url": "https://dbtncstcp.nic.in/",
+  "requestedUrl": "https://dbtncstcp.nic.in/",
+  "timestamp": 1726105643613,
+  "ranks": {
+    "hundos": 25,
+    "performance": 129,
+    "accessibility": 49,
+    "cumulative": 27
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.64,
+    "accessibility": 0.92,
+    "bestPractices": 0.85,
+    "seo": 0.92,
+    "total": 333
+  },
+  "firstContentfulPaint": 3368.7775000000015,
+  "firstMeaningfulPaint": 3368.7775000000015,
+  "speedIndex": 5124.492897003011,
+  "largestContentfulPaint": 18868.52000000001,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.05874614618095777,
+  "timeToInteractive": 3368.7775000000015,
+  "maxPotentialFirstInputDelay": 46,
+  "timeToFirstByte": 64.49200000000002,
+  "weight": {
+    "summary": "31 requests • 4.8 MiB",
+    "total": 5031147,
+    "image": 4109305,
+    "imageCount": 18,
+    "script": 498920,
+    "scriptCount": 8,
+    "document": 27548,
+    "font": 77254,
+    "fontCount": 1,
+    "stylesheet": 318120,
+    "stylesheetCount": 3,
+    "thirdParty": 88015,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 275,
+    "+weight.total": 379,
+    "-weight.document": 251,
+    "+weight.document": 392,
+    "-weight.script": 255,
+    "+weight.script": 341,
+    "-weight.image": 306,
+    "+weight.image": 344,
+    "-weight.font": 87,
+    "+weight.font": 370,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 50,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 330
+  },
+  "axe": {
+    "passes": 649,
+    "violations": 27
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://egov.rni.nic.in/",
+  "requestedUrl": "https://egov.rni.nic.in/",
+  "timestamp": 1726122598241,
+  "ranks": {
+    "hundos": 70,
+    "performance": 137,
+    "accessibility": 370,
+    "cumulative": 73
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.63,
+    "accessibility": 0.76,
+    "bestPractices": 0.96,
+    "seo": 0.81,
+    "total": 316
+  },
+  "firstContentfulPaint": 4675.7170000000015,
+  "firstMeaningfulPaint": 4675.7170000000015,
+  "speedIndex": 5383.57891199543,
+  "largestContentfulPaint": 7633.760500000002,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4675.7170000000015,
+  "maxPotentialFirstInputDelay": 31.5,
+  "timeToFirstByte": 169.04899999999998,
+  "weight": {
+    "summary": "26 requests • 1.2 MiB",
+    "total": 1273872,
+    "image": 543742,
+    "imageCount": 8,
+    "script": 232591,
+    "scriptCount": 7,
+    "document": 18051,
+    "font": 0,
+    "fontCount": 2,
+    "stylesheet": 479488,
+    "stylesheetCount": 8,
+    "thirdParty": 246166,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 71,
+    "+weight.total": 583,
+    "-weight.document": 162,
+    "+weight.document": 481,
+    "-weight.script": 116,
+    "+weight.script": 480,
+    "-weight.image": 70,
+    "+weight.image": 580,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 289,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 172
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

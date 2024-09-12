@@ -1,0 +1,67 @@
+{
+  "url": "https://gfcc.gov.in/",
+  "requestedUrl": "https://gfcc.gov.in/",
+  "timestamp": 1726100638088,
+  "ranks": {
+    "hundos": 79,
+    "performance": 251,
+    "accessibility": 60,
+    "cumulative": 78
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "seo": 0.75,
+    "total": 314
+  },
+  "firstContentfulPaint": 7123.142,
+  "firstMeaningfulPaint": 7123.142,
+  "speedIndex": 16357.315302248577,
+  "largestContentfulPaint": 20571.726499999986,
+  "totalBlockingTime": 22,
+  "cumulativeLayoutShift": 0.00006278427277195331,
+  "timeToInteractive": 15475.026249999995,
+  "maxPotentialFirstInputDelay": 49.5,
+  "timeToFirstByte": 578.5129999999999,
+  "weight": {
+    "summary": "141 requests • 7.4 MiB",
+    "total": 7804866,
+    "image": 6609185,
+    "imageCount": 30,
+    "script": 964508,
+    "scriptCount": 61,
+    "document": 24590,
+    "font": 93296,
+    "fontCount": 2,
+    "stylesheet": 113241,
+    "stylesheetCount": 45,
+    "thirdParty": 314585,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 375,
+    "+weight.total": 279,
+    "-weight.document": 226,
+    "+weight.document": 417,
+    "-weight.script": 405,
+    "+weight.script": 191,
+    "-weight.image": 395,
+    "+weight.image": 255,
+    "-weight.font": 142,
+    "+weight.font": 315,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 460,
+    "-totalBlockingTime": 265,
+    "-largestContentfulPaint": 566
+  },
+  "axe": {
+    "passes": 937,
+    "violations": 30
+  }
+}

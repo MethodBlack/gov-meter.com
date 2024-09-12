@@ -1,0 +1,67 @@
+{
+  "url": "https://cifnet.gov.in/",
+  "requestedUrl": "https://cifnet.gov.in/",
+  "timestamp": 1726114709339,
+  "ranks": {
+    "hundos": 421,
+    "performance": 229,
+    "accessibility": 614,
+    "cumulative": 423
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.57,
+    "bestPractices": 0.67,
+    "seo": 0.86,
+    "total": 265
+  },
+  "firstContentfulPaint": 9482.632000000001,
+  "firstMeaningfulPaint": 9482.632000000001,
+  "speedIndex": 12018.230555563341,
+  "largestContentfulPaint": 14282.632000000001,
+  "totalBlockingTime": 47,
+  "cumulativeLayoutShift": 0.050280797278749505,
+  "timeToInteractive": 15182.632,
+  "maxPotentialFirstInputDelay": 125,
+  "timeToFirstByte": 97.28800000000001,
+  "weight": {
+    "summary": "61 requests • 4.7 MiB",
+    "total": 4949570,
+    "image": 3236559,
+    "imageCount": 23,
+    "script": 1069185,
+    "scriptCount": 22,
+    "document": 66374,
+    "font": 79068,
+    "fontCount": 2,
+    "stylesheet": 498384,
+    "stylesheetCount": 13,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 272,
+    "+weight.total": 382,
+    "-weight.document": 381,
+    "+weight.document": 262,
+    "-weight.script": 421,
+    "+weight.script": 175,
+    "-weight.image": 260,
+    "+weight.image": 390,
+    "-weight.font": 109,
+    "+weight.font": 348,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 155,
+    "-totalBlockingTime": 70,
+    "-largestContentfulPaint": 290
+  },
+  "axe": {
+    "passes": 575,
+    "violations": 42
+  }
+}

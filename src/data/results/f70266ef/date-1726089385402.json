@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nic.in/",
+  "requestedUrl": "https://www.nic.in/",
+  "timestamp": 1726152258343,
+  "ranks": {
+    "hundos": 503,
+    "performance": 490,
+    "accessibility": 138,
+    "cumulative": 501
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.35,
+    "accessibility": 0.85,
+    "bestPractices": 0.48,
+    "seo": 0.87,
+    "total": 255
+  },
+  "firstContentfulPaint": 7107.620477500004,
+  "firstMeaningfulPaint": 7699.460625000006,
+  "speedIndex": 27360.018157211212,
+  "largestContentfulPaint": 37566.76455500002,
+  "totalBlockingTime": 469.49999999999636,
+  "cumulativeLayoutShift": 0.17649560811658735,
+  "timeToInteractive": 33500.403840000006,
+  "maxPotentialFirstInputDelay": 393.9999999999927,
+  "timeToFirstByte": 84.46399999999994,
+  "weight": {
+    "summary": "288 requests • 13.2 MiB",
+    "total": 13793329,
+    "image": 10946850,
+    "imageCount": 159,
+    "script": 2152787,
+    "scriptCount": 70,
+    "document": 192316,
+    "font": 225427,
+    "fontCount": 8,
+    "stylesheet": 197735,
+    "stylesheetCount": 25,
+    "thirdParty": 3329994,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 482,
+    "+weight.total": 172,
+    "-weight.document": 543,
+    "+weight.document": 100,
+    "-weight.script": 534,
+    "+weight.script": 62,
+    "-weight.image": 472,
+    "+weight.image": 178,
+    "-weight.font": 339,
+    "+weight.font": 118,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 109,
+    "-totalBlockingTime": 184,
+    "-largestContentfulPaint": 396
+  },
+  "axe": {
+    "passes": 9,
+    "violations": 5
+  }
+}

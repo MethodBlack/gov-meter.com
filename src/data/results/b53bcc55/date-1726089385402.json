@@ -1,0 +1,67 @@
+{
+  "url": "https://mausam.imd.gov.in/guwahati/",
+  "requestedUrl": "https://mausam.imd.gov.in/guwahati",
+  "timestamp": 1726133428879,
+  "ranks": {
+    "hundos": 150,
+    "performance": 156,
+    "accessibility": 446,
+    "cumulative": 154
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.6,
+    "accessibility": 0.72,
+    "bestPractices": 0.89,
+    "seo": 0.81,
+    "total": 302
+  },
+  "firstContentfulPaint": 4040.185,
+  "firstMeaningfulPaint": 4040.185,
+  "speedIndex": 7067.96229584542,
+  "largestContentfulPaint": 13368.153000000002,
+  "totalBlockingTime": 17.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 8003.613999999998,
+  "maxPotentialFirstInputDelay": 61,
+  "timeToFirstByte": 161.517,
+  "weight": {
+    "summary": "54 requests • 1.5 MiB",
+    "total": 1532818,
+    "image": 673482,
+    "imageCount": 31,
+    "script": 612518,
+    "scriptCount": 11,
+    "document": 45369,
+    "font": 74932,
+    "fontCount": 1,
+    "stylesheet": 125439,
+    "stylesheetCount": 4,
+    "thirdParty": 700596,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 87,
+    "+weight.total": 567,
+    "-weight.document": 310,
+    "+weight.document": 333,
+    "-weight.script": 294,
+    "+weight.script": 302,
+    "-weight.image": 88,
+    "+weight.image": 562,
+    "-weight.font": 74,
+    "+weight.font": 383,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 281,
+    "-totalBlockingTime": 35,
+    "-largestContentfulPaint": 273
+  },
+  "axe": {
+    "passes": 1091,
+    "violations": 72
+  }
+}

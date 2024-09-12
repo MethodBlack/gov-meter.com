@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cci.gov.in/",
+  "requestedUrl": "https://www.cci.gov.in/",
+  "timestamp": 1726115771157,
+  "ranks": {
+    "hundos": 512,
+    "performance": 446,
+    "accessibility": 478,
+    "cumulative": 511
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.38,
+    "accessibility": 0.7,
+    "bestPractices": 0.7,
+    "seo": 0.75,
+    "total": 253
+  },
+  "firstContentfulPaint": 1723.183,
+  "firstMeaningfulPaint": 1723.183,
+  "speedIndex": 26460.156053704395,
+  "largestContentfulPaint": 12223.183,
+  "totalBlockingTime": 305,
+  "cumulativeLayoutShift": 0.44150699529863424,
+  "timeToInteractive": 37721.183000000005,
+  "maxPotentialFirstInputDelay": 298,
+  "timeToFirstByte": 10145.355,
+  "weight": {
+    "summary": "63 requests • 17.0 MiB",
+    "total": 17857898,
+    "image": 3260031,
+    "imageCount": 40,
+    "script": 5593661,
+    "scriptCount": 11,
+    "document": 11978,
+    "font": 170835,
+    "fontCount": 3,
+    "stylesheet": 99252,
+    "stylesheetCount": 5,
+    "thirdParty": 4248,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 532,
+    "+weight.total": 122,
+    "-weight.document": 59,
+    "+weight.document": 584,
+    "-weight.script": 591,
+    "+weight.script": 5,
+    "-weight.image": 262,
+    "+weight.image": 388,
+    "-weight.font": 285,
+    "+weight.font": 172,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 653,
+    "-totalBlockingTime": 360,
+    "-largestContentfulPaint": 505
+  },
+  "axe": {
+    "passes": 431,
+    "violations": 43
+  }
+}

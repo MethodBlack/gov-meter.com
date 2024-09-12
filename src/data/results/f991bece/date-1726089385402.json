@@ -1,0 +1,66 @@
+{
+  "url": "https://www.ccmb.res.in/",
+  "requestedUrl": "https://www.ccmb.res.in/",
+  "timestamp": 1726116489795,
+  "ranks": {
+    "hundos": 291,
+    "performance": 465,
+    "accessibility": 271,
+    "cumulative": 294
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.36,
+    "accessibility": 0.81,
+    "bestPractices": 0.89,
+    "seo": 0.76,
+    "total": 282
+  },
+  "firstContentfulPaint": 6312.429999999999,
+  "firstMeaningfulPaint": 6312.429999999999,
+  "speedIndex": 9578.349520145432,
+  "largestContentfulPaint": 13689.45,
+  "totalBlockingTime": 126,
+  "cumulativeLayoutShift": 0.4287767038031969,
+  "timeToInteractive": 20762.8275,
+  "maxPotentialFirstInputDelay": 108,
+  "timeToFirstByte": 118.71000000000004,
+  "weight": {
+    "summary": "78 requests • 10.4 MiB",
+    "total": 10865198,
+    "image": 9330052,
+    "imageCount": 58,
+    "script": 762712,
+    "scriptCount": 6,
+    "document": 218215,
+    "font": 115415,
+    "fontCount": 3,
+    "stylesheet": 438559,
+    "stylesheetCount": 9,
+    "thirdParty": 183920,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 448,
+    "+weight.total": 206,
+    "-weight.document": 566,
+    "+weight.document": 77,
+    "-weight.script": 359,
+    "+weight.script": 237,
+    "-weight.image": 454,
+    "+weight.image": 196,
+    "-weight.font": 185,
+    "+weight.font": 272,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 192,
+    "-totalBlockingTime": 113,
+    "-largestContentfulPaint": 278
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

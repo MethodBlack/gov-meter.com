@@ -1,0 +1,62 @@
+{
+  "url": "https://www.nsiindia.gov.in/(S(szref1eusjkdldfdydhuam45))/Home.aspx",
+  "requestedUrl": "https://www.nsiindia.gov.in/",
+  "timestamp": 1726130689130,
+  "ranks": {
+    "hundos": 582,
+    "performance": 31,
+    "cumulative": 585
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.88,
+    "accessibility": 0.41,
+    "bestPractices": 0.63,
+    "seo": 0.42,
+    "total": 234
+  },
+  "firstContentfulPaint": 3025.7185,
+  "firstMeaningfulPaint": 3063.2185,
+  "speedIndex": 3666.1516066367863,
+  "largestContentfulPaint": 3063.2185,
+  "totalBlockingTime": 25,
+  "cumulativeLayoutShift": 0.011980500657153455,
+  "timeToInteractive": 3100.7185,
+  "maxPotentialFirstInputDelay": 75,
+  "timeToFirstByte": 244.644,
+  "weight": {
+    "summary": "58 requests • 3.7 MiB",
+    "total": 3904854,
+    "image": 3484914,
+    "imageCount": 37,
+    "script": 221889,
+    "scriptCount": 18,
+    "document": 196645,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 1104,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 210,
+    "+weight.total": 444,
+    "-weight.document": 549,
+    "+weight.document": 94,
+    "-weight.script": 91,
+    "+weight.script": 505,
+    "-weight.image": 275,
+    "+weight.image": 375,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 359,
+    "-totalBlockingTime": 46,
+    "-largestContentfulPaint": 50
+  }
+}

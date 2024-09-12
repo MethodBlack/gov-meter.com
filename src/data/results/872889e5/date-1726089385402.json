@@ -1,0 +1,67 @@
+{
+  "url": "https://financialservices.gov.in/",
+  "requestedUrl": "https://financialservices.gov.in/",
+  "timestamp": 1726118320850,
+  "ranks": {
+    "hundos": 60,
+    "performance": 12,
+    "accessibility": 549,
+    "cumulative": 60
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 0.64,
+    "bestPractices": 1,
+    "seo": 0.58,
+    "total": 320
+  },
+  "firstContentfulPaint": 856.6469999999999,
+  "firstMeaningfulPaint": 1104.4705,
+  "speedIndex": 4116.727549218125,
+  "largestContentfulPaint": 856.6469999999999,
+  "totalBlockingTime": 22,
+  "cumulativeLayoutShift": 0.01780457350925225,
+  "timeToInteractive": 4525.028,
+  "maxPotentialFirstInputDelay": 93,
+  "timeToFirstByte": 62.81299999999999,
+  "weight": {
+    "summary": "6 requests • 932.5 KiB",
+    "total": 954835,
+    "image": 776691,
+    "imageCount": 2,
+    "script": 172153,
+    "scriptCount": 2,
+    "document": 5740,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 105401,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 48,
+    "+weight.total": 606,
+    "-weight.document": 14,
+    "+weight.document": 629,
+    "-weight.script": 71,
+    "+weight.script": 525,
+    "-weight.image": 98,
+    "+weight.image": 552,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 46,
+    "-totalBlockingTime": 42,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 32,
+    "violations": 5
+  }
+}

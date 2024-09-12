@@ -1,0 +1,67 @@
+{
+  "url": "https://cpcl.co.in/",
+  "requestedUrl": "https://www.cpcl.co.in/",
+  "timestamp": 1726094238949,
+  "ranks": {
+    "hundos": 295,
+    "performance": 584,
+    "accessibility": 113,
+    "cumulative": 290
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.28,
+    "accessibility": 0.87,
+    "bestPractices": 0.96,
+    "seo": 0.71,
+    "total": 282
+  },
+  "firstContentfulPaint": 14436.6865,
+  "firstMeaningfulPaint": 14436.6865,
+  "speedIndex": 24993.509993471816,
+  "largestContentfulPaint": 18514.785499999998,
+  "totalBlockingTime": 1539.5000000000018,
+  "cumulativeLayoutShift": 0.06054221803584373,
+  "timeToInteractive": 28053.977250000007,
+  "maxPotentialFirstInputDelay": 3056.000000000002,
+  "timeToFirstByte": 2258.12,
+  "weight": {
+    "summary": "77 requests • 5.5 MiB",
+    "total": 5727755,
+    "image": 2735674,
+    "imageCount": 11,
+    "script": 1671207,
+    "scriptCount": 27,
+    "document": 196049,
+    "font": 224120,
+    "fontCount": 8,
+    "stylesheet": 900049,
+    "stylesheetCount": 28,
+    "thirdParty": 111007,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 305,
+    "+weight.total": 349,
+    "-weight.document": 547,
+    "+weight.document": 96,
+    "-weight.script": 504,
+    "+weight.script": 92,
+    "-weight.image": 238,
+    "+weight.image": 412,
+    "-weight.font": 337,
+    "+weight.font": 120,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 595,
+    "-totalBlockingTime": 407,
+    "-largestContentfulPaint": 555
+  },
+  "axe": {
+    "passes": 755,
+    "violations": 25
+  }
+}

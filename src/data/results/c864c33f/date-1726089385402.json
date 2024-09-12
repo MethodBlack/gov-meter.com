@@ -1,0 +1,56 @@
+{
+  "url": "https://fsi.gov.in/LATEST-WB-SITE/fsi-main-pg-frm.htm",
+  "requestedUrl": "https://fsi.gov.in/",
+  "timestamp": 1726100506479,
+  "ranks": {
+    "hundos": 654,
+    "performance": 652,
+    "accessibility": 652,
+    "cumulative": 654
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": null,
+    "accessibility": 0.33,
+    "bestPractices": 0.89,
+    "seo": 0.64,
+    "total": 186
+  },
+  "cumulativeLayoutShift": 0,
+  "timeToFirstByte": 70.192,
+  "weight": {
+    "summary": "18 requests • 3.7 MiB",
+    "total": 3885363,
+    "image": 3860590,
+    "imageCount": 13,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 24773,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "sidequests": {
+    "-weight.total": 209,
+    "+weight.total": 445,
+    "-weight.document": 228,
+    "+weight.document": 415,
+    "-weight.script": 1,
+    "+weight.script": 596,
+    "-weight.image": 297,
+    "+weight.image": 353,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 65,
+    "-totalBlockingTime": 241,
+    "-largestContentfulPaint": 421
+  },
+  "axe": {
+    "passes": 612,
+    "violations": 47
+  }
+}

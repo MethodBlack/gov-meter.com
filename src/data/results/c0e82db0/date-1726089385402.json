@@ -1,0 +1,67 @@
+{
+  "url": "https://www.amd.gov.in/app16/index.aspx",
+  "requestedUrl": "https://www.amd.gov.in/",
+  "timestamp": 1726112149344,
+  "ranks": {
+    "hundos": 254,
+    "performance": 189,
+    "accessibility": 155,
+    "cumulative": 251
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.57,
+    "accessibility": 0.84,
+    "bestPractices": 0.63,
+    "seo": 0.85,
+    "total": 289
+  },
+  "firstContentfulPaint": 5934.062500000002,
+  "firstMeaningfulPaint": 5934.062500000002,
+  "speedIndex": 8229.547121999864,
+  "largestContentfulPaint": 9867.487500000007,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.012598006725431949,
+  "timeToInteractive": 5934.062500000002,
+  "maxPotentialFirstInputDelay": 17,
+  "timeToFirstByte": 685.443,
+  "weight": {
+    "summary": "71 requests • 3.6 MiB",
+    "total": 3793556,
+    "image": 2929375,
+    "imageCount": 45,
+    "script": 222795,
+    "scriptCount": 13,
+    "document": 97943,
+    "font": 271696,
+    "fontCount": 3,
+    "stylesheet": 271089,
+    "stylesheetCount": 8,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 206,
+    "+weight.total": 448,
+    "-weight.document": 430,
+    "+weight.document": 213,
+    "-weight.script": 94,
+    "+weight.script": 502,
+    "-weight.image": 243,
+    "+weight.image": 407,
+    "-weight.font": 372,
+    "+weight.font": 85,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 483,
+    "-totalBlockingTime": 246,
+    "-largestContentfulPaint": 215
+  },
+  "axe": {
+    "passes": 673,
+    "violations": 19
+  }
+}

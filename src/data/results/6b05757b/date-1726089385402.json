@@ -1,0 +1,67 @@
+{
+  "url": "https://www.mca.gov.in/content/mca/global/en/contact-us/roc.html",
+  "requestedUrl": "https://www.mca.gov.in/MinistryV2/registrarofcompanies.html",
+  "timestamp": 1726133579067,
+  "ranks": {
+    "hundos": 398,
+    "performance": 369,
+    "accessibility": 179,
+    "cumulative": 397
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.46,
+    "accessibility": 0.83,
+    "bestPractices": 0.52,
+    "seo": 0.87,
+    "total": 268
+  },
+  "firstContentfulPaint": 3743.740999999999,
+  "firstMeaningfulPaint": 3743.740999999999,
+  "speedIndex": 4869.098865294645,
+  "largestContentfulPaint": 4805.325,
+  "totalBlockingTime": 1460.9214999999995,
+  "cumulativeLayoutShift": 0.030366127954189366,
+  "timeToInteractive": 5602.246499999998,
+  "maxPotentialFirstInputDelay": 994,
+  "timeToFirstByte": 46.352000000000004,
+  "weight": {
+    "summary": "87 requests • 1.4 MiB",
+    "total": 1421501,
+    "image": 358363,
+    "imageCount": 36,
+    "script": 721229,
+    "scriptCount": 19,
+    "document": 41944,
+    "font": 84269,
+    "fontCount": 5,
+    "stylesheet": 140928,
+    "stylesheetCount": 21,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 79,
+    "+weight.total": 575,
+    "-weight.document": 296,
+    "+weight.document": 347,
+    "-weight.script": 348,
+    "+weight.script": 248,
+    "-weight.image": 48,
+    "+weight.image": 602,
+    "-weight.font": 126,
+    "+weight.font": 331,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 16,
+    "-totalBlockingTime": 233,
+    "-largestContentfulPaint": 100
+  },
+  "axe": {
+    "passes": 1881,
+    "violations": 77
+  }
+}

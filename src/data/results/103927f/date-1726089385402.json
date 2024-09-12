@@ -1,0 +1,67 @@
+{
+  "url": "https://www.imtech.res.in/",
+  "requestedUrl": "https://www.imtech.res.in/",
+  "timestamp": 1726141246221,
+  "ranks": {
+    "hundos": 188,
+    "performance": 463,
+    "accessibility": 158,
+    "cumulative": 188
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.36,
+    "accessibility": 0.84,
+    "bestPractices": 1,
+    "seo": 0.77,
+    "total": 297
+  },
+  "firstContentfulPaint": 3732.321,
+  "firstMeaningfulPaint": 3732.321,
+  "speedIndex": 7938.871693162013,
+  "largestContentfulPaint": 24303.29950000001,
+  "totalBlockingTime": 343.9254999999994,
+  "cumulativeLayoutShift": 0.33471039116264173,
+  "timeToInteractive": 17961.785,
+  "maxPotentialFirstInputDelay": 413.9999999999991,
+  "timeToFirstByte": 484.721,
+  "weight": {
+    "summary": "95 requests • 20.1 MiB",
+    "total": 21096608,
+    "image": 20302026,
+    "imageCount": 64,
+    "script": 228229,
+    "scriptCount": 10,
+    "document": 17112,
+    "font": 409619,
+    "fontCount": 3,
+    "stylesheet": 135664,
+    "stylesheetCount": 12,
+    "thirdParty": 667592,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 556,
+    "+weight.total": 98,
+    "-weight.document": 151,
+    "+weight.document": 492,
+    "-weight.script": 108,
+    "+weight.script": 488,
+    "-weight.image": 565,
+    "+weight.image": 85,
+    "-weight.font": 423,
+    "+weight.font": 34,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 437,
+    "-totalBlockingTime": 364,
+    "-largestContentfulPaint": 584
+  },
+  "axe": {
+    "passes": 1567,
+    "violations": 31
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.mod.gov.in/",
+  "requestedUrl": "https://www.mod.gov.in/",
+  "timestamp": 1726117586692,
+  "ranks": {
+    "hundos": 195,
+    "performance": 351,
+    "accessibility": 61,
+    "cumulative": 195
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.48,
+    "accessibility": 0.91,
+    "bestPractices": 0.67,
+    "seo": 0.9,
+    "total": 296
+  },
+  "firstContentfulPaint": 6883.020499999999,
+  "firstMeaningfulPaint": 7259.810999999999,
+  "speedIndex": 19829.95323651491,
+  "largestContentfulPaint": 22017.893999999993,
+  "totalBlockingTime": 255,
+  "cumulativeLayoutShift": 0.1024530147952508,
+  "timeToInteractive": 23463.19199999999,
+  "maxPotentialFirstInputDelay": 311,
+  "timeToFirstByte": 84.02300000000002,
+  "weight": {
+    "summary": "196 requests • 17.6 MiB",
+    "total": 18434665,
+    "image": 17069390,
+    "imageCount": 49,
+    "script": 767655,
+    "scriptCount": 78,
+    "document": 80517,
+    "font": 120249,
+    "fontCount": 7,
+    "stylesheet": 396564,
+    "stylesheetCount": 59,
+    "thirdParty": 685730,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 542,
+    "+weight.total": 112,
+    "-weight.document": 410,
+    "+weight.document": 233,
+    "-weight.script": 361,
+    "+weight.script": 235,
+    "-weight.image": 543,
+    "+weight.image": 107,
+    "-weight.font": 194,
+    "+weight.font": 263,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 106,
+    "-totalBlockingTime": 153,
+    "-largestContentfulPaint": 347
+  },
+  "axe": {
+    "passes": 1075,
+    "violations": 39
+  }
+}

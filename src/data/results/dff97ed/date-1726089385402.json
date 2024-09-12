@@ -1,0 +1,67 @@
+{
+  "url": "https://www.plantauthority.gov.in/",
+  "requestedUrl": "https://www.plantauthority.gov.in/",
+  "timestamp": 1726108763416,
+  "ranks": {
+    "hundos": 95,
+    "performance": 299,
+    "accessibility": 245,
+    "cumulative": 92
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.53,
+    "accessibility": 0.82,
+    "bestPractices": 0.89,
+    "seo": 0.88,
+    "total": 312
+  },
+  "firstContentfulPaint": 11827.034859999989,
+  "firstMeaningfulPaint": 11827.034859999989,
+  "speedIndex": 22766.20489734049,
+  "largestContentfulPaint": 14726.113899999997,
+  "totalBlockingTime": 158.5,
+  "cumulativeLayoutShift": 0.03410042920777656,
+  "timeToInteractive": 15412.639299999992,
+  "maxPotentialFirstInputDelay": 154,
+  "timeToFirstByte": 4047.299,
+  "weight": {
+    "summary": "162 requests • 2.0 MiB",
+    "total": 2047395,
+    "image": 1009011,
+    "imageCount": 40,
+    "script": 634165,
+    "scriptCount": 56,
+    "document": 26058,
+    "font": 210731,
+    "fontCount": 7,
+    "stylesheet": 167430,
+    "stylesheetCount": 58,
+    "thirdParty": 106974,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 121,
+    "+weight.total": 533,
+    "-weight.document": 237,
+    "+weight.document": 406,
+    "-weight.script": 312,
+    "+weight.script": 284,
+    "-weight.image": 114,
+    "+weight.image": 536,
+    "-weight.font": 325,
+    "+weight.font": 132,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 632,
+    "-totalBlockingTime": 340,
+    "-largestContentfulPaint": 522
+  },
+  "axe": {
+    "passes": 1270,
+    "violations": 60
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://cercind.gov.in/",
+  "requestedUrl": "https://cercind.gov.in/",
+  "timestamp": 1726138895465,
+  "ranks": {
+    "hundos": 15,
+    "performance": 23,
+    "accessibility": 567,
+    "cumulative": 14
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.94,
+    "accessibility": 0.63,
+    "bestPractices": 0.96,
+    "seo": 0.9,
+    "total": 343
+  },
+  "firstContentfulPaint": 1158.353,
+  "firstMeaningfulPaint": 1158.353,
+  "speedIndex": 1707.459475995374,
+  "largestContentfulPaint": 2960.353,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.05163525679427747,
+  "timeToInteractive": 1158.353,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 42.910999999999945,
+  "weight": {
+    "summary": "29 requests • 1.4 MiB",
+    "total": 1508829,
+    "image": 1326878,
+    "imageCount": 14,
+    "script": 125637,
+    "scriptCount": 8,
+    "document": 6660,
+    "font": 18184,
+    "fontCount": 1,
+    "stylesheet": 31470,
+    "stylesheetCount": 5,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 83,
+    "+weight.total": 571,
+    "-weight.document": 19,
+    "+weight.document": 624,
+    "-weight.script": 46,
+    "+weight.script": 550,
+    "-weight.image": 142,
+    "+weight.image": 508,
+    "-weight.font": 11,
+    "+weight.font": 446,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 13,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 46
+  },
+  "axe": {
+    "passes": 340,
+    "violations": 31
+  }
+}

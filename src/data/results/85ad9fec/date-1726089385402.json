@@ -1,0 +1,67 @@
+{
+  "url": "https://cgca.gov.in/ccaupeast/",
+  "requestedUrl": "https://cgca.gov.in/ccaupeast",
+  "timestamp": 1726140449174,
+  "ranks": {
+    "hundos": 31,
+    "performance": 240,
+    "accessibility": 31,
+    "cumulative": 31
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.94,
+    "bestPractices": 0.85,
+    "seo": 0.98,
+    "total": 332
+  },
+  "firstContentfulPaint": 11075.579999999994,
+  "firstMeaningfulPaint": 11075.579999999994,
+  "speedIndex": 13830.85556799224,
+  "largestContentfulPaint": 24911.277000000006,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 11075.579999999994,
+  "maxPotentialFirstInputDelay": 29.5,
+  "timeToFirstByte": 181.079,
+  "weight": {
+    "summary": "104 requests • 6.0 MiB",
+    "total": 6266972,
+    "image": 5229438,
+    "imageCount": 31,
+    "script": 492871,
+    "scriptCount": 27,
+    "document": 74093,
+    "font": 188953,
+    "fontCount": 9,
+    "stylesheet": 280653,
+    "stylesheetCount": 35,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 339,
+    "+weight.total": 315,
+    "-weight.document": 397,
+    "+weight.document": 246,
+    "-weight.script": 254,
+    "+weight.script": 342,
+    "-weight.image": 361,
+    "+weight.image": 289,
+    "-weight.font": 301,
+    "+weight.font": 156,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 309,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 359
+  },
+  "axe": {
+    "passes": 425,
+    "violations": 18
+  }
+}

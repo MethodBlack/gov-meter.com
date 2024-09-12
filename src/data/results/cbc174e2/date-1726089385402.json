@@ -1,0 +1,67 @@
+{
+  "url": "https://darpg.gov.in/",
+  "requestedUrl": "https://darpg.gov.in/",
+  "timestamp": 1726096769344,
+  "ranks": {
+    "hundos": 450,
+    "performance": 375,
+    "accessibility": 490,
+    "cumulative": 462
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.46,
+    "accessibility": 0.69,
+    "bestPractices": 0.7,
+    "seo": 0.76,
+    "total": 263
+  },
+  "firstContentfulPaint": 16476.357500000002,
+  "firstMeaningfulPaint": 16476.357500000002,
+  "speedIndex": 21331.739362420478,
+  "largestContentfulPaint": 25241.055500000024,
+  "totalBlockingTime": 385,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 23156.88525,
+  "maxPotentialFirstInputDelay": 488,
+  "timeToFirstByte": 2013.299,
+  "weight": {
+    "summary": "249 requests • 8.7 MiB",
+    "total": 9124189,
+    "image": 6979880,
+    "imageCount": 144,
+    "script": 1361714,
+    "scriptCount": 56,
+    "document": 305236,
+    "font": 58768,
+    "fontCount": 3,
+    "stylesheet": 414560,
+    "stylesheetCount": 37,
+    "thirdParty": 1617532,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 410,
+    "+weight.total": 244,
+    "-weight.document": 602,
+    "+weight.document": 41,
+    "-weight.script": 474,
+    "+weight.script": 122,
+    "-weight.image": 406,
+    "+weight.image": 244,
+    "-weight.font": 56,
+    "+weight.font": 401,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 587,
+    "-totalBlockingTime": 370,
+    "-largestContentfulPaint": 587
+  },
+  "axe": {
+    "passes": 1,
+    "violations": 4
+  }
+}

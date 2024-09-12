@@ -1,0 +1,67 @@
+{
+  "url": "https://cochinshipyard.in/",
+  "requestedUrl": "https://cochinshipyard.in/",
+  "timestamp": 1726115404275,
+  "ranks": {
+    "hundos": 63,
+    "performance": 193,
+    "accessibility": 174,
+    "cumulative": 64
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.57,
+    "accessibility": 0.83,
+    "bestPractices": 0.89,
+    "seo": 0.9,
+    "total": 319
+  },
+  "firstContentfulPaint": 5055.762000000001,
+  "firstMeaningfulPaint": 5280.762,
+  "speedIndex": 8795.065108713554,
+  "largestContentfulPaint": 9370.507999999998,
+  "totalBlockingTime": 12.5,
+  "cumulativeLayoutShift": 0.06872655007668829,
+  "timeToInteractive": 9421.25725,
+  "maxPotentialFirstInputDelay": 70,
+  "timeToFirstByte": 917.736,
+  "weight": {
+    "summary": "104 requests • 14.2 MiB",
+    "total": 14880689,
+    "image": 13889433,
+    "imageCount": 69,
+    "script": 475992,
+    "scriptCount": 14,
+    "document": 80059,
+    "font": 109110,
+    "fontCount": 8,
+    "stylesheet": 326049,
+    "stylesheetCount": 10,
+    "thirdParty": 424625,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 504,
+    "+weight.total": 150,
+    "-weight.document": 409,
+    "+weight.document": 234,
+    "-weight.script": 248,
+    "+weight.script": 348,
+    "-weight.image": 514,
+    "+weight.image": 136,
+    "-weight.font": 169,
+    "+weight.font": 288,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 515,
+    "-totalBlockingTime": 256,
+    "-largestContentfulPaint": 475
+  },
+  "axe": {
+    "passes": 1133,
+    "violations": 47
+  }
+}

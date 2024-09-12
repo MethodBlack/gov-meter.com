@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ivri.nic.in/",
+  "requestedUrl": "https://www.ivri.nic.in/",
+  "timestamp": 1726125714945,
+  "ranks": {
+    "hundos": 651,
+    "performance": 595,
+    "accessibility": 604,
+    "cumulative": 650
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.25,
+    "accessibility": 0.58,
+    "bestPractices": 0.48,
+    "seo": 0.67,
+    "total": 198
+  },
+  "firstContentfulPaint": 5764.526,
+  "firstMeaningfulPaint": 5764.526,
+  "speedIndex": 34260.77931234043,
+  "largestContentfulPaint": 21774.077999999998,
+  "totalBlockingTime": 891.5,
+  "cumulativeLayoutShift": 0.21602400551418333,
+  "timeToInteractive": 62407.55866893006,
+  "maxPotentialFirstInputDelay": 235,
+  "timeToFirstByte": 189.322,
+  "weight": {
+    "summary": "262 requests • 24.4 MiB",
+    "total": 25605016,
+    "image": 22280019,
+    "imageCount": 89,
+    "script": 1977392,
+    "scriptCount": 51,
+    "document": 365673,
+    "font": 258777,
+    "fontCount": 19,
+    "stylesheet": 447510,
+    "stylesheetCount": 16,
+    "thirdParty": 2477561,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 577,
+    "+weight.total": 77,
+    "-weight.document": 617,
+    "+weight.document": 26,
+    "-weight.script": 522,
+    "+weight.script": 74,
+    "-weight.image": 576,
+    "+weight.image": 74,
+    "-weight.font": 361,
+    "+weight.font": 96,
+    "+weight.fontCount": 6,
+    "-timeToFirstByte": 318,
+    "-totalBlockingTime": 205,
+    "-largestContentfulPaint": 346
+  },
+  "axe": {
+    "passes": 1737,
+    "violations": 70
+  }
+}

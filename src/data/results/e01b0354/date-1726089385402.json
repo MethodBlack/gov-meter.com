@@ -1,0 +1,67 @@
+{
+  "url": "https://msme.gov.in/",
+  "requestedUrl": "https://msme.gov.in/",
+  "timestamp": 1726151177001,
+  "ranks": {
+    "hundos": 135,
+    "performance": 402,
+    "accessibility": 324,
+    "cumulative": 135
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.43,
+    "accessibility": 0.78,
+    "bestPractices": 0.93,
+    "seo": 0.9,
+    "total": 304
+  },
+  "firstContentfulPaint": 6210.572,
+  "firstMeaningfulPaint": 6210.572,
+  "speedIndex": 11434.117966543217,
+  "largestContentfulPaint": 13384.05675,
+  "totalBlockingTime": 4,
+  "cumulativeLayoutShift": 0.24844222137133254,
+  "timeToInteractive": 13308.538499999999,
+  "maxPotentialFirstInputDelay": 53,
+  "timeToFirstByte": 2122.8269999999998,
+  "weight": {
+    "summary": "121 requests • 2.6 MiB",
+    "total": 2744929,
+    "image": 1650814,
+    "imageCount": 56,
+    "script": 813127,
+    "scriptCount": 22,
+    "document": 16449,
+    "font": 171698,
+    "fontCount": 8,
+    "stylesheet": 92599,
+    "stylesheetCount": 33,
+    "thirdParty": 432366,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 166,
+    "+weight.total": 488,
+    "-weight.document": 139,
+    "+weight.document": 504,
+    "-weight.script": 370,
+    "+weight.script": 226,
+    "-weight.image": 183,
+    "+weight.image": 467,
+    "-weight.font": 287,
+    "+weight.font": 170,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 591,
+    "-totalBlockingTime": 251,
+    "-largestContentfulPaint": 274
+  },
+  "axe": {
+    "passes": 1169,
+    "violations": 40
+  }
+}

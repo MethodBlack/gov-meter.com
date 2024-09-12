@@ -1,0 +1,67 @@
+{
+  "url": "https://www.hil.gov.in/Hindi/homepage.aspx",
+  "requestedUrl": "https://www.hil.gov.in/",
+  "timestamp": 1726147470347,
+  "ranks": {
+    "hundos": 519,
+    "performance": 250,
+    "accessibility": 586,
+    "cumulative": 518
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.61,
+    "bestPractices": 0.85,
+    "seo": 0.5,
+    "total": 251
+  },
+  "firstContentfulPaint": 5594.032,
+  "firstMeaningfulPaint": 5888.661,
+  "speedIndex": 16218.70302033151,
+  "largestContentfulPaint": 18463.499500000005,
+  "totalBlockingTime": 2,
+  "cumulativeLayoutShift": 0.04294588164945358,
+  "timeToInteractive": 6194.032,
+  "maxPotentialFirstInputDelay": 54,
+  "timeToFirstByte": 83.02000000000001,
+  "weight": {
+    "summary": "46 requests • 5.1 MiB",
+    "total": 5341279,
+    "image": 4770823,
+    "imageCount": 29,
+    "script": 362956,
+    "scriptCount": 9,
+    "document": 21966,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 184730,
+    "stylesheetCount": 5,
+    "thirdParty": 3714,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 292,
+    "+weight.total": 362,
+    "-weight.document": 209,
+    "+weight.document": 434,
+    "-weight.script": 201,
+    "+weight.script": 395,
+    "-weight.image": 342,
+    "+weight.image": 308,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 102,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 326
+  },
+  "axe": {
+    "passes": 635,
+    "violations": 74
+  }
+}

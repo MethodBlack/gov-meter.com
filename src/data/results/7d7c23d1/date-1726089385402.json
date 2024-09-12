@@ -1,0 +1,66 @@
+{
+  "url": "https://www.irctc.co.in/nget/",
+  "requestedUrl": "https://www.irctc.co.in/",
+  "timestamp": 1726127242189,
+  "ranks": {
+    "hundos": 647,
+    "performance": 471,
+    "accessibility": 588,
+    "cumulative": 651
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.36,
+    "accessibility": 0.61,
+    "bestPractices": 0.26,
+    "seo": 0.75,
+    "total": 200
+  },
+  "firstContentfulPaint": 5947.1895,
+  "firstMeaningfulPaint": 6069.1895,
+  "speedIndex": 12030.240250017641,
+  "largestContentfulPaint": 10424.071,
+  "totalBlockingTime": 739.0000000000009,
+  "cumulativeLayoutShift": 0.08691504483122003,
+  "timeToInteractive": 22405.982100000005,
+  "maxPotentialFirstInputDelay": 244,
+  "timeToFirstByte": 148.51399999999998,
+  "weight": {
+    "summary": "155 requests • 2.3 MiB",
+    "total": 2443657,
+    "image": 149117,
+    "imageCount": 28,
+    "script": 1119281,
+    "scriptCount": 47,
+    "document": 304636,
+    "font": 121504,
+    "fontCount": 4,
+    "stylesheet": 92189,
+    "stylesheetCount": 5,
+    "thirdParty": 1392984,
+    "thirdPartyCount": 18
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 147,
+    "+weight.total": 507,
+    "-weight.document": 601,
+    "+weight.document": 42,
+    "-weight.script": 435,
+    "+weight.script": 161,
+    "-weight.image": 28,
+    "+weight.image": 622,
+    "-weight.font": 196,
+    "+weight.font": 261,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 253,
+    "-totalBlockingTime": 198,
+    "-largestContentfulPaint": 221
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

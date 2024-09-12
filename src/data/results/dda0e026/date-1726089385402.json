@@ -1,0 +1,67 @@
+{
+  "url": "https://www.echs.gov.in/",
+  "requestedUrl": "https://echs.gov.in/",
+  "timestamp": 1726145631628,
+  "ranks": {
+    "hundos": 410,
+    "performance": 139,
+    "accessibility": 507,
+    "cumulative": 409
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.63,
+    "accessibility": 0.68,
+    "bestPractices": 0.89,
+    "seo": 0.46,
+    "total": 266
+  },
+  "firstContentfulPaint": 4528.009000000001,
+  "firstMeaningfulPaint": 4528.009000000001,
+  "speedIndex": 6106.935946001566,
+  "largestContentfulPaint": 6454.757999999999,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.018238498418982604,
+  "timeToInteractive": 4528.009000000001,
+  "maxPotentialFirstInputDelay": 47,
+  "timeToFirstByte": 100.377,
+  "weight": {
+    "summary": "34 requests • 1.2 MiB",
+    "total": 1252131,
+    "image": 497820,
+    "imageCount": 10,
+    "script": 249581,
+    "scriptCount": 9,
+    "document": 24783,
+    "font": 140132,
+    "fontCount": 5,
+    "stylesheet": 339570,
+    "stylesheetCount": 8,
+    "thirdParty": 45406,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 68,
+    "+weight.total": 586,
+    "-weight.document": 229,
+    "+weight.document": 414,
+    "-weight.script": 131,
+    "+weight.script": 465,
+    "-weight.image": 67,
+    "+weight.image": 583,
+    "-weight.font": 231,
+    "+weight.font": 226,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 163,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 151
+  },
+  "axe": {
+    "passes": 122,
+    "violations": 16
+  }
+}

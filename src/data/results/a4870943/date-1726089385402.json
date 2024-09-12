@@ -1,0 +1,67 @@
+{
+  "url": "https://iescindia.com/",
+  "requestedUrl": "https://iescindia.com/",
+  "timestamp": 1726103502408,
+  "ranks": {
+    "hundos": 290,
+    "performance": 599,
+    "accessibility": 126,
+    "cumulative": 285
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.24,
+    "accessibility": 0.86,
+    "bestPractices": 0.93,
+    "seo": 0.79,
+    "total": 282
+  },
+  "firstContentfulPaint": 5215.5824999999995,
+  "firstMeaningfulPaint": 5642.298499999999,
+  "speedIndex": 15005.334365097458,
+  "largestContentfulPaint": 14679.192500000001,
+  "totalBlockingTime": 1722.5,
+  "cumulativeLayoutShift": 0.13078381034287348,
+  "timeToInteractive": 14937.0505,
+  "maxPotentialFirstInputDelay": 931,
+  "timeToFirstByte": 2454.753,
+  "weight": {
+    "summary": "152 requests • 2.5 MiB",
+    "total": 2610836,
+    "image": 774230,
+    "imageCount": 18,
+    "script": 596576,
+    "scriptCount": 54,
+    "document": 71695,
+    "font": 627183,
+    "fontCount": 18,
+    "stylesheet": 540125,
+    "stylesheetCount": 55,
+    "thirdParty": 455219,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 156,
+    "+weight.total": 498,
+    "-weight.document": 396,
+    "+weight.document": 247,
+    "-weight.script": 284,
+    "+weight.script": 312,
+    "-weight.image": 97,
+    "+weight.image": 553,
+    "-weight.font": 441,
+    "+weight.font": 16,
+    "+weight.fontCount": 7,
+    "-timeToFirstByte": 605,
+    "-totalBlockingTime": 410,
+    "-largestContentfulPaint": 521
+  },
+  "axe": {
+    "passes": 754,
+    "violations": 27
+  }
+}

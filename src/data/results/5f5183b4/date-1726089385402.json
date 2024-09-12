@@ -1,0 +1,67 @@
+{
+  "url": "https://mausam.imd.gov.in/bengaluru/",
+  "requestedUrl": "https://mausam.imd.gov.in/bengaluru",
+  "timestamp": 1726128873066,
+  "ranks": {
+    "hundos": 374,
+    "performance": 406,
+    "accessibility": 485,
+    "cumulative": 373
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.42,
+    "accessibility": 0.7,
+    "bestPractices": 0.89,
+    "seo": 0.71,
+    "total": 272
+  },
+  "firstContentfulPaint": 4171.9185,
+  "firstMeaningfulPaint": 4472.7705,
+  "speedIndex": 5879.848642045632,
+  "largestContentfulPaint": 122639.07150000083,
+  "totalBlockingTime": 823.9999999999995,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 8367.972999999998,
+  "maxPotentialFirstInputDelay": 159,
+  "timeToFirstByte": 96.42,
+  "weight": {
+    "summary": "55 requests • 22.8 MiB",
+    "total": 23869027,
+    "image": 22967066,
+    "imageCount": 30,
+    "script": 657607,
+    "scriptCount": 13,
+    "document": 42808,
+    "font": 74986,
+    "fontCount": 1,
+    "stylesheet": 125481,
+    "stylesheetCount": 4,
+    "thirdParty": 745738,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 571,
+    "+weight.total": 83,
+    "-weight.document": 300,
+    "+weight.document": 343,
+    "-weight.script": 319,
+    "+weight.script": 277,
+    "-weight.image": 578,
+    "+weight.image": 72,
+    "-weight.font": 81,
+    "+weight.font": 376,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 148,
+    "-totalBlockingTime": 201,
+    "-largestContentfulPaint": 418
+  },
+  "axe": {
+    "passes": 1318,
+    "violations": 99
+  }
+}

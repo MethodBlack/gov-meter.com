@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ecgc.in/",
+  "requestedUrl": "https://www.ecgc.in/",
+  "timestamp": 1726123670159,
+  "ranks": {
+    "hundos": 140,
+    "performance": 232,
+    "accessibility": 315,
+    "cumulative": 137
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.78,
+    "bestPractices": 0.93,
+    "seo": 0.77,
+    "total": 303
+  },
+  "firstContentfulPaint": 10689.935000000001,
+  "firstMeaningfulPaint": 10689.935000000001,
+  "speedIndex": 12574.267612006905,
+  "largestContentfulPaint": 17424.087000000003,
+  "totalBlockingTime": 23.5,
+  "cumulativeLayoutShift": 0.011319390512307428,
+  "timeToInteractive": 13014.225000000006,
+  "maxPotentialFirstInputDelay": 85,
+  "timeToFirstByte": 125.08600000000001,
+  "weight": {
+    "summary": "45 requests • 2.5 MiB",
+    "total": 2644484,
+    "image": 1073526,
+    "imageCount": 8,
+    "script": 1098426,
+    "scriptCount": 15,
+    "document": 107601,
+    "font": 0,
+    "fontCount": 2,
+    "stylesheet": 364931,
+    "stylesheetCount": 19,
+    "thirdParty": 7368,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 158,
+    "+weight.total": 496,
+    "-weight.document": 445,
+    "+weight.document": 198,
+    "-weight.script": 427,
+    "+weight.script": 169,
+    "-weight.image": 120,
+    "+weight.image": 530,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 208,
+    "-totalBlockingTime": 44,
+    "-largestContentfulPaint": 317
+  },
+  "axe": {
+    "passes": 139,
+    "violations": 19
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsi.gov.in/webcenter/portal/OCBIS?_afrLoop=1624615583120906&_afrWindowMode=0&Adf-Window-Id=w4i2i44k79&_afrFS=16&_afrMT=screen&_afrMFW=980&_afrMFH=1958&_afrMFDW=412&_afrMFDH=823&_afrMFC=10&_afrMFCI=0&_afrMFM=0&_afrMFR=168&_afrMFG=0&_afrMFS=0&_afrMFO=1",
+  "requestedUrl": "https://www.gsi.gov.in/webcenter/portal/OCBIS/pagenorthern",
+  "timestamp": 1726100811008,
+  "ranks": {
+    "hundos": 505,
+    "performance": 508,
+    "accessibility": 177,
+    "cumulative": 504
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.83,
+    "bestPractices": 0.7,
+    "seo": 0.69,
+    "total": 255
+  },
+  "firstContentfulPaint": 4663.499999999999,
+  "firstMeaningfulPaint": 5123.82,
+  "speedIndex": 10177.593200320178,
+  "largestContentfulPaint": 10699.739999999998,
+  "totalBlockingTime": 43,
+  "cumulativeLayoutShift": 0.9909172139882328,
+  "timeToInteractive": 41085.460000000094,
+  "maxPotentialFirstInputDelay": 136,
+  "timeToFirstByte": 983.414,
+  "weight": {
+    "summary": "127 requests • 13.3 MiB",
+    "total": 13904077,
+    "image": 12838476,
+    "imageCount": 91,
+    "script": 687662,
+    "scriptCount": 23,
+    "document": 55311,
+    "font": 131773,
+    "fontCount": 1,
+    "stylesheet": 185981,
+    "stylesheetCount": 3,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 490,
+    "+weight.total": 164,
+    "-weight.document": 354,
+    "+weight.document": 289,
+    "-weight.script": 336,
+    "+weight.script": 260,
+    "-weight.image": 502,
+    "+weight.image": 148,
+    "-weight.font": 215,
+    "+weight.font": 242,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 525,
+    "-totalBlockingTime": 277,
+    "-largestContentfulPaint": 487
+  },
+  "axe": {
+    "passes": 2789,
+    "violations": 71
+  }
+}

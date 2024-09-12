@@ -1,0 +1,67 @@
+{
+  "url": "https://www.wstfcure.org/",
+  "requestedUrl": "https://envismadrasuniv.org/",
+  "timestamp": 1726099767290,
+  "ranks": {
+    "hundos": 10,
+    "performance": 183,
+    "accessibility": 2,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.58,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 0.93,
+    "total": 347
+  },
+  "firstContentfulPaint": 5020.696000000001,
+  "firstMeaningfulPaint": 5020.696000000001,
+  "speedIndex": 10946.419943327888,
+  "largestContentfulPaint": 5884.8695,
+  "totalBlockingTime": 169,
+  "cumulativeLayoutShift": 0.007970069751922625,
+  "timeToInteractive": 12460.108499999998,
+  "maxPotentialFirstInputDelay": 270,
+  "timeToFirstByte": 166.67300000000006,
+  "weight": {
+    "summary": "47 requests • 1.5 MiB",
+    "total": 1578768,
+    "image": 110003,
+    "imageCount": 3,
+    "script": 1223623,
+    "scriptCount": 25,
+    "document": 21592,
+    "font": 90547,
+    "fontCount": 5,
+    "stylesheet": 131322,
+    "stylesheetCount": 6,
+    "thirdParty": 1442475,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 89,
+    "+weight.total": 565,
+    "-weight.document": 204,
+    "+weight.document": 439,
+    "-weight.script": 450,
+    "+weight.script": 146,
+    "-weight.image": 25,
+    "+weight.image": 625,
+    "-weight.font": 137,
+    "+weight.font": 320,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 287,
+    "-totalBlockingTime": 132,
+    "-largestContentfulPaint": 139
+  },
+  "axe": {
+    "passes": 258,
+    "violations": 2
+  }
+}

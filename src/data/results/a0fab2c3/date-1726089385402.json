@@ -1,0 +1,67 @@
+{
+  "url": "https://birac.nic.in/",
+  "requestedUrl": "https://birac.nic.in/",
+  "timestamp": 1726112893915,
+  "ranks": {
+    "hundos": 483,
+    "performance": 287,
+    "accessibility": 547,
+    "cumulative": 485
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.54,
+    "accessibility": 0.65,
+    "bestPractices": 0.89,
+    "seo": 0.5,
+    "total": 258
+  },
+  "firstContentfulPaint": 9449.804,
+  "firstMeaningfulPaint": 9809.977,
+  "speedIndex": 44799.87377799769,
+  "largestContentfulPaint": 12879.157,
+  "totalBlockingTime": 96.5,
+  "cumulativeLayoutShift": 0.03790309374751933,
+  "timeToInteractive": 64952.492000000006,
+  "maxPotentialFirstInputDelay": 221,
+  "timeToFirstByte": 300.15799999999996,
+  "weight": {
+    "summary": "145 requests • 26.1 MiB",
+    "total": 27394613,
+    "image": 25426664,
+    "imageCount": 82,
+    "script": 1110523,
+    "scriptCount": 37,
+    "document": 130270,
+    "font": 95676,
+    "fontCount": 2,
+    "stylesheet": 631230,
+    "stylesheetCount": 21,
+    "thirdParty": 196560,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 581,
+    "+weight.total": 73,
+    "-weight.document": 472,
+    "+weight.document": 171,
+    "-weight.script": 432,
+    "+weight.script": 164,
+    "-weight.image": 586,
+    "+weight.image": 64,
+    "-weight.font": 146,
+    "+weight.font": 311,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 386,
+    "-totalBlockingTime": 101,
+    "-largestContentfulPaint": 264
+  },
+  "axe": {
+    "passes": 1472,
+    "violations": 241
+  }
+}

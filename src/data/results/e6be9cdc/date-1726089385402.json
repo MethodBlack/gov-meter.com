@@ -1,0 +1,67 @@
+{
+  "url": "https://mohua.gov.in/",
+  "requestedUrl": "https://mohua.gov.in/",
+  "timestamp": 1726125393859,
+  "ranks": {
+    "hundos": 461,
+    "performance": 591,
+    "accessibility": 137,
+    "cumulative": 452
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.26,
+    "accessibility": 0.85,
+    "bestPractices": 0.7,
+    "seo": 0.81,
+    "total": 262
+  },
+  "firstContentfulPaint": 5617.503799999997,
+  "firstMeaningfulPaint": 8166.171749999998,
+  "speedIndex": 51841.156442035164,
+  "largestContentfulPaint": 25210.788599999996,
+  "totalBlockingTime": 2320,
+  "cumulativeLayoutShift": 0.075321351865194,
+  "timeToInteractive": 63357.17629425048,
+  "maxPotentialFirstInputDelay": 2554,
+  "timeToFirstByte": 1681.7389999999998,
+  "weight": {
+    "summary": "463 requests • 26.6 MiB",
+    "total": 27866471,
+    "image": 25651944,
+    "imageCount": 377,
+    "script": 1410499,
+    "scriptCount": 54,
+    "document": 290810,
+    "font": 135681,
+    "fontCount": 4,
+    "stylesheet": 283796,
+    "stylesheetCount": 15,
+    "thirdParty": 16043509,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 584,
+    "+weight.total": 70,
+    "-weight.document": 596,
+    "+weight.document": 47,
+    "-weight.script": 480,
+    "+weight.script": 116,
+    "-weight.image": 587,
+    "+weight.image": 63,
+    "-weight.font": 223,
+    "+weight.font": 234,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 567,
+    "-totalBlockingTime": 417,
+    "-largestContentfulPaint": 586
+  },
+  "axe": {
+    "passes": 1,
+    "violations": 4
+  }
+}

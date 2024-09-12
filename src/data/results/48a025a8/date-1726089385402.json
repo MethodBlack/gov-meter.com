@@ -1,0 +1,67 @@
+{
+  "url": "https://mausam.imd.gov.in/agartala/",
+  "requestedUrl": "https://mausam.imd.gov.in/agartala",
+  "timestamp": 1726150997333,
+  "ranks": {
+    "hundos": 368,
+    "performance": 216,
+    "accessibility": 516,
+    "cumulative": 372
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.56,
+    "accessibility": 0.68,
+    "bestPractices": 0.67,
+    "seo": 0.81,
+    "total": 272
+  },
+  "firstContentfulPaint": 4344.432825,
+  "firstMeaningfulPaint": 4702.6822575,
+  "speedIndex": 10807.265636612552,
+  "largestContentfulPaint": 30525.607432500008,
+  "totalBlockingTime": 111,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 17902.88113,
+  "maxPotentialFirstInputDelay": 106,
+  "timeToFirstByte": 84.678,
+  "weight": {
+    "summary": "84 requests • 15.8 MiB",
+    "total": 16568728,
+    "image": 14601985,
+    "imageCount": 38,
+    "script": 1560329,
+    "scriptCount": 17,
+    "document": 89513,
+    "font": 97134,
+    "fontCount": 3,
+    "stylesheet": 174411,
+    "stylesheetCount": 5,
+    "thirdParty": 1887664,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 519,
+    "+weight.total": 135,
+    "-weight.document": 422,
+    "+weight.document": 221,
+    "-weight.script": 495,
+    "+weight.script": 101,
+    "-weight.image": 520,
+    "+weight.image": 130,
+    "-weight.font": 148,
+    "+weight.font": 309,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 111,
+    "-totalBlockingTime": 107,
+    "-largestContentfulPaint": 381
+  },
+  "axe": {
+    "passes": 1046,
+    "violations": 73
+  }
+}

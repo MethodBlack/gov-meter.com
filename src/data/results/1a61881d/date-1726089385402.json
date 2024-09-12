@@ -1,0 +1,67 @@
+{
+  "url": "https://danapur.cantt.gov.in/",
+  "requestedUrl": "https://danapur.cantt.gov.in/",
+  "timestamp": 1726138200647,
+  "ranks": {
+    "hundos": 380,
+    "performance": 526,
+    "accessibility": 203,
+    "cumulative": 376
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.32,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.83,
+    "total": 271
+  },
+  "firstContentfulPaint": 5328.5625,
+  "firstMeaningfulPaint": 5328.5625,
+  "speedIndex": 9937.384986105339,
+  "largestContentfulPaint": 25607.25,
+  "totalBlockingTime": 51.5,
+  "cumulativeLayoutShift": 1.3351947157638442,
+  "timeToInteractive": 14842.4375,
+  "maxPotentialFirstInputDelay": 153,
+  "timeToFirstByte": 833.363,
+  "weight": {
+    "summary": "79 requests • 3.3 MiB",
+    "total": 3449162,
+    "image": 2783441,
+    "imageCount": 20,
+    "script": 346180,
+    "scriptCount": 28,
+    "document": 15771,
+    "font": 78112,
+    "fontCount": 1,
+    "stylesheet": 225658,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 194,
+    "+weight.total": 460,
+    "-weight.document": 124,
+    "+weight.document": 519,
+    "-weight.script": 183,
+    "+weight.script": 413,
+    "-weight.image": 239,
+    "+weight.image": 411,
+    "-weight.font": 100,
+    "+weight.font": 357,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 501,
+    "-totalBlockingTime": 291,
+    "-largestContentfulPaint": 588
+  },
+  "axe": {
+    "passes": 818,
+    "violations": 31
+  }
+}

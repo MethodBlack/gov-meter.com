@@ -1,0 +1,67 @@
+{
+  "url": "https://www.tcil.net.in/index.php",
+  "requestedUrl": "https://www.tcil.net.in/",
+  "timestamp": 1726156443839,
+  "ranks": {
+    "hundos": 127,
+    "performance": 88,
+    "accessibility": 266,
+    "cumulative": 127
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.73,
+    "accessibility": 0.81,
+    "bestPractices": 0.85,
+    "seo": 0.66,
+    "total": 305
+  },
+  "firstContentfulPaint": 3077.5350000000003,
+  "firstMeaningfulPaint": 3077.5350000000003,
+  "speedIndex": 10580.123842397092,
+  "largestContentfulPaint": 3992.880000000001,
+  "totalBlockingTime": 44.5,
+  "cumulativeLayoutShift": 0.013502328441652174,
+  "timeToInteractive": 18091.429000000007,
+  "maxPotentialFirstInputDelay": 111,
+  "timeToFirstByte": 303.908,
+  "weight": {
+    "summary": "93 requests • 8.9 MiB",
+    "total": 9303467,
+    "image": 8243823,
+    "imageCount": 40,
+    "script": 842932,
+    "scriptCount": 29,
+    "document": 165801,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 33961,
+    "stylesheetCount": 5,
+    "thirdParty": 593902,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 412,
+    "+weight.total": 242,
+    "-weight.document": 517,
+    "+weight.document": 126,
+    "-weight.script": 375,
+    "+weight.script": 221,
+    "-weight.image": 437,
+    "+weight.image": 213,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 387,
+    "-totalBlockingTime": 67,
+    "-largestContentfulPaint": 71
+  },
+  "axe": {
+    "passes": 662,
+    "violations": 77
+  }
+}

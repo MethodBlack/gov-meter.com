@@ -1,0 +1,67 @@
+{
+  "url": "https://nml.res.in/",
+  "requestedUrl": "https://www.nmlindia.org/",
+  "timestamp": 1726117080066,
+  "ranks": {
+    "hundos": 256,
+    "performance": 275,
+    "accessibility": 366,
+    "cumulative": 254
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.54,
+    "accessibility": 0.76,
+    "bestPractices": 0.93,
+    "seo": 0.65,
+    "total": 288
+  },
+  "firstContentfulPaint": 5905.291,
+  "firstMeaningfulPaint": 5905.291,
+  "speedIndex": 17083.245791295656,
+  "largestContentfulPaint": 9884.976,
+  "totalBlockingTime": 157,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 8876.446,
+  "maxPotentialFirstInputDelay": 360,
+  "timeToFirstByte": 2866.1629999999996,
+  "weight": {
+    "summary": "77 requests • 9.6 MiB",
+    "total": 10062542,
+    "image": 5995264,
+    "imageCount": 49,
+    "script": 316155,
+    "scriptCount": 12,
+    "document": 71101,
+    "font": 126761,
+    "fontCount": 4,
+    "stylesheet": 82705,
+    "stylesheetCount": 8,
+    "thirdParty": 140599,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 428,
+    "+weight.total": 226,
+    "-weight.document": 390,
+    "+weight.document": 253,
+    "-weight.script": 156,
+    "+weight.script": 440,
+    "-weight.image": 380,
+    "+weight.image": 270,
+    "-weight.font": 206,
+    "+weight.font": 251,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 618,
+    "-totalBlockingTime": 339,
+    "-largestContentfulPaint": 481
+  },
+  "axe": {
+    "passes": 1392,
+    "violations": 85
+  }
+}

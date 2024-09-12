@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cftri.res.in/",
+  "requestedUrl": "https://www.cftri.res.in/",
+  "timestamp": 1726116222583,
+  "ranks": {
+    "hundos": 520,
+    "performance": 430,
+    "accessibility": 630,
+    "cumulative": 519
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.4,
+    "accessibility": 0.54,
+    "bestPractices": 0.93,
+    "seo": 0.64,
+    "total": 251
+  },
+  "firstContentfulPaint": 7061.059,
+  "firstMeaningfulPaint": 7061.059,
+  "speedIndex": 25265.78600557142,
+  "largestContentfulPaint": 8767.359999999999,
+  "totalBlockingTime": 30.5,
+  "cumulativeLayoutShift": 0.2976983601654977,
+  "timeToInteractive": 21952.7335,
+  "maxPotentialFirstInputDelay": 111,
+  "timeToFirstByte": 1265.0819999999999,
+  "weight": {
+    "summary": "121 requests • 26.7 MiB",
+    "total": 27956380,
+    "image": 27051453,
+    "imageCount": 97,
+    "script": 358767,
+    "scriptCount": 10,
+    "document": 121683,
+    "font": 46454,
+    "fontCount": 1,
+    "stylesheet": 378023,
+    "stylesheetCount": 12,
+    "thirdParty": 47534,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 585,
+    "+weight.total": 69,
+    "-weight.document": 462,
+    "+weight.document": 181,
+    "-weight.script": 197,
+    "+weight.script": 399,
+    "-weight.image": 590,
+    "+weight.image": 60,
+    "-weight.font": 44,
+    "+weight.font": 413,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 552,
+    "-totalBlockingTime": 269,
+    "-largestContentfulPaint": 468
+  },
+  "axe": {
+    "passes": 1160,
+    "violations": 172
+  }
+}

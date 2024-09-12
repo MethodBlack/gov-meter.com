@@ -1,0 +1,67 @@
+{
+  "url": "https://dpiit.gov.in/",
+  "requestedUrl": "https://dpiit.gov.in/",
+  "timestamp": 1726096747461,
+  "ranks": {
+    "hundos": 434,
+    "performance": 650,
+    "accessibility": 32,
+    "cumulative": 431
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.03,
+    "accessibility": 0.94,
+    "bestPractices": 0.85,
+    "seo": 0.82,
+    "total": 264
+  },
+  "firstContentfulPaint": 6606.3175,
+  "firstMeaningfulPaint": 6906.3175,
+  "speedIndex": 20214.11118960018,
+  "largestContentfulPaint": 9801.00525,
+  "totalBlockingTime": 1902.4999999999964,
+  "cumulativeLayoutShift": 1.0938174206180091,
+  "timeToInteractive": 27701.83489221193,
+  "maxPotentialFirstInputDelay": 1317.0000000000018,
+  "timeToFirstByte": 191.13,
+  "weight": {
+    "summary": "248 requests • 6.5 MiB",
+    "total": 6811619,
+    "image": 4718955,
+    "imageCount": 120,
+    "script": 1383432,
+    "scriptCount": 79,
+    "document": 356276,
+    "font": 150335,
+    "fontCount": 7,
+    "stylesheet": 199172,
+    "stylesheetCount": 30,
+    "thirdParty": 4021178,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 354,
+    "+weight.total": 300,
+    "-weight.document": 616,
+    "+weight.document": 27,
+    "-weight.script": 477,
+    "+weight.script": 119,
+    "-weight.image": 340,
+    "+weight.image": 310,
+    "-weight.font": 246,
+    "+weight.font": 211,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 320,
+    "-totalBlockingTime": 411,
+    "-largestContentfulPaint": 480
+  },
+  "axe": {
+    "passes": 893,
+    "violations": 28
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://fincomindia.nic.in/",
+  "requestedUrl": "https://fincomindia.nic.in/",
+  "timestamp": 1726155848845,
+  "ranks": {
+    "hundos": 43,
+    "performance": 145,
+    "accessibility": 153,
+    "cumulative": 43
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.61,
+    "accessibility": 0.84,
+    "bestPractices": 0.96,
+    "seo": 0.85,
+    "total": 326
+  },
+  "firstContentfulPaint": 2986.01,
+  "firstMeaningfulPaint": 2986.01,
+  "speedIndex": 6331.8310908013955,
+  "largestContentfulPaint": 19063.010000000002,
+  "totalBlockingTime": 212,
+  "cumulativeLayoutShift": 0.014408325427553548,
+  "timeToInteractive": 9332.010000000002,
+  "maxPotentialFirstInputDelay": 394,
+  "timeToFirstByte": 102.12799999999999,
+  "weight": {
+    "summary": "93 requests • 5.1 MiB",
+    "total": 5383782,
+    "image": 3753142,
+    "imageCount": 50,
+    "script": 1106362,
+    "scriptCount": 18,
+    "document": 26480,
+    "font": 363683,
+    "fontCount": 8,
+    "stylesheet": 135747,
+    "stylesheetCount": 16,
+    "thirdParty": 91743,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 293,
+    "+weight.total": 361,
+    "-weight.document": 243,
+    "+weight.document": 400,
+    "-weight.script": 429,
+    "+weight.script": 167,
+    "-weight.image": 290,
+    "+weight.image": 360,
+    "-weight.font": 408,
+    "+weight.font": 49,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 166,
+    "-totalBlockingTime": 143,
+    "-largestContentfulPaint": 331
+  },
+  "axe": {
+    "passes": 9,
+    "violations": 5
+  }
+}

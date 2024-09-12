@@ -1,0 +1,67 @@
+{
+  "url": "https://www.aerb.gov.in/english",
+  "requestedUrl": "https://www.aerb.gov.in/english",
+  "timestamp": 1726112137747,
+  "ranks": {
+    "hundos": 141,
+    "performance": 233,
+    "accessibility": 73,
+    "cumulative": 142
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.9,
+    "bestPractices": 0.7,
+    "seo": 0.88,
+    "total": 303
+  },
+  "firstContentfulPaint": 11935.843999999994,
+  "firstMeaningfulPaint": 11935.843999999994,
+  "speedIndex": 12932.628020406997,
+  "largestContentfulPaint": 13957.320499999996,
+  "totalBlockingTime": 24.5,
+  "cumulativeLayoutShift": 0.026219635267259338,
+  "timeToInteractive": 18172.316499999994,
+  "maxPotentialFirstInputDelay": 78,
+  "timeToFirstByte": 264.703,
+  "weight": {
+    "summary": "138 requests • 3.9 MiB",
+    "total": 4111283,
+    "image": 2143300,
+    "imageCount": 40,
+    "script": 973930,
+    "scriptCount": 23,
+    "document": 104168,
+    "font": 234931,
+    "fontCount": 6,
+    "stylesheet": 641165,
+    "stylesheetCount": 25,
+    "thirdParty": 223805,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 232,
+    "+weight.total": 422,
+    "-weight.document": 441,
+    "+weight.document": 202,
+    "-weight.script": 408,
+    "+weight.script": 188,
+    "-weight.image": 201,
+    "+weight.image": 449,
+    "-weight.font": 346,
+    "+weight.font": 111,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 370,
+    "-totalBlockingTime": 45,
+    "-largestContentfulPaint": 284
+  },
+  "axe": {
+    "passes": 1305,
+    "violations": 63
+  }
+}

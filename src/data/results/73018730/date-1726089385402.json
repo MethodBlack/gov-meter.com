@@ -1,0 +1,66 @@
+{
+  "url": "https://nalcoindia.com/",
+  "requestedUrl": "https://www.nalcoindia.com/",
+  "timestamp": 1726129353939,
+  "ranks": {
+    "hundos": 251,
+    "performance": 315,
+    "accessibility": 420,
+    "cumulative": 248
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.51,
+    "accessibility": 0.74,
+    "bestPractices": 0.85,
+    "seo": 0.79,
+    "total": 289
+  },
+  "firstContentfulPaint": 5908.562,
+  "firstMeaningfulPaint": 5908.562,
+  "speedIndex": 17353.97986505794,
+  "largestContentfulPaint": 17417.561999999998,
+  "totalBlockingTime": 245,
+  "cumulativeLayoutShift": 0.00024965734419164185,
+  "timeToInteractive": 11235.561999999998,
+  "maxPotentialFirstInputDelay": 416,
+  "timeToFirstByte": 2069.412,
+  "weight": {
+    "summary": "111 requests • 12.7 MiB",
+    "total": 13314989,
+    "image": 6721562,
+    "imageCount": 66,
+    "script": 454614,
+    "scriptCount": 18,
+    "document": 44877,
+    "font": 248057,
+    "fontCount": 7,
+    "stylesheet": 99498,
+    "stylesheetCount": 12,
+    "thirdParty": 7068410,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 477,
+    "+weight.total": 177,
+    "-weight.document": 308,
+    "+weight.document": 335,
+    "-weight.script": 240,
+    "+weight.script": 356,
+    "-weight.image": 399,
+    "+weight.image": 251,
+    "-weight.font": 356,
+    "+weight.font": 101,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 588,
+    "-totalBlockingTime": 351,
+    "-largestContentfulPaint": 547
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

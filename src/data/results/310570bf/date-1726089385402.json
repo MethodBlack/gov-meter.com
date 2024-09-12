@@ -1,0 +1,67 @@
+{
+  "url": "https://naitik.gov.in/DHR/Homepage",
+  "requestedUrl": "https://naitik.gov.in/",
+  "timestamp": 1726129851656,
+  "ranks": {
+    "hundos": 304,
+    "performance": 389,
+    "accessibility": 166,
+    "cumulative": 300
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.45,
+    "accessibility": 0.83,
+    "bestPractices": 0.7,
+    "seo": 0.82,
+    "total": 280
+  },
+  "firstContentfulPaint": 18477.28660000003,
+  "firstMeaningfulPaint": 20012.100600000034,
+  "speedIndex": 31823.625916207184,
+  "largestContentfulPaint": 21122.95180000003,
+  "totalBlockingTime": 415,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 26287.83800000005,
+  "maxPotentialFirstInputDelay": 324,
+  "timeToFirstByte": 504.736,
+  "weight": {
+    "summary": "90 requests • 3.6 MiB",
+    "total": 3789059,
+    "image": 1268767,
+    "imageCount": 12,
+    "script": 2038881,
+    "scriptCount": 40,
+    "document": 16791,
+    "font": 155590,
+    "fontCount": 2,
+    "stylesheet": 308140,
+    "stylesheetCount": 31,
+    "thirdParty": 495967,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 205,
+    "+weight.total": 449,
+    "-weight.document": 145,
+    "+weight.document": 498,
+    "-weight.script": 526,
+    "+weight.script": 70,
+    "-weight.image": 136,
+    "+weight.image": 514,
+    "-weight.font": 255,
+    "+weight.font": 202,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 439,
+    "-totalBlockingTime": 372,
+    "-largestContentfulPaint": 572
+  },
+  "axe": {
+    "passes": 367,
+    "violations": 18
+  }
+}

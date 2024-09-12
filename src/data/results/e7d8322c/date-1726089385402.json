@@ -1,0 +1,67 @@
+{
+  "url": "https://doe.gov.in/",
+  "requestedUrl": "https://doe.gov.in/",
+  "timestamp": 1726142584624,
+  "ranks": {
+    "hundos": 480,
+    "performance": 426,
+    "accessibility": 306,
+    "cumulative": 478
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.41,
+    "accessibility": 0.79,
+    "bestPractices": 0.48,
+    "seo": 0.91,
+    "total": 259
+  },
+  "firstContentfulPaint": 18835.833,
+  "firstMeaningfulPaint": 18957.833,
+  "speedIndex": 29585.55687435111,
+  "largestContentfulPaint": 26196.828500000003,
+  "totalBlockingTime": 550.5,
+  "cumulativeLayoutShift": 0.0025012313859262753,
+  "timeToInteractive": 39200.68949999999,
+  "maxPotentialFirstInputDelay": 362,
+  "timeToFirstByte": 18.760999999999996,
+  "weight": {
+    "summary": "255 requests • 6.6 MiB",
+    "total": 6921296,
+    "image": 2262303,
+    "imageCount": 79,
+    "script": 2956600,
+    "scriptCount": 66,
+    "document": 290133,
+    "font": 326211,
+    "fontCount": 13,
+    "stylesheet": 1016832,
+    "stylesheetCount": 76,
+    "thirdParty": 2438989,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 356,
+    "+weight.total": 298,
+    "-weight.document": 595,
+    "+weight.document": 48,
+    "-weight.script": 566,
+    "+weight.script": 30,
+    "-weight.image": 211,
+    "+weight.image": 439,
+    "-weight.font": 394,
+    "+weight.font": 63,
+    "+weight.fontCount": 11,
+    "-timeToFirstByte": 2,
+    "-totalBlockingTime": 191,
+    "-largestContentfulPaint": 368
+  },
+  "axe": {
+    "passes": 2353,
+    "violations": 59
+  }
+}

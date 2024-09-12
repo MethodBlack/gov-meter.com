@@ -1,0 +1,67 @@
+{
+  "url": "https://www.utiitsl.com/",
+  "requestedUrl": "https://www.utiitsl.com/",
+  "timestamp": 1726111092473,
+  "ranks": {
+    "hundos": 246,
+    "performance": 154,
+    "accessibility": 427,
+    "cumulative": 243
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.6,
+    "accessibility": 0.73,
+    "bestPractices": 0.89,
+    "seo": 0.67,
+    "total": 289
+  },
+  "firstContentfulPaint": 4054.799,
+  "firstMeaningfulPaint": 4490.094,
+  "speedIndex": 6918.5065646882085,
+  "largestContentfulPaint": 9015.864999999998,
+  "totalBlockingTime": 99.5,
+  "cumulativeLayoutShift": 0.011233831712506035,
+  "timeToInteractive": 7169.0909999999985,
+  "maxPotentialFirstInputDelay": 162,
+  "timeToFirstByte": 129.606,
+  "weight": {
+    "summary": "70 requests • 2.1 MiB",
+    "total": 2217872,
+    "image": 1087559,
+    "imageCount": 33,
+    "script": 606585,
+    "scriptCount": 23,
+    "document": 78860,
+    "font": 77861,
+    "fontCount": 1,
+    "stylesheet": 366961,
+    "stylesheetCount": 10,
+    "thirdParty": 340409,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 132,
+    "+weight.total": 522,
+    "-weight.document": 407,
+    "+weight.document": 236,
+    "-weight.script": 288,
+    "+weight.script": 308,
+    "-weight.image": 122,
+    "+weight.image": 528,
+    "-weight.font": 95,
+    "+weight.font": 362,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 220,
+    "-totalBlockingTime": 103,
+    "-largestContentfulPaint": 198
+  },
+  "axe": {
+    "passes": 1051,
+    "violations": 51
+  }
+}

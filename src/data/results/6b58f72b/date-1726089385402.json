@@ -1,0 +1,67 @@
+{
+  "url": "https://cgca.gov.in/ccaw/address",
+  "requestedUrl": "https://cgca.gov.in/ccaw/address",
+  "timestamp": 1726115895872,
+  "ranks": {
+    "hundos": 33,
+    "performance": 178,
+    "accessibility": 83,
+    "cumulative": 35
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.58,
+    "accessibility": 0.89,
+    "bestPractices": 0.85,
+    "seo": 0.97,
+    "total": 329
+  },
+  "firstContentfulPaint": 7079.234999999998,
+  "firstMeaningfulPaint": 7679.235,
+  "speedIndex": 7079.234999999998,
+  "largestContentfulPaint": 8678.025000000001,
+  "totalBlockingTime": 7,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 7785.630000000001,
+  "maxPotentialFirstInputDelay": 62,
+  "timeToFirstByte": 74.037,
+  "weight": {
+    "summary": "92 requests • 1.2 MiB",
+    "total": 1250895,
+    "image": 344889,
+    "imageCount": 23,
+    "script": 404146,
+    "scriptCount": 26,
+    "document": 48424,
+    "font": 173696,
+    "fontCount": 8,
+    "stylesheet": 279740,
+    "stylesheetCount": 34,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 67,
+    "+weight.total": 587,
+    "-weight.document": 320,
+    "+weight.document": 323,
+    "-weight.script": 220,
+    "+weight.script": 376,
+    "-weight.image": 46,
+    "+weight.image": 604,
+    "-weight.font": 292,
+    "+weight.font": 165,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 74,
+    "-totalBlockingTime": 14,
+    "-largestContentfulPaint": 189
+  },
+  "axe": {
+    "passes": 384,
+    "violations": 13
+  }
+}

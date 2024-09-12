@@ -1,0 +1,67 @@
+{
+  "url": "https://cept.gov.in/",
+  "requestedUrl": "https://cept.gov.in/",
+  "timestamp": 1726114280317,
+  "ranks": {
+    "hundos": 192,
+    "performance": 16,
+    "accessibility": 589,
+    "cumulative": 193
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.97,
+    "accessibility": 0.6,
+    "bestPractices": 0.89,
+    "seo": 0.5,
+    "total": 296
+  },
+  "firstContentfulPaint": 1078.233,
+  "firstMeaningfulPaint": 1078.233,
+  "speedIndex": 3821.253856003328,
+  "largestContentfulPaint": 1562.233,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.06313713322391103,
+  "timeToInteractive": 1078.233,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 96.66399999999999,
+  "weight": {
+    "summary": "16 requests • 2.2 MiB",
+    "total": 2354674,
+    "image": 2331978,
+    "imageCount": 11,
+    "script": 13923,
+    "scriptCount": 3,
+    "document": 7189,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 1584,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 142,
+    "+weight.total": 512,
+    "-weight.document": 21,
+    "+weight.document": 622,
+    "-weight.script": 6,
+    "+weight.script": 590,
+    "-weight.image": 216,
+    "+weight.image": 434,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 150,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 11
+  },
+  "axe": {
+    "passes": 260,
+    "violations": 33
+  }
+}

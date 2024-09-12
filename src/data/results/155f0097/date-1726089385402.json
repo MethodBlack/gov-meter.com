@@ -1,0 +1,67 @@
+{
+  "url": "https://crwc.in/",
+  "requestedUrl": "https://crwc.in/",
+  "timestamp": 1726139411462,
+  "ranks": {
+    "hundos": 21,
+    "performance": 64,
+    "accessibility": 13,
+    "cumulative": 20
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.78,
+    "accessibility": 0.96,
+    "bestPractices": 0.7,
+    "seo": 0.93,
+    "total": 337
+  },
+  "firstContentfulPaint": 3321.2880000000005,
+  "firstMeaningfulPaint": 3321.2880000000005,
+  "speedIndex": 6330.66183475883,
+  "largestContentfulPaint": 3495.1900000000005,
+  "totalBlockingTime": 134.5,
+  "cumulativeLayoutShift": 0.00013034516382145074,
+  "timeToInteractive": 7179.334499999999,
+  "maxPotentialFirstInputDelay": 124,
+  "timeToFirstByte": 585.3679999999999,
+  "weight": {
+    "summary": "53 requests • 933.3 KiB",
+    "total": 955686,
+    "image": 387253,
+    "imageCount": 16,
+    "script": 436710,
+    "scriptCount": 12,
+    "document": 61204,
+    "font": 31572,
+    "fontCount": 3,
+    "stylesheet": 25779,
+    "stylesheetCount": 9,
+    "thirdParty": 467411,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 49,
+    "+weight.total": 605,
+    "-weight.document": 365,
+    "+weight.document": 278,
+    "-weight.script": 231,
+    "+weight.script": 365,
+    "-weight.image": 56,
+    "+weight.image": 594,
+    "-weight.font": 30,
+    "+weight.font": 427,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 462,
+    "-totalBlockingTime": 337,
+    "-largestContentfulPaint": 426
+  },
+  "axe": {
+    "passes": 692,
+    "violations": 8
+  }
+}

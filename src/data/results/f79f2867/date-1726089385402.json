@@ -1,0 +1,67 @@
+{
+  "url": "https://esampada.mohua.gov.in/signin/",
+  "requestedUrl": "https://esampada.mohua.gov.in/",
+  "timestamp": 1726122219291,
+  "ranks": {
+    "hundos": 549,
+    "performance": 601,
+    "accessibility": 355,
+    "cumulative": 547
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.24,
+    "accessibility": 0.76,
+    "bestPractices": 0.7,
+    "seo": 0.75,
+    "total": 245
+  },
+  "firstContentfulPaint": 9521.53277,
+  "firstMeaningfulPaint": 9521.53277,
+  "speedIndex": 15917.939568557082,
+  "largestContentfulPaint": 59001.99273500004,
+  "totalBlockingTime": 372,
+  "cumulativeLayoutShift": 0.6077464275863421,
+  "timeToInteractive": 30685.79130000003,
+  "maxPotentialFirstInputDelay": 793.9999999999982,
+  "timeToFirstByte": 907.9060000000001,
+  "weight": {
+    "summary": "131 requests • 11.4 MiB",
+    "total": 11940662,
+    "image": 8221858,
+    "imageCount": 57,
+    "script": 2137632,
+    "scriptCount": 45,
+    "document": 356250,
+    "font": 149166,
+    "fontCount": 5,
+    "stylesheet": 1067429,
+    "stylesheetCount": 17,
+    "thirdParty": 77650,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 462,
+    "+weight.total": 192,
+    "-weight.document": 615,
+    "+weight.document": 28,
+    "-weight.script": 533,
+    "+weight.script": 63,
+    "-weight.image": 436,
+    "+weight.image": 214,
+    "-weight.font": 244,
+    "+weight.font": 213,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 513,
+    "-totalBlockingTime": 368,
+    "-largestContentfulPaint": 639
+  },
+  "axe": {
+    "passes": 563,
+    "violations": 29
+  }
+}

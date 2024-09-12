@@ -1,0 +1,67 @@
+{
+  "url": "https://www.education.gov.in/",
+  "requestedUrl": "https://www.education.gov.in/",
+  "timestamp": 1726122861667,
+  "ranks": {
+    "hundos": 534,
+    "performance": 454,
+    "accessibility": 189,
+    "cumulative": 531
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.37,
+    "accessibility": 0.82,
+    "bestPractices": 0.48,
+    "seo": 0.81,
+    "total": 248
+  },
+  "firstContentfulPaint": 3689.389000000001,
+  "firstMeaningfulPaint": 4221.247000000001,
+  "speedIndex": 14675.76118309756,
+  "largestContentfulPaint": 9598.255000000001,
+  "totalBlockingTime": 801.7084999999997,
+  "cumulativeLayoutShift": 0.09390531172831658,
+  "timeToInteractive": 30808.994749999998,
+  "maxPotentialFirstInputDelay": 369,
+  "timeToFirstByte": 66.465,
+  "weight": {
+    "summary": "300 requests • 9.1 MiB",
+    "total": 9517856,
+    "image": 4423060,
+    "imageCount": 126,
+    "script": 2690984,
+    "scriptCount": 109,
+    "document": 214441,
+    "font": 370626,
+    "fontCount": 8,
+    "stylesheet": 182636,
+    "stylesheetCount": 21,
+    "thirdParty": 6411109,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 417,
+    "+weight.total": 237,
+    "-weight.document": 561,
+    "+weight.document": 82,
+    "-weight.script": 554,
+    "+weight.script": 42,
+    "-weight.image": 322,
+    "+weight.image": 328,
+    "-weight.font": 413,
+    "+weight.font": 44,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 54,
+    "-totalBlockingTime": 200,
+    "-largestContentfulPaint": 208
+  },
+  "axe": {
+    "passes": 9,
+    "violations": 5
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://msmediagra.gov.in/",
+  "requestedUrl": "https://msmediagra.gov.in/",
+  "timestamp": 1726118975837,
+  "ranks": {
+    "hundos": 104,
+    "performance": 92,
+    "accessibility": 127,
+    "cumulative": 103
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.71,
+    "accessibility": 0.86,
+    "bestPractices": 0.85,
+    "seo": 0.68,
+    "total": 310
+  },
+  "firstContentfulPaint": 1009.2315,
+  "firstMeaningfulPaint": 2462.0045,
+  "speedIndex": 4477.021707573141,
+  "largestContentfulPaint": 10585.463,
+  "totalBlockingTime": 142.9999999999999,
+  "cumulativeLayoutShift": 0.028612387776102897,
+  "timeToInteractive": 4527.417999999999,
+  "maxPotentialFirstInputDelay": 149,
+  "timeToFirstByte": 182.4469999999999,
+  "weight": {
+    "summary": "29 requests • 1.9 MiB",
+    "total": 1994212,
+    "image": 1853304,
+    "imageCount": 23,
+    "script": 109731,
+    "scriptCount": 3,
+    "document": 26504,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 4673,
+    "stylesheetCount": 2,
+    "thirdParty": 122624,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 118,
+    "+weight.total": 536,
+    "-weight.document": 244,
+    "+weight.document": 399,
+    "-weight.script": 37,
+    "+weight.script": 559,
+    "-weight.image": 192,
+    "+weight.image": 458,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 312,
+    "-totalBlockingTime": 121,
+    "-largestContentfulPaint": 223
+  },
+  "axe": {
+    "passes": 372,
+    "violations": 33
+  }
+}

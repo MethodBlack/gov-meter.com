@@ -1,0 +1,67 @@
+{
+  "url": "https://www.arpit.gov.in/",
+  "requestedUrl": "https://www.arpit.gov.in/",
+  "timestamp": 1726154437892,
+  "ranks": {
+    "hundos": 155,
+    "performance": 9,
+    "accessibility": 611,
+    "cumulative": 148
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 0.57,
+    "bestPractices": 0.89,
+    "seo": 0.58,
+    "total": 302
+  },
+  "firstContentfulPaint": 1220.628,
+  "firstMeaningfulPaint": 1220.628,
+  "speedIndex": 3032.505832009923,
+  "largestContentfulPaint": 1370.628,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.07039025374984663,
+  "timeToInteractive": 1220.628,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 174.52999999999997,
+  "weight": {
+    "summary": "5 requests • 87.1 KiB",
+    "total": 89166,
+    "image": 77325,
+    "imageCount": 2,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 1852,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 9989,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 5,
+    "+weight.total": 649,
+    "-weight.document": 3,
+    "+weight.document": 640,
+    "-weight.script": 1,
+    "+weight.script": 596,
+    "-weight.image": 21,
+    "+weight.image": 629,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 300,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "passes": 42,
+    "violations": 9
+  }
+}

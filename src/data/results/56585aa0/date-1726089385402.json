@@ -1,0 +1,66 @@
+{
+  "url": "https://ppac.gov.in/",
+  "requestedUrl": "https://ppac.gov.in/",
+  "timestamp": 1726154192606,
+  "ranks": {
+    "hundos": 94,
+    "performance": 274,
+    "accessibility": 184,
+    "cumulative": 94
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.54,
+    "accessibility": 0.83,
+    "bestPractices": 0.93,
+    "seo": 0.82,
+    "total": 312
+  },
+  "firstContentfulPaint": 2606.3415,
+  "firstMeaningfulPaint": 2770.8415,
+  "speedIndex": 15936.328470282431,
+  "largestContentfulPaint": 10291.341500000002,
+  "totalBlockingTime": 262,
+  "cumulativeLayoutShift": 0.09492837528012793,
+  "timeToInteractive": 7015.664000000001,
+  "maxPotentialFirstInputDelay": 528,
+  "timeToFirstByte": 3817.1469999999995,
+  "weight": {
+    "summary": "82 requests • 7.8 MiB",
+    "total": 8141577,
+    "image": 5546652,
+    "imageCount": 49,
+    "script": 537799,
+    "scriptCount": 14,
+    "document": 39285,
+    "font": 1383729,
+    "fontCount": 7,
+    "stylesheet": 135515,
+    "stylesheetCount": 9,
+    "thirdParty": 446730,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 387,
+    "+weight.total": 267,
+    "-weight.document": 289,
+    "+weight.document": 354,
+    "-weight.script": 265,
+    "+weight.script": 331,
+    "-weight.image": 372,
+    "+weight.image": 278,
+    "-weight.font": 456,
+    "+weight.font": 1,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 630,
+    "-totalBlockingTime": 354,
+    "-largestContentfulPaint": 485
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

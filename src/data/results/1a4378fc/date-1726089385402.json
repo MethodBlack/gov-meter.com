@@ -1,0 +1,67 @@
+{
+  "url": "https://www.dps.gov.in/",
+  "requestedUrl": "https://www.dps.gov.in/",
+  "timestamp": 1726122442777,
+  "ranks": {
+    "hundos": 431,
+    "performance": 263,
+    "accessibility": 477,
+    "cumulative": 433
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.7,
+    "bestPractices": 0.85,
+    "seo": 0.54,
+    "total": 264
+  },
+  "firstContentfulPaint": 37366.0775,
+  "firstMeaningfulPaint": 37366.0775,
+  "speedIndex": 37366.0775,
+  "largestContentfulPaint": 42889.924,
+  "totalBlockingTime": 6.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 39541.0775,
+  "maxPotentialFirstInputDelay": 63,
+  "timeToFirstByte": 425.177,
+  "weight": {
+    "summary": "34 requests • 8.1 MiB",
+    "total": 8496798,
+    "image": 1204000,
+    "imageCount": 26,
+    "script": 326364,
+    "scriptCount": 4,
+    "document": 6943789,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 22645,
+    "stylesheetCount": 3,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 398,
+    "+weight.total": 256,
+    "-weight.document": 641,
+    "+weight.document": 2,
+    "-weight.script": 161,
+    "+weight.script": 435,
+    "-weight.image": 130,
+    "+weight.image": 520,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 428,
+    "-totalBlockingTime": 255,
+    "-largestContentfulPaint": 400
+  },
+  "axe": {
+    "passes": 431,
+    "violations": 41
+  }
+}

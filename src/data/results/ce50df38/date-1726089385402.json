@@ -1,0 +1,67 @@
+{
+  "url": "https://ccsea.gov.in/Auth/index.aspx",
+  "requestedUrl": "https://ccsea.gov.in/",
+  "timestamp": 1726115702982,
+  "ranks": {
+    "hundos": 453,
+    "performance": 124,
+    "accessibility": 594,
+    "cumulative": 459
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.66,
+    "accessibility": 0.59,
+    "bestPractices": 0.7,
+    "seo": 0.67,
+    "total": 262
+  },
+  "firstContentfulPaint": 5073.5475000000015,
+  "firstMeaningfulPaint": 5073.5475000000015,
+  "speedIndex": 6713.394165008129,
+  "largestContentfulPaint": 5073.5475000000015,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.005007765905609986,
+  "timeToInteractive": 5073.5475000000015,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 137.765,
+  "weight": {
+    "summary": "61 requests • 844.1 KiB",
+    "total": 864319,
+    "image": 209306,
+    "imageCount": 34,
+    "script": 587815,
+    "scriptCount": 17,
+    "document": 32476,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 34603,
+    "stylesheetCount": 8,
+    "thirdParty": 842,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 41,
+    "+weight.total": 613,
+    "-weight.document": 264,
+    "+weight.document": 379,
+    "-weight.script": 282,
+    "+weight.script": 314,
+    "-weight.image": 36,
+    "+weight.image": 614,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 234,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 112
+  },
+  "axe": {
+    "passes": 370,
+    "violations": 52
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://saugor.cantt.gov.in/",
+  "requestedUrl": "https://saugor.cantt.gov.in/",
+  "timestamp": 1726093179387,
+  "ranks": {
+    "hundos": 388,
+    "performance": 561,
+    "accessibility": 199,
+    "cumulative": 385
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.83,
+    "total": 270
+  },
+  "firstContentfulPaint": 5257.462249999999,
+  "firstMeaningfulPaint": 5257.462249999999,
+  "speedIndex": 20179.319958604967,
+  "largestContentfulPaint": 104947.46549999979,
+  "totalBlockingTime": 83.5,
+  "cumulativeLayoutShift": 0.9561719967616464,
+  "timeToInteractive": 57680.463749999886,
+  "maxPotentialFirstInputDelay": 133,
+  "timeToFirstByte": 1778.849,
+  "weight": {
+    "summary": "110 requests • 18.4 MiB",
+    "total": 19243039,
+    "image": 18574726,
+    "imageCount": 51,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 15740,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 227875,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 548,
+    "+weight.total": 106,
+    "-weight.document": 123,
+    "+weight.document": 520,
+    "-weight.script": 185,
+    "+weight.script": 411,
+    "-weight.image": 557,
+    "+weight.image": 93,
+    "-weight.font": 101,
+    "+weight.font": 356,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 577,
+    "-totalBlockingTime": 323,
+    "-largestContentfulPaint": 648
+  },
+  "axe": {
+    "passes": 796,
+    "violations": 29
+  }
+}

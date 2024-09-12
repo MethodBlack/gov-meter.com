@@ -1,0 +1,67 @@
+{
+  "url": "https://doj.gov.in/",
+  "requestedUrl": "https://doj.gov.in/",
+  "timestamp": 1726118574957,
+  "ranks": {
+    "hundos": 75,
+    "performance": 468,
+    "accessibility": 48,
+    "cumulative": 75
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.36,
+    "accessibility": 0.92,
+    "bestPractices": 0.96,
+    "seo": 0.91,
+    "total": 315
+  },
+  "firstContentfulPaint": 3698.01,
+  "firstMeaningfulPaint": 3698.01,
+  "speedIndex": 11366.060282636154,
+  "largestContentfulPaint": 3964.731,
+  "totalBlockingTime": 746.5000000000009,
+  "cumulativeLayoutShift": 0.34319423271276583,
+  "timeToInteractive": 16262.36575,
+  "maxPotentialFirstInputDelay": 610.0000000000009,
+  "timeToFirstByte": 80.75800000000004,
+  "weight": {
+    "summary": "181 requests • 21.6 MiB",
+    "total": 22623774,
+    "image": 21341515,
+    "imageCount": 113,
+    "script": 745029,
+    "scriptCount": 35,
+    "document": 143294,
+    "font": 114019,
+    "fontCount": 5,
+    "stylesheet": 274535,
+    "stylesheetCount": 21,
+    "thirdParty": 21759728,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 564,
+    "+weight.total": 90,
+    "-weight.document": 493,
+    "+weight.document": 150,
+    "-weight.script": 355,
+    "+weight.script": 241,
+    "-weight.image": 569,
+    "+weight.image": 81,
+    "-weight.font": 181,
+    "+weight.font": 276,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 95,
+    "-totalBlockingTime": 388,
+    "-largestContentfulPaint": 428
+  },
+  "axe": {
+    "passes": 5555,
+    "violations": 24
+  }
+}

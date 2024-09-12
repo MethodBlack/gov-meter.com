@@ -1,0 +1,67 @@
+{
+  "url": "https://www.iari.res.in/en/index.php",
+  "requestedUrl": "https://www.iari.res.in/",
+  "timestamp": 1726147739964,
+  "ranks": {
+    "hundos": 112,
+    "performance": 230,
+    "accessibility": 387,
+    "cumulative": 152
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.75,
+    "bestPractices": 0.89,
+    "seo": 0.83,
+    "total": 307
+  },
+  "firstContentfulPaint": 8112.6449999999995,
+  "firstMeaningfulPaint": 8112.6449999999995,
+  "speedIndex": 12093.362353499058,
+  "largestContentfulPaint": 14879.190999999999,
+  "totalBlockingTime": 91.5,
+  "cumulativeLayoutShift": 0.000054900356786932084,
+  "timeToInteractive": 18260.691000000006,
+  "maxPotentialFirstInputDelay": 136,
+  "timeToFirstByte": 25.707,
+  "weight": {
+    "summary": "84 requests • 5.7 MiB",
+    "total": 5971772,
+    "image": 3674027,
+    "imageCount": 45,
+    "script": 1260982,
+    "scriptCount": 19,
+    "document": 75410,
+    "font": 87191,
+    "fontCount": 2,
+    "stylesheet": 873545,
+    "stylesheetCount": 16,
+    "thirdParty": 380942,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 317,
+    "+weight.total": 337,
+    "-weight.document": 399,
+    "+weight.document": 244,
+    "-weight.script": 457,
+    "+weight.script": 139,
+    "-weight.image": 287,
+    "+weight.image": 363,
+    "-weight.font": 131,
+    "+weight.font": 326,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 98,
+    "-largestContentfulPaint": 298
+  },
+  "axe": {
+    "passes": 944,
+    "violations": 68
+  }
+}

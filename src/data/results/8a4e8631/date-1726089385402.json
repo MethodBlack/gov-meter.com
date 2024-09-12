@@ -1,0 +1,67 @@
+{
+  "url": "https://labourbureau.gov.in/",
+  "requestedUrl": "https://labourbureau.gov.in/",
+  "timestamp": 1726150537437,
+  "ranks": {
+    "hundos": 593,
+    "performance": 642,
+    "accessibility": 170,
+    "cumulative": 592
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.09,
+    "accessibility": 0.83,
+    "bestPractices": 0.67,
+    "seo": 0.71,
+    "total": 230
+  },
+  "firstContentfulPaint": 5816.972,
+  "firstMeaningfulPaint": 5816.972,
+  "speedIndex": 19785.06168383721,
+  "largestContentfulPaint": 13070.972000000002,
+  "totalBlockingTime": 1454.5,
+  "cumulativeLayoutShift": 0.50700619639791,
+  "timeToInteractive": 26772.972,
+  "maxPotentialFirstInputDelay": 1164,
+  "timeToFirstByte": 648.918,
+  "weight": {
+    "summary": "102 requests • 5.5 MiB",
+    "total": 5770516,
+    "image": 1670595,
+    "imageCount": 47,
+    "script": 3711383,
+    "scriptCount": 24,
+    "document": 22770,
+    "font": 99104,
+    "fontCount": 5,
+    "stylesheet": 266664,
+    "stylesheetCount": 25,
+    "thirdParty": 113554,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 307,
+    "+weight.total": 347,
+    "-weight.document": 218,
+    "+weight.document": 425,
+    "-weight.script": 584,
+    "+weight.script": 12,
+    "-weight.image": 184,
+    "+weight.image": 466,
+    "-weight.font": 151,
+    "+weight.font": 306,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 473,
+    "-totalBlockingTime": 406,
+    "-largestContentfulPaint": 509
+  },
+  "axe": {
+    "passes": 842,
+    "violations": 35
+  }
+}

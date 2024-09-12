@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cooperation.gov.in/",
+  "requestedUrl": "https://www.cooperation.gov.in/",
+  "timestamp": 1726115962534,
+  "ranks": {
+    "hundos": 573,
+    "performance": 581,
+    "accessibility": 273,
+    "cumulative": 572
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.28,
+    "accessibility": 0.8,
+    "bestPractices": 0.48,
+    "seo": 0.82,
+    "total": 238
+  },
+  "firstContentfulPaint": 2461.904,
+  "firstMeaningfulPaint": 2536.904,
+  "speedIndex": 17696.823372075098,
+  "largestContentfulPaint": 11131.904,
+  "totalBlockingTime": 1424.5,
+  "cumulativeLayoutShift": 0.17702857708034772,
+  "timeToInteractive": 27017.883249999995,
+  "maxPotentialFirstInputDelay": 674,
+  "timeToFirstByte": 66.18100000000004,
+  "weight": {
+    "summary": "364 requests • 107.1 MiB",
+    "total": 112323084,
+    "image": 107185335,
+    "imageCount": 151,
+    "script": 2334368,
+    "scriptCount": 127,
+    "document": 213524,
+    "font": 181832,
+    "fontCount": 7,
+    "stylesheet": 371694,
+    "stylesheetCount": 48,
+    "thirdParty": 5743057,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 649,
+    "+weight.total": 5,
+    "-weight.document": 557,
+    "+weight.document": 86,
+    "-weight.script": 542,
+    "+weight.script": 54,
+    "-weight.image": 644,
+    "+weight.image": 6,
+    "-weight.font": 297,
+    "+weight.font": 160,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 53,
+    "-totalBlockingTime": 231,
+    "-largestContentfulPaint": 233
+  },
+  "axe": {
+    "passes": 9,
+    "violations": 5
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://vicepresidentofindia.nic.in/",
+  "requestedUrl": "https://vicepresidentofindia.nic.in/",
+  "timestamp": 1726157008360,
+  "ranks": {
+    "hundos": 136,
+    "performance": 472,
+    "accessibility": 46,
+    "cumulative": 131
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.36,
+    "accessibility": 0.92,
+    "bestPractices": 0.93,
+    "seo": 0.83,
+    "total": 304
+  },
+  "firstContentfulPaint": 7950.0875,
+  "firstMeaningfulPaint": 7950.0875,
+  "speedIndex": 13705.6109040192,
+  "largestContentfulPaint": 12739.305000000002,
+  "totalBlockingTime": 4.5,
+  "cumulativeLayoutShift": 0.4313504164709677,
+  "timeToInteractive": 13275.0875,
+  "maxPotentialFirstInputDelay": 59,
+  "timeToFirstByte": 2244.977,
+  "weight": {
+    "summary": "86 requests • 4.5 MiB",
+    "total": 4742310,
+    "image": 3691505,
+    "imageCount": 35,
+    "script": 669094,
+    "scriptCount": 20,
+    "document": 51234,
+    "font": 107379,
+    "fontCount": 3,
+    "stylesheet": 223098,
+    "stylesheetCount": 27,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 265,
+    "+weight.total": 389,
+    "-weight.document": 328,
+    "+weight.document": 315,
+    "-weight.script": 323,
+    "+weight.script": 273,
+    "-weight.image": 288,
+    "+weight.image": 362,
+    "-weight.font": 167,
+    "+weight.font": 290,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 594,
+    "-totalBlockingTime": 252,
+    "-largestContentfulPaint": 262
+  },
+  "axe": {
+    "passes": 441,
+    "violations": 17
+  }
+}

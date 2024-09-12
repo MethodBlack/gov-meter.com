@@ -1,0 +1,67 @@
+{
+  "url": "https://texmin.gov.in/",
+  "requestedUrl": "https://texmin.gov.in/",
+  "timestamp": 1726156532771,
+  "ranks": {
+    "hundos": 301,
+    "performance": 500,
+    "accessibility": 125,
+    "cumulative": 301
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.86,
+    "bestPractices": 0.7,
+    "seo": 0.9,
+    "total": 280
+  },
+  "firstContentfulPaint": 7091.146999999999,
+  "firstMeaningfulPaint": 7114.646999999999,
+  "speedIndex": 11863.901729263653,
+  "largestContentfulPaint": 36609.30650000002,
+  "totalBlockingTime": 11,
+  "cumulativeLayoutShift": 0.5093559483538975,
+  "timeToInteractive": 8826.336,
+  "maxPotentialFirstInputDelay": 72,
+  "timeToFirstByte": 69.49700000000007,
+  "weight": {
+    "summary": "120 requests • 9.9 MiB",
+    "total": 10431480,
+    "image": 9430631,
+    "imageCount": 55,
+    "script": 572724,
+    "scriptCount": 29,
+    "document": 67451,
+    "font": 166713,
+    "fontCount": 8,
+    "stylesheet": 193717,
+    "stylesheetCount": 26,
+    "thirdParty": 255448,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 435,
+    "+weight.total": 219,
+    "-weight.document": 383,
+    "+weight.document": 260,
+    "-weight.script": 277,
+    "+weight.script": 319,
+    "-weight.image": 456,
+    "+weight.image": 194,
+    "-weight.font": 276,
+    "+weight.font": 181,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 64,
+    "-totalBlockingTime": 23,
+    "-largestContentfulPaint": 395
+  },
+  "axe": {
+    "passes": 1134,
+    "violations": 25
+  }
+}

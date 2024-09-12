@@ -1,0 +1,67 @@
+{
+  "url": "https://cwprs.gov.in/",
+  "requestedUrl": "https://cwprs.gov.in/",
+  "timestamp": 1726114989717,
+  "ranks": {
+    "hundos": 32,
+    "performance": 49,
+    "accessibility": 242,
+    "cumulative": 32
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.83,
+    "accessibility": 0.82,
+    "bestPractices": 0.89,
+    "seo": 0.77,
+    "total": 331
+  },
+  "firstContentfulPaint": 2619.9,
+  "firstMeaningfulPaint": 2710.9,
+  "speedIndex": 5131.173659498861,
+  "largestContentfulPaint": 3535.8999999999996,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.010529032103803702,
+  "timeToInteractive": 2710.9,
+  "maxPotentialFirstInputDelay": 50,
+  "timeToFirstByte": 316.93499999999995,
+  "weight": {
+    "summary": "70 requests • 52.4 MiB",
+    "total": 54935079,
+    "image": 54666921,
+    "imageCount": 59,
+    "script": 166980,
+    "scriptCount": 8,
+    "document": 61911,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 39267,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 631,
+    "+weight.total": 23,
+    "-weight.document": 368,
+    "+weight.document": 275,
+    "-weight.script": 66,
+    "+weight.script": 530,
+    "-weight.image": 629,
+    "+weight.image": 21,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 397,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 62
+  },
+  "axe": {
+    "passes": 690,
+    "violations": 48
+  }
+}

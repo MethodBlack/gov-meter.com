@@ -1,0 +1,66 @@
+{
+  "url": "https://www.rites.com/",
+  "requestedUrl": "https://www.rites.com/",
+  "timestamp": 1726109564395,
+  "ranks": {
+    "hundos": 324,
+    "performance": 372,
+    "accessibility": 118,
+    "cumulative": 329
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.46,
+    "accessibility": 0.87,
+    "bestPractices": 0.67,
+    "seo": 0.77,
+    "total": 277
+  },
+  "firstContentfulPaint": 6723.103000000001,
+  "firstMeaningfulPaint": 7024.198,
+  "speedIndex": 13873.48545125109,
+  "largestContentfulPaint": 22450.386,
+  "totalBlockingTime": 308,
+  "cumulativeLayoutShift": 0.10328068043742406,
+  "timeToInteractive": 25390.404500000004,
+  "maxPotentialFirstInputDelay": 257,
+  "timeToFirstByte": 222.478,
+  "weight": {
+    "summary": "106 requests • 11.1 MiB",
+    "total": 11687664,
+    "image": 2647950,
+    "imageCount": 34,
+    "script": 1287520,
+    "scriptCount": 29,
+    "document": 177245,
+    "font": 332465,
+    "fontCount": 9,
+    "stylesheet": 574503,
+    "stylesheetCount": 20,
+    "thirdParty": 698791,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 2,
+    "total": 6
+  },
+  "sidequests": {
+    "-weight.total": 456,
+    "+weight.total": 198,
+    "-weight.document": 527,
+    "+weight.document": 116,
+    "-weight.script": 461,
+    "+weight.script": 135,
+    "-weight.image": 232,
+    "+weight.image": 418,
+    "-weight.font": 396,
+    "+weight.font": 61,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 343,
+    "-totalBlockingTime": 162,
+    "-largestContentfulPaint": 349
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

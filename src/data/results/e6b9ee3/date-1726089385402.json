@@ -1,0 +1,67 @@
+{
+  "url": "https://asi.nic.in/",
+  "requestedUrl": "https://asi.nic.in/",
+  "timestamp": 1726111974126,
+  "ranks": {
+    "hundos": 293,
+    "performance": 378,
+    "accessibility": 429,
+    "cumulative": 292
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.46,
+    "accessibility": 0.73,
+    "bestPractices": 0.89,
+    "seo": 0.74,
+    "total": 282
+  },
+  "firstContentfulPaint": 46237.92399999992,
+  "firstMeaningfulPaint": 46237.92399999992,
+  "speedIndex": 62454.66874327683,
+  "largestContentfulPaint": 47744.15599999992,
+  "totalBlockingTime": 369,
+  "cumulativeLayoutShift": 0.028640625476824753,
+  "timeToInteractive": 120569.56999999995,
+  "maxPotentialFirstInputDelay": 220,
+  "timeToFirstByte": 796.529,
+  "weight": {
+    "summary": "139 requests • 32.8 MiB",
+    "total": 34347025,
+    "image": 23848113,
+    "imageCount": 65,
+    "script": 1388176,
+    "scriptCount": 35,
+    "document": 7172401,
+    "font": 484949,
+    "fontCount": 7,
+    "stylesheet": 1451498,
+    "stylesheetCount": 27,
+    "thirdParty": 128183,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 604,
+    "+weight.total": 50,
+    "-weight.document": 642,
+    "+weight.document": 1,
+    "-weight.script": 478,
+    "+weight.script": 118,
+    "-weight.image": 582,
+    "+weight.image": 68,
+    "-weight.font": 430,
+    "+weight.font": 27,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 496,
+    "-totalBlockingTime": 367,
+    "-largestContentfulPaint": 635
+  },
+  "axe": {
+    "passes": 1525,
+    "violations": 53
+  }
+}

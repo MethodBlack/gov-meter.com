@@ -1,0 +1,67 @@
+{
+  "url": "https://pser.bhel.com/",
+  "requestedUrl": "https://pser.bhel.com/",
+  "timestamp": 1726091854106,
+  "ranks": {
+    "hundos": 50,
+    "performance": 15,
+    "accessibility": 613,
+    "cumulative": 49
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.97,
+    "accessibility": 0.57,
+    "bestPractices": 0.93,
+    "seo": 0.76,
+    "total": 323
+  },
+  "firstContentfulPaint": 1206.337,
+  "firstMeaningfulPaint": 1206.337,
+  "speedIndex": 3643.261435997694,
+  "largestContentfulPaint": 2308.674,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1206.337,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 296.2839999999999,
+  "weight": {
+    "summary": "11 requests • 1.1 MiB",
+    "total": 1193151,
+    "image": 1166685,
+    "imageCount": 10,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 26466,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 63,
+    "+weight.total": 591,
+    "-weight.document": 242,
+    "+weight.document": 401,
+    "-weight.script": 1,
+    "+weight.script": 596,
+    "-weight.image": 129,
+    "+weight.image": 521,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 384,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 24
+  },
+  "axe": {
+    "passes": 188,
+    "violations": 31
+  }
+}

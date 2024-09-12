@@ -1,0 +1,66 @@
+{
+  "url": "https://ldo.gov.in/",
+  "requestedUrl": "https://ldo.gov.in/",
+  "timestamp": 1726150577843,
+  "ranks": {
+    "hundos": 420,
+    "performance": 62,
+    "accessibility": 419,
+    "cumulative": 428
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.78,
+    "accessibility": 0.74,
+    "bestPractices": 0.63,
+    "seo": 0.5,
+    "total": 265
+  },
+  "firstContentfulPaint": 2296.95,
+  "firstMeaningfulPaint": 2296.95,
+  "speedIndex": 2642.1553519945446,
+  "largestContentfulPaint": 5146.95,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0019122207229100815,
+  "timeToInteractive": 2296.95,
+  "maxPotentialFirstInputDelay": 48,
+  "timeToFirstByte": 206.497,
+  "weight": {
+    "summary": "71 requests • 6.3 MiB",
+    "total": 6636024,
+    "image": 1007932,
+    "imageCount": 51,
+    "script": 235896,
+    "scriptCount": 13,
+    "document": 63632,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 33438,
+    "stylesheetCount": 5,
+    "thirdParty": 61232,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 347,
+    "+weight.total": 307,
+    "-weight.document": 374,
+    "+weight.document": 269,
+    "-weight.script": 121,
+    "+weight.script": 475,
+    "-weight.image": 113,
+    "+weight.image": 537,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 331,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 117
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

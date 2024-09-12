@@ -1,0 +1,67 @@
+{
+  "url": "https://kanpur.cantt.gov.in/",
+  "requestedUrl": "https://kanpur.cantt.gov.in/",
+  "timestamp": 1726113852113,
+  "ranks": {
+    "hundos": 448,
+    "performance": 528,
+    "accessibility": 210,
+    "cumulative": 447
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.32,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.75,
+    "total": 263
+  },
+  "firstContentfulPaint": 5150.375,
+  "firstMeaningfulPaint": 5150.375,
+  "speedIndex": 10958.88166799124,
+  "largestContentfulPaint": 33361.875,
+  "totalBlockingTime": 55.5,
+  "cumulativeLayoutShift": 1.2391086578006998,
+  "timeToInteractive": 20924.75,
+  "maxPotentialFirstInputDelay": 134,
+  "timeToFirstByte": 991.7560000000001,
+  "weight": {
+    "summary": "85 requests • 4.6 MiB",
+    "total": 4826239,
+    "image": 4158843,
+    "imageCount": 26,
+    "script": 347244,
+    "scriptCount": 28,
+    "document": 15411,
+    "font": 78150,
+    "fontCount": 1,
+    "stylesheet": 226591,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 269,
+    "+weight.total": 385,
+    "-weight.document": 106,
+    "+weight.document": 537,
+    "-weight.script": 186,
+    "+weight.script": 410,
+    "-weight.image": 312,
+    "+weight.image": 338,
+    "-weight.font": 102,
+    "+weight.font": 355,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 526,
+    "-totalBlockingTime": 297,
+    "-largestContentfulPaint": 617
+  },
+  "axe": {
+    "passes": 749,
+    "violations": 33
+  }
+}

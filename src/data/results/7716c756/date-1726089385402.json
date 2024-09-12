@@ -1,0 +1,66 @@
+{
+  "url": "https://www.iict.res.in/",
+  "requestedUrl": "https://www.iict.res.in/",
+  "timestamp": 1726116597130,
+  "ranks": {
+    "hundos": 504,
+    "performance": 366,
+    "accessibility": 334,
+    "cumulative": 506
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.47,
+    "accessibility": 0.78,
+    "bestPractices": 0.67,
+    "seo": 0.63,
+    "total": 255
+  },
+  "firstContentfulPaint": 4761.674499999999,
+  "firstMeaningfulPaint": 5507.6995,
+  "speedIndex": 23542.457568334397,
+  "largestContentfulPaint": 252867.86349999992,
+  "totalBlockingTime": 6,
+  "cumulativeLayoutShift": 0.1906633049068796,
+  "timeToInteractive": 12777.349999999991,
+  "maxPotentialFirstInputDelay": 62,
+  "timeToFirstByte": 180.673,
+  "weight": {
+    "summary": "145 requests • 91.4 MiB",
+    "total": 95868813,
+    "image": 94573156,
+    "imageCount": 92,
+    "script": 344014,
+    "scriptCount": 27,
+    "document": 14511,
+    "font": 10009,
+    "fontCount": 2,
+    "stylesheet": 321839,
+    "stylesheetCount": 16,
+    "thirdParty": 228526,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 643,
+    "+weight.total": 11,
+    "-weight.document": 91,
+    "+weight.document": 552,
+    "-weight.script": 175,
+    "+weight.script": 421,
+    "-weight.image": 639,
+    "+weight.image": 11,
+    "-weight.font": 5,
+    "+weight.font": 452,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 307,
+    "-totalBlockingTime": 12,
+    "-largestContentfulPaint": 420
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

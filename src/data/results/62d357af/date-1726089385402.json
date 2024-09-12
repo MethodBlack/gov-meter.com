@@ -1,0 +1,66 @@
+{
+  "url": "https://dof.gov.in/",
+  "requestedUrl": "https://dof.gov.in/",
+  "timestamp": 1726118346064,
+  "ranks": {
+    "hundos": 605,
+    "performance": 632,
+    "accessibility": 77,
+    "cumulative": 605
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.16,
+    "accessibility": 0.9,
+    "bestPractices": 0.3,
+    "seo": 0.9,
+    "total": 226
+  },
+  "firstContentfulPaint": 8609.788,
+  "firstMeaningfulPaint": 8609.788,
+  "speedIndex": 44180.85255505265,
+  "largestContentfulPaint": 50633.5095,
+  "totalBlockingTime": 1404,
+  "cumulativeLayoutShift": 0.2741333433350666,
+  "timeToInteractive": 59767.18824999998,
+  "maxPotentialFirstInputDelay": 1114,
+  "timeToFirstByte": 150.71399999999994,
+  "weight": {
+    "summary": "584 requests • 15.3 MiB",
+    "total": 15999853,
+    "image": 11188883,
+    "imageCount": 343,
+    "script": 3681767,
+    "scriptCount": 113,
+    "document": 323235,
+    "font": 163713,
+    "fontCount": 9,
+    "stylesheet": 177897,
+    "stylesheetCount": 77,
+    "thirdParty": 6101184,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 513,
+    "+weight.total": 141,
+    "-weight.document": 606,
+    "+weight.document": 37,
+    "-weight.script": 583,
+    "+weight.script": 13,
+    "-weight.image": 478,
+    "+weight.image": 172,
+    "-weight.font": 267,
+    "+weight.font": 190,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 262,
+    "-totalBlockingTime": 230,
+    "-largestContentfulPaint": 406
+  },
+  "axe": {
+    "error": "{}"
+  }
+}

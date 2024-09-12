@@ -1,0 +1,67 @@
+{
+  "url": "https://intraawards.gov.in/",
+  "requestedUrl": "https://intraawards.gov.in/",
+  "timestamp": 1726129404557,
+  "ranks": {
+    "hundos": 46,
+    "performance": 90,
+    "accessibility": 156,
+    "cumulative": 47
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.72,
+    "accessibility": 0.84,
+    "bestPractices": 0.93,
+    "seo": 0.75,
+    "total": 324
+  },
+  "firstContentfulPaint": 1814.1045000000006,
+  "firstMeaningfulPaint": 1814.1045000000006,
+  "speedIndex": 4896.808547996194,
+  "largestContentfulPaint": 5292.3135,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.12161534062391227,
+  "timeToInteractive": 1814.1045000000006,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 55.69599999999991,
+  "weight": {
+    "summary": "30 requests • 3.3 MiB",
+    "total": 3429098,
+    "image": 3209648,
+    "imageCount": 22,
+    "script": 66821,
+    "scriptCount": 2,
+    "document": 3700,
+    "font": 76797,
+    "fontCount": 1,
+    "stylesheet": 72132,
+    "stylesheetCount": 4,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 191,
+    "+weight.total": 463,
+    "-weight.document": 7,
+    "+weight.document": 636,
+    "-weight.script": 15,
+    "+weight.script": 581,
+    "-weight.image": 256,
+    "+weight.image": 394,
+    "-weight.font": 83,
+    "+weight.font": 374,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 32,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 119
+  },
+  "axe": {
+    "passes": 161,
+    "violations": 21
+  }
+}

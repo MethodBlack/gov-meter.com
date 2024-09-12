@@ -1,0 +1,67 @@
+{
+  "url": "https://www.bemlindia.in/",
+  "requestedUrl": "https://www.bemlindia.in/",
+  "timestamp": 1726112583796,
+  "ranks": {
+    "hundos": 608,
+    "performance": 598,
+    "accessibility": 333,
+    "cumulative": 607
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.25,
+    "accessibility": 0.78,
+    "bestPractices": 0.56,
+    "seo": 0.66,
+    "total": 225
+  },
+  "firstContentfulPaint": 9313.054299999993,
+  "firstMeaningfulPaint": 31739.237549999998,
+  "speedIndex": 49532.81999792666,
+  "largestContentfulPaint": 33166.377,
+  "totalBlockingTime": 51615.836049999976,
+  "cumulativeLayoutShift": 0.01815956499721701,
+  "timeToInteractive": 101345.83034999997,
+  "maxPotentialFirstInputDelay": 10000,
+  "timeToFirstByte": 129.9380000000001,
+  "weight": {
+    "summary": "992 requests • 26.2 MiB",
+    "total": 27501720,
+    "image": 16293132,
+    "imageCount": 395,
+    "script": 4090777,
+    "scriptCount": 186,
+    "document": 653230,
+    "font": 893321,
+    "fontCount": 41,
+    "stylesheet": 496371,
+    "stylesheetCount": 126,
+    "thirdParty": 20803732,
+    "thirdPartyCount": 44
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 582,
+    "+weight.total": 72,
+    "-weight.document": 633,
+    "+weight.document": 10,
+    "-weight.script": 586,
+    "+weight.script": 10,
+    "-weight.image": 531,
+    "+weight.image": 119,
+    "-weight.font": 453,
+    "+weight.font": 4,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 221,
+    "-totalBlockingTime": 440,
+    "-largestContentfulPaint": 615
+  },
+  "axe": {
+    "passes": 23662,
+    "violations": 218
+  }
+}

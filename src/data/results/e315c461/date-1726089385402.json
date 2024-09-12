@@ -1,0 +1,66 @@
+{
+  "url": "https://www.indiacoffee.org/lander",
+  "requestedUrl": "https://www.indiacoffee.org/",
+  "timestamp": 1726115504008,
+  "ranks": {
+    "hundos": 28,
+    "performance": 55,
+    "accessibility": 347,
+    "cumulative": 28
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.8,
+    "accessibility": 0.77,
+    "bestPractices": 1,
+    "seo": 0.75,
+    "total": 332
+  },
+  "firstContentfulPaint": 2384.6935,
+  "firstMeaningfulPaint": 2873.8687499999996,
+  "speedIndex": 4813.750354369006,
+  "largestContentfulPaint": 4070.4649999999997,
+  "totalBlockingTime": 53.5,
+  "cumulativeLayoutShift": 0.07059274985519101,
+  "timeToInteractive": 4029.9039999999995,
+  "maxPotentialFirstInputDelay": 138,
+  "timeToFirstByte": 66.914,
+  "weight": {
+    "summary": "23 requests • 314.7 KiB",
+    "total": 322300,
+    "image": 2870,
+    "imageCount": 7,
+    "script": 311035,
+    "scriptCount": 5,
+    "document": 4133,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 1489,
+    "stylesheetCount": 1,
+    "thirdParty": 321039,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 17,
+    "+weight.total": 637,
+    "-weight.document": 10,
+    "+weight.document": 633,
+    "-weight.script": 152,
+    "+weight.script": 444,
+    "-weight.image": 6,
+    "+weight.image": 644,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 56,
+    "-totalBlockingTime": 76,
+    "-largestContentfulPaint": 76
+  },
+  "axe": {
+    "error": "{}"
+  }
+}

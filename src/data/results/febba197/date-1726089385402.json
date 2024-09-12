@@ -1,0 +1,67 @@
+{
+  "url": "https://mso-gmsd.in/MSO_PORTAL/msowebsite/portal/home",
+  "requestedUrl": "https://mso-gmsd.in/",
+  "timestamp": 1726150892650,
+  "ranks": {
+    "hundos": 129,
+    "performance": 271,
+    "accessibility": 361,
+    "cumulative": 126
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.54,
+    "accessibility": 0.76,
+    "bestPractices": 0.93,
+    "seo": 0.82,
+    "total": 305
+  },
+  "firstContentfulPaint": 8015.744999999999,
+  "firstMeaningfulPaint": 8015.745000000001,
+  "speedIndex": 13893.734466932765,
+  "largestContentfulPaint": 13365.808999999997,
+  "totalBlockingTime": 125.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 14279.840999999997,
+  "maxPotentialFirstInputDelay": 301,
+  "timeToFirstByte": 705.64,
+  "weight": {
+    "summary": "64 requests • 14.4 MiB",
+    "total": 15075318,
+    "image": 13522130,
+    "imageCount": 36,
+    "script": 360211,
+    "scriptCount": 13,
+    "document": 420447,
+    "font": 136326,
+    "fontCount": 3,
+    "stylesheet": 635999,
+    "stylesheetCount": 9,
+    "thirdParty": 3864,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 507,
+    "+weight.total": 147,
+    "-weight.document": 623,
+    "+weight.document": 20,
+    "-weight.script": 198,
+    "+weight.script": 398,
+    "-weight.image": 511,
+    "+weight.image": 139,
+    "-weight.font": 224,
+    "+weight.font": 233,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 485,
+    "-totalBlockingTime": 333,
+    "-largestContentfulPaint": 514
+  },
+  "axe": {
+    "passes": 779,
+    "violations": 60
+  }
+}

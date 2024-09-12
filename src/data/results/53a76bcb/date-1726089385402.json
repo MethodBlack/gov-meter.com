@@ -1,0 +1,67 @@
+{
+  "url": "https://www.recregistryindia.nic.in/",
+  "requestedUrl": "https://www.recregistryindia.nic.in/",
+  "timestamp": 1726109424808,
+  "ranks": {
+    "hundos": 468,
+    "performance": 82,
+    "accessibility": 499,
+    "cumulative": 468
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.74,
+    "accessibility": 0.69,
+    "bestPractices": 0.67,
+    "seo": 0.5,
+    "total": 260
+  },
+  "firstContentfulPaint": 2218.224,
+  "firstMeaningfulPaint": 2431.224,
+  "speedIndex": 11288.518361451612,
+  "largestContentfulPaint": 3417.3360000000002,
+  "totalBlockingTime": 279.3879999999999,
+  "cumulativeLayoutShift": 0.00017910507687914252,
+  "timeToInteractive": 2595.168,
+  "maxPotentialFirstInputDelay": 776,
+  "timeToFirstByte": 4340.333,
+  "weight": {
+    "summary": "62 requests • 41.1 MiB",
+    "total": 43044374,
+    "image": 42754367,
+    "imageCount": 52,
+    "script": 230523,
+    "scriptCount": 5,
+    "document": 42987,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 16497,
+    "stylesheetCount": 4,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 622,
+    "+weight.total": 32,
+    "-weight.document": 301,
+    "+weight.document": 342,
+    "-weight.script": 113,
+    "+weight.script": 483,
+    "-weight.image": 620,
+    "+weight.image": 30,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 635,
+    "-totalBlockingTime": 357,
+    "-largestContentfulPaint": 425
+  },
+  "axe": {
+    "passes": 745,
+    "violations": 91
+  }
+}

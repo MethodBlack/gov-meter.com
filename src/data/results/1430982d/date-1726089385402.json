@@ -1,0 +1,67 @@
+{
+  "url": "https://www.mahanadicoal.in/",
+  "requestedUrl": "https://www.mahanadicoal.in/",
+  "timestamp": 1726150672925,
+  "ranks": {
+    "hundos": 362,
+    "performance": 613,
+    "accessibility": 358,
+    "cumulative": 362
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.21,
+    "accessibility": 0.76,
+    "bestPractices": 0.93,
+    "seo": 0.83,
+    "total": 273
+  },
+  "firstContentfulPaint": 19002.291,
+  "firstMeaningfulPaint": 19445.106999999996,
+  "speedIndex": 27274.38254108152,
+  "largestContentfulPaint": 32432.148,
+  "totalBlockingTime": 465.5,
+  "cumulativeLayoutShift": 0.6234101007907907,
+  "timeToInteractive": 29867.559000000005,
+  "maxPotentialFirstInputDelay": 334,
+  "timeToFirstByte": 121.94000000000005,
+  "weight": {
+    "summary": "84 requests • 16.8 MiB",
+    "total": 17567101,
+    "image": 14192011,
+    "imageCount": 48,
+    "script": 1505297,
+    "scriptCount": 10,
+    "document": 102364,
+    "font": 239983,
+    "fontCount": 6,
+    "stylesheet": 1527446,
+    "stylesheetCount": 18,
+    "thirdParty": 59735,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 528,
+    "+weight.total": 126,
+    "-weight.document": 438,
+    "+weight.document": 205,
+    "-weight.script": 490,
+    "+weight.script": 106,
+    "-weight.image": 518,
+    "+weight.image": 132,
+    "-weight.font": 350,
+    "+weight.font": 107,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 199,
+    "-totalBlockingTime": 183,
+    "-largestContentfulPaint": 387
+  },
+  "axe": {
+    "passes": 1477,
+    "violations": 49
+  }
+}

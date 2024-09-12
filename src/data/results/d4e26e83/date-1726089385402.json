@@ -1,0 +1,67 @@
+{
+  "url": "https://amritsar.cantt.gov.in/",
+  "requestedUrl": "https://amritsar.cantt.gov.in/",
+  "timestamp": 1726092526546,
+  "ranks": {
+    "hundos": 412,
+    "performance": 477,
+    "accessibility": 201,
+    "cumulative": 411
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.35,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.75,
+    "total": 266
+  },
+  "firstContentfulPaint": 3940.0375,
+  "firstMeaningfulPaint": 3940.0375,
+  "speedIndex": 7619.453371201083,
+  "largestContentfulPaint": 31956.037500000006,
+  "totalBlockingTime": 45,
+  "cumulativeLayoutShift": 1.4227821071320232,
+  "timeToInteractive": 14611.178750000003,
+  "maxPotentialFirstInputDelay": 140,
+  "timeToFirstByte": 819.9519999999999,
+  "weight": {
+    "summary": "84 requests • 5.4 MiB",
+    "total": 5689178,
+    "image": 4999482,
+    "imageCount": 24,
+    "script": 352089,
+    "scriptCount": 29,
+    "document": 22979,
+    "font": 77050,
+    "fontCount": 1,
+    "stylesheet": 237578,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 304,
+    "+weight.total": 350,
+    "-weight.document": 220,
+    "+weight.document": 423,
+    "-weight.script": 191,
+    "+weight.script": 405,
+    "-weight.image": 351,
+    "+weight.image": 299,
+    "-weight.font": 85,
+    "+weight.font": 372,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 498,
+    "-totalBlockingTime": 280,
+    "-largestContentfulPaint": 611
+  },
+  "axe": {
+    "passes": 715,
+    "violations": 29
+  }
+}

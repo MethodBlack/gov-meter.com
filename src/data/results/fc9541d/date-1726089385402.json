@@ -1,0 +1,67 @@
+{
+  "url": "https://www.duac.org.in/u/Default",
+  "requestedUrl": "https://www.duac.org.in/",
+  "timestamp": 1726096728097,
+  "ranks": {
+    "hundos": 263,
+    "performance": 359,
+    "accessibility": 357,
+    "cumulative": 287
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.47,
+    "accessibility": 0.76,
+    "bestPractices": 0.78,
+    "seo": 0.81,
+    "total": 287
+  },
+  "firstContentfulPaint": 2647.244,
+  "firstMeaningfulPaint": 2647.244,
+  "speedIndex": 9883.544632229965,
+  "largestContentfulPaint": 8756.47546,
+  "totalBlockingTime": 57.5,
+  "cumulativeLayoutShift": 0.31470230862697446,
+  "timeToInteractive": 8700.197499999998,
+  "maxPotentialFirstInputDelay": 146,
+  "timeToFirstByte": 114.503,
+  "weight": {
+    "summary": "80 requests • 3.2 MiB",
+    "total": 3405535,
+    "image": 2504862,
+    "imageCount": 18,
+    "script": 581863,
+    "scriptCount": 36,
+    "document": 45839,
+    "font": 140219,
+    "fontCount": 5,
+    "stylesheet": 132189,
+    "stylesheetCount": 13,
+    "thirdParty": 471554,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 189,
+    "+weight.total": 465,
+    "-weight.document": 312,
+    "+weight.document": 331,
+    "-weight.script": 280,
+    "+weight.script": 316,
+    "-weight.image": 223,
+    "+weight.image": 427,
+    "-weight.font": 232,
+    "+weight.font": 225,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 187,
+    "-totalBlockingTime": 78,
+    "-largestContentfulPaint": 192
+  },
+  "axe": {
+    "passes": 768,
+    "violations": 37
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://ndri.res.in/",
+  "requestedUrl": "https://www.ndri.res.in/",
+  "timestamp": 1726102099269,
+  "ranks": {
+    "hundos": 429,
+    "performance": 283,
+    "accessibility": 505,
+    "cumulative": 429
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.54,
+    "accessibility": 0.69,
+    "bestPractices": 0.67,
+    "seo": 0.75,
+    "total": 265
+  },
+  "firstContentfulPaint": 7919.066160000001,
+  "firstMeaningfulPaint": 7919.066160000001,
+  "speedIndex": 30810.49009335491,
+  "largestContentfulPaint": 9419.066160000002,
+  "totalBlockingTime": 133.5,
+  "cumulativeLayoutShift": 0.00026172855251130843,
+  "timeToInteractive": 11476.066160000002,
+  "maxPotentialFirstInputDelay": 155,
+  "timeToFirstByte": 8808.833,
+  "weight": {
+    "summary": "105 requests • 4.6 MiB",
+    "total": 4823443,
+    "image": 4123262,
+    "imageCount": 52,
+    "script": 209844,
+    "scriptCount": 19,
+    "document": 22911,
+    "font": 270268,
+    "fontCount": 8,
+    "stylesheet": 196805,
+    "stylesheetCount": 24,
+    "thirdParty": 185773,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 268,
+    "+weight.total": 386,
+    "-weight.document": 219,
+    "+weight.document": 424,
+    "-weight.script": 84,
+    "+weight.script": 512,
+    "-weight.image": 310,
+    "+weight.image": 340,
+    "-weight.font": 370,
+    "+weight.font": 87,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 650,
+    "-totalBlockingTime": 336,
+    "-largestContentfulPaint": 476
+  },
+  "axe": {
+    "error": "{}"
+  }
+}

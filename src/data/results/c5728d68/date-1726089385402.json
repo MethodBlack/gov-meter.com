@@ -1,0 +1,67 @@
+{
+  "url": "https://nerpc.gov.in/",
+  "requestedUrl": "https://nerpc.gov.in/",
+  "timestamp": 1726107554458,
+  "ranks": {
+    "hundos": 201,
+    "performance": 373,
+    "accessibility": 400,
+    "cumulative": 199
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.46,
+    "accessibility": 0.74,
+    "bestPractices": 0.93,
+    "seo": 0.82,
+    "total": 295
+  },
+  "firstContentfulPaint": 3455.380000000001,
+  "firstMeaningfulPaint": 3796.719000000002,
+  "speedIndex": 14197.515904957821,
+  "largestContentfulPaint": 7606.380000000001,
+  "totalBlockingTime": 532.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 10222.380000000001,
+  "maxPotentialFirstInputDelay": 388,
+  "timeToFirstByte": 661.2509999999997,
+  "weight": {
+    "summary": "81 requests • 1.6 MiB",
+    "total": 1692939,
+    "image": 365968,
+    "imageCount": 8,
+    "script": 957833,
+    "scriptCount": 38,
+    "document": 25800,
+    "font": 225670,
+    "fontCount": 7,
+    "stylesheet": 117668,
+    "stylesheetCount": 26,
+    "thirdParty": 71938,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 97,
+    "+weight.total": 557,
+    "-weight.document": 234,
+    "+weight.document": 409,
+    "-weight.script": 402,
+    "+weight.script": 194,
+    "-weight.image": 51,
+    "+weight.image": 599,
+    "-weight.font": 340,
+    "+weight.font": 117,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 476,
+    "-totalBlockingTime": 378,
+    "-largestContentfulPaint": 458
+  },
+  "axe": {
+    "passes": 708,
+    "violations": 60
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://www.clri.org/",
+  "requestedUrl": "https://www.clri.org/",
+  "timestamp": 1726095431691,
+  "ranks": {
+    "hundos": 613,
+    "performance": 615,
+    "accessibility": 537,
+    "cumulative": 612
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.2,
+    "accessibility": 0.66,
+    "bestPractices": 0.63,
+    "seo": 0.74,
+    "total": 223
+  },
+  "firstContentfulPaint": 12557.7425,
+  "firstMeaningfulPaint": 12557.7425,
+  "speedIndex": 40598.55978617444,
+  "largestContentfulPaint": 133384.64100000047,
+  "totalBlockingTime": 3244.9999999999673,
+  "cumulativeLayoutShift": 0.13927168516634575,
+  "timeToInteractive": 56240.41299999997,
+  "maxPotentialFirstInputDelay": 2922.9999999999636,
+  "timeToFirstByte": 315.86900000000014,
+  "weight": {
+    "summary": "765 requests • 67.0 MiB",
+    "total": 70279290,
+    "image": 65486134,
+    "imageCount": 611,
+    "script": 2098163,
+    "scriptCount": 64,
+    "document": 478434,
+    "font": 763673,
+    "fontCount": 16,
+    "stylesheet": 687769,
+    "stylesheetCount": 35,
+    "thirdParty": 21352283,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 640,
+    "+weight.total": 14,
+    "-weight.document": 627,
+    "+weight.document": 16,
+    "-weight.script": 531,
+    "+weight.script": 65,
+    "-weight.image": 636,
+    "+weight.image": 14,
+    "-weight.font": 446,
+    "+weight.font": 11,
+    "+weight.fontCount": 8,
+    "-timeToFirstByte": 396,
+    "-totalBlockingTime": 426,
+    "-largestContentfulPaint": 651
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

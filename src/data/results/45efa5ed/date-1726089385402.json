@@ -1,0 +1,67 @@
+{
+  "url": "https://dopt.gov.in/",
+  "requestedUrl": "https://dopt.gov.in/",
+  "timestamp": 1726154119805,
+  "ranks": {
+    "hundos": 386,
+    "performance": 608,
+    "accessibility": 14,
+    "cumulative": 384
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.22,
+    "accessibility": 0.96,
+    "bestPractices": 0.7,
+    "seo": 0.82,
+    "total": 270
+  },
+  "firstContentfulPaint": 7100.739999999999,
+  "firstMeaningfulPaint": 7693.259749999999,
+  "speedIndex": 22824.071495935208,
+  "largestContentfulPaint": 11276.014500000001,
+  "totalBlockingTime": 368.5,
+  "cumulativeLayoutShift": 0.8727993169781276,
+  "timeToInteractive": 40002.172834465026,
+  "maxPotentialFirstInputDelay": 157,
+  "timeToFirstByte": 224.80100000000004,
+  "weight": {
+    "summary": "152 requests • 9.1 MiB",
+    "total": 9539135,
+    "image": 7339935,
+    "imageCount": 65,
+    "script": 1616707,
+    "scriptCount": 38,
+    "document": 214798,
+    "font": 172852,
+    "fontCount": 10,
+    "stylesheet": 105710,
+    "stylesheetCount": 7,
+    "thirdParty": 1957900,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 6,
+    "total": 6
+  },
+  "sidequests": {
+    "-weight.total": 419,
+    "+weight.total": 235,
+    "-weight.document": 563,
+    "+weight.document": 80,
+    "-weight.script": 498,
+    "+weight.script": 98,
+    "-weight.image": 415,
+    "+weight.image": 235,
+    "-weight.font": 291,
+    "+weight.font": 166,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 346,
+    "-totalBlockingTime": 170,
+    "-largestContentfulPaint": 235
+  },
+  "axe": {
+    "passes": 1287,
+    "violations": 13
+  }
+}

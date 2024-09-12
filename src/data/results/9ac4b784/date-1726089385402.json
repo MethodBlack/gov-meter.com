@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nibsm.org.in/",
+  "requestedUrl": "https://www.nibsm.org.in/",
+  "timestamp": 1726102207071,
+  "ranks": {
+    "hundos": 17,
+    "performance": 75,
+    "accessibility": 16,
+    "cumulative": 16
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.75,
+    "accessibility": 0.96,
+    "bestPractices": 0.78,
+    "seo": 0.93,
+    "total": 342
+  },
+  "firstContentfulPaint": 1417.9299999999998,
+  "firstMeaningfulPaint": 1417.9299999999998,
+  "speedIndex": 6853.956996395791,
+  "largestContentfulPaint": 1535.5179999999998,
+  "totalBlockingTime": 290,
+  "cumulativeLayoutShift": 0.235164209468296,
+  "timeToInteractive": 10588.496500000001,
+  "maxPotentialFirstInputDelay": 161,
+  "timeToFirstByte": 75.082,
+  "weight": {
+    "summary": "93 requests • 1.2 MiB",
+    "total": 1296576,
+    "image": 16165,
+    "imageCount": 14,
+    "script": 916349,
+    "scriptCount": 43,
+    "document": 153910,
+    "font": 34678,
+    "fontCount": 1,
+    "stylesheet": 29532,
+    "stylesheetCount": 4,
+    "thirdParty": 1250998,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 72,
+    "+weight.total": 582,
+    "-weight.document": 502,
+    "+weight.document": 141,
+    "-weight.script": 397,
+    "+weight.script": 199,
+    "-weight.image": 8,
+    "+weight.image": 642,
+    "-weight.font": 32,
+    "+weight.font": 425,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 77,
+    "-totalBlockingTime": 157,
+    "-largestContentfulPaint": 10
+  },
+  "axe": {
+    "passes": 836,
+    "violations": 26
+  }
+}

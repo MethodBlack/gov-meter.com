@@ -1,0 +1,67 @@
+{
+  "url": "https://iiim.res.in/",
+  "requestedUrl": "https://www.iiim.res.in/",
+  "timestamp": 1726095655000,
+  "ranks": {
+    "hundos": 600,
+    "performance": 573,
+    "accessibility": 292,
+    "cumulative": 600
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.29,
+    "accessibility": 0.8,
+    "bestPractices": 0.52,
+    "seo": 0.67,
+    "total": 228
+  },
+  "firstContentfulPaint": 9178.52408,
+  "firstMeaningfulPaint": 10530.97727,
+  "speedIndex": 18387.151273120173,
+  "largestContentfulPaint": 32886.23294000001,
+  "totalBlockingTime": 1311.0000000000018,
+  "cumulativeLayoutShift": 0.08721191938821424,
+  "timeToInteractive": 35687.95698000001,
+  "maxPotentialFirstInputDelay": 1163,
+  "timeToFirstByte": 1812.0700000000002,
+  "weight": {
+    "summary": "218 requests • 7.1 MiB",
+    "total": 7493135,
+    "image": 3577265,
+    "imageCount": 65,
+    "script": 1934299,
+    "scriptCount": 63,
+    "document": 380368,
+    "font": 336050,
+    "fontCount": 15,
+    "stylesheet": 1131899,
+    "stylesheetCount": 31,
+    "thirdParty": 1957879,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 368,
+    "+weight.total": 286,
+    "-weight.document": 618,
+    "+weight.document": 25,
+    "-weight.script": 520,
+    "+weight.script": 76,
+    "-weight.image": 279,
+    "+weight.image": 371,
+    "-weight.font": 397,
+    "+weight.font": 60,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 579,
+    "-totalBlockingTime": 403,
+    "-largestContentfulPaint": 614
+  },
+  "axe": {
+    "passes": 26597,
+    "violations": 170
+  }
+}

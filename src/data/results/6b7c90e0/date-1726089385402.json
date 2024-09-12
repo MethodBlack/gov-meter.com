@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cecri.res.in/Default.aspx",
+  "requestedUrl": "https://www.cecri.res.in/",
+  "timestamp": 1726095240362,
+  "ranks": {
+    "hundos": 552,
+    "performance": 237,
+    "accessibility": 134,
+    "cumulative": 553
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.86,
+    "bestPractices": 0.44,
+    "seo": 0.58,
+    "total": 243
+  },
+  "firstContentfulPaint": 3301.539500000001,
+  "firstMeaningfulPaint": 19626.69885,
+  "speedIndex": 13479.816842971892,
+  "largestContentfulPaint": 58082.558399999994,
+  "totalBlockingTime": 87.00000000000091,
+  "cumulativeLayoutShift": 0.11709440170818,
+  "timeToInteractive": 21345.482599999996,
+  "maxPotentialFirstInputDelay": 108.00000000000091,
+  "timeToFirstByte": 397.588,
+  "weight": {
+    "summary": "156 requests • 14.2 MiB",
+    "total": 14905814,
+    "image": 13939410,
+    "imageCount": 91,
+    "script": 627748,
+    "scriptCount": 28,
+    "document": 37365,
+    "font": 123810,
+    "fontCount": 2,
+    "stylesheet": 164652,
+    "stylesheetCount": 25,
+    "thirdParty": 412634,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 505,
+    "+weight.total": 149,
+    "-weight.document": 284,
+    "+weight.document": 359,
+    "-weight.script": 308,
+    "+weight.script": 288,
+    "-weight.image": 515,
+    "+weight.image": 135,
+    "-weight.font": 202,
+    "+weight.font": 255,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 421,
+    "-totalBlockingTime": 95,
+    "-largestContentfulPaint": 410
+  },
+  "axe": {
+    "passes": 1983,
+    "violations": 114
+  }
+}

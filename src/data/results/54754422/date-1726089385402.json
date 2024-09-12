@@ -1,0 +1,67 @@
+{
+  "url": "https://ibbi.gov.in/",
+  "requestedUrl": "https://ibbi.gov.in/",
+  "timestamp": 1726127680304,
+  "ranks": {
+    "hundos": 289,
+    "performance": 469,
+    "accessibility": 395,
+    "cumulative": 286
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.36,
+    "accessibility": 0.74,
+    "bestPractices": 1,
+    "seo": 0.72,
+    "total": 282
+  },
+  "firstContentfulPaint": 2978.782,
+  "firstMeaningfulPaint": 3193.173,
+  "speedIndex": 11606.889981454322,
+  "largestContentfulPaint": 18193.173,
+  "totalBlockingTime": 1222.108999999999,
+  "cumulativeLayoutShift": 0.007220465321840555,
+  "timeToInteractive": 11790.006999999998,
+  "maxPotentialFirstInputDelay": 1254,
+  "timeToFirstByte": 1602.9029999999998,
+  "weight": {
+    "summary": "84 requests • 36.5 MiB",
+    "total": 38229253,
+    "image": 37446951,
+    "imageCount": 51,
+    "script": 355412,
+    "scriptCount": 16,
+    "document": 137727,
+    "font": 227028,
+    "fontCount": 8,
+    "stylesheet": 61893,
+    "stylesheetCount": 7,
+    "thirdParty": 105349,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 612,
+    "+weight.total": 42,
+    "-weight.document": 486,
+    "+weight.document": 157,
+    "-weight.script": 194,
+    "+weight.script": 402,
+    "-weight.image": 616,
+    "+weight.image": 34,
+    "-weight.font": 342,
+    "+weight.font": 115,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 565,
+    "-totalBlockingTime": 401,
+    "-largestContentfulPaint": 553
+  },
+  "axe": {
+    "passes": 11508,
+    "violations": 31
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://kamptee.cantt.gov.in/",
+  "requestedUrl": "https://kamptee.cantt.gov.in/",
+  "timestamp": 1726138410710,
+  "ranks": {
+    "hundos": 342,
+    "performance": 450,
+    "accessibility": 196,
+    "cumulative": 339
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.37,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.83,
+    "total": 276
+  },
+  "firstContentfulPaint": 5063.338750000003,
+  "firstMeaningfulPaint": 5063.338750000003,
+  "speedIndex": 9185.128669328758,
+  "largestContentfulPaint": 5956.357500000004,
+  "totalBlockingTime": 36,
+  "cumulativeLayoutShift": 0.7747153989043047,
+  "timeToInteractive": 16366.696250000012,
+  "maxPotentialFirstInputDelay": 122,
+  "timeToFirstByte": 613.063,
+  "weight": {
+    "summary": "74 requests • 3.1 MiB",
+    "total": 3277859,
+    "image": 2611266,
+    "imageCount": 15,
+    "script": 347244,
+    "scriptCount": 28,
+    "document": 14403,
+    "font": 78150,
+    "fontCount": 1,
+    "stylesheet": 226796,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 187,
+    "+weight.total": 467,
+    "-weight.document": 89,
+    "+weight.document": 554,
+    "-weight.script": 186,
+    "+weight.script": 410,
+    "-weight.image": 229,
+    "+weight.image": 421,
+    "-weight.font": 102,
+    "+weight.font": 355,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 466,
+    "-totalBlockingTime": 273,
+    "-largestContentfulPaint": 441
+  },
+  "axe": {
+    "passes": 617,
+    "violations": 25
+  }
+}

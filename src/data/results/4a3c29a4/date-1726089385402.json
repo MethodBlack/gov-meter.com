@@ -1,0 +1,66 @@
+{
+  "url": "https://mib.gov.in/",
+  "requestedUrl": "https://mib.gov.in/",
+  "timestamp": 1726103477707,
+  "ranks": {
+    "hundos": 543,
+    "performance": 649,
+    "accessibility": 272,
+    "cumulative": 542
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.06,
+    "accessibility": 0.81,
+    "bestPractices": 0.7,
+    "seo": 0.9,
+    "total": 247
+  },
+  "firstContentfulPaint": 11773.279999999995,
+  "firstMeaningfulPaint": 11773.279999999995,
+  "speedIndex": 30233.858246363125,
+  "largestContentfulPaint": 39822.592000000004,
+  "totalBlockingTime": 8403.328,
+  "cumulativeLayoutShift": 0.39925117859611814,
+  "timeToInteractive": 21303.77999999999,
+  "maxPotentialFirstInputDelay": 8528,
+  "timeToFirstByte": 8419.663999999999,
+  "weight": {
+    "summary": "150 requests • 9.7 MiB",
+    "total": 10176501,
+    "image": 6424892,
+    "imageCount": 55,
+    "script": 2714355,
+    "scriptCount": 47,
+    "document": 185684,
+    "font": 249144,
+    "fontCount": 8,
+    "stylesheet": 601635,
+    "stylesheetCount": 38,
+    "thirdParty": 961982,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 432,
+    "+weight.total": 222,
+    "-weight.document": 536,
+    "+weight.document": 107,
+    "-weight.script": 555,
+    "+weight.script": 41,
+    "-weight.image": 390,
+    "+weight.image": 260,
+    "-weight.font": 357,
+    "+weight.font": 100,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 649,
+    "-totalBlockingTime": 435,
+    "-largestContentfulPaint": 628
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.moil.nic.in/",
+  "requestedUrl": "https://www.moil.nic.in/",
+  "timestamp": 1726104947030,
+  "ranks": {
+    "hundos": 465,
+    "performance": 461,
+    "accessibility": 430,
+    "cumulative": 465
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.36,
+    "accessibility": 0.73,
+    "bestPractices": 0.7,
+    "seo": 0.82,
+    "total": 261
+  },
+  "firstContentfulPaint": 4126.734,
+  "firstMeaningfulPaint": 4126.734,
+  "speedIndex": 7545.435933852727,
+  "largestContentfulPaint": 7940.679,
+  "totalBlockingTime": 76,
+  "cumulativeLayoutShift": 0.7875611729763319,
+  "timeToInteractive": 4849.873999999999,
+  "maxPotentialFirstInputDelay": 155,
+  "timeToFirstByte": 1492.83,
+  "weight": {
+    "summary": "87 requests • 5.2 MiB",
+    "total": 5480859,
+    "image": 4930419,
+    "imageCount": 37,
+    "script": 257382,
+    "scriptCount": 15,
+    "document": 14111,
+    "font": 159276,
+    "fontCount": 10,
+    "stylesheet": 119671,
+    "stylesheetCount": 24,
+    "thirdParty": 120192,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 298,
+    "+weight.total": 356,
+    "-weight.document": 85,
+    "+weight.document": 558,
+    "-weight.script": 134,
+    "+weight.script": 462,
+    "-weight.image": 350,
+    "+weight.image": 300,
+    "-weight.font": 261,
+    "+weight.font": 196,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 560,
+    "-totalBlockingTime": 316,
+    "-largestContentfulPaint": 462
+  },
+  "axe": {
+    "passes": 647,
+    "violations": 53
+  }
+}

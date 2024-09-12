@@ -1,0 +1,66 @@
+{
+  "url": "https://www.bcclweb.in/",
+  "requestedUrl": "https://www.bcclweb.in/",
+  "timestamp": 1726091703459,
+  "ranks": {
+    "hundos": 375,
+    "performance": 568,
+    "accessibility": 294,
+    "cumulative": 374
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.3,
+    "accessibility": 0.8,
+    "bestPractices": 0.74,
+    "seo": 0.88,
+    "total": 272
+  },
+  "firstContentfulPaint": 8847.407000000001,
+  "firstMeaningfulPaint": 8847.407000000001,
+  "speedIndex": 55694.1532464224,
+  "largestContentfulPaint": 104323.27700000002,
+  "totalBlockingTime": 1363.0000000000073,
+  "cumulativeLayoutShift": 0.00017488740431845034,
+  "timeToInteractive": 75728.18650000003,
+  "maxPotentialFirstInputDelay": 1066.0000000000146,
+  "timeToFirstByte": 644.9089999999997,
+  "weight": {
+    "summary": "551 requests • 36.8 MiB",
+    "total": 38565252,
+    "image": 32615157,
+    "imageCount": 440,
+    "script": 1879758,
+    "scriptCount": 64,
+    "document": 388682,
+    "font": 251626,
+    "fontCount": 7,
+    "stylesheet": 534191,
+    "stylesheetCount": 22,
+    "thirdParty": 18692322,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 614,
+    "+weight.total": 40,
+    "-weight.document": 620,
+    "+weight.document": 23,
+    "-weight.script": 514,
+    "+weight.script": 82,
+    "-weight.image": 605,
+    "+weight.image": 45,
+    "-weight.font": 360,
+    "+weight.font": 97,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 471,
+    "-totalBlockingTime": 404,
+    "-largestContentfulPaint": 647
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

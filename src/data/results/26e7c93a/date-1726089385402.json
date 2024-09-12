@@ -1,0 +1,67 @@
+{
+  "url": "https://clementtown.cantt.gov.in/",
+  "requestedUrl": "https://clementtown.cantt.gov.in/",
+  "timestamp": 1726092708647,
+  "ranks": {
+    "hundos": 391,
+    "performance": 551,
+    "accessibility": 229,
+    "cumulative": 389
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.83,
+    "total": 270
+  },
+  "firstContentfulPaint": 5046.009250000001,
+  "firstMeaningfulPaint": 5046.009250000001,
+  "speedIndex": 12435.14121490452,
+  "largestContentfulPaint": 22372.02449999996,
+  "totalBlockingTime": 59,
+  "cumulativeLayoutShift": 1.1613667437399866,
+  "timeToInteractive": 13099.01649999998,
+  "maxPotentialFirstInputDelay": 162,
+  "timeToFirstByte": 2653.593,
+  "weight": {
+    "summary": "84 requests • 2.7 MiB",
+    "total": 2879150,
+    "image": 2212278,
+    "imageCount": 25,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 16130,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 226044,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 171,
+    "+weight.total": 483,
+    "-weight.document": 134,
+    "+weight.document": 509,
+    "-weight.script": 185,
+    "+weight.script": 411,
+    "-weight.image": 206,
+    "+weight.image": 444,
+    "-weight.font": 101,
+    "+weight.font": 356,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 614,
+    "-totalBlockingTime": 301,
+    "-largestContentfulPaint": 577
+  },
+  "axe": {
+    "passes": 815,
+    "violations": 39
+  }
+}

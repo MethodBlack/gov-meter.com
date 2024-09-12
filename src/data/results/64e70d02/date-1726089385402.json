@@ -1,0 +1,67 @@
+{
+  "url": "https://ambala.cantt.gov.in/",
+  "requestedUrl": "https://ambala.cantt.gov.in/",
+  "timestamp": 1726092512976,
+  "ranks": {
+    "hundos": 471,
+    "performance": 557,
+    "accessibility": 247,
+    "cumulative": 471
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.82,
+    "bestPractices": 0.7,
+    "seo": 0.77,
+    "total": 260
+  },
+  "firstContentfulPaint": 5149.262499999998,
+  "firstMeaningfulPaint": 5149.262499999998,
+  "speedIndex": 15227.196551840352,
+  "largestContentfulPaint": 58490.512499999924,
+  "totalBlockingTime": 85.5,
+  "cumulativeLayoutShift": 0.9420285405903202,
+  "timeToInteractive": 32550.774999999943,
+  "maxPotentialFirstInputDelay": 210,
+  "timeToFirstByte": 2305.025,
+  "weight": {
+    "summary": "89 requests • 9.2 MiB",
+    "total": 9612668,
+    "image": 8946091,
+    "imageCount": 30,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 15986,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 225893,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 421,
+    "+weight.total": 233,
+    "-weight.document": 128,
+    "+weight.document": 515,
+    "-weight.script": 185,
+    "+weight.script": 411,
+    "-weight.image": 445,
+    "+weight.image": 205,
+    "-weight.font": 101,
+    "+weight.font": 356,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 599,
+    "-totalBlockingTime": 324,
+    "-largestContentfulPaint": 638
+  },
+  "axe": {
+    "passes": 1023,
+    "violations": 62
+  }
+}

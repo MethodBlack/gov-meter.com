@@ -1,0 +1,67 @@
+{
+  "url": "https://ddpdos.gov.in/",
+  "requestedUrl": "https://ddpdos.gov.in/",
+  "timestamp": 1726144485027,
+  "ranks": {
+    "hundos": 71,
+    "performance": 213,
+    "accessibility": 8,
+    "cumulative": 71
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.56,
+    "accessibility": 0.98,
+    "bestPractices": 0.89,
+    "seo": 0.73,
+    "total": 316
+  },
+  "firstContentfulPaint": 5797.219999999996,
+  "firstMeaningfulPaint": 5914.382499999996,
+  "speedIndex": 10157.19493496399,
+  "largestContentfulPaint": 7990.8699999999935,
+  "totalBlockingTime": 21.5,
+  "cumulativeLayoutShift": 0.06641986677338128,
+  "timeToInteractive": 14347.062500000004,
+  "maxPotentialFirstInputDelay": 93,
+  "timeToFirstByte": 86.312,
+  "weight": {
+    "summary": "129 requests • 1.6 MiB",
+    "total": 1663767,
+    "image": 645002,
+    "imageCount": 31,
+    "script": 808392,
+    "scriptCount": 48,
+    "document": 12313,
+    "font": 86273,
+    "fontCount": 2,
+    "stylesheet": 111787,
+    "stylesheetCount": 47,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 96,
+    "+weight.total": 558,
+    "-weight.document": 65,
+    "+weight.document": 578,
+    "-weight.script": 369,
+    "+weight.script": 227,
+    "-weight.image": 80,
+    "+weight.image": 570,
+    "-weight.font": 129,
+    "+weight.font": 328,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 114,
+    "-totalBlockingTime": 41,
+    "-largestContentfulPaint": 179
+  },
+  "axe": {
+    "passes": 482,
+    "violations": 15
+  }
+}

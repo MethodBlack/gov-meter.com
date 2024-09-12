@@ -1,0 +1,67 @@
+{
+  "url": "https://www.immt.res.in/",
+  "requestedUrl": "https://www.immt.res.in/",
+  "timestamp": 1726116766223,
+  "ranks": {
+    "hundos": 567,
+    "performance": 428,
+    "accessibility": 522,
+    "cumulative": 568
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.4,
+    "accessibility": 0.68,
+    "bestPractices": 0.56,
+    "seo": 0.75,
+    "total": 239
+  },
+  "firstContentfulPaint": 3869.5139999999997,
+  "firstMeaningfulPaint": 3869.5139999999997,
+  "speedIndex": 24006.86410568201,
+  "largestContentfulPaint": 16808.662,
+  "totalBlockingTime": 732,
+  "cumulativeLayoutShift": 0.005342481542237,
+  "timeToInteractive": 60398.591999999975,
+  "maxPotentialFirstInputDelay": 548,
+  "timeToFirstByte": 224.53600000000006,
+  "weight": {
+    "summary": "235 requests • 17.0 MiB",
+    "total": 17838261,
+    "image": 15160224,
+    "imageCount": 131,
+    "script": 1770833,
+    "scriptCount": 46,
+    "document": 215295,
+    "font": 418181,
+    "fontCount": 11,
+    "stylesheet": 135759,
+    "stylesheetCount": 22,
+    "thirdParty": 2628684,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 531,
+    "+weight.total": 123,
+    "-weight.document": 564,
+    "+weight.document": 79,
+    "-weight.script": 510,
+    "+weight.script": 86,
+    "-weight.image": 524,
+    "+weight.image": 126,
+    "-weight.font": 425,
+    "+weight.font": 32,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 345,
+    "-totalBlockingTime": 197,
+    "-largestContentfulPaint": 312
+  },
+  "axe": {
+    "passes": 8914,
+    "violations": 589
+  }
+}

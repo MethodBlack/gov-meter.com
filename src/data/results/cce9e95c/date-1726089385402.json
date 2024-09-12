@@ -1,0 +1,67 @@
+{
+  "url": "https://www.kmrc.in/",
+  "requestedUrl": "https://www.kmrc.in/",
+  "timestamp": 1726104042975,
+  "ranks": {
+    "hundos": 559,
+    "performance": 76,
+    "accessibility": 580,
+    "cumulative": 559
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.75,
+    "accessibility": 0.61,
+    "bestPractices": 0.44,
+    "seo": 0.62,
+    "total": 242
+  },
+  "firstContentfulPaint": 2722.7320000000004,
+  "firstMeaningfulPaint": 2722.7320000000004,
+  "speedIndex": 8225.673616843644,
+  "largestContentfulPaint": 3505.4720000000007,
+  "totalBlockingTime": 75,
+  "cumulativeLayoutShift": 0.11190222383448811,
+  "timeToInteractive": 4901.1035,
+  "maxPotentialFirstInputDelay": 125,
+  "timeToFirstByte": 290.51200000000017,
+  "weight": {
+    "summary": "49 requests • 1.7 MiB",
+    "total": 1802125,
+    "image": 1635879,
+    "imageCount": 35,
+    "script": 149369,
+    "scriptCount": 8,
+    "document": 7316,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 9561,
+    "stylesheetCount": 3,
+    "thirdParty": 122626,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 103,
+    "+weight.total": 551,
+    "-weight.document": 22,
+    "+weight.document": 621,
+    "-weight.script": 60,
+    "+weight.script": 536,
+    "-weight.image": 180,
+    "+weight.image": 470,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 383,
+    "-totalBlockingTime": 89,
+    "-largestContentfulPaint": 60
+  },
+  "axe": {
+    "passes": 409,
+    "violations": 26
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://ipc.gov.in/",
+  "requestedUrl": "https://ipc.gov.in/",
+  "timestamp": 1726149474225,
+  "ranks": {
+    "hundos": 259,
+    "performance": 322,
+    "accessibility": 467,
+    "cumulative": 258
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.5,
+    "accessibility": 0.71,
+    "bestPractices": 0.93,
+    "seo": 0.74,
+    "total": 288
+  },
+  "firstContentfulPaint": 4257.689901270681,
+  "firstMeaningfulPaint": 4257.689901270681,
+  "speedIndex": 6796.428512767841,
+  "largestContentfulPaint": 12250.93580395323,
+  "totalBlockingTime": 16,
+  "cumulativeLayoutShift": 0.20480101257814698,
+  "timeToInteractive": 4789.285026447164,
+  "maxPotentialFirstInputDelay": 78,
+  "timeToFirstByte": 675.05,
+  "weight": {
+    "summary": "61 requests • 7.5 MiB",
+    "total": 7882145,
+    "image": 7267622,
+    "imageCount": 33,
+    "script": 533989,
+    "scriptCount": 15,
+    "document": 17928,
+    "font": 36752,
+    "fontCount": 2,
+    "stylesheet": 25854,
+    "stylesheetCount": 10,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 379,
+    "+weight.total": 275,
+    "-weight.document": 159,
+    "+weight.document": 484,
+    "-weight.script": 263,
+    "+weight.script": 333,
+    "-weight.image": 413,
+    "+weight.image": 237,
+    "-weight.font": 33,
+    "+weight.font": 424,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 481,
+    "-totalBlockingTime": 261,
+    "-largestContentfulPaint": 506
+  },
+  "axe": {
+    "passes": 1034,
+    "violations": 128
+  }
+}

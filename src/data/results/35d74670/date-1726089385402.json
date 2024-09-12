@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cipet.gov.in/",
+  "requestedUrl": "https://www.cipet.gov.in/",
+  "timestamp": 1726114725286,
+  "ranks": {
+    "hundos": 40,
+    "performance": 370,
+    "accessibility": 62,
+    "cumulative": 40
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.46,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "seo": 0.98,
+    "total": 328
+  },
+  "firstContentfulPaint": 2961.486,
+  "firstMeaningfulPaint": 4064.3790000000004,
+  "speedIndex": 8012.144769092094,
+  "largestContentfulPaint": 5516.979000000001,
+  "totalBlockingTime": 11.5,
+  "cumulativeLayoutShift": 0.4820779208296432,
+  "timeToInteractive": 9163.6695,
+  "maxPotentialFirstInputDelay": 73,
+  "timeToFirstByte": 124.94999999999999,
+  "weight": {
+    "summary": "136 requests • 7.2 MiB",
+    "total": 7539881,
+    "image": 7156942,
+    "imageCount": 103,
+    "script": 186387,
+    "scriptCount": 12,
+    "document": 18838,
+    "font": 111858,
+    "fontCount": 4,
+    "stylesheet": 65610,
+    "stylesheetCount": 15,
+    "thirdParty": 135613,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 371,
+    "+weight.total": 283,
+    "-weight.document": 172,
+    "+weight.document": 471,
+    "-weight.script": 74,
+    "+weight.script": 522,
+    "-weight.image": 412,
+    "+weight.image": 238,
+    "-weight.font": 175,
+    "+weight.font": 282,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 207,
+    "-totalBlockingTime": 24,
+    "-largestContentfulPaint": 128
+  },
+  "axe": {
+    "passes": 1187,
+    "violations": 42
+  }
+}

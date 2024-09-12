@@ -1,0 +1,66 @@
+{
+  "url": "https://iopepc.org/",
+  "requestedUrl": "https://iopepc.org/",
+  "timestamp": 1726127190083,
+  "ranks": {
+    "hundos": 623,
+    "performance": 641,
+    "accessibility": 489,
+    "cumulative": 622
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.09,
+    "accessibility": 0.7,
+    "bestPractices": 0.78,
+    "seo": 0.62,
+    "total": 219
+  },
+  "firstContentfulPaint": 7656.096999999999,
+  "firstMeaningfulPaint": 7656.096999999999,
+  "speedIndex": 17552.897759847616,
+  "largestContentfulPaint": 23293.307,
+  "totalBlockingTime": 2741.0000000000005,
+  "cumulativeLayoutShift": 0.3507874658216318,
+  "timeToInteractive": 30859.307000000004,
+  "maxPotentialFirstInputDelay": 507,
+  "timeToFirstByte": 558.056,
+  "weight": {
+    "summary": "376 requests • 13.9 MiB",
+    "total": 14587128,
+    "image": 11439886,
+    "imageCount": 72,
+    "script": 1321434,
+    "scriptCount": 85,
+    "document": 609953,
+    "font": 337682,
+    "fontCount": 31,
+    "stylesheet": 306606,
+    "stylesheetCount": 23,
+    "thirdParty": 3279641,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 499,
+    "+weight.total": 155,
+    "-weight.document": 631,
+    "+weight.document": 12,
+    "-weight.script": 468,
+    "+weight.script": 128,
+    "-weight.image": 483,
+    "+weight.image": 167,
+    "-weight.font": 398,
+    "+weight.font": 59,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 454,
+    "-totalBlockingTime": 422,
+    "-largestContentfulPaint": 580
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.unionbankofindia.co.in/english/home.aspx",
+  "requestedUrl": "https://www.unionbankofindia.co.in/english/home.aspx",
+  "timestamp": 1726156851728,
+  "ranks": {
+    "hundos": 6,
+    "performance": 2,
+    "accessibility": 152,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.84,
+    "bestPractices": 0.93,
+    "seo": 0.75,
+    "total": 352
+  },
+  "firstContentfulPaint": 1070.30882,
+  "firstMeaningfulPaint": 1095.80882,
+  "speedIndex": 1635.7704789991872,
+  "largestContentfulPaint": 1611.4632299999998,
+  "totalBlockingTime": 8,
+  "cumulativeLayoutShift": 0.01813057118547329,
+  "timeToInteractive": 2084.410095,
+  "maxPotentialFirstInputDelay": 65,
+  "timeToFirstByte": 46.375,
+  "weight": {
+    "summary": "19 requests • 318.8 KiB",
+    "total": 326488,
+    "image": 1435,
+    "imageCount": 3,
+    "script": 121445,
+    "scriptCount": 3,
+    "document": 51316,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 247528,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 18,
+    "+weight.total": 636,
+    "-weight.document": 329,
+    "+weight.document": 314,
+    "-weight.script": 44,
+    "+weight.script": 552,
+    "-weight.image": 4,
+    "+weight.image": 646,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 17,
+    "-totalBlockingTime": 17,
+    "-largestContentfulPaint": 12
+  },
+  "axe": {
+    "passes": 55,
+    "violations": 2
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://repmismoef.nic.in/Public/Home1.aspx",
+  "requestedUrl": "https://repmismoef.nic.in/",
+  "timestamp": 1726155355092,
+  "ranks": {
+    "hundos": 474,
+    "performance": 78,
+    "accessibility": 598,
+    "cumulative": 475
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.74,
+    "accessibility": 0.58,
+    "bestPractices": 0.89,
+    "seo": 0.38,
+    "total": 259
+  },
+  "firstContentfulPaint": 3023.6639999999998,
+  "firstMeaningfulPaint": 3023.6639999999998,
+  "speedIndex": 3247.4143120142894,
+  "largestContentfulPaint": 5511.524,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3023.6639999999998,
+  "maxPotentialFirstInputDelay": 29,
+  "timeToFirstByte": 59.638,
+  "weight": {
+    "summary": "13 requests • 703.7 KiB",
+    "total": 720632,
+    "image": 374079,
+    "imageCount": 7,
+    "script": 127325,
+    "scriptCount": 2,
+    "document": 30432,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 188257,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 36,
+    "+weight.total": 618,
+    "-weight.document": 259,
+    "+weight.document": 384,
+    "-weight.script": 49,
+    "+weight.script": 547,
+    "-weight.image": 53,
+    "+weight.image": 597,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 39,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 126
+  },
+  "axe": {
+    "passes": 303,
+    "violations": 14
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://agmarknet.gov.in/",
+  "requestedUrl": "https://agmarknet.gov.in/",
+  "timestamp": 1726136013408,
+  "ranks": {
+    "hundos": 633,
+    "performance": 246,
+    "accessibility": 519,
+    "cumulative": 633
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.68,
+    "bestPractices": 0.41,
+    "seo": 0.46,
+    "total": 210
+  },
+  "firstContentfulPaint": 6120.347,
+  "firstMeaningfulPaint": 7261.847,
+  "speedIndex": 14689.31716741767,
+  "largestContentfulPaint": 13020.347,
+  "totalBlockingTime": 0.5,
+  "cumulativeLayoutShift": 0.05601055229007032,
+  "timeToInteractive": 7261.847,
+  "maxPotentialFirstInputDelay": 51,
+  "timeToFirstByte": 197.0239999999999,
+  "weight": {
+    "summary": "103 requests • 4.5 MiB",
+    "total": 4678898,
+    "image": 3203326,
+    "imageCount": 65,
+    "script": 412307,
+    "scriptCount": 23,
+    "document": 960342,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 102778,
+    "stylesheetCount": 11,
+    "thirdParty": 167392,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 260,
+    "+weight.total": 394,
+    "-weight.document": 635,
+    "+weight.document": 8,
+    "-weight.script": 223,
+    "+weight.script": 373,
+    "-weight.image": 255,
+    "+weight.image": 395,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 324,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 267
+  },
+  "axe": {
+    "passes": 10844,
+    "violations": 91
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.pdilin.com/",
+  "requestedUrl": "https://www.pdilin.com/",
+  "timestamp": 1726108742786,
+  "ranks": {
+    "hundos": 422,
+    "performance": 61,
+    "accessibility": 248,
+    "cumulative": 427
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.79,
+    "accessibility": 0.82,
+    "bestPractices": 0.33,
+    "seo": 0.71,
+    "total": 265
+  },
+  "firstContentfulPaint": 2091.3289999999997,
+  "firstMeaningfulPaint": 2091.3289999999997,
+  "speedIndex": 11207.98230635965,
+  "largestContentfulPaint": 3106.8289999999997,
+  "totalBlockingTime": 205,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 22439.068000000007,
+  "maxPotentialFirstInputDelay": 149,
+  "timeToFirstByte": 160.45699999999988,
+  "weight": {
+    "summary": "150 requests • 3.8 MiB",
+    "total": 3985093,
+    "image": 1564585,
+    "imageCount": 66,
+    "script": 1961086,
+    "scriptCount": 46,
+    "document": 184240,
+    "font": 106040,
+    "fontCount": 3,
+    "stylesheet": 100088,
+    "stylesheetCount": 15,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 218,
+    "+weight.total": 436,
+    "-weight.document": 533,
+    "+weight.document": 110,
+    "-weight.script": 521,
+    "+weight.script": 75,
+    "-weight.image": 172,
+    "+weight.image": 478,
+    "-weight.font": 165,
+    "+weight.font": 292,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 279,
+    "-totalBlockingTime": 142,
+    "-largestContentfulPaint": 52
+  },
+  "axe": {
+    "passes": 954,
+    "violations": 71
+  }
+}

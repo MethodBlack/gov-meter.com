@@ -1,0 +1,67 @@
+{
+  "url": "https://cag.gov.in/hi",
+  "requestedUrl": "https://cag.gov.in/",
+  "timestamp": 1726115821954,
+  "ranks": {
+    "hundos": 220,
+    "performance": 618,
+    "accessibility": 41,
+    "cumulative": 216
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.19,
+    "accessibility": 0.93,
+    "bestPractices": 0.93,
+    "seo": 0.88,
+    "total": 293
+  },
+  "firstContentfulPaint": 4783.7955,
+  "firstMeaningfulPaint": 4783.7955,
+  "speedIndex": 11221.335545488575,
+  "largestContentfulPaint": 9249.63375,
+  "totalBlockingTime": 582.5000000000005,
+  "cumulativeLayoutShift": 0.7387115442074258,
+  "timeToInteractive": 30018.810499999978,
+  "maxPotentialFirstInputDelay": 432.00000000000045,
+  "timeToFirstByte": 678.138,
+  "weight": {
+    "summary": "100 requests • 10.1 MiB",
+    "total": 10543705,
+    "image": 9517416,
+    "imageCount": 60,
+    "script": 572605,
+    "scriptCount": 11,
+    "document": 26046,
+    "font": 261032,
+    "fontCount": 2,
+    "stylesheet": 137482,
+    "stylesheetCount": 6,
+    "thirdParty": 348136,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 442,
+    "+weight.total": 212,
+    "-weight.document": 236,
+    "+weight.document": 407,
+    "-weight.script": 276,
+    "+weight.script": 320,
+    "-weight.image": 457,
+    "+weight.image": 193,
+    "-weight.font": 365,
+    "+weight.font": 92,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 482,
+    "-totalBlockingTime": 381,
+    "-largestContentfulPaint": 473
+  },
+  "axe": {
+    "passes": 1881,
+    "violations": 37
+  }
+}

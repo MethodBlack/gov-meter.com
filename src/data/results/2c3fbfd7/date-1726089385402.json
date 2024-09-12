@@ -1,0 +1,66 @@
+{
+  "url": "https://www.nbair.res.in/",
+  "requestedUrl": "https://www.nbair.res.in/",
+  "timestamp": 1726147947835,
+  "ranks": {
+    "hundos": 211,
+    "performance": 175,
+    "accessibility": 562,
+    "cumulative": 214
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.59,
+    "accessibility": 0.64,
+    "bestPractices": 0.89,
+    "seo": 0.82,
+    "total": 294
+  },
+  "firstContentfulPaint": 3221.1619999999994,
+  "firstMeaningfulPaint": 3221.1619999999994,
+  "speedIndex": 13805.609087374352,
+  "largestContentfulPaint": 10020.311999999994,
+  "totalBlockingTime": 10.5,
+  "cumulativeLayoutShift": 0.02226961282773865,
+  "timeToInteractive": 6304.312999999998,
+  "maxPotentialFirstInputDelay": 65,
+  "timeToFirstByte": 273.838,
+  "weight": {
+    "summary": "137 requests • 17.2 MiB",
+    "total": 18036812,
+    "image": 17258111,
+    "imageCount": 19,
+    "script": 347375,
+    "scriptCount": 42,
+    "document": 19332,
+    "font": 318586,
+    "fontCount": 6,
+    "stylesheet": 77730,
+    "stylesheetCount": 34,
+    "thirdParty": 390255,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 534,
+    "+weight.total": 120,
+    "-weight.document": 177,
+    "+weight.document": 466,
+    "-weight.script": 187,
+    "+weight.script": 409,
+    "-weight.image": 545,
+    "+weight.image": 105,
+    "-weight.font": 389,
+    "+weight.font": 68,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 375,
+    "-totalBlockingTime": 22,
+    "-largestContentfulPaint": 217
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

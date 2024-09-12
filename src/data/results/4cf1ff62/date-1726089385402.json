@@ -1,0 +1,66 @@
+{
+  "url": "https://wdra.gov.in/",
+  "requestedUrl": "https://wdra.gov.in/",
+  "timestamp": 1726111167814,
+  "ranks": {
+    "hundos": 478,
+    "performance": 235,
+    "accessibility": 596,
+    "cumulative": 481
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.59,
+    "bestPractices": 0.7,
+    "seo": 0.75,
+    "total": 259
+  },
+  "firstContentfulPaint": 10419.265500000003,
+  "firstMeaningfulPaint": 10440.265500000003,
+  "speedIndex": 13420.118854434755,
+  "largestContentfulPaint": 15375.257000000001,
+  "totalBlockingTime": 103.5,
+  "cumulativeLayoutShift": 0.03251967528007902,
+  "timeToInteractive": 14787.946500000002,
+  "maxPotentialFirstInputDelay": 191,
+  "timeToFirstByte": 113.74599999999998,
+  "weight": {
+    "summary": "61 requests • 3.0 MiB",
+    "total": 3192065,
+    "image": 1028266,
+    "imageCount": 24,
+    "script": 1197614,
+    "scriptCount": 19,
+    "document": 96567,
+    "font": 23115,
+    "fontCount": 1,
+    "stylesheet": 652551,
+    "stylesheetCount": 13,
+    "thirdParty": 126696,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 181,
+    "+weight.total": 473,
+    "-weight.document": 428,
+    "+weight.document": 215,
+    "-weight.script": 445,
+    "+weight.script": 151,
+    "-weight.image": 116,
+    "+weight.image": 534,
+    "-weight.font": 20,
+    "+weight.font": 437,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 184,
+    "-totalBlockingTime": 104,
+    "-largestContentfulPaint": 305
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

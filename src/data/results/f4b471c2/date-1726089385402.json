@@ -1,0 +1,66 @@
+{
+  "url": "https://cpwd.gov.in/",
+  "requestedUrl": "https://cpwd.gov.in/",
+  "timestamp": 1726114816487,
+  "ranks": {
+    "hundos": 652,
+    "performance": 645,
+    "accessibility": 642,
+    "cumulative": 652
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.08,
+    "accessibility": 0.49,
+    "bestPractices": 0.63,
+    "seo": 0.69,
+    "total": 189
+  },
+  "firstContentfulPaint": 9532.159999999996,
+  "firstMeaningfulPaint": 9798.171499999993,
+  "speedIndex": 80437.73154470336,
+  "largestContentfulPaint": 10862.217499999995,
+  "totalBlockingTime": 1162.0000000000146,
+  "cumulativeLayoutShift": 0.7408676702779007,
+  "timeToInteractive": 86650.30099999999,
+  "maxPotentialFirstInputDelay": 1185.000000000029,
+  "timeToFirstByte": 971.2750000000001,
+  "weight": {
+    "summary": "634 requests • 35.4 MiB",
+    "total": 37113214,
+    "image": 34649155,
+    "imageCount": 548,
+    "script": 1930166,
+    "scriptCount": 57,
+    "document": 427858,
+    "font": 2644,
+    "fontCount": 1,
+    "stylesheet": 76903,
+    "stylesheetCount": 16,
+    "thirdParty": 14966129,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 608,
+    "+weight.total": 46,
+    "-weight.document": 624,
+    "+weight.document": 19,
+    "-weight.script": 519,
+    "+weight.script": 77,
+    "-weight.image": 609,
+    "+weight.image": 41,
+    "-weight.font": 3,
+    "+weight.font": 454,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 522,
+    "-totalBlockingTime": 398,
+    "-largestContentfulPaint": 492
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

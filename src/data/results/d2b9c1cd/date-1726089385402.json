@@ -1,0 +1,67 @@
+{
+  "url": "https://lebong.cantt.gov.in/",
+  "requestedUrl": "https://lebong.cantt.gov.in/",
+  "timestamp": 1726113914273,
+  "ranks": {
+    "hundos": 440,
+    "performance": 527,
+    "accessibility": 238,
+    "cumulative": 440
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.32,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.76,
+    "total": 264
+  },
+  "firstContentfulPaint": 4992.4755000000005,
+  "firstMeaningfulPaint": 4992.4755000000005,
+  "speedIndex": 10129.27559797937,
+  "largestContentfulPaint": 19915.09700000001,
+  "totalBlockingTime": 63,
+  "cumulativeLayoutShift": 1.3048360111384607,
+  "timeToInteractive": 14401.581500000008,
+  "maxPotentialFirstInputDelay": 176,
+  "timeToFirstByte": 1748.919,
+  "weight": {
+    "summary": "76 requests • 2.4 MiB",
+    "total": 2549818,
+    "image": 1882799,
+    "imageCount": 17,
+    "script": 346180,
+    "scriptCount": 28,
+    "document": 15232,
+    "font": 78112,
+    "fontCount": 1,
+    "stylesheet": 227495,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 152,
+    "+weight.total": 502,
+    "-weight.document": 102,
+    "+weight.document": 541,
+    "-weight.script": 183,
+    "+weight.script": 413,
+    "-weight.image": 193,
+    "+weight.image": 457,
+    "-weight.font": 100,
+    "+weight.font": 357,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 571,
+    "-totalBlockingTime": 307,
+    "-largestContentfulPaint": 561
+  },
+  "axe": {
+    "passes": 768,
+    "violations": 42
+  }
+}

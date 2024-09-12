@@ -1,0 +1,66 @@
+{
+  "url": "https://mofpi.gov.in/",
+  "requestedUrl": "https://mofpi.gov.in/",
+  "timestamp": 1726100563295,
+  "ranks": {
+    "hundos": 569,
+    "performance": 537,
+    "accessibility": 348,
+    "cumulative": 569
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.32,
+    "accessibility": 0.77,
+    "bestPractices": 0.48,
+    "seo": 0.82,
+    "total": 239
+  },
+  "firstContentfulPaint": 5732.848999999998,
+  "firstMeaningfulPaint": 5732.848999999998,
+  "speedIndex": 20286.376308418654,
+  "largestContentfulPaint": 6859.600999999997,
+  "totalBlockingTime": 681,
+  "cumulativeLayoutShift": 0.18865497391975994,
+  "timeToInteractive": 29402.816999999995,
+  "maxPotentialFirstInputDelay": 463,
+  "timeToFirstByte": 1393.818,
+  "weight": {
+    "summary": "280 requests • 38.3 MiB",
+    "total": 40178511,
+    "image": 36336938,
+    "imageCount": 136,
+    "script": 2833850,
+    "scriptCount": 70,
+    "document": 222171,
+    "font": 172036,
+    "fontCount": 9,
+    "stylesheet": 133247,
+    "stylesheetCount": 34,
+    "thirdParty": 5589427,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 619,
+    "+weight.total": 35,
+    "-weight.document": 570,
+    "+weight.document": 73,
+    "-weight.script": 564,
+    "+weight.script": 32,
+    "-weight.image": 613,
+    "+weight.image": 37,
+    "-weight.font": 288,
+    "+weight.font": 169,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 555,
+    "-totalBlockingTime": 385,
+    "-largestContentfulPaint": 452
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

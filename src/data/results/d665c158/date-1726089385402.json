@@ -1,0 +1,67 @@
+{
+  "url": "https://nulm.gov.in/",
+  "requestedUrl": "https://nulm.gov.in/",
+  "timestamp": 1726141962573,
+  "ranks": {
+    "hundos": 466,
+    "performance": 111,
+    "accessibility": 632,
+    "cumulative": 466
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.68,
+    "accessibility": 0.53,
+    "bestPractices": 0.67,
+    "seo": 0.72,
+    "total": 260
+  },
+  "firstContentfulPaint": 3662.9684999999995,
+  "firstMeaningfulPaint": 3662.9684999999995,
+  "speedIndex": 6916.119463379522,
+  "largestContentfulPaint": 4986.921999999999,
+  "totalBlockingTime": 40.5,
+  "cumulativeLayoutShift": 0.027197482857491115,
+  "timeToInteractive": 7570.90025,
+  "maxPotentialFirstInputDelay": 96,
+  "timeToFirstByte": 241.938,
+  "weight": {
+    "summary": "53 requests • 2.0 MiB",
+    "total": 2109059,
+    "image": 1748198,
+    "imageCount": 24,
+    "script": 118644,
+    "scriptCount": 8,
+    "document": 53144,
+    "font": 65042,
+    "fontCount": 1,
+    "stylesheet": 124031,
+    "stylesheetCount": 19,
+    "thirdParty": 151605,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 125,
+    "+weight.total": 529,
+    "-weight.document": 343,
+    "+weight.document": 300,
+    "-weight.script": 42,
+    "+weight.script": 554,
+    "-weight.image": 187,
+    "+weight.image": 463,
+    "-weight.font": 58,
+    "+weight.font": 399,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 357,
+    "-totalBlockingTime": 62,
+    "-largestContentfulPaint": 108
+  },
+  "axe": {
+    "passes": 351,
+    "violations": 43
+  }
+}

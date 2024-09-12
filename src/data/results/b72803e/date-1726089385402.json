@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nhdc.org.in/",
+  "requestedUrl": "https://www.nhdc.org.in/",
+  "timestamp": 1726129945030,
+  "ranks": {
+    "hundos": 351,
+    "performance": 316,
+    "accessibility": 385,
+    "cumulative": 353
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.51,
+    "accessibility": 0.75,
+    "bestPractices": 0.67,
+    "seo": 0.81,
+    "total": 274
+  },
+  "firstContentfulPaint": 10475.679500000006,
+  "firstMeaningfulPaint": 10475.679500000006,
+  "speedIndex": 18148.722047134484,
+  "largestContentfulPaint": 17267.815500000015,
+  "totalBlockingTime": 16,
+  "cumulativeLayoutShift": 0.12192073260023341,
+  "timeToInteractive": 11744.731500000005,
+  "maxPotentialFirstInputDelay": 59,
+  "timeToFirstByte": 169.24199999999996,
+  "weight": {
+    "summary": "69 requests • 11.3 MiB",
+    "total": 11850577,
+    "image": 11381720,
+    "imageCount": 45,
+    "script": 259962,
+    "scriptCount": 15,
+    "document": 86913,
+    "font": 71383,
+    "fontCount": 1,
+    "stylesheet": 50344,
+    "stylesheetCount": 5,
+    "thirdParty": 245886,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 461,
+    "+weight.total": 193,
+    "-weight.document": 419,
+    "+weight.document": 224,
+    "-weight.script": 136,
+    "+weight.script": 460,
+    "-weight.image": 481,
+    "+weight.image": 169,
+    "-weight.font": 67,
+    "+weight.font": 390,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 290,
+    "-totalBlockingTime": 32,
+    "-largestContentfulPaint": 316
+  },
+  "axe": {
+    "passes": 1033,
+    "violations": 59
+  }
+}

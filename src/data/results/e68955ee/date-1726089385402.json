@@ -1,0 +1,67 @@
+{
+  "url": "https://www.mca.gov.in/content/mca/global/en/home.html",
+  "requestedUrl": "https://www.mca.gov.in/",
+  "timestamp": 1726095026550,
+  "ranks": {
+    "hundos": 565,
+    "performance": 380,
+    "accessibility": 462,
+    "cumulative": 566
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.45,
+    "accessibility": 0.71,
+    "bestPractices": 0.52,
+    "seo": 0.72,
+    "total": 240
+  },
+  "firstContentfulPaint": 3639.302999999997,
+  "firstMeaningfulPaint": 3639.302999999997,
+  "speedIndex": 6024.709679268014,
+  "largestContentfulPaint": 8846.268999999993,
+  "totalBlockingTime": 741.5,
+  "cumulativeLayoutShift": 0.02315039109782135,
+  "timeToInteractive": 10344.891999999996,
+  "maxPotentialFirstInputDelay": 675,
+  "timeToFirstByte": 78.759,
+  "weight": {
+    "summary": "138 requests • 2.4 MiB",
+    "total": 2521798,
+    "image": 1354550,
+    "imageCount": 80,
+    "script": 800944,
+    "scriptCount": 22,
+    "document": 39723,
+    "font": 73812,
+    "fontCount": 4,
+    "stylesheet": 150585,
+    "stylesheetCount": 24,
+    "thirdParty": 475462,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 150,
+    "+weight.total": 504,
+    "-weight.document": 291,
+    "+weight.document": 352,
+    "-weight.script": 367,
+    "+weight.script": 229,
+    "-weight.image": 146,
+    "+weight.image": 504,
+    "-weight.font": 71,
+    "+weight.font": 386,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 86,
+    "-totalBlockingTime": 387,
+    "-largestContentfulPaint": 470
+  },
+  "axe": {
+    "passes": 1881,
+    "violations": 77
+  }
+}

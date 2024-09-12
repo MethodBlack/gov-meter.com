@@ -1,0 +1,66 @@
+{
+  "url": "https://nationalmuseumindia.gov.in/en",
+  "requestedUrl": "https://nationalmuseumindia.gov.in/",
+  "timestamp": 1726152714825,
+  "ranks": {
+    "hundos": 205,
+    "performance": 285,
+    "accessibility": 66,
+    "cumulative": 204
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.54,
+    "accessibility": 0.91,
+    "bestPractices": 0.74,
+    "seo": 0.75,
+    "total": 294
+  },
+  "firstContentfulPaint": 6889.730499999998,
+  "firstMeaningfulPaint": 6889.730499999998,
+  "speedIndex": 39860.86608986811,
+  "largestContentfulPaint": 53950.445500000045,
+  "totalBlockingTime": 78,
+  "cumulativeLayoutShift": 0.0566330133713298,
+  "timeToInteractive": 30845.34425,
+  "maxPotentialFirstInputDelay": 175,
+  "timeToFirstByte": 412.9390000000001,
+  "weight": {
+    "summary": "172 requests • 142.6 MiB",
+    "total": 149478495,
+    "image": 148057536,
+    "imageCount": 154,
+    "script": 666652,
+    "scriptCount": 5,
+    "document": 320398,
+    "font": 166909,
+    "fontCount": 6,
+    "stylesheet": 266398,
+    "stylesheetCount": 5,
+    "thirdParty": 97158,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 653,
+    "+weight.total": 1,
+    "-weight.document": 604,
+    "+weight.document": 39,
+    "-weight.script": 322,
+    "+weight.script": 274,
+    "-weight.image": 649,
+    "+weight.image": 1,
+    "-weight.font": 279,
+    "+weight.font": 178,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 425,
+    "-totalBlockingTime": 318,
+    "-largestContentfulPaint": 637
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

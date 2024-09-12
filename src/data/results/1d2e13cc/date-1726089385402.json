@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ursc.gov.in/",
+  "requestedUrl": "https://www.ursc.gov.in/",
+  "timestamp": 1726156782006,
+  "ranks": {
+    "hundos": 45,
+    "performance": 22,
+    "accessibility": 157,
+    "cumulative": 44
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.95,
+    "accessibility": 0.84,
+    "bestPractices": 0.74,
+    "seo": 0.72,
+    "total": 325
+  },
+  "firstContentfulPaint": 1327.138,
+  "firstMeaningfulPaint": 1327.138,
+  "speedIndex": 4227.446369266027,
+  "largestContentfulPaint": 1627.138,
+  "totalBlockingTime": 114,
+  "cumulativeLayoutShift": 0.06836544771261509,
+  "timeToInteractive": 3115.638,
+  "maxPotentialFirstInputDelay": 278,
+  "timeToFirstByte": 670.625,
+  "weight": {
+    "summary": "59 requests • 6.3 MiB",
+    "total": 6599588,
+    "image": 6397962,
+    "imageCount": 32,
+    "script": 76466,
+    "scriptCount": 7,
+    "document": 11513,
+    "font": 66813,
+    "fontCount": 1,
+    "stylesheet": 46589,
+    "stylesheetCount": 17,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 346,
+    "+weight.total": 308,
+    "-weight.document": 52,
+    "+weight.document": 591,
+    "-weight.script": 20,
+    "+weight.script": 576,
+    "-weight.image": 388,
+    "+weight.image": 262,
+    "-weight.font": 63,
+    "+weight.font": 394,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 478,
+    "-totalBlockingTime": 332,
+    "-largestContentfulPaint": 422
+  },
+  "axe": {
+    "passes": 620,
+    "violations": 25
+  }
+}

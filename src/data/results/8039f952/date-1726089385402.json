@@ -1,0 +1,67 @@
+{
+  "url": "https://lawmin.gov.in/",
+  "requestedUrl": "https://lawmin.gov.in/",
+  "timestamp": 1726128376754,
+  "ranks": {
+    "hundos": 237,
+    "performance": 462,
+    "accessibility": 124,
+    "cumulative": 234
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.36,
+    "accessibility": 0.86,
+    "bestPractices": 0.96,
+    "seo": 0.72,
+    "total": 290
+  },
+  "firstContentfulPaint": 5557.136,
+  "firstMeaningfulPaint": 5792.636,
+  "speedIndex": 7741.1138233614365,
+  "largestContentfulPaint": 11280.409999999998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.5619347540710649,
+  "timeToInteractive": 5792.636,
+  "maxPotentialFirstInputDelay": 42,
+  "timeToFirstByte": 118.982,
+  "weight": {
+    "summary": "82 requests • 2.2 MiB",
+    "total": 2341726,
+    "image": 1493097,
+    "imageCount": 34,
+    "script": 540405,
+    "scriptCount": 18,
+    "document": 37138,
+    "font": 119608,
+    "fontCount": 7,
+    "stylesheet": 151478,
+    "stylesheetCount": 22,
+    "thirdParty": 652388,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 141,
+    "+weight.total": 513,
+    "-weight.document": 282,
+    "+weight.document": 361,
+    "-weight.script": 269,
+    "+weight.script": 327,
+    "-weight.image": 156,
+    "+weight.image": 494,
+    "-weight.font": 192,
+    "+weight.font": 265,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 194,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 236
+  },
+  "axe": {
+    "passes": 597,
+    "violations": 19
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cgpost.gov.in/",
+  "requestedUrl": "https://www.cgpost.gov.in/",
+  "timestamp": 1726094249407,
+  "ranks": {
+    "hundos": 56,
+    "performance": 212,
+    "accessibility": 191,
+    "cumulative": 56
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.56,
+    "accessibility": 0.82,
+    "bestPractices": 0.85,
+    "seo": 0.98,
+    "total": 321
+  },
+  "firstContentfulPaint": 7560.857,
+  "firstMeaningfulPaint": 7560.857,
+  "speedIndex": 9905.15601270878,
+  "largestContentfulPaint": 10774.176,
+  "totalBlockingTime": 9.5,
+  "cumulativeLayoutShift": 0.01196449053344163,
+  "timeToInteractive": 10000.508999999998,
+  "maxPotentialFirstInputDelay": 61,
+  "timeToFirstByte": 59.94400000000019,
+  "weight": {
+    "summary": "49 requests • 2.3 MiB",
+    "total": 2387856,
+    "image": 997774,
+    "imageCount": 27,
+    "script": 1266037,
+    "scriptCount": 12,
+    "document": 10706,
+    "font": 61986,
+    "fontCount": 2,
+    "stylesheet": 51353,
+    "stylesheetCount": 7,
+    "thirdParty": 396611,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 144,
+    "+weight.total": 510,
+    "-weight.document": 44,
+    "+weight.document": 599,
+    "-weight.script": 458,
+    "+weight.script": 138,
+    "-weight.image": 112,
+    "+weight.image": 538,
+    "-weight.font": 57,
+    "+weight.font": 400,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 40,
+    "-totalBlockingTime": 20,
+    "-largestContentfulPaint": 226
+  },
+  "axe": {
+    "passes": 842,
+    "violations": 12
+  }
+}

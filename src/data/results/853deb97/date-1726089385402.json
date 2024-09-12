@@ -1,0 +1,67 @@
+{
+  "url": "https://www.meity.gov.in/",
+  "requestedUrl": "https://meity.gov.in/",
+  "timestamp": 1726099454895,
+  "ranks": {
+    "hundos": 57,
+    "performance": 391,
+    "accessibility": 26,
+    "cumulative": 54
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.44,
+    "accessibility": 0.94,
+    "bestPractices": 0.96,
+    "seo": 0.87,
+    "total": 321
+  },
+  "firstContentfulPaint": 2687.5185,
+  "firstMeaningfulPaint": 2687.5185,
+  "speedIndex": 5777.576312827585,
+  "largestContentfulPaint": 7296.5185,
+  "totalBlockingTime": 3,
+  "cumulativeLayoutShift": 0.6795135132352796,
+  "timeToInteractive": 4320.2685,
+  "maxPotentialFirstInputDelay": 56,
+  "timeToFirstByte": 140.4749999999999,
+  "weight": {
+    "summary": "127 requests • 3.8 MiB",
+    "total": 3961428,
+    "image": 3656628,
+    "imageCount": 61,
+    "script": 237529,
+    "scriptCount": 36,
+    "document": 13630,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 53026,
+    "stylesheetCount": 26,
+    "thirdParty": 582872,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 215,
+    "+weight.total": 439,
+    "-weight.document": 79,
+    "+weight.document": 564,
+    "-weight.script": 122,
+    "+weight.script": 474,
+    "-weight.image": 284,
+    "+weight.image": 366,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 242,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 167
+  },
+  "axe": {
+    "passes": 9,
+    "violations": 5
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ncl-india.org/",
+  "requestedUrl": "https://www.ncl-india.org/",
+  "timestamp": 1726141397551,
+  "ranks": {
+    "hundos": 435,
+    "performance": 279,
+    "accessibility": 503,
+    "cumulative": 434
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.54,
+    "accessibility": 0.69,
+    "bestPractices": 0.67,
+    "seo": 0.74,
+    "total": 264
+  },
+  "firstContentfulPaint": 6345.722999999998,
+  "firstMeaningfulPaint": 6727.050999999998,
+  "speedIndex": 22946.056435379556,
+  "largestContentfulPaint": 9015.018999999998,
+  "totalBlockingTime": 95.5,
+  "cumulativeLayoutShift": 0.0649599107360591,
+  "timeToInteractive": 21245.183844001767,
+  "maxPotentialFirstInputDelay": 93,
+  "timeToFirstByte": 7393.047,
+  "weight": {
+    "summary": "178 requests • 10.6 MiB",
+    "total": 11066164,
+    "image": 8267696,
+    "imageCount": 97,
+    "script": 1492587,
+    "scriptCount": 45,
+    "document": 412308,
+    "font": 203186,
+    "fontCount": 3,
+    "stylesheet": 326835,
+    "stylesheetCount": 23,
+    "thirdParty": 3473799,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 452,
+    "+weight.total": 202,
+    "-weight.document": 622,
+    "+weight.document": 21,
+    "-weight.script": 489,
+    "+weight.script": 107,
+    "-weight.image": 438,
+    "+weight.image": 212,
+    "-weight.font": 320,
+    "+weight.font": 137,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 647,
+    "-totalBlockingTime": 328,
+    "-largestContentfulPaint": 472
+  },
+  "axe": {
+    "passes": 1990,
+    "violations": 168
+  }
+}

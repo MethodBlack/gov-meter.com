@@ -1,0 +1,67 @@
+{
+  "url": "https://minorityaffairs.gov.in/",
+  "requestedUrl": "https://minorityaffairs.gov.in/",
+  "timestamp": 1726104864442,
+  "ranks": {
+    "hundos": 395,
+    "performance": 334,
+    "accessibility": 439,
+    "cumulative": 391
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.49,
+    "accessibility": 0.72,
+    "bestPractices": 0.67,
+    "seo": 0.81,
+    "total": 269
+  },
+  "firstContentfulPaint": 6728.577000000003,
+  "firstMeaningfulPaint": 7081.0530000000035,
+  "speedIndex": 11122.59055107971,
+  "largestContentfulPaint": 6933.934000000003,
+  "totalBlockingTime": 368.9999999999991,
+  "cumulativeLayoutShift": 0.0010214486551092673,
+  "timeToInteractive": 10209.766000000001,
+  "maxPotentialFirstInputDelay": 778.9999999999982,
+  "timeToFirstByte": 764.4899999999998,
+  "weight": {
+    "summary": "107 requests • 1.8 MiB",
+    "total": 1921479,
+    "image": 897334,
+    "imageCount": 63,
+    "script": 430539,
+    "scriptCount": 19,
+    "document": 21256,
+    "font": 82993,
+    "fontCount": 2,
+    "stylesheet": 489107,
+    "stylesheetCount": 21,
+    "thirdParty": 606486,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 112,
+    "+weight.total": 542,
+    "-weight.document": 200,
+    "+weight.document": 443,
+    "-weight.script": 230,
+    "+weight.script": 366,
+    "-weight.image": 105,
+    "+weight.image": 545,
+    "-weight.font": 124,
+    "+weight.font": 333,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 494,
+    "-totalBlockingTime": 366,
+    "-largestContentfulPaint": 453
+  },
+  "axe": {
+    "passes": 29,
+    "violations": 5
+  }
+}

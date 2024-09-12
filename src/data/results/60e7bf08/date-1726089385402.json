@@ -1,0 +1,67 @@
+{
+  "url": "https://aurangabad.cantt.gov.in/",
+  "requestedUrl": "https://aurangabad.cantt.gov.in/",
+  "timestamp": 1726092541328,
+  "ranks": {
+    "hundos": 387,
+    "performance": 553,
+    "accessibility": 202,
+    "cumulative": 386
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.83,
+    "total": 270
+  },
+  "firstContentfulPaint": 5129.579500000002,
+  "firstMeaningfulPaint": 5129.579500000002,
+  "speedIndex": 12473.407223274817,
+  "largestContentfulPaint": 40145.875500000024,
+  "totalBlockingTime": 56,
+  "cumulativeLayoutShift": 1.6509583207588814,
+  "timeToInteractive": 21531.745000000024,
+  "maxPotentialFirstInputDelay": 155.99999999999636,
+  "timeToFirstByte": 1968.0970000000002,
+  "weight": {
+    "summary": "87 requests • 5.9 MiB",
+    "total": 6169715,
+    "image": 5503221,
+    "imageCount": 28,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 15473,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 226323,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 337,
+    "+weight.total": 317,
+    "-weight.document": 109,
+    "+weight.document": 534,
+    "-weight.script": 185,
+    "+weight.script": 411,
+    "-weight.image": 371,
+    "+weight.image": 279,
+    "-weight.font": 101,
+    "+weight.font": 356,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 585,
+    "-totalBlockingTime": 298,
+    "-largestContentfulPaint": 629
+  },
+  "axe": {
+    "passes": 881,
+    "violations": 31
+  }
+}

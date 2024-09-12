@@ -1,0 +1,67 @@
+{
+  "url": "https://bel-india.in/",
+  "requestedUrl": "https://bel-india.in/",
+  "timestamp": 1726091815706,
+  "ranks": {
+    "hundos": 137,
+    "performance": 592,
+    "accessibility": 17,
+    "cumulative": 133
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.25,
+    "accessibility": 0.96,
+    "bestPractices": 0.93,
+    "seo": 0.9,
+    "total": 304
+  },
+  "firstContentfulPaint": 6863.8105,
+  "firstMeaningfulPaint": 7006.01375,
+  "speedIndex": 14797.78910859373,
+  "largestContentfulPaint": 16045.79075,
+  "totalBlockingTime": 7259.638249999998,
+  "cumulativeLayoutShift": 0.0002472805553315094,
+  "timeToInteractive": 28670.536750000014,
+  "maxPotentialFirstInputDelay": 2814.999999999998,
+  "timeToFirstByte": 816.366,
+  "weight": {
+    "summary": "146 requests • 11.5 MiB",
+    "total": 12075188,
+    "image": 7382946,
+    "imageCount": 37,
+    "script": 306952,
+    "scriptCount": 47,
+    "document": 49853,
+    "font": 297194,
+    "fontCount": 7,
+    "stylesheet": 285194,
+    "stylesheetCount": 50,
+    "thirdParty": 157868,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 465,
+    "+weight.total": 189,
+    "-weight.document": 324,
+    "+weight.document": 319,
+    "-weight.script": 150,
+    "+weight.script": 446,
+    "-weight.image": 416,
+    "+weight.image": 234,
+    "-weight.font": 380,
+    "+weight.font": 77,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 497,
+    "-totalBlockingTime": 433,
+    "-largestContentfulPaint": 538
+  },
+  "axe": {
+    "passes": 1801,
+    "violations": 30
+  }
+}

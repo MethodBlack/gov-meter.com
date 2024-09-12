@@ -1,0 +1,67 @@
+{
+  "url": "https://www.mecl.co.in/Index.aspx?Lng=HI",
+  "requestedUrl": "https://www.mecl.co.in/",
+  "timestamp": 1726151190732,
+  "ranks": {
+    "hundos": 126,
+    "performance": 291,
+    "accessibility": 76,
+    "cumulative": 128
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.53,
+    "accessibility": 0.9,
+    "bestPractices": 0.89,
+    "seo": 0.73,
+    "total": 305
+  },
+  "firstContentfulPaint": 5264.303,
+  "firstMeaningfulPaint": 5264.303,
+  "speedIndex": 8490.285513548639,
+  "largestContentfulPaint": 19164.923500000008,
+  "totalBlockingTime": 21,
+  "cumulativeLayoutShift": 0.13623042025424625,
+  "timeToInteractive": 12844.096000000005,
+  "maxPotentialFirstInputDelay": 92,
+  "timeToFirstByte": 174.132,
+  "weight": {
+    "summary": "85 requests • 6.3 MiB",
+    "total": 6640323,
+    "image": 5864554,
+    "imageCount": 65,
+    "script": 230343,
+    "scriptCount": 8,
+    "document": 454868,
+    "font": 29387,
+    "fontCount": 2,
+    "stylesheet": 60877,
+    "stylesheetCount": 8,
+    "thirdParty": 108726,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 348,
+    "+weight.total": 306,
+    "-weight.document": 626,
+    "+weight.document": 17,
+    "-weight.script": 110,
+    "+weight.script": 486,
+    "-weight.image": 375,
+    "+weight.image": 275,
+    "-weight.font": 29,
+    "+weight.font": 428,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 299,
+    "-totalBlockingTime": 40,
+    "-largestContentfulPaint": 333
+  },
+  "axe": {
+    "passes": 1291,
+    "violations": 111
+  }
+}

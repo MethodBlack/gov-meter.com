@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nskfdc.nic.in/",
+  "requestedUrl": "https://www.nskfdc.nic.in/",
+  "timestamp": 1726130678918,
+  "ranks": {
+    "hundos": 328,
+    "performance": 174,
+    "accessibility": 394,
+    "cumulative": 323
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.59,
+    "accessibility": 0.74,
+    "bestPractices": 0.67,
+    "seo": 0.77,
+    "total": 277
+  },
+  "firstContentfulPaint": 4487.8279999999995,
+  "firstMeaningfulPaint": 4487.8279999999995,
+  "speedIndex": 11051.438975628163,
+  "largestContentfulPaint": 5912.705,
+  "totalBlockingTime": 110,
+  "cumulativeLayoutShift": 0.043667576485324204,
+  "timeToInteractive": 18226.828999999998,
+  "maxPotentialFirstInputDelay": 141,
+  "timeToFirstByte": 674.5989999999999,
+  "weight": {
+    "summary": "108 requests • 2.7 MiB",
+    "total": 2874726,
+    "image": 1235761,
+    "imageCount": 34,
+    "script": 1286792,
+    "scriptCount": 28,
+    "document": 92348,
+    "font": 22186,
+    "fontCount": 2,
+    "stylesheet": 192937,
+    "stylesheetCount": 29,
+    "thirdParty": 1193677,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 170,
+    "+weight.total": 484,
+    "-weight.document": 423,
+    "+weight.document": 220,
+    "-weight.script": 460,
+    "+weight.script": 136,
+    "-weight.image": 134,
+    "+weight.image": 516,
+    "-weight.font": 19,
+    "+weight.font": 438,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 480,
+    "-totalBlockingTime": 331,
+    "-largestContentfulPaint": 438
+  },
+  "axe": {
+    "passes": 659,
+    "violations": 24
+  }
+}

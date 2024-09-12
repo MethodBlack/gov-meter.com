@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nplindia.org/",
+  "requestedUrl": "https://www.nplindia.org/",
+  "timestamp": 1726117103905,
+  "ranks": {
+    "hundos": 169,
+    "performance": 593,
+    "accessibility": 172,
+    "cumulative": 169
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.25,
+    "accessibility": 0.83,
+    "bestPractices": 1,
+    "seo": 0.91,
+    "total": 299
+  },
+  "firstContentfulPaint": 8110.9241600000005,
+  "firstMeaningfulPaint": 8110.9241600000005,
+  "speedIndex": 19002.332310961803,
+  "largestContentfulPaint": 13429.908289999996,
+  "totalBlockingTime": 2596.7684900000013,
+  "cumulativeLayoutShift": 0.08106917137381911,
+  "timeToInteractive": 23290.83269999999,
+  "maxPotentialFirstInputDelay": 1841,
+  "timeToFirstByte": 904.2280000000001,
+  "weight": {
+    "summary": "112 requests • 5.0 MiB",
+    "total": 5275589,
+    "image": 4281566,
+    "imageCount": 29,
+    "script": 352584,
+    "scriptCount": 35,
+    "document": 76158,
+    "font": 270419,
+    "fontCount": 9,
+    "stylesheet": 294862,
+    "stylesheetCount": 37,
+    "thirdParty": 84379,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 284,
+    "+weight.total": 370,
+    "-weight.document": 400,
+    "+weight.document": 243,
+    "-weight.script": 192,
+    "+weight.script": 404,
+    "-weight.image": 314,
+    "+weight.image": 336,
+    "-weight.font": 371,
+    "+weight.font": 86,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 512,
+    "-totalBlockingTime": 420,
+    "-largestContentfulPaint": 515
+  },
+  "axe": {
+    "passes": 1104,
+    "violations": 36
+  }
+}

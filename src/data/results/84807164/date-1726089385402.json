@@ -1,0 +1,67 @@
+{
+  "url": "https://www.neist.res.in/",
+  "requestedUrl": "https://www.neist.res.in/",
+  "timestamp": 1726141604418,
+  "ranks": {
+    "hundos": 475,
+    "performance": 157,
+    "accessibility": 591,
+    "cumulative": 479
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.6,
+    "accessibility": 0.6,
+    "bestPractices": 0.89,
+    "seo": 0.5,
+    "total": 259
+  },
+  "firstContentfulPaint": 3977.888,
+  "firstMeaningfulPaint": 4484.110000000001,
+  "speedIndex": 7234.945197778834,
+  "largestContentfulPaint": 9790.332000000002,
+  "totalBlockingTime": 8.5,
+  "cumulativeLayoutShift": 0.00024179807785525885,
+  "timeToInteractive": 8478.385999999997,
+  "maxPotentialFirstInputDelay": 66,
+  "timeToFirstByte": 55.72399999999999,
+  "weight": {
+    "summary": "109 requests • 4.4 MiB",
+    "total": 4575029,
+    "image": 3901248,
+    "imageCount": 91,
+    "script": 456390,
+    "scriptCount": 13,
+    "document": 186844,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 30547,
+    "stylesheetCount": 4,
+    "thirdParty": 6550,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 257,
+    "+weight.total": 397,
+    "-weight.document": 538,
+    "+weight.document": 105,
+    "-weight.script": 241,
+    "+weight.script": 355,
+    "-weight.image": 300,
+    "+weight.image": 350,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 33,
+    "-totalBlockingTime": 18,
+    "-largestContentfulPaint": 213
+  },
+  "axe": {
+    "passes": 1952,
+    "violations": 66
+  }
+}

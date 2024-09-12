@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ignfa.gov.in/",
+  "requestedUrl": "https://www.ignfa.gov.in/",
+  "timestamp": 1726149720684,
+  "ranks": {
+    "hundos": 511,
+    "performance": 563,
+    "accessibility": 384,
+    "cumulative": 526
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.75,
+    "bestPractices": 0.89,
+    "seo": 0.54,
+    "total": 253
+  },
+  "firstContentfulPaint": 13624.04,
+  "firstMeaningfulPaint": 13624.04,
+  "speedIndex": 23593.761778961903,
+  "largestContentfulPaint": 19019.706,
+  "totalBlockingTime": 582.5,
+  "cumulativeLayoutShift": 0.19614347136278557,
+  "timeToInteractive": 45899.6595,
+  "maxPotentialFirstInputDelay": 718,
+  "timeToFirstByte": 80.75,
+  "weight": {
+    "summary": "138 requests • 15.6 MiB",
+    "total": 16379988,
+    "image": 13339386,
+    "imageCount": 72,
+    "script": 1419010,
+    "scriptCount": 23,
+    "document": 85403,
+    "font": 215155,
+    "fontCount": 4,
+    "stylesheet": 1320267,
+    "stylesheetCount": 34,
+    "thirdParty": 230593,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 518,
+    "+weight.total": 136,
+    "-weight.document": 417,
+    "+weight.document": 226,
+    "-weight.script": 482,
+    "+weight.script": 114,
+    "-weight.image": 509,
+    "+weight.image": 141,
+    "-weight.font": 329,
+    "+weight.font": 128,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 94,
+    "-totalBlockingTime": 380,
+    "-largestContentfulPaint": 558
+  },
+  "axe": {
+    "passes": 1013,
+    "violations": 56
+  }
+}

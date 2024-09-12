@@ -1,0 +1,67 @@
+{
+  "url": "https://ppqs.gov.in/",
+  "requestedUrl": "https://ppqs.gov.in/",
+  "timestamp": 1726144328729,
+  "ranks": {
+    "hundos": 253,
+    "performance": 413,
+    "accessibility": 6,
+    "cumulative": 250
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.42,
+    "accessibility": 0.98,
+    "bestPractices": 0.67,
+    "seo": 0.82,
+    "total": 289
+  },
+  "firstContentfulPaint": 9079.365999999998,
+  "firstMeaningfulPaint": 9079.365999999998,
+  "speedIndex": 17832.024973977117,
+  "largestContentfulPaint": 31882.367499999993,
+  "totalBlockingTime": 182.5,
+  "cumulativeLayoutShift": 0.2171588696187525,
+  "timeToInteractive": 30896.26849999999,
+  "maxPotentialFirstInputDelay": 155,
+  "timeToFirstByte": 26.488999999999976,
+  "weight": {
+    "summary": "137 requests • 8.0 MiB",
+    "total": 8407525,
+    "image": 6248179,
+    "imageCount": 63,
+    "script": 1508156,
+    "scriptCount": 22,
+    "document": 115360,
+    "font": 145065,
+    "fontCount": 9,
+    "stylesheet": 346486,
+    "stylesheetCount": 28,
+    "thirdParty": 1090729,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 397,
+    "+weight.total": 257,
+    "-weight.document": 455,
+    "+weight.document": 188,
+    "-weight.script": 491,
+    "+weight.script": 105,
+    "-weight.image": 386,
+    "+weight.image": 264,
+    "-weight.font": 238,
+    "+weight.font": 219,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 5,
+    "-totalBlockingTime": 135,
+    "-largestContentfulPaint": 386
+  },
+  "axe": {
+    "passes": 1115,
+    "violations": 4
+  }
+}

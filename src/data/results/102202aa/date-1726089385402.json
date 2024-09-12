@@ -1,0 +1,66 @@
+{
+  "url": "https://gstkarnataka.gov.in/",
+  "requestedUrl": "https://gstkarnataka.gov.in/",
+  "timestamp": 1726154430127,
+  "ranks": {
+    "hundos": 455,
+    "performance": 541,
+    "accessibility": 548,
+    "cumulative": 460
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.65,
+    "bestPractices": 0.74,
+    "seo": 0.92,
+    "total": 262
+  },
+  "firstContentfulPaint": 3548.5748399999984,
+  "firstMeaningfulPaint": 4635.257039999997,
+  "speedIndex": 7296.236130249903,
+  "largestContentfulPaint": 15330.83871999996,
+  "totalBlockingTime": 1080.499999999999,
+  "cumulativeLayoutShift": 0.17114942824295515,
+  "timeToInteractive": 14339.137959999998,
+  "maxPotentialFirstInputDelay": 1086.999999999999,
+  "timeToFirstByte": 166.35899999999998,
+  "weight": {
+    "summary": "257 requests • 136.2 MiB",
+    "total": 142816159,
+    "image": 141512025,
+    "imageCount": 205,
+    "script": 865460,
+    "scriptCount": 30,
+    "document": 191215,
+    "font": 15487,
+    "fontCount": 1,
+    "stylesheet": 153560,
+    "stylesheetCount": 6,
+    "thirdParty": 1021578,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 652,
+    "+weight.total": 2,
+    "-weight.document": 541,
+    "+weight.document": 102,
+    "-weight.script": 385,
+    "+weight.script": 211,
+    "-weight.image": 648,
+    "+weight.image": 2,
+    "-weight.font": 8,
+    "+weight.font": 449,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 286,
+    "-totalBlockingTime": 217,
+    "-largestContentfulPaint": 303
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

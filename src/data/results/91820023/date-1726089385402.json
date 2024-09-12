@@ -1,0 +1,67 @@
+{
+  "url": "https://handicrafts.nic.in/",
+  "requestedUrl": "https://handicrafts.nic.in/",
+  "timestamp": 1726153676590,
+  "ranks": {
+    "hundos": 527,
+    "performance": 417,
+    "accessibility": 24,
+    "cumulative": 524
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.42,
+    "accessibility": 0.95,
+    "bestPractices": 0.63,
+    "seo": 0.5,
+    "total": 250
+  },
+  "firstContentfulPaint": 4607.9710000000005,
+  "firstMeaningfulPaint": 4907.971000000001,
+  "speedIndex": 24199.11726755026,
+  "largestContentfulPaint": 96548.285,
+  "totalBlockingTime": 18,
+  "cumulativeLayoutShift": 0.279406463365415,
+  "timeToInteractive": 29618.636499999997,
+  "maxPotentialFirstInputDelay": 64,
+  "timeToFirstByte": 1247.612,
+  "weight": {
+    "summary": "105 requests • 17.1 MiB",
+    "total": 17975810,
+    "image": 17232996,
+    "imageCount": 74,
+    "script": 615247,
+    "scriptCount": 21,
+    "document": 63383,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 62304,
+    "stylesheetCount": 8,
+    "thirdParty": 185743,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 533,
+    "+weight.total": 121,
+    "-weight.document": 371,
+    "+weight.document": 272,
+    "-weight.script": 303,
+    "+weight.script": 293,
+    "-weight.image": 544,
+    "+weight.image": 106,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 550,
+    "-totalBlockingTime": 263,
+    "-largestContentfulPaint": 646
+  },
+  "axe": {
+    "passes": 878,
+    "violations": 89
+  }
+}

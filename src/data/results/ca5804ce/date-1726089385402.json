@@ -1,0 +1,67 @@
+{
+  "url": "https://allahabad.cantt.gov.in/",
+  "requestedUrl": "https://allahabad.cantt.gov.in/",
+  "timestamp": 1726113362415,
+  "ranks": {
+    "hundos": 416,
+    "performance": 514,
+    "accessibility": 209,
+    "cumulative": 412
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.77,
+    "total": 266
+  },
+  "firstContentfulPaint": 3790.6150000000002,
+  "firstMeaningfulPaint": 3790.6150000000002,
+  "speedIndex": 11953.623692473648,
+  "largestContentfulPaint": 8527.492,
+  "totalBlockingTime": 79.5,
+  "cumulativeLayoutShift": 1.601009298711354,
+  "timeToInteractive": 20771.860999999994,
+  "maxPotentialFirstInputDelay": 184,
+  "timeToFirstByte": 2561.762,
+  "weight": {
+    "summary": "93 requests • 7.2 MiB",
+    "total": 7573008,
+    "image": 6906288,
+    "imageCount": 34,
+    "script": 346180,
+    "scriptCount": 28,
+    "document": 16649,
+    "font": 78112,
+    "fontCount": 1,
+    "stylesheet": 225779,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 372,
+    "+weight.total": 282,
+    "-weight.document": 141,
+    "+weight.document": 502,
+    "-weight.script": 183,
+    "+weight.script": 413,
+    "-weight.image": 402,
+    "+weight.image": 248,
+    "-weight.font": 100,
+    "+weight.font": 357,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 611,
+    "-totalBlockingTime": 319,
+    "-largestContentfulPaint": 467
+  },
+  "axe": {
+    "passes": 1025,
+    "violations": 33
+  }
+}

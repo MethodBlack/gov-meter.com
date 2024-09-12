@@ -1,0 +1,67 @@
+{
+  "url": "https://bdl-india.in/",
+  "requestedUrl": "https://bdl-india.in/",
+  "timestamp": 1726091721481,
+  "ranks": {
+    "hundos": 130,
+    "performance": 489,
+    "accessibility": 104,
+    "cumulative": 125
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.35,
+    "accessibility": 0.88,
+    "bestPractices": 0.93,
+    "seo": 0.89,
+    "total": 305
+  },
+  "firstContentfulPaint": 15361.308,
+  "firstMeaningfulPaint": 15361.308,
+  "speedIndex": 20461.48989399188,
+  "largestContentfulPaint": 23687.435000000005,
+  "totalBlockingTime": 403.5,
+  "cumulativeLayoutShift": 0.21438215861100013,
+  "timeToInteractive": 23954.498000000007,
+  "maxPotentialFirstInputDelay": 405,
+  "timeToFirstByte": 362.98799999999994,
+  "weight": {
+    "summary": "129 requests • 4.0 MiB",
+    "total": 4154974,
+    "image": 1644583,
+    "imageCount": 18,
+    "script": 904210,
+    "scriptCount": 50,
+    "document": 131757,
+    "font": 654493,
+    "fontCount": 10,
+    "stylesheet": 819350,
+    "stylesheetCount": 47,
+    "thirdParty": 759141,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 235,
+    "+weight.total": 419,
+    "-weight.document": 476,
+    "+weight.document": 167,
+    "-weight.script": 395,
+    "+weight.script": 201,
+    "-weight.image": 181,
+    "+weight.image": 469,
+    "-weight.font": 444,
+    "+weight.font": 13,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 415,
+    "-totalBlockingTime": 174,
+    "-largestContentfulPaint": 352
+  },
+  "axe": {
+    "passes": 2423,
+    "violations": 51
+  }
+}

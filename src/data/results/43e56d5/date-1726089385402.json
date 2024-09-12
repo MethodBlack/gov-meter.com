@@ -1,0 +1,67 @@
+{
+  "url": "https://www.igtr-aur.org/",
+  "requestedUrl": "https://www.igtr-aur.org/",
+  "timestamp": 1726127525071,
+  "ranks": {
+    "hundos": 248,
+    "performance": 60,
+    "accessibility": 623,
+    "cumulative": 245
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.79,
+    "accessibility": 0.56,
+    "bestPractices": 0.89,
+    "seo": 0.65,
+    "total": 289
+  },
+  "firstContentfulPaint": 2487.206,
+  "firstMeaningfulPaint": 2487.206,
+  "speedIndex": 6339.7892399852235,
+  "largestContentfulPaint": 3534.2040000000015,
+  "totalBlockingTime": 2.5,
+  "cumulativeLayoutShift": 0.10211876781044596,
+  "timeToInteractive": 2787.206,
+  "maxPotentialFirstInputDelay": 55,
+  "timeToFirstByte": 218.91100000000029,
+  "weight": {
+    "summary": "55 requests • 9.0 MiB",
+    "total": 9477730,
+    "image": 9347033,
+    "imageCount": 47,
+    "script": 81859,
+    "scriptCount": 4,
+    "document": 11795,
+    "font": 18115,
+    "fontCount": 1,
+    "stylesheet": 18928,
+    "stylesheetCount": 2,
+    "thirdParty": 75431,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 415,
+    "+weight.total": 239,
+    "-weight.document": 55,
+    "+weight.document": 588,
+    "-weight.script": 23,
+    "+weight.script": 573,
+    "-weight.image": 455,
+    "+weight.image": 195,
+    "-weight.font": 10,
+    "+weight.font": 447,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 341,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 61
+  },
+  "axe": {
+    "passes": 882,
+    "violations": 152
+  }
+}

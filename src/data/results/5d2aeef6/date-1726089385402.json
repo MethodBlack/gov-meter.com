@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nielit.gov.in/imphal/",
+  "requestedUrl": "https://www.nielit.gov.in/imphal",
+  "timestamp": 1726106272744,
+  "ranks": {
+    "hundos": 83,
+    "performance": 208,
+    "accessibility": 351,
+    "cumulative": 82
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.56,
+    "accessibility": 0.76,
+    "bestPractices": 0.96,
+    "seo": 0.85,
+    "total": 313
+  },
+  "firstContentfulPaint": 8676.898249999998,
+  "firstMeaningfulPaint": 10638.48675,
+  "speedIndex": 8676.898249999998,
+  "largestContentfulPaint": 11931.57525,
+  "totalBlockingTime": 123,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 11724.030999999999,
+  "maxPotentialFirstInputDelay": 138.5,
+  "timeToFirstByte": 50.419000000000004,
+  "weight": {
+    "summary": "18 requests • 1.8 MiB",
+    "total": 1890077,
+    "image": 38493,
+    "imageCount": 3,
+    "script": 417404,
+    "scriptCount": 4,
+    "document": 20875,
+    "font": 150504,
+    "fontCount": 6,
+    "stylesheet": 1262381,
+    "stylesheetCount": 3,
+    "thirdParty": 155130,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 109,
+    "+weight.total": 545,
+    "-weight.document": 195,
+    "+weight.document": 448,
+    "-weight.script": 226,
+    "+weight.script": 370,
+    "-weight.image": 14,
+    "+weight.image": 636,
+    "-weight.font": 249,
+    "+weight.font": 208,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 24,
+    "-totalBlockingTime": 111,
+    "-largestContentfulPaint": 249
+  },
+  "axe": {
+    "passes": 173,
+    "violations": 7
+  }
+}

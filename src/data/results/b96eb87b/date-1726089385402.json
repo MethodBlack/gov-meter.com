@@ -1,0 +1,67 @@
+{
+  "url": "https://asibhopal.nic.in/",
+  "requestedUrl": "https://asibhopal.nic.in/",
+  "timestamp": 1726136442265,
+  "ranks": {
+    "hundos": 109,
+    "performance": 21,
+    "accessibility": 469,
+    "cumulative": 108
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.95,
+    "accessibility": 0.7,
+    "bestPractices": 0.85,
+    "seo": 0.58,
+    "total": 308
+  },
+  "firstContentfulPaint": 1749.8760000000002,
+  "firstMeaningfulPaint": 1776.8760000000002,
+  "speedIndex": 2639.617274635323,
+  "largestContentfulPaint": 2749.7520000000004,
+  "totalBlockingTime": 2,
+  "cumulativeLayoutShift": 0.016424476937018286,
+  "timeToInteractive": 1853.9070000000002,
+  "maxPotentialFirstInputDelay": 54,
+  "timeToFirstByte": 80.73100000000005,
+  "weight": {
+    "summary": "28 requests • 493.5 KiB",
+    "total": 505332,
+    "image": 385844,
+    "imageCount": 23,
+    "script": 85816,
+    "scriptCount": 2,
+    "document": 4456,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 29216,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 24,
+    "+weight.total": 630,
+    "-weight.document": 11,
+    "+weight.document": 632,
+    "-weight.script": 26,
+    "+weight.script": 570,
+    "-weight.image": 55,
+    "+weight.image": 595,
+    "-weight.font": 1,
+    "+weight.font": 457,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 93,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 34
+  },
+  "axe": {
+    "passes": 342,
+    "violations": 9
+  }
+}

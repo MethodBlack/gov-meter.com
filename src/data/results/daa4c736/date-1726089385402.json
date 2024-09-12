@@ -1,0 +1,67 @@
+{
+  "url": "https://ddpdoo.gov.in/",
+  "requestedUrl": "https://ddpdoo.gov.in/",
+  "timestamp": 1726122348892,
+  "ranks": {
+    "hundos": 73,
+    "performance": 136,
+    "accessibility": 57,
+    "cumulative": 72
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.64,
+    "accessibility": 0.91,
+    "bestPractices": 0.85,
+    "seo": 0.76,
+    "total": 316
+  },
+  "firstContentfulPaint": 4086.2290000000003,
+  "firstMeaningfulPaint": 4086.2290000000003,
+  "speedIndex": 12874.032038835769,
+  "largestContentfulPaint": 4986.228999999999,
+  "totalBlockingTime": 15.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 13633.215,
+  "maxPotentialFirstInputDelay": 76,
+  "timeToFirstByte": 139.48000000000002,
+  "weight": {
+    "summary": "59 requests • 8.0 MiB",
+    "total": 8404338,
+    "image": 7533319,
+    "imageCount": 38,
+    "script": 392139,
+    "scriptCount": 8,
+    "document": 41960,
+    "font": 190740,
+    "fontCount": 2,
+    "stylesheet": 245936,
+    "stylesheetCount": 9,
+    "thirdParty": 105208,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 396,
+    "+weight.total": 258,
+    "-weight.document": 297,
+    "+weight.document": 346,
+    "-weight.script": 214,
+    "+weight.script": 382,
+    "-weight.image": 420,
+    "+weight.image": 230,
+    "-weight.font": 305,
+    "+weight.font": 152,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 238,
+    "-totalBlockingTime": 31,
+    "-largestContentfulPaint": 107
+  },
+  "axe": {
+    "passes": 660,
+    "violations": 17
+  }
+}

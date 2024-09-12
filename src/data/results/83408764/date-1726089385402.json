@@ -1,0 +1,67 @@
+{
+  "url": "https://www.shipindia.com/",
+  "requestedUrl": "https://www.shipindia.com/",
+  "timestamp": 1726135156084,
+  "ranks": {
+    "hundos": 294,
+    "performance": 405,
+    "accessibility": 74,
+    "cumulative": 293
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.43,
+    "accessibility": 0.9,
+    "bestPractices": 0.67,
+    "seo": 0.82,
+    "total": 282
+  },
+  "firstContentfulPaint": 13486.310500000003,
+  "firstMeaningfulPaint": 13486.310500000003,
+  "speedIndex": 105806.23768203014,
+  "largestContentfulPaint": 31491.64750000001,
+  "totalBlockingTime": 188,
+  "cumulativeLayoutShift": 0.20123984646370174,
+  "timeToInteractive": 121519.9360000001,
+  "maxPotentialFirstInputDelay": 292,
+  "timeToFirstByte": 144.49299999999994,
+  "weight": {
+    "summary": "149 requests • 51.8 MiB",
+    "total": 54353099,
+    "image": 51451637,
+    "imageCount": 99,
+    "script": 1100389,
+    "scriptCount": 23,
+    "document": 700693,
+    "font": 166716,
+    "fontCount": 3,
+    "stylesheet": 933310,
+    "stylesheetCount": 19,
+    "thirdParty": 636105,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 630,
+    "+weight.total": 24,
+    "-weight.document": 634,
+    "+weight.document": 9,
+    "-weight.script": 428,
+    "+weight.script": 168,
+    "-weight.image": 626,
+    "+weight.image": 24,
+    "-weight.font": 277,
+    "+weight.font": 180,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 249,
+    "-totalBlockingTime": 136,
+    "-largestContentfulPaint": 384
+  },
+  "axe": {
+    "passes": 1117,
+    "violations": 82
+  }
+}

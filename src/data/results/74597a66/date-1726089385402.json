@@ -1,0 +1,67 @@
+{
+  "url": "https://hrd.mnre.gov.in/",
+  "requestedUrl": "https://hrd.mnre.gov.in/",
+  "timestamp": 1726125445556,
+  "ranks": {
+    "hundos": 326,
+    "performance": 371,
+    "accessibility": 377,
+    "cumulative": 325
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.46,
+    "accessibility": 0.75,
+    "bestPractices": 0.93,
+    "seo": 0.63,
+    "total": 277
+  },
+  "firstContentfulPaint": 2529.6449999999995,
+  "firstMeaningfulPaint": 2529.6449999999995,
+  "speedIndex": 12071.833282239997,
+  "largestContentfulPaint": 20452.358499999988,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.32448565602517443,
+  "timeToInteractive": 2529.6449999999995,
+  "maxPotentialFirstInputDelay": 35,
+  "timeToFirstByte": 366.40099999999984,
+  "weight": {
+    "summary": "40 requests • 3.5 MiB",
+    "total": 3668521,
+    "image": 2830304,
+    "imageCount": 18,
+    "script": 463288,
+    "scriptCount": 8,
+    "document": 9312,
+    "font": 302135,
+    "fontCount": 5,
+    "stylesheet": 62776,
+    "stylesheetCount": 7,
+    "thirdParty": 323607,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 200,
+    "+weight.total": 454,
+    "-weight.document": 35,
+    "+weight.document": 608,
+    "-weight.script": 243,
+    "+weight.script": 353,
+    "-weight.image": 240,
+    "+weight.image": 410,
+    "-weight.font": 382,
+    "+weight.font": 75,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 416,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 340
+  },
+  "axe": {
+    "passes": 336,
+    "violations": 33
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ecil.co.in/",
+  "requestedUrl": "https://www.ecil.co.in/",
+  "timestamp": 1726123074570,
+  "ranks": {
+    "hundos": 574,
+    "performance": 107,
+    "accessibility": 637,
+    "cumulative": 577
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.69,
+    "accessibility": 0.51,
+    "bestPractices": 0.63,
+    "seo": 0.54,
+    "total": 237
+  },
+  "firstContentfulPaint": 3305.968,
+  "firstMeaningfulPaint": 3305.968,
+  "speedIndex": 9009.134239531862,
+  "largestContentfulPaint": 4649.76,
+  "totalBlockingTime": 1.5,
+  "cumulativeLayoutShift": 0.018775994832839205,
+  "timeToInteractive": 8875.609999999999,
+  "maxPotentialFirstInputDelay": 53,
+  "timeToFirstByte": 149.54499999999985,
+  "weight": {
+    "summary": "88 requests • 11.3 MiB",
+    "total": 11820762,
+    "image": 11295209,
+    "imageCount": 60,
+    "script": 316457,
+    "scriptCount": 13,
+    "document": 24545,
+    "font": 84404,
+    "fontCount": 4,
+    "stylesheet": 100147,
+    "stylesheetCount": 10,
+    "thirdParty": 29460,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 459,
+    "+weight.total": 195,
+    "-weight.document": 225,
+    "+weight.document": 418,
+    "-weight.script": 157,
+    "+weight.script": 439,
+    "-weight.image": 480,
+    "+weight.image": 170,
+    "-weight.font": 127,
+    "+weight.font": 330,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 257,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 95
+  },
+  "axe": {
+    "passes": 604,
+    "violations": 97
+  }
+}

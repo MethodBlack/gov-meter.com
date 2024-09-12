@@ -1,0 +1,67 @@
+{
+  "url": "https://www.aiahl.in/",
+  "requestedUrl": "https://www.aiahl.in/",
+  "timestamp": 1726136103110,
+  "ranks": {
+    "hundos": 243,
+    "performance": 436,
+    "accessibility": 319,
+    "cumulative": 241
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.39,
+    "accessibility": 0.78,
+    "bestPractices": 0.89,
+    "seo": 0.83,
+    "total": 289
+  },
+  "firstContentfulPaint": 6685.221000000001,
+  "firstMeaningfulPaint": 6805.797000000001,
+  "speedIndex": 7421.254575864083,
+  "largestContentfulPaint": 9313.197000000002,
+  "totalBlockingTime": 8.5,
+  "cumulativeLayoutShift": 0.39829568472604276,
+  "timeToInteractive": 6819.7970000000005,
+  "maxPotentialFirstInputDelay": 67,
+  "timeToFirstByte": 116.51000000000022,
+  "weight": {
+    "summary": "34 requests • 8.0 MiB",
+    "total": 8398669,
+    "image": 7385104,
+    "imageCount": 18,
+    "script": 716461,
+    "scriptCount": 6,
+    "document": 25369,
+    "font": 102094,
+    "fontCount": 4,
+    "stylesheet": 169641,
+    "stylesheetCount": 5,
+    "thirdParty": 109562,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 394,
+    "+weight.total": 260,
+    "-weight.document": 232,
+    "+weight.document": 411,
+    "-weight.script": 346,
+    "+weight.script": 250,
+    "-weight.image": 417,
+    "+weight.image": 233,
+    "-weight.font": 158,
+    "+weight.font": 299,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 188,
+    "-totalBlockingTime": 18,
+    "-largestContentfulPaint": 199
+  },
+  "axe": {
+    "passes": 378,
+    "violations": 25
+  }
+}

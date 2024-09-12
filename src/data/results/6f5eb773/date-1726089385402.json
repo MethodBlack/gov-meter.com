@@ -1,0 +1,67 @@
+{
+  "url": "https://handlooms.gov.in/",
+  "requestedUrl": "https://handlooms.gov.in/",
+  "timestamp": 1726131521403,
+  "ranks": {
+    "hundos": 650,
+    "performance": 569,
+    "accessibility": 391,
+    "cumulative": 649
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.3,
+    "accessibility": 0.75,
+    "bestPractices": 0.26,
+    "seo": 0.67,
+    "total": 198
+  },
+  "firstContentfulPaint": 3570.6749999999997,
+  "firstMeaningfulPaint": 3911.0299999999997,
+  "speedIndex": 59064.420932290006,
+  "largestContentfulPaint": 8118.449999999998,
+  "totalBlockingTime": 501,
+  "cumulativeLayoutShift": 0.3345862140651876,
+  "timeToInteractive": 115323.85733446505,
+  "maxPotentialFirstInputDelay": 233,
+  "timeToFirstByte": 80.68100000000004,
+  "weight": {
+    "summary": "218 requests • 39.1 MiB",
+    "total": 40956640,
+    "image": 34985415,
+    "imageCount": 107,
+    "script": 1335649,
+    "scriptCount": 38,
+    "document": 135214,
+    "font": 632129,
+    "fontCount": 9,
+    "stylesheet": 130771,
+    "stylesheetCount": 21,
+    "thirdParty": 1485582,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 620,
+    "+weight.total": 34,
+    "-weight.document": 482,
+    "+weight.document": 161,
+    "-weight.script": 472,
+    "+weight.script": 124,
+    "-weight.image": 610,
+    "+weight.image": 40,
+    "-weight.font": 443,
+    "+weight.font": 14,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 92,
+    "-totalBlockingTime": 244,
+    "-largestContentfulPaint": 182
+  },
+  "axe": {
+    "passes": 1838,
+    "violations": 168
+  }
+}

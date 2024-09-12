@@ -1,0 +1,67 @@
+{
+  "url": "https://interstatecouncil.gov.in/",
+  "requestedUrl": "https://interstatecouncil.gov.in/",
+  "timestamp": 1726127773587,
+  "ranks": {
+    "hundos": 424,
+    "performance": 479,
+    "accessibility": 279,
+    "cumulative": 425
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.35,
+    "accessibility": 0.8,
+    "bestPractices": 0.67,
+    "seo": 0.83,
+    "total": 265
+  },
+  "firstContentfulPaint": 7118.180030000002,
+  "firstMeaningfulPaint": 7118.180030000002,
+  "speedIndex": 8644.541025568662,
+  "largestContentfulPaint": 9733.184500000007,
+  "totalBlockingTime": 423.0000000000073,
+  "cumulativeLayoutShift": 0.23379375439173739,
+  "timeToInteractive": 43235.05881000001,
+  "maxPotentialFirstInputDelay": 181,
+  "timeToFirstByte": 138.38200000000006,
+  "weight": {
+    "summary": "153 requests • 9.6 MiB",
+    "total": 10030174,
+    "image": 7627404,
+    "imageCount": 48,
+    "script": 1491646,
+    "scriptCount": 32,
+    "document": 183746,
+    "font": 115773,
+    "fontCount": 7,
+    "stylesheet": 516063,
+    "stylesheetCount": 24,
+    "thirdParty": 1195105,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 427,
+    "+weight.total": 227,
+    "-weight.document": 532,
+    "+weight.document": 111,
+    "-weight.script": 488,
+    "+weight.script": 108,
+    "-weight.image": 424,
+    "+weight.image": 226,
+    "-weight.font": 186,
+    "+weight.font": 271,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 236,
+    "-totalBlockingTime": 177,
+    "-largestContentfulPaint": 211
+  },
+  "axe": {
+    "passes": 1288,
+    "violations": 45
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.bsf.gov.in/",
+  "requestedUrl": "https://www.bsf.gov.in/",
+  "timestamp": 1726092222531,
+  "ranks": {
+    "hundos": 80,
+    "performance": 422,
+    "accessibility": 108,
+    "cumulative": 76
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.41,
+    "accessibility": 0.87,
+    "bestPractices": 0.96,
+    "seo": 0.9,
+    "total": 314
+  },
+  "firstContentfulPaint": 1467.8045,
+  "firstMeaningfulPaint": 2748.5015000000003,
+  "speedIndex": 18213.791556291388,
+  "largestContentfulPaint": 33095.1845,
+  "totalBlockingTime": 89,
+  "cumulativeLayoutShift": 0.7654727164182176,
+  "timeToInteractive": 6695.934500000001,
+  "maxPotentialFirstInputDelay": 228,
+  "timeToFirstByte": 212.5,
+  "weight": {
+    "summary": "53 requests • 36.1 MiB",
+    "total": 37843457,
+    "image": 32717068,
+    "imageCount": 41,
+    "script": 182117,
+    "scriptCount": 1,
+    "document": 11803,
+    "font": 353106,
+    "fontCount": 5,
+    "stylesheet": 93057,
+    "stylesheetCount": 1,
+    "thirdParty": 36986129,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 609,
+    "+weight.total": 45,
+    "-weight.document": 56,
+    "+weight.document": 587,
+    "-weight.script": 73,
+    "+weight.script": 523,
+    "-weight.image": 606,
+    "+weight.image": 44,
+    "-weight.font": 404,
+    "+weight.font": 53,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 337,
+    "-totalBlockingTime": 97,
+    "-largestContentfulPaint": 389
+  },
+  "axe": {
+    "passes": 7,
+    "violations": 3
+  }
+}
