@@ -6,51 +6,134 @@ import Layout from '../../layouts/Layout.astro';
 import { TestResult } from '../../util/data-schema';
 
 export const getStaticPaths = (() =>
-	db.selectDistinct({ params: { hash: Result.siteHash } }).from(Result)) satisfies GetStaticPaths;
+  db.selectDistinct({ params: { hash: Result.siteHash } }).from(Result)) satisfies GetStaticPaths;
 
 const { hash } = Astro.params;
-
 const entries = (
-	await db
-		.select({ data: Result.data })
-		.from(Result)
-		.where(eq(Result.siteHash, hash))
-		.orderBy(desc(Result.runTime))
-		.limit(16)
+  await db
+    .select({ data: Result.data })
+    .from(Result)
+    .where(eq(Result.siteHash, hash))
+    .orderBy(desc(Result.runTime))
+    .limit(16)
 ).map((site) => TestResult.parse(site.data));
 
 const { url } = entries[0];
 ---
 
 <Layout
-	title={`Data for ${url}`}
-	description={`Performance data for ${url}, including Lighthouse scores, web vitals metrics, and page weight.`}
+  title={`Data for ${url}`}
+  description={`Performance data for ${url}, including Lighthouse scores, web vitals metrics, and page weight.`}
 >
-	<div class="leaderboard-wrapper">
-		<p class="back-link">← <a href="/">Return to full results</a></p>
-		<table class="leaderboard">
-			<thead>
-				<tr>
-					<th>URL</th>
-					<th class="leaderboard-hide-md">Host</th>
-					<th class="leaderboard-score">Lighthouse</th>
-				</tr>
-			</thead>
-			<tbody>
-				<SiteDetails siteHash={hash} {entries} />
-			</tbody>
-		</table>
-	</div>
-	<script>
-		import 'speedlify-score';
-	</script>
+  <div class="container">
+    <header class="header">
+      <h1 class="title">Site Details</h1>
+      <p class="subtitle">Performance data for <span class="highlight">{url}</span></p>
+    </header>
+
+    <nav class="navigation">
+      <a href="/" class="back-link">← Return to full results</a>
+    </nav>
+
+    <main class="main-content">
+      <div class="performance-overview">
+        <h2>Performance Overview</h2>
+        <div class="table-responsive">
+          <table class="leaderboard">
+            <thead>
+              <tr>
+                <th>URL</th>
+                <th class="leaderboard-hide-md">Host</th>
+                <th class="leaderboard-score">Lighthouse</th>
+              </tr>
+            </thead>
+            <tbody>
+              <SiteDetails siteHash={hash} entries={entries} />
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script>
+    import 'speedlify-score';
+  </script>
 </Layout>
 
 <style>
-	.back-link {
-		margin: 0 auto;
-		width: 100%;
-		max-width: 100rem;
-		text-align: left;
-	}
+  .container {
+    max-width: 120rem;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+  }
+
+  .header {
+    margin-bottom: 2rem;
+  }
+
+  .title {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .subtitle {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+
+  .highlight {
+    font-weight: bold;
+  }
+
+  .navigation {
+    margin-bottom: 2rem;
+  }
+
+  .back-link {
+    text-decoration: none;
+  }
+
+  .back-link:hover {
+    text-decoration: underline;
+  }
+
+  .main-content {
+    margin-top: 2rem;
+  }
+
+  .performance-overview h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .table-responsive {
+    overflow-x: auto;
+  }
+
+  .leaderboard {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .leaderboard th,
+  .leaderboard td {
+    padding: 1rem;
+    text-align: left;
+    border-bottom: 1px solid var(--border-color, #eee);
+  }
+
+  .leaderboard th {
+    font-weight: bold;
+  }
+
+  .leaderboard-score {
+    text-align: center;
+  }
+
+  @media (max-width: 768px) {
+    .leaderboard-hide-md {
+      display: none;
+    }
+  }
 </style>
