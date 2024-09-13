@@ -79,8 +79,6 @@ const sites = (
 		max-width: 100%;
 		margin: var(--spacing-00) auto;
 		background-color: var(--background);
-		border-radius: 8px;
-		box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 	  }
 	  .leaderboard {
 		list-style-type: none;
@@ -91,8 +89,8 @@ const sites = (
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-		padding: 1em;
-		border-bottom: 1px solid #fff3;
+		padding: 0.5rem;
+		border-bottom: 1px solid var(--border-muted);
 	  }
 	  .leaderboard-left {
 		display: flex;
@@ -109,6 +107,7 @@ const sites = (
 	  .leaderboard-trophies {
 		margin-right: 1em;
 		white-space: nowrap;
+		width: 2.5rem;
 	  }
 	  .leaderboard-url {
 		flex-grow: 1;
