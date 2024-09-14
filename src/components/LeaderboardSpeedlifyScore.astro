@@ -17,3 +17,22 @@ const { data, siteHash } = Astro.props;
 		{data.lighthouse.total === 400 ? '😍' : data.lighthouse.total}
 	</span>
 </td>
+
+<style>
+	.circle {
+	font-size: 11px;
+	width: 32px;
+	height: 32px;
+	line-height: 11px;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 50%;
+	border: 1px solid;
+	border-top-color: currentcolor;
+	border-right-color: currentcolor;
+	border-bottom-color: currentcolor;
+	border-left-color: currentcolor;
+	color: var(--_circle, #666);
+  }
+</style>

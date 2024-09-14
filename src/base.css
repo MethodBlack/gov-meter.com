@@ -3,22 +3,58 @@
 @import '@new-ui/typography';
 @import '@new-ui/spacings';
 
+@font-face {
+	font-family: "Mono-Regular";
+	src: url("/fonts/Mono-Regular.woff2") format("woff2");
+	font-weight: normal;
+	font-style: normal;
+}
+  
+:root {
+--mono: "Mono-Regular";
+--accent: var(--support-info);
+}
+
 body {
-	background-color: var(--background);
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	overflow-x: hidden;
+	background-color: var(--background-high-contrast);
 	color: var(--text-primary);
-	font-family: var(--system-ui);
+	font-family: var(--mono);
 	line-height: 1.5;
 	-webkit-font-smoothing: antialiased;
 }
+
+code {
+	font-family: var(--mono);
+}
+
+main, .container {
+	margin: var(--spacing-09);
+}
+section {
+	margin-bottom: var(--spacing-10);
+}
+
 a {
 	color: var(--link);
 }
 footer {
 	margin: 1rem;
 }
-code {
-	font-family: var(--monospace-code);
+
+p {
+	margin-top: var(--spacing-00);
 }
+p.description-text {
+	max-inline-size: 37.5rem;
+}
+.nu-u-link--subtle {
+	color: var(--text-secondary) !important;
+}
+
 .sr-only {
 	position: absolute;
 	width: 1px;

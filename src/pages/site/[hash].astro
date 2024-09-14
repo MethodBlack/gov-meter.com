@@ -25,19 +25,15 @@ const { url } = entries[0];
   title={`Data for ${url}`}
   description={`Performance data for ${url}, including Lighthouse scores, web vitals metrics, and page weight.`}
 >
-  <div class="container">
-    <header class="header">
-      <h1 class="title">Site Details</h1>
-      <p class="subtitle">Performance data for <span class="highlight">{url}</span></p>
-    </header>
 
-    <nav class="navigation">
-      <a href="/" class="back-link">← Return to full results</a>
-    </nav>
+<nav class="navigation">
+  <a href="/" class="back-link">← Return to full results</a>
+</nav>
+
+  <div class="container">
 
     <main class="main-content">
       <div class="performance-overview">
-        <h2>Performance Overview</h2>
         <div class="table-responsive">
           <table class="leaderboard">
             <thead>
@@ -120,7 +116,6 @@ const { url } = entries[0];
   .leaderboard td {
     padding: 1rem;
     text-align: left;
-    border-bottom: 1px solid var(--border-color, #eee);
   }
 
   .leaderboard th {

@@ -1,6 +1,5 @@
 ---
 import { screenshotUrl } from '../util/screenshotAPI';
-//import 'speedlify-score/speedlify-score.css';
 import '../base.css';
 
 interface Props {
@@ -59,27 +58,6 @@ const ogImageAlt = `Screenshot of “${title}”`;
 				<a href="/" aria-label="home page" tabindex="-1"><img src="/gov-meter-logo.svg" width="32" height="32" alt="GovMeter" aria-hidden="true"></a>
 			</div>
       <div class="btn-group">
-				<button
-					class="theme-toggle"
-					id="theme-toggle"
-					title="Toggles light & dark"
-					aria-label="auto"
-					aria-live="polite"
-				>
-					<svg
-						xmlns="http://www.w3.org/2000/svg"
-						width="24"
-						height="24"
-						fill="none"
-						><path
-							stroke="var(--icon-secondary)"
-							stroke-linecap="round"
-							stroke-miterlimit="10"
-							stroke-width="1.5"
-							d="M12 4V2M3 13H1m22 0h-2m-1.222-7.778-1.414 1.414m-12.728 0L4.222 5.222M4 18h16M8 21h8m-7.43-3.07A5.98 5.98 0 0 1 6 13c0-3.31 2.69-6 6-6s6 2.69 6 6c0 2.05-1.03 3.86-2.6 4.94l-6.83-.01Z"
-						></path></svg
-					>
-				</button>
 			</div>
     </div>
 
@@ -101,35 +79,6 @@ const ogImageAlt = `Screenshot of “${title}”`;
 		  </div>
 
 		  <style is:global>
-			:root {
-			  --accent: var(--support-info);
-			}
-			html {
-			  font-family: var(--system-ui);
-			  background-color: var(--background);
-			}
-			body {
-			  margin: 0;
-			  padding: 0;
-				  width: 100%;
-				  overflow-x: hidden;
-			}
-			main,
-			.container {
-			  margin: var(--spacing-09);
-			}
-			section {
-			  margin-bottom: var(--spacing-10);
-			}
-			p {
-			  margin-top: var(--spacing-00);
-			}
-			p.description-text {
-			  max-inline-size: 37.5rem;
-			}
-			.nu-u-link--subtle {
-			  color: var(--text-secondary) !important;
-			}
 			.floating-nav {
 			  padding: var(--spacing-06) var(--spacing-09);
 				  top: 0;
@@ -148,7 +97,7 @@ const ogImageAlt = `Screenshot of “${title}”`;
 				  animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
 				  animation-fill-mode: both;
 				  animation-iteration-count: 1;
-			  background-color: var(--background);
+			  background-color: var(--background-high-contrast);
 			  --shadow-color: rgb(0 0 0 / 0.04);
 			  box-shadow: 0px 0px 0px 0px var(--shadow-color),
 			  0px 1px 1px -0.5px var(--shadow-color),
