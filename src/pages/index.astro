@@ -36,39 +36,40 @@ const sites = (
 
 <Layout>
 	<div class="leaderboard-wrapper">
-	  <section class="leaderboard">
-		{
-		  sites.map(({ isNew, siteHash, data }, index) => {
-			const id = 'site-' + siteHash;
-			const detailsHref = `/site/${siteHash}`;
-			return (
-			  <li id={id} class="leaderboard-list-entry">
-				<div class="leaderboard-left">
-				  <div class="leaderboard-rank">
-					<a href={`#${id}`}>{index + 1}</a>
-				  </div>
-				  <div class="leaderboard-trophies">
-					{data.lighthouse.total === 400 && '🏆'}
-					{['🥇', '🥈', '🥉'][index]}
-					{isNew && <span title="New entry">✨</span>}
-				  </div>
-				  <div class="leaderboard-url">
-					<LeaderboardURL data={data} href={detailsHref} />
-				  </div>
-				</div>
-				<div class="leaderboard-right">
-				  <LeaderboardSpeedlifyScore data={data} siteHash={siteHash} />
-				  <div class="leaderboard-data-right">
-					<a href={detailsHref} data-expand-alias data-js-only>
-					  <span>&#10230;</span>
-					</a>
-				  </div>
-				</div>
-			  </li>
-			);
-		  })
-		}
-	  </section>
+		<section class="leaderboard">
+			{
+			 sites.map(({ isNew, siteHash, data }, index) => {
+			   const id = 'site-' + siteHash;
+			   const detailsHref = `/site/${siteHash}`;
+			   const showMedal = index < 3;
+			   return (
+				 <li id={id} class="leaderboard-list-entry">
+				   <div class="leaderboard-left">
+					 <div class="leaderboard-rank">
+					   <a href={`#${id}`}>{index + 1}</a>
+					 </div>
+					 <div class="leaderboard-trophies">
+					   {data.lighthouse.total === 400 && '🏆'}
+					   {showMedal && ['🥇', '🥈', '🥉'][index]}
+					   {isNew && !showMedal && <span title="New entry">✨</span>}
+					 </div>
+					 <div class="leaderboard-url">
+					   <LeaderboardURL data={data} href={detailsHref} />
+					 </div>
+				   </div>
+				   <div class="leaderboard-right">
+					 <LeaderboardSpeedlifyScore data={data} siteHash={siteHash} />
+					 <div class="leaderboard-data-right">
+					   <a href={detailsHref} data-expand-alias data-js-only>
+						 <span>&#10230;</span>
+					   </a>
+					 </div>
+				   </div>
+				 </li>
+			   );
+			 })
+			}
+		   </section>
 	</div>
 	<script>
 	  import 'speedlify-score';
@@ -89,12 +90,12 @@ const sites = (
 		justify-content: space-between;
 		align-items: center;
 		padding: 0.25rem 0;
-		border-top: 1px solid transparent;
-		border-bottom: 1px solid transparent;
+		border-top: 1px solid var(--border-muted);
 		height: 3rem;
+		cursor: pointer;
 	  }
 	  .leaderboard-list-entry:hover {
-		border-color: var(--link);
+		background-color: var(--background-high-contrast);
 	  }
 	  .leaderboard-left {
 		display: flex;
@@ -104,7 +105,8 @@ const sites = (
 	  .leaderboard-right {
 		display: flex;
 		align-items: center;
-		margin-left: 1em;
+		margin-left: 1rem;
+		gap: 1rem;
 	  }
 	  .leaderboard-rank,
 	  .leaderboard-trophies {
