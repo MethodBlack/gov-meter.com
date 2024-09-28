@@ -49,7 +49,7 @@ p {
 	margin-top: var(--spacing-00);
 }
 p.description-text {
-	max-inline-size: 40rem;
+	max-inline-size: 32rem;
 }
 .nu-u-link--subtle {
 	color: var(--text-secondary) !important;

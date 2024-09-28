@@ -137,7 +137,7 @@ module.exports = {
 
 		return {
 			name: 'GovMeter',
-			description: 'Measuring performance of Indian government sites over time.',
+			description: 'Measuring the performance of Indian government sites over time.',
 			options: { frequency: 120 },
 			urls,
 		};

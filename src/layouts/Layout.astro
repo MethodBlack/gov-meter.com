@@ -9,7 +9,7 @@ interface Props {
 
 const {
 	title = 'GovMeter',
-	description = 'Measuring performance of Indian government sites over time.',
+	description = 'Measuring the performance of Indian government sites over time. Sites lacking HTTPS, having slow load times, or long run times are excluded.',
 } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const ogImageSrc = screenshotUrl(canonical);
@@ -74,7 +74,7 @@ const ogImageAlt = `Screenshot of “${title}”`;
 			<slot />
 		</main>
 		<div class="footer">
-			<p>Sites lacking HTTPS, having slow load times, or long run times are excluded.<br />Brought to you by <a href="https://planetabhi.com/" class="nu-u-link--subtle" target="_blank">@planetabhi</a>.</p>
+			<p>Brought to you by <a href="https://planetabhi.com/" class="nu-u-link--subtle" target="_blank">@planetabhi</a>.</p>
 		  </div>
 
 		  <style is:global>

@@ -51,7 +51,7 @@ const sites = (
 					 <div class="leaderboard-trophies">
 					   {data.lighthouse.total === 400 && '🏆'}
 					   {showMedal && ['🥇', '🥈', '🥉'][index]}
-					   {isNew && !showMedal && <span title="New entry">#</span>}
+					   {isNew && !showMedal && <span class="nu-u-text--secondary-alt">#</span>}
 					 </div>
 					 <div class="leaderboard-url">
 					   <LeaderboardURL data={data} href={detailsHref} />
