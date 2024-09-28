@@ -51,7 +51,7 @@ const sites = (
 					 <div class="leaderboard-trophies">
 					   {data.lighthouse.total === 400 && '🏆'}
 					   {showMedal && ['🥇', '🥈', '🥉'][index]}
-					   {isNew && !showMedal && <span title="New entry">✨</span>}
+					   {isNew && !showMedal && <span title="New entry">#</span>}
 					 </div>
 					 <div class="leaderboard-url">
 					   <LeaderboardURL data={data} href={detailsHref} />
@@ -61,7 +61,7 @@ const sites = (
 					 <LeaderboardSpeedlifyScore data={data} siteHash={siteHash} />
 					 <div class="leaderboard-data-right">
 					   <a href={detailsHref} data-expand-alias data-js-only>
-						 <span>&#10230;</span>
+						 <span>&gt;</span>
 					   </a>
 					 </div>
 				   </div>
@@ -92,10 +92,6 @@ const sites = (
 		padding: 0.25rem 0;
 		border-top: 1px solid var(--border-muted);
 		height: 3rem;
-		cursor: pointer;
-	  }
-	  .leaderboard-list-entry:hover {
-		background-color: var(--background-high-contrast);
 	  }
 	  .leaderboard-left {
 		display: flex;

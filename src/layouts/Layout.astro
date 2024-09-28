@@ -9,7 +9,7 @@ interface Props {
 
 const {
 	title = 'GovMeter',
-	description = 'Measuring performance of Indian government sites.',
+	description = 'Measuring performance of Indian government sites over time.',
 } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const ogImageSrc = screenshotUrl(canonical);

@@ -16,7 +16,7 @@ const randomBuildID = Math.round(Date.now() / 60_000);
 <div class="leaderboard-url-container">
   <div class="leaderboard-url-main">
     <a {href} class="leaderboard-url-link">
-      {/* Commented out leaderboard-list-entry-thumbnail image
+      {/* leaderboard-list-entry-thumbnail image
       <img
         src={`https://v1.indieweb-avatar.11ty.dev/${encodeURIComponent(data.url + '?bust=' + randomBuildID)}`}
         alt={`IndieWeb Avatar for ${displayURL(data.url)}`}
@@ -29,7 +29,7 @@ const randomBuildID = Math.round(Date.now() / 60_000);
       */}
       <code class="url">{displayURL(data.url)}</code>
     </a>
-   {/* Commented out leaderboard-redirect-warn
+   {/* leaderboard-redirect-warn
     {hasRedirect && (
       <span class="leaderboard-redirect-warn">
         Redirect from <code class="url">{displayURL(data.requestedUrl)}</code>
@@ -37,7 +37,7 @@ const randomBuildID = Math.round(Date.now() / 60_000);
     )}
     */}
   </div>
-  {/* Commented out leaderboard-url-side-quests
+  {/* leaderboard-url-side-quests
   <div class="leaderboard-url-side-quests">
     <SideQuests {data} />
   </div>
@@ -61,7 +61,7 @@ const randomBuildID = Math.round(Date.now() / 60_000);
   .leaderboard-url-link {
     display: flex;
     align-items: center;
-    text-decoration: none;
+    text-decoration: underline;
     color: inherit;
     flex-grow: 1;
     min-width: 0;
@@ -101,9 +101,4 @@ const randomBuildID = Math.round(Date.now() / 60_000);
     text-transform: none;
   }
 
-  /* Commented out leaderboard-url-side-quests styles
-  .leaderboard-url-side-quests {
-    margin-top: 0.5em;
-  }
-  */
 </style></a>
