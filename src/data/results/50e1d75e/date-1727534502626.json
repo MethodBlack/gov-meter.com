@@ -1,0 +1,67 @@
+{
+  "url": "https://cwc.gov.in/en",
+  "requestedUrl": "https://cwc.gov.in/",
+  "timestamp": 1727573477498,
+  "ranks": {
+    "hundos": 469,
+    "performance": 271,
+    "accessibility": 346,
+    "cumulative": 465
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.52,
+    "accessibility": 0.75,
+    "bestPractices": 0.67,
+    "seo": 0.57,
+    "total": 251
+  },
+  "firstContentfulPaint": 6070.26125,
+  "firstMeaningfulPaint": 6145.331250000001,
+  "speedIndex": 11903.74058625826,
+  "largestContentfulPaint": 7228.272250000002,
+  "totalBlockingTime": 245.49999999999955,
+  "cumulativeLayoutShift": 0.039987228351568774,
+  "timeToInteractive": 7276.1812500000015,
+  "maxPotentialFirstInputDelay": 192,
+  "timeToFirstByte": 3980.998,
+  "weight": {
+    "summary": "149 requests • 5.8 MiB",
+    "total": 6054103,
+    "image": 5468247,
+    "imageCount": 67,
+    "script": 466889,
+    "scriptCount": 47,
+    "document": 28552,
+    "font": 23790,
+    "fontCount": 1,
+    "stylesheet": 65778,
+    "stylesheetCount": 30,
+    "thirdParty": 313593,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 314,
+    "+weight.total": 259,
+    "-weight.document": 244,
+    "+weight.document": 325,
+    "-weight.script": 227,
+    "+weight.script": 285,
+    "-weight.image": 335,
+    "+weight.image": 236,
+    "-weight.font": 15,
+    "+weight.font": 376,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 561,
+    "-totalBlockingTime": 281,
+    "-largestContentfulPaint": 306
+  },
+  "axe": {
+    "passes": 1856,
+    "violations": 36
+  }
+}

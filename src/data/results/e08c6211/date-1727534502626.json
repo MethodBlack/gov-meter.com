@@ -1,0 +1,67 @@
+{
+  "url": "https://mausam.imd.gov.in/amaravati/",
+  "requestedUrl": "https://mausam.imd.gov.in/amaravati",
+  "timestamp": 1727565258739,
+  "ranks": {
+    "hundos": 162,
+    "performance": 146,
+    "accessibility": 445,
+    "cumulative": 164
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.61,
+    "accessibility": 0.69,
+    "bestPractices": 0.89,
+    "seo": 0.79,
+    "total": 298
+  },
+  "firstContentfulPaint": 3946.078000000001,
+  "firstMeaningfulPaint": 3946.078000000001,
+  "speedIndex": 7016.212044911971,
+  "largestContentfulPaint": 21677.355500000012,
+  "totalBlockingTime": 12.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 8030.055,
+  "maxPotentialFirstInputDelay": 66,
+  "timeToFirstByte": 121.891,
+  "weight": {
+    "summary": "54 requests • 3.1 MiB",
+    "total": 3238077,
+    "image": 2368265,
+    "imageCount": 31,
+    "script": 617887,
+    "scriptCount": 11,
+    "document": 49422,
+    "font": 74984,
+    "fontCount": 1,
+    "stylesheet": 125413,
+    "stylesheetCount": 4,
+    "thirdParty": 707233,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 173,
+    "+weight.total": 400,
+    "-weight.document": 305,
+    "+weight.document": 264,
+    "-weight.script": 282,
+    "+weight.script": 230,
+    "-weight.image": 196,
+    "+weight.image": 375,
+    "-weight.font": 65,
+    "+weight.font": 326,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 199,
+    "-totalBlockingTime": 20,
+    "-largestContentfulPaint": 239
+  },
+  "axe": {
+    "passes": 1246,
+    "violations": 91
+  }
+}

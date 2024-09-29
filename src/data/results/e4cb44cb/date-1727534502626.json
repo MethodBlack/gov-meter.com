@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nbcfdc.gov.in/nbcfdc/web/",
+  "requestedUrl": "https://www.nbcfdc.gov.in/",
+  "timestamp": 1727547961246,
+  "ranks": {
+    "hundos": 180,
+    "performance": 247,
+    "accessibility": 69,
+    "cumulative": 181
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.54,
+    "accessibility": 0.9,
+    "bestPractices": 0.7,
+    "seo": 0.82,
+    "total": 296
+  },
+  "firstContentfulPaint": 7676.136769999999,
+  "firstMeaningfulPaint": 7676.136769999999,
+  "speedIndex": 13986.710237205072,
+  "largestContentfulPaint": 19487.622060000016,
+  "totalBlockingTime": 97,
+  "cumulativeLayoutShift": 0.06507752632793361,
+  "timeToInteractive": 19540.268240000016,
+  "maxPotentialFirstInputDelay": 133,
+  "timeToFirstByte": 1055.556,
+  "weight": {
+    "summary": "190 requests • 3.2 MiB",
+    "total": 3372363,
+    "image": 1134021,
+    "imageCount": 48,
+    "script": 1345116,
+    "scriptCount": 78,
+    "document": 169389,
+    "font": 388265,
+    "fontCount": 6,
+    "stylesheet": 332603,
+    "stylesheetCount": 47,
+    "thirdParty": 1759057,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 180,
+    "+weight.total": 393,
+    "-weight.document": 477,
+    "+weight.document": 92,
+    "-weight.script": 423,
+    "+weight.script": 89,
+    "-weight.image": 113,
+    "+weight.image": 458,
+    "-weight.font": 357,
+    "+weight.font": 34,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 490,
+    "-totalBlockingTime": 258,
+    "-largestContentfulPaint": 365
+  },
+  "axe": {
+    "passes": 1857,
+    "violations": 58
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://avnl.co.in/",
+  "requestedUrl": "https://avnl.co.in/",
+  "timestamp": 1727535128611,
+  "ranks": {
+    "hundos": 136,
+    "performance": 218,
+    "accessibility": 125,
+    "cumulative": 135
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.86,
+    "bestPractices": 0.7,
+    "seo": 0.93,
+    "total": 304
+  },
+  "firstContentfulPaint": 5223.272000000002,
+  "firstMeaningfulPaint": 5223.272000000002,
+  "speedIndex": 13118.396327949493,
+  "largestContentfulPaint": 12980.988999999998,
+  "totalBlockingTime": 140,
+  "cumulativeLayoutShift": 0.0002544403175196141,
+  "timeToInteractive": 16964.6325,
+  "maxPotentialFirstInputDelay": 289,
+  "timeToFirstByte": 78.86900000000014,
+  "weight": {
+    "summary": "147 requests • 14.6 MiB",
+    "total": 15326550,
+    "image": 13833434,
+    "imageCount": 55,
+    "script": 949874,
+    "scriptCount": 18,
+    "document": 19450,
+    "font": 305085,
+    "fontCount": 3,
+    "stylesheet": 218707,
+    "stylesheetCount": 70,
+    "thirdParty": 237843,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 469,
+    "+weight.total": 104,
+    "-weight.document": 171,
+    "+weight.document": 398,
+    "-weight.script": 367,
+    "+weight.script": 145,
+    "-weight.image": 472,
+    "+weight.image": 99,
+    "-weight.font": 329,
+    "+weight.font": 62,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 109,
+    "-totalBlockingTime": 365,
+    "-largestContentfulPaint": 505
+  },
+  "axe": {
+    "passes": 1433,
+    "violations": 55
+  }
+}

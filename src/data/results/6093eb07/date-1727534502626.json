@@ -1,0 +1,67 @@
+{
+  "url": "https://lucknow.cantt.gov.in/",
+  "requestedUrl": "https://lucknow.cantt.gov.in/",
+  "timestamp": 1727572586294,
+  "ranks": {
+    "hundos": 351,
+    "performance": 431,
+    "accessibility": 218,
+    "cumulative": 351
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.82,
+    "bestPractices": 0.7,
+    "seo": 0.83,
+    "total": 269
+  },
+  "firstContentfulPaint": 3802.6949999999997,
+  "firstMeaningfulPaint": 3802.6949999999997,
+  "speedIndex": 8492.120331988659,
+  "largestContentfulPaint": 23869.620000000006,
+  "totalBlockingTime": 80,
+  "cumulativeLayoutShift": 1.6105731548356659,
+  "timeToInteractive": 13264.775000000003,
+  "maxPotentialFirstInputDelay": 209,
+  "timeToFirstByte": 1009.682,
+  "weight": {
+    "summary": "83 requests • 3.9 MiB",
+    "total": 4093748,
+    "image": 3430263,
+    "imageCount": 25,
+    "script": 346567,
+    "scriptCount": 28,
+    "document": 18566,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 220226,
+    "stylesheetCount": 28,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 220,
+    "+weight.total": 353,
+    "-weight.document": 164,
+    "+weight.document": 405,
+    "-weight.script": 168,
+    "+weight.script": 344,
+    "-weight.image": 256,
+    "+weight.image": 315,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 485,
+    "-totalBlockingTime": 251,
+    "-largestContentfulPaint": 380
+  },
+  "axe": {
+    "passes": 1009,
+    "violations": 41
+  }
+}

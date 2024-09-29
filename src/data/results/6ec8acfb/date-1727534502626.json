@@ -1,0 +1,67 @@
+{
+  "url": "https://secunderabad.cantt.gov.in/",
+  "requestedUrl": "https://secunderabad.cantt.gov.in/",
+  "timestamp": 1727572745071,
+  "ranks": {
+    "hundos": 256,
+    "performance": 308,
+    "accessibility": 189,
+    "cumulative": 254
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.48,
+    "accessibility": 0.82,
+    "bestPractices": 0.7,
+    "seo": 0.83,
+    "total": 283
+  },
+  "firstContentfulPaint": 5055.357999999999,
+  "firstMeaningfulPaint": 5055.357999999999,
+  "speedIndex": 15280.323773277858,
+  "largestContentfulPaint": 23868.389999999985,
+  "totalBlockingTime": 43,
+  "cumulativeLayoutShift": 0.17898270956580922,
+  "timeToInteractive": 21800.39199999999,
+  "maxPotentialFirstInputDelay": 90.5,
+  "timeToFirstByte": 1018.394,
+  "weight": {
+    "summary": "83 requests • 5.3 MiB",
+    "total": 5582432,
+    "image": 4915880,
+    "imageCount": 24,
+    "script": 346567,
+    "scriptCount": 28,
+    "document": 15435,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 226424,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 291,
+    "+weight.total": 282,
+    "-weight.document": 102,
+    "+weight.document": 467,
+    "-weight.script": 168,
+    "+weight.script": 344,
+    "-weight.image": 319,
+    "+weight.image": 252,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 487,
+    "-totalBlockingTime": 214,
+    "-largestContentfulPaint": 539
+  },
+  "axe": {
+    "passes": 739,
+    "violations": 30
+  }
+}

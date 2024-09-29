@@ -1,0 +1,67 @@
+{
+  "url": "https://jpcindiansteel.nic.in/",
+  "requestedUrl": "https://jpcindiansteel.nic.in/",
+  "timestamp": 1727564644365,
+  "ranks": {
+    "hundos": 434,
+    "performance": 217,
+    "accessibility": 352,
+    "cumulative": 434
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.75,
+    "bestPractices": 0.63,
+    "seo": 0.65,
+    "total": 258
+  },
+  "firstContentfulPaint": 8472.607,
+  "firstMeaningfulPaint": 8472.607,
+  "speedIndex": 13023.310012258695,
+  "largestContentfulPaint": 10197.607000000002,
+  "totalBlockingTime": 29.5,
+  "cumulativeLayoutShift": 0.00012800135403358425,
+  "timeToInteractive": 15089.965500000002,
+  "maxPotentialFirstInputDelay": 71,
+  "timeToFirstByte": 508.971,
+  "weight": {
+    "summary": "78 requests • 2.5 MiB",
+    "total": 2570343,
+    "image": 600697,
+    "imageCount": 28,
+    "script": 1580693,
+    "scriptCount": 29,
+    "document": 152953,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 235342,
+    "stylesheetCount": 17,
+    "thirdParty": 576850,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 141,
+    "+weight.total": 432,
+    "-weight.document": 456,
+    "+weight.document": 113,
+    "-weight.script": 455,
+    "+weight.script": 57,
+    "-weight.image": 68,
+    "+weight.image": 503,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 384,
+    "-totalBlockingTime": 206,
+    "-largestContentfulPaint": 491
+  },
+  "axe": {
+    "passes": 445,
+    "violations": 52
+  }
+}

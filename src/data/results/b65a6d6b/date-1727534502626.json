@@ -1,0 +1,67 @@
+{
+  "url": "https://krishivistar.gov.in/",
+  "requestedUrl": "https://krishivistar.gov.in/",
+  "timestamp": 1727564864478,
+  "ranks": {
+    "hundos": 499,
+    "performance": 157,
+    "accessibility": 568,
+    "cumulative": 498
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.6,
+    "accessibility": 0.43,
+    "bestPractices": 0.7,
+    "seo": 0.71,
+    "total": 244
+  },
+  "firstContentfulPaint": 4922.1669999999995,
+  "firstMeaningfulPaint": 4922.1669999999995,
+  "speedIndex": 16236.286914987493,
+  "largestContentfulPaint": 5925.575,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4922.1669999999995,
+  "maxPotentialFirstInputDelay": 17,
+  "timeToFirstByte": 158.9369999999999,
+  "weight": {
+    "summary": "47 requests • 20.7 MiB",
+    "total": 21746939,
+    "image": 21000598,
+    "imageCount": 33,
+    "script": 550853,
+    "scriptCount": 8,
+    "document": 112889,
+    "font": 39752,
+    "fontCount": 1,
+    "stylesheet": 42847,
+    "stylesheetCount": 4,
+    "thirdParty": 1040,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 511,
+    "+weight.total": 62,
+    "-weight.document": 406,
+    "+weight.document": 163,
+    "-weight.script": 258,
+    "+weight.script": 254,
+    "-weight.image": 521,
+    "+weight.image": 50,
+    "-weight.font": 28,
+    "+weight.font": 363,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 264,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 92
+  },
+  "axe": {
+    "passes": 561,
+    "violations": 50
+  }
+}

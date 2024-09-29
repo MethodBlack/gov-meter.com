@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ireda.in/",
+  "requestedUrl": "https://www.ireda.in/",
+  "timestamp": 1727580401429,
+  "ranks": {
+    "hundos": 425,
+    "performance": 55,
+    "accessibility": 570,
+    "cumulative": 424
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.79,
+    "accessibility": 0.42,
+    "bestPractices": 0.89,
+    "seo": 0.5,
+    "total": 260
+  },
+  "firstContentfulPaint": 915.1449999999999,
+  "firstMeaningfulPaint": 4218.272539999999,
+  "speedIndex": 1801.305149382295,
+  "largestContentfulPaint": 5633.995,
+  "totalBlockingTime": 20,
+  "cumulativeLayoutShift": 0.010221029957376695,
+  "timeToInteractive": 10168.054,
+  "maxPotentialFirstInputDelay": 88,
+  "timeToFirstByte": 92.352,
+  "weight": {
+    "summary": "21 requests • 1.7 MiB",
+    "total": 1814973,
+    "image": 160671,
+    "imageCount": 2,
+    "script": 1378362,
+    "scriptCount": 11,
+    "document": 8968,
+    "font": 43618,
+    "fontCount": 1,
+    "stylesheet": 223354,
+    "stylesheetCount": 6,
+    "thirdParty": 125872,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 99,
+    "+weight.total": 474,
+    "-weight.document": 28,
+    "+weight.document": 541,
+    "-weight.script": 433,
+    "+weight.script": 79,
+    "-weight.image": 27,
+    "+weight.image": 544,
+    "-weight.font": 30,
+    "+weight.font": 361,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 153,
+    "-totalBlockingTime": 347,
+    "-largestContentfulPaint": 454
+  },
+  "axe": {
+    "passes": 24,
+    "violations": 7
+  }
+}

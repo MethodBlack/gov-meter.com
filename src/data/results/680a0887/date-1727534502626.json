@@ -1,0 +1,67 @@
+{
+  "url": "https://chakrata.cantt.gov.in/",
+  "requestedUrl": "https://chakrata.cantt.gov.in/",
+  "timestamp": 1727572300645,
+  "ranks": {
+    "hundos": 321,
+    "performance": 434,
+    "accessibility": 202,
+    "cumulative": 320
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.83,
+    "total": 273
+  },
+  "firstContentfulPaint": 3878.5530000000003,
+  "firstMeaningfulPaint": 3878.5530000000003,
+  "speedIndex": 9138.38825688442,
+  "largestContentfulPaint": 26847.40399999999,
+  "totalBlockingTime": 57.5,
+  "cumulativeLayoutShift": 1.585588568425367,
+  "timeToInteractive": 11322.680499999999,
+  "maxPotentialFirstInputDelay": 162,
+  "timeToFirstByte": 2552.8070000000002,
+  "weight": {
+    "summary": "83 requests • 4.5 MiB",
+    "total": 4688586,
+    "image": 4021914,
+    "imageCount": 26,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 23728,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 218246,
+    "stylesheetCount": 27,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 250,
+    "+weight.total": 323,
+    "-weight.document": 217,
+    "+weight.document": 352,
+    "-weight.script": 169,
+    "+weight.script": 343,
+    "-weight.image": 277,
+    "+weight.image": 294,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 543,
+    "-totalBlockingTime": 231,
+    "-largestContentfulPaint": 387
+  },
+  "axe": {
+    "passes": 914,
+    "violations": 34
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://msmetcmumbai.gov.in/",
+  "requestedUrl": "https://msmetcmumbai.gov.in/",
+  "timestamp": 1727552713152,
+  "ranks": {
+    "hundos": 65,
+    "performance": 58,
+    "accessibility": 177,
+    "cumulative": 63
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.78,
+    "accessibility": 0.82,
+    "bestPractices": 0.93,
+    "seo": 0.67,
+    "total": 320
+  },
+  "firstContentfulPaint": 1556.936,
+  "firstMeaningfulPaint": 1556.936,
+  "speedIndex": 3312.890454012537,
+  "largestContentfulPaint": 5561.936,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1556.936,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 102.7389999999998,
+  "weight": {
+    "summary": "8 requests • 901.8 KiB",
+    "total": 923436,
+    "image": 802988,
+    "imageCount": 3,
+    "script": 101946,
+    "scriptCount": 3,
+    "document": 8911,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 9591,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 43,
+    "+weight.total": 530,
+    "-weight.document": 27,
+    "+weight.document": 542,
+    "-weight.script": 28,
+    "+weight.script": 484,
+    "-weight.image": 90,
+    "+weight.image": 481,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 178,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 453
+  },
+  "axe": {
+    "passes": 209,
+    "violations": 7
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://badamibagh.cantt.gov.in/",
+  "requestedUrl": "https://badamibagh.cantt.gov.in/",
+  "timestamp": 1727572212002,
+  "ranks": {
+    "hundos": 324,
+    "performance": 376,
+    "accessibility": 208,
+    "cumulative": 324
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.4,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.76,
+    "total": 272
+  },
+  "firstContentfulPaint": 3658.01,
+  "firstMeaningfulPaint": 3658.01,
+  "speedIndex": 5632.24925930921,
+  "largestContentfulPaint": 9977.592500000002,
+  "totalBlockingTime": 30.5,
+  "cumulativeLayoutShift": 0.6808111231961862,
+  "timeToInteractive": 7961.307500000003,
+  "maxPotentialFirstInputDelay": 111,
+  "timeToFirstByte": 535.427,
+  "weight": {
+    "summary": "56 requests • 1.0 MiB",
+    "total": 1067362,
+    "image": 665222,
+    "imageCount": 13,
+    "script": 145794,
+    "scriptCount": 19,
+    "document": 13266,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 164954,
+    "stylesheetCount": 22,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 52,
+    "+weight.total": 521,
+    "-weight.document": 68,
+    "+weight.document": 501,
+    "-weight.script": 49,
+    "+weight.script": 463,
+    "-weight.image": 78,
+    "+weight.image": 493,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 390,
+    "-totalBlockingTime": 207,
+    "-largestContentfulPaint": 489
+  },
+  "axe": {
+    "passes": 694,
+    "violations": 36
+  }
+}

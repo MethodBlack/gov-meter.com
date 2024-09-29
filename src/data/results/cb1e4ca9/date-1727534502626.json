@@ -1,0 +1,67 @@
+{
+  "url": "https://legalaffairs.gov.in/",
+  "requestedUrl": "https://legalaffairs.gov.in/",
+  "timestamp": 1727559370871,
+  "ranks": {
+    "hundos": 148,
+    "performance": 283,
+    "accessibility": 79,
+    "cumulative": 144
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.5,
+    "accessibility": 0.89,
+    "bestPractices": 0.89,
+    "seo": 0.74,
+    "total": 302
+  },
+  "firstContentfulPaint": 3853.451,
+  "firstMeaningfulPaint": 4361.325,
+  "speedIndex": 6656.509358258189,
+  "largestContentfulPaint": 13402.957750000001,
+  "totalBlockingTime": 36.15499999999929,
+  "cumulativeLayoutShift": 0.2227047045159247,
+  "timeToInteractive": 6737.966,
+  "maxPotentialFirstInputDelay": 101,
+  "timeToFirstByte": 377.664,
+  "weight": {
+    "summary": "94 requests • 4.9 MiB",
+    "total": 5136186,
+    "image": 4600010,
+    "imageCount": 48,
+    "script": 278738,
+    "scriptCount": 10,
+    "document": 63582,
+    "font": 136844,
+    "fontCount": 5,
+    "stylesheet": 34650,
+    "stylesheetCount": 4,
+    "thirdParty": 435072,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 265,
+    "+weight.total": 308,
+    "-weight.document": 341,
+    "+weight.document": 228,
+    "-weight.script": 127,
+    "+weight.script": 385,
+    "-weight.image": 309,
+    "+weight.image": 262,
+    "-weight.font": 184,
+    "+weight.font": 207,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 358,
+    "-totalBlockingTime": 51,
+    "-largestContentfulPaint": 192
+  },
+  "axe": {
+    "passes": 1074,
+    "violations": 17
+  }
+}

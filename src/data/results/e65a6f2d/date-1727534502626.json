@@ -1,0 +1,67 @@
+{
+  "url": "https://lawcommissionofindia.nic.in/",
+  "requestedUrl": "https://lawcommissionofindia.nic.in/",
+  "timestamp": 1727564969560,
+  "ranks": {
+    "hundos": 265,
+    "performance": 551,
+    "accessibility": 25,
+    "cumulative": 262
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.16,
+    "accessibility": 0.94,
+    "bestPractices": 0.96,
+    "seo": 0.76,
+    "total": 282
+  },
+  "firstContentfulPaint": 3681.886000000003,
+  "firstMeaningfulPaint": 3681.886000000003,
+  "speedIndex": 10685.73061082296,
+  "largestContentfulPaint": 6023.758000000005,
+  "totalBlockingTime": 1155.5,
+  "cumulativeLayoutShift": 0.5862916255405504,
+  "timeToInteractive": 16458.461000000003,
+  "maxPotentialFirstInputDelay": 641,
+  "timeToFirstByte": 86.8760000000002,
+  "weight": {
+    "summary": "151 requests • 5.6 MiB",
+    "total": 5901127,
+    "image": 4491484,
+    "imageCount": 76,
+    "script": 784968,
+    "scriptCount": 40,
+    "document": 134978,
+    "font": 192466,
+    "fontCount": 6,
+    "stylesheet": 292177,
+    "stylesheetCount": 23,
+    "thirdParty": 4971788,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 304,
+    "+weight.total": 269,
+    "-weight.document": 435,
+    "+weight.document": 134,
+    "-weight.script": 323,
+    "+weight.script": 189,
+    "-weight.image": 300,
+    "+weight.image": 271,
+    "-weight.font": 262,
+    "+weight.font": 129,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 142,
+    "-totalBlockingTime": 389,
+    "-largestContentfulPaint": 462
+  },
+  "axe": {
+    "passes": 1038,
+    "violations": 7
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://nerfmtti.nic.in/",
+  "requestedUrl": "https://nerfmtti.nic.in/",
+  "timestamp": 1727589088271,
+  "ranks": {
+    "hundos": 211,
+    "performance": 137,
+    "accessibility": 34,
+    "cumulative": 211
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.62,
+    "accessibility": 0.93,
+    "bestPractices": 0.56,
+    "seo": 0.79,
+    "total": 290
+  },
+  "firstContentfulPaint": 2678.8125000000005,
+  "firstMeaningfulPaint": 3679.5750000000003,
+  "speedIndex": 5964.5988341216635,
+  "largestContentfulPaint": 16007.624999999996,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.11479551349869958,
+  "timeToInteractive": 3679.5750000000003,
+  "maxPotentialFirstInputDelay": 22,
+  "timeToFirstByte": 323.14700000000005,
+  "weight": {
+    "summary": "45 requests • 6.4 MiB",
+    "total": 6746359,
+    "image": 5637858,
+    "imageCount": 21,
+    "script": 624577,
+    "scriptCount": 8,
+    "document": 9095,
+    "font": 372868,
+    "fontCount": 4,
+    "stylesheet": 101961,
+    "stylesheetCount": 11,
+    "thirdParty": 3031,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 329,
+    "+weight.total": 244,
+    "-weight.document": 29,
+    "+weight.document": 540,
+    "-weight.script": 287,
+    "+weight.script": 225,
+    "-weight.image": 342,
+    "+weight.image": 229,
+    "-weight.font": 353,
+    "+weight.font": 38,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 343,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 215
+  },
+  "axe": {
+    "passes": 792,
+    "violations": 9
+  }
+}

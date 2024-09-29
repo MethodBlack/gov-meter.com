@@ -1,0 +1,67 @@
+{
+  "url": "https://www.igib.res.in/",
+  "requestedUrl": "https://www.igib.res.in/",
+  "timestamp": 1727574731875,
+  "ranks": {
+    "hundos": 192,
+    "performance": 63,
+    "accessibility": 455,
+    "cumulative": 194
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.75,
+    "accessibility": 0.68,
+    "bestPractices": 0.96,
+    "seo": 0.54,
+    "total": 293
+  },
+  "firstContentfulPaint": 1684.2849999999999,
+  "firstMeaningfulPaint": 1684.2849999999999,
+  "speedIndex": 1684.2849999999999,
+  "largestContentfulPaint": 7646.9985,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.012390086458362771,
+  "timeToInteractive": 1684.2849999999999,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 90.43299999999999,
+  "weight": {
+    "summary": "18 requests • 1.0 MiB",
+    "total": 1088055,
+    "image": 1051425,
+    "imageCount": 9,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 8599,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 28031,
+    "stylesheetCount": 8,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 55,
+    "+weight.total": 518,
+    "-weight.document": 25,
+    "+weight.document": 544,
+    "-weight.script": 1,
+    "+weight.script": 512,
+    "-weight.image": 110,
+    "+weight.image": 461,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 149,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 474
+  },
+  "axe": {
+    "passes": 238,
+    "violations": 60
+  }
+}

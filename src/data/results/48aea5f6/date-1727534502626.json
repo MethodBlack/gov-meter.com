@@ -1,0 +1,67 @@
+{
+  "url": "https://tirupaticentralexcise.gov.in/",
+  "requestedUrl": "https://tirupaticentralexcise.gov.in/",
+  "timestamp": 1727558637829,
+  "ranks": {
+    "hundos": 302,
+    "performance": 77,
+    "accessibility": 425,
+    "cumulative": 306
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.72,
+    "accessibility": 0.7,
+    "bestPractices": 0.67,
+    "seo": 0.67,
+    "total": 276
+  },
+  "firstContentfulPaint": 1685.5,
+  "firstMeaningfulPaint": 1685.5,
+  "speedIndex": 4112.713315988063,
+  "largestContentfulPaint": 10259.375,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.002126395645894546,
+  "timeToInteractive": 1685.5,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 72.04499999999985,
+  "weight": {
+    "summary": "45 requests • 1.1 MiB",
+    "total": 1146282,
+    "image": 1087395,
+    "imageCount": 39,
+    "script": 26357,
+    "scriptCount": 2,
+    "document": 13238,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 19292,
+    "stylesheetCount": 3,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 57,
+    "+weight.total": 516,
+    "-weight.document": 67,
+    "+weight.document": 502,
+    "-weight.script": 8,
+    "+weight.script": 504,
+    "-weight.image": 112,
+    "+weight.image": 459,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 93,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 153
+  },
+  "axe": {
+    "passes": 483,
+    "violations": 72
+  }
+}

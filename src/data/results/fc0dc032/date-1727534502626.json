@@ -1,0 +1,67 @@
+{
+  "url": "https://www.isprlindia.com/",
+  "requestedUrl": "https://www.isprlindia.com/",
+  "timestamp": 1727546171718,
+  "ranks": {
+    "hundos": 167,
+    "performance": 33,
+    "accessibility": 322,
+    "cumulative": 198
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.87,
+    "accessibility": 0.76,
+    "bestPractices": 0.63,
+    "seo": 0.67,
+    "total": 298
+  },
+  "firstContentfulPaint": 2298.066,
+  "firstMeaningfulPaint": 2539.5879999999997,
+  "speedIndex": 7675.886735267573,
+  "largestContentfulPaint": 2598.5879999999997,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2539.5879999999997,
+  "maxPotentialFirstInputDelay": 40,
+  "timeToFirstByte": 613.232,
+  "weight": {
+    "summary": "32 requests • 4.7 MiB",
+    "total": 4941225,
+    "image": 4807057,
+    "imageCount": 25,
+    "script": 106039,
+    "scriptCount": 3,
+    "document": 12439,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 15690,
+    "stylesheetCount": 3,
+    "thirdParty": 0,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 259,
+    "+weight.total": 314,
+    "-weight.document": 60,
+    "+weight.document": 509,
+    "-weight.script": 29,
+    "+weight.script": 483,
+    "-weight.image": 318,
+    "+weight.image": 253,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 403,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 428
+  },
+  "axe": {
+    "passes": 216,
+    "violations": 32
+  }
+}

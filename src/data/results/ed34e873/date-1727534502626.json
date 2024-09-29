@@ -1,0 +1,67 @@
+{
+  "url": "https://rsmcnewdelhi.imd.gov.in/",
+  "requestedUrl": "https://rsmcnewdelhi.imd.gov.in/",
+  "timestamp": 1727590844292,
+  "ranks": {
+    "hundos": 89,
+    "performance": 67,
+    "accessibility": 271,
+    "cumulative": 90
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.75,
+    "accessibility": 0.79,
+    "bestPractices": 0.96,
+    "seo": 0.62,
+    "total": 312
+  },
+  "firstContentfulPaint": 2756.617,
+  "firstMeaningfulPaint": 3211.3599999999997,
+  "speedIndex": 4295.820920019794,
+  "largestContentfulPaint": 5045.9925,
+  "totalBlockingTime": 5.5,
+  "cumulativeLayoutShift": 0.0000018920692869465983,
+  "timeToInteractive": 8550.652500000002,
+  "maxPotentialFirstInputDelay": 59,
+  "timeToFirstByte": 35.41599999999994,
+  "weight": {
+    "summary": "36 requests • 1.8 MiB",
+    "total": 1861980,
+    "image": 445908,
+    "imageCount": 18,
+    "script": 1090517,
+    "scriptCount": 8,
+    "document": 37133,
+    "font": 72240,
+    "fontCount": 1,
+    "stylesheet": 215717,
+    "stylesheetCount": 5,
+    "thirdParty": 307070,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 100,
+    "+weight.total": 473,
+    "-weight.document": 271,
+    "+weight.document": 298,
+    "-weight.script": 390,
+    "+weight.script": 122,
+    "-weight.image": 56,
+    "+weight.image": 515,
+    "-weight.font": 59,
+    "+weight.font": 332,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 15,
+    "-totalBlockingTime": 10,
+    "-largestContentfulPaint": 68
+  },
+  "axe": {
+    "passes": 617,
+    "violations": 19
+  }
+}

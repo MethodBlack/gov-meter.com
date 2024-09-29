@@ -1,0 +1,67 @@
+{
+  "url": "https://msmedi-guwahati.gov.in/",
+  "requestedUrl": "https://msmedi-guwahati.gov.in/",
+  "timestamp": 1727559815139,
+  "ranks": {
+    "hundos": 233,
+    "performance": 17,
+    "accessibility": 551,
+    "cumulative": 236
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.93,
+    "accessibility": 0.54,
+    "bestPractices": 0.89,
+    "seo": 0.5,
+    "total": 286
+  },
+  "firstContentfulPaint": 1482.638,
+  "firstMeaningfulPaint": 1482.638,
+  "speedIndex": 5418.074339994024,
+  "largestContentfulPaint": 1482.638,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.08689087071108467,
+  "timeToInteractive": 1482.638,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 79.34400000000005,
+  "weight": {
+    "summary": "34 requests • 2.4 MiB",
+    "total": 2500210,
+    "image": 2234234,
+    "imageCount": 27,
+    "script": 192068,
+    "scriptCount": 3,
+    "document": 17712,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 47635,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 136,
+    "+weight.total": 437,
+    "-weight.document": 151,
+    "+weight.document": 418,
+    "-weight.script": 71,
+    "+weight.script": 441,
+    "-weight.image": 182,
+    "+weight.image": 389,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 111,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 423
+  },
+  "axe": {
+    "passes": 1090,
+    "violations": 109
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://ahmednagar.cantt.gov.in/",
+  "requestedUrl": "https://ahmednagar.cantt.gov.in/",
+  "timestamp": 1727555118524,
+  "ranks": {
+    "hundos": 441,
+    "performance": 423,
+    "accessibility": 295,
+    "cumulative": 441
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.35,
+    "accessibility": 0.78,
+    "bestPractices": 0.74,
+    "seo": 0.7,
+    "total": 257
+  },
+  "firstContentfulPaint": 4319.484,
+  "firstMeaningfulPaint": 4319.484,
+  "speedIndex": 9808.450248097835,
+  "largestContentfulPaint": 25958.136000000024,
+  "totalBlockingTime": 39.5,
+  "cumulativeLayoutShift": 0.6695506655581267,
+  "timeToInteractive": 15252.364000000014,
+  "maxPotentialFirstInputDelay": 129,
+  "timeToFirstByte": 619.1339999999999,
+  "weight": {
+    "summary": "62 requests • 3.6 MiB",
+    "total": 3729076,
+    "image": 3326838,
+    "imageCount": 19,
+    "script": 145794,
+    "scriptCount": 19,
+    "document": 13122,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 165196,
+    "stylesheetCount": 22,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 196,
+    "+weight.total": 377,
+    "-weight.document": 65,
+    "+weight.document": 504,
+    "-weight.script": 49,
+    "+weight.script": 463,
+    "-weight.image": 252,
+    "+weight.image": 319,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 405,
+    "-totalBlockingTime": 211,
+    "-largestContentfulPaint": 546
+  },
+  "axe": {
+    "passes": 666,
+    "violations": 38
+  }
+}

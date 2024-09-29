@@ -1,0 +1,67 @@
+{
+  "url": "https://cantt.gov.in/",
+  "requestedUrl": "https://faizabad.cantt.gov.in/",
+  "timestamp": 1727536252277,
+  "ranks": {
+    "hundos": 27,
+    "performance": 214,
+    "accessibility": 31,
+    "cumulative": 23
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "bestPractices": 0.93,
+    "seo": 0.92,
+    "total": 333
+  },
+  "firstContentfulPaint": 7599.648499999998,
+  "firstMeaningfulPaint": 7599.648499999998,
+  "speedIndex": 12197.166121987008,
+  "largestContentfulPaint": 7876.629749999998,
+  "totalBlockingTime": 1,
+  "cumulativeLayoutShift": 0.06844614512280547,
+  "timeToInteractive": 7599.648499999998,
+  "maxPotentialFirstInputDelay": 34,
+  "timeToFirstByte": 853.893,
+  "weight": {
+    "summary": "129 requests • 2.0 MiB",
+    "total": 2079874,
+    "image": 1411970,
+    "imageCount": 64,
+    "script": 345555,
+    "scriptCount": 29,
+    "document": 11101,
+    "font": 76963,
+    "fontCount": 1,
+    "stylesheet": 232275,
+    "stylesheetCount": 32,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 120,
+    "+weight.total": 453,
+    "-weight.document": 41,
+    "+weight.document": 528,
+    "-weight.script": 167,
+    "+weight.script": 345,
+    "-weight.image": 136,
+    "+weight.image": 435,
+    "-weight.font": 70,
+    "+weight.font": 321,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 465,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 476
+  },
+  "axe": {
+    "passes": 85,
+    "violations": 3
+  }
+}

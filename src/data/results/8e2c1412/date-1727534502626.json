@@ -1,0 +1,67 @@
+{
+  "url": "https://cgstujjain.gov.in/",
+  "requestedUrl": "https://cgstujjain.gov.in/",
+  "timestamp": 1727568183145,
+  "ranks": {
+    "hundos": 534,
+    "performance": 529,
+    "accessibility": 274,
+    "cumulative": 534
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.22,
+    "accessibility": 0.79,
+    "bestPractices": 0.52,
+    "seo": 0.75,
+    "total": 228
+  },
+  "firstContentfulPaint": 3138.8855000000003,
+  "firstMeaningfulPaint": 3138.8855000000003,
+  "speedIndex": 6737.656278594923,
+  "largestContentfulPaint": 4422.088,
+  "totalBlockingTime": 4880.769749999999,
+  "cumulativeLayoutShift": 0.4688238156833485,
+  "timeToInteractive": 15000.0135,
+  "maxPotentialFirstInputDelay": 4986.000000000001,
+  "timeToFirstByte": 16.75099999999999,
+  "weight": {
+    "summary": "56 requests • 2.1 MiB",
+    "total": 2169800,
+    "image": 589330,
+    "imageCount": 10,
+    "script": 819008,
+    "scriptCount": 5,
+    "document": 44781,
+    "font": 0,
+    "fontCount": 5,
+    "stylesheet": 519061,
+    "stylesheetCount": 17,
+    "thirdParty": 61405,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 124,
+    "+weight.total": 449,
+    "-weight.document": 290,
+    "+weight.document": 279,
+    "-weight.script": 334,
+    "+weight.script": 178,
+    "-weight.image": 67,
+    "+weight.image": 504,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 187,
+    "-largestContentfulPaint": 52
+  },
+  "axe": {
+    "passes": 862,
+    "violations": 29
+  }
+}

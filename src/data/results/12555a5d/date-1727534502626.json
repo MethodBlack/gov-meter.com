@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nrcmeat.org.in/",
+  "requestedUrl": "https://www.nrcmeat.org.in/",
+  "timestamp": 1727563528823,
+  "ranks": {
+    "hundos": 67,
+    "performance": 92,
+    "accessibility": 287,
+    "cumulative": 64
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.69,
+    "accessibility": 0.78,
+    "bestPractices": 0.81,
+    "seo": 0.92,
+    "total": 320
+  },
+  "firstContentfulPaint": 2230.6780000000003,
+  "firstMeaningfulPaint": 2230.6780000000003,
+  "speedIndex": 6631.468472678705,
+  "largestContentfulPaint": 2669.7630000000004,
+  "totalBlockingTime": 778.0412499999998,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3735.163,
+  "maxPotentialFirstInputDelay": 858,
+  "timeToFirstByte": 275.85599999999977,
+  "weight": {
+    "summary": "13 requests • 172.0 KiB",
+    "total": 176148,
+    "image": 52421,
+    "imageCount": 5,
+    "script": 112341,
+    "scriptCount": 3,
+    "document": 10810,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 168078,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 9,
+    "+weight.total": 564,
+    "-weight.document": 40,
+    "+weight.document": 529,
+    "-weight.script": 31,
+    "+weight.script": 481,
+    "-weight.image": 16,
+    "+weight.image": 555,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 326,
+    "-totalBlockingTime": 153,
+    "-largestContentfulPaint": 16
+  },
+  "axe": {
+    "passes": 90,
+    "violations": 8
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://mtp.indianrailways.gov.in/",
+  "requestedUrl": "https://mtp.indianrailways.gov.in/",
+  "timestamp": 1727547557770,
+  "ranks": {
+    "hundos": 470,
+    "performance": 22,
+    "accessibility": 464,
+    "cumulative": 470
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.89,
+    "accessibility": 0.67,
+    "bestPractices": 0.44,
+    "seo": 0.5,
+    "total": 250
+  },
+  "firstContentfulPaint": 2413.3909999999996,
+  "firstMeaningfulPaint": 2413.3909999999996,
+  "speedIndex": 5658.522183237126,
+  "largestContentfulPaint": 2677.3359999999993,
+  "totalBlockingTime": 43.5,
+  "cumulativeLayoutShift": 0.025744747945709502,
+  "timeToInteractive": 4946.697499999998,
+  "maxPotentialFirstInputDelay": 137,
+  "timeToFirstByte": 158.6500000000001,
+  "weight": {
+    "summary": "74 requests • 9.5 MiB",
+    "total": 9919038,
+    "image": 9509614,
+    "imageCount": 46,
+    "script": 222309,
+    "scriptCount": 15,
+    "document": 177469,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 6998,
+    "stylesheetCount": 5,
+    "thirdParty": 693787,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 405,
+    "+weight.total": 168,
+    "-weight.document": 484,
+    "+weight.document": 85,
+    "-weight.script": 88,
+    "+weight.script": 424,
+    "-weight.image": 425,
+    "+weight.image": 146,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 263,
+    "-totalBlockingTime": 56,
+    "-largestContentfulPaint": 18
+  },
+  "axe": {
+    "passes": 879,
+    "violations": 49
+  }
+}

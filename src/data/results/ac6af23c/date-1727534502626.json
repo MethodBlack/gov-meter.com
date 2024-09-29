@@ -1,0 +1,67 @@
+{
+  "url": "https://almora.cantt.gov.in/",
+  "requestedUrl": "https://almora.cantt.gov.in/",
+  "timestamp": 1727572126396,
+  "ranks": {
+    "hundos": 442,
+    "performance": 492,
+    "accessibility": 210,
+    "cumulative": 440
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.7,
+    "total": 257
+  },
+  "firstContentfulPaint": 4905.408999999997,
+  "firstMeaningfulPaint": 4905.408999999997,
+  "speedIndex": 14476.016554442525,
+  "largestContentfulPaint": 57622.4579999999,
+  "totalBlockingTime": 67.5,
+  "cumulativeLayoutShift": 1.2058456130599096,
+  "timeToInteractive": 32100.91499999994,
+  "maxPotentialFirstInputDelay": 142,
+  "timeToFirstByte": 613.042,
+  "weight": {
+    "summary": "88 requests • 9.1 MiB",
+    "total": 9579191,
+    "image": 8912363,
+    "imageCount": 29,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 16006,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 226124,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 399,
+    "+weight.total": 174,
+    "-weight.document": 123,
+    "+weight.document": 446,
+    "-weight.script": 169,
+    "+weight.script": 343,
+    "-weight.image": 415,
+    "+weight.image": 156,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 402,
+    "-totalBlockingTime": 241,
+    "-largestContentfulPaint": 415
+  },
+  "axe": {
+    "passes": 919,
+    "violations": 37
+  }
+}

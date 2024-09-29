@@ -1,0 +1,67 @@
+{
+  "url": "https://nasirabad.cantt.gov.in/",
+  "requestedUrl": "https://nasirabad.cantt.gov.in/",
+  "timestamp": 1727555776169,
+  "ranks": {
+    "hundos": 378,
+    "performance": 435,
+    "accessibility": 193,
+    "cumulative": 376
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.75,
+    "total": 265
+  },
+  "firstContentfulPaint": 5368.337999999998,
+  "firstMeaningfulPaint": 5368.337999999998,
+  "speedIndex": 9328.849985488057,
+  "largestContentfulPaint": 27629.919999999984,
+  "totalBlockingTime": 49,
+  "cumulativeLayoutShift": 0.6857203648531405,
+  "timeToInteractive": 15859.809999999992,
+  "maxPotentialFirstInputDelay": 139,
+  "timeToFirstByte": 578.594,
+  "weight": {
+    "summary": "77 requests • 3.7 MiB",
+    "total": 3880000,
+    "image": 3214268,
+    "imageCount": 18,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 15103,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 225931,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 203,
+    "+weight.total": 370,
+    "-weight.document": 93,
+    "+weight.document": 476,
+    "-weight.script": 169,
+    "+weight.script": 343,
+    "-weight.image": 242,
+    "+weight.image": 329,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 395,
+    "-totalBlockingTime": 220,
+    "-largestContentfulPaint": 549
+  },
+  "axe": {
+    "passes": 769,
+    "violations": 31
+  }
+}

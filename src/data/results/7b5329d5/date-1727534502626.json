@@ -1,0 +1,67 @@
+{
+  "url": "https://legislative.gov.in/",
+  "requestedUrl": "https://legislative.gov.in/",
+  "timestamp": 1727581114695,
+  "ranks": {
+    "hundos": 243,
+    "performance": 549,
+    "accessibility": 55,
+    "cumulative": 241
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.16,
+    "accessibility": 0.91,
+    "bestPractices": 0.96,
+    "seo": 0.82,
+    "total": 285
+  },
+  "firstContentfulPaint": 3838.165,
+  "firstMeaningfulPaint": 4905.3675,
+  "speedIndex": 7963.839465786321,
+  "largestContentfulPaint": 6496.295499999999,
+  "totalBlockingTime": 1439,
+  "cumulativeLayoutShift": 0.49489605923699215,
+  "timeToInteractive": 17657.3815,
+  "maxPotentialFirstInputDelay": 655,
+  "timeToFirstByte": 62.05200000000002,
+  "weight": {
+    "summary": "158 requests • 9.2 MiB",
+    "total": 9616742,
+    "image": 8136690,
+    "imageCount": 89,
+    "script": 877964,
+    "scriptCount": 37,
+    "document": 136581,
+    "font": 192904,
+    "fontCount": 6,
+    "stylesheet": 266949,
+    "stylesheetCount": 19,
+    "thirdParty": 8697963,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 400,
+    "+weight.total": 173,
+    "-weight.document": 436,
+    "+weight.document": 133,
+    "-weight.script": 352,
+    "+weight.script": 160,
+    "-weight.image": 408,
+    "+weight.image": 163,
+    "-weight.font": 263,
+    "+weight.font": 128,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 70,
+    "-totalBlockingTime": 170,
+    "-largestContentfulPaint": 103
+  },
+  "axe": {
+    "passes": 4889,
+    "violations": 21
+  }
+}

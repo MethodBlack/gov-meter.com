@@ -1,0 +1,67 @@
+{
+  "url": "https://belgaum.cantt.gov.in/",
+  "requestedUrl": "https://belgaum.cantt.gov.in/",
+  "timestamp": 1727555348595,
+  "ranks": {
+    "hundos": 406,
+    "performance": 484,
+    "accessibility": 246,
+    "cumulative": 403
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.32,
+    "accessibility": 0.81,
+    "bestPractices": 0.74,
+    "seo": 0.76,
+    "total": 263
+  },
+  "firstContentfulPaint": 3909.4399999999996,
+  "firstMeaningfulPaint": 3909.4399999999996,
+  "speedIndex": 28928.295974760546,
+  "largestContentfulPaint": 160691.70399999997,
+  "totalBlockingTime": 116,
+  "cumulativeLayoutShift": 0.9102642638105729,
+  "timeToInteractive": 100602.92399999998,
+  "maxPotentialFirstInputDelay": 176,
+  "timeToFirstByte": 826.596,
+  "weight": {
+    "summary": "118 requests • 37.3 MiB",
+    "total": 39120505,
+    "image": 38449268,
+    "imageCount": 58,
+    "script": 346567,
+    "scriptCount": 28,
+    "document": 16764,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 229780,
+    "stylesheetCount": 30,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 556,
+    "+weight.total": 17,
+    "-weight.document": 137,
+    "+weight.document": 432,
+    "-weight.script": 168,
+    "+weight.script": 344,
+    "-weight.image": 556,
+    "+weight.image": 15,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 459,
+    "-totalBlockingTime": 264,
+    "-largestContentfulPaint": 570
+  },
+  "axe": {
+    "passes": 1016,
+    "violations": 36
+  }
+}

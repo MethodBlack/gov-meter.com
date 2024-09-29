@@ -1,0 +1,66 @@
+{
+  "url": "https://mnre.gov.in/",
+  "requestedUrl": "https://mnre.gov.in/",
+  "timestamp": 1727588987668,
+  "ranks": {
+    "hundos": 219,
+    "performance": 556,
+    "accessibility": 63,
+    "cumulative": 222
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.15,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "seo": 0.9,
+    "total": 289
+  },
+  "firstContentfulPaint": 3728.024,
+  "firstMeaningfulPaint": 3728.024,
+  "speedIndex": 10760.081665919442,
+  "largestContentfulPaint": 11289.325,
+  "totalBlockingTime": 785.4964999999984,
+  "cumulativeLayoutShift": 1.1809161518268048,
+  "timeToInteractive": 18652.182,
+  "maxPotentialFirstInputDelay": 337,
+  "timeToFirstByte": 89.87600000000009,
+  "weight": {
+    "summary": "174 requests • 12.2 MiB",
+    "total": 12819179,
+    "image": 11396779,
+    "imageCount": 103,
+    "script": 823390,
+    "scriptCount": 37,
+    "document": 143529,
+    "font": 190482,
+    "fontCount": 6,
+    "stylesheet": 259003,
+    "stylesheetCount": 19,
+    "thirdParty": 11924868,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 441,
+    "+weight.total": 132,
+    "-weight.document": 450,
+    "+weight.document": 119,
+    "-weight.script": 336,
+    "+weight.script": 176,
+    "-weight.image": 444,
+    "+weight.image": 127,
+    "-weight.font": 260,
+    "+weight.font": 131,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 148,
+    "-totalBlockingTime": 380,
+    "-largestContentfulPaint": 496
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

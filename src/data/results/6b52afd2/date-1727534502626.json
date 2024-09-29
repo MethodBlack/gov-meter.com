@@ -1,0 +1,67 @@
+{
+  "url": "https://birdgroup.co.in/",
+  "requestedUrl": "https://www.birdgroup.co.in/",
+  "timestamp": 1727554825443,
+  "ranks": {
+    "hundos": 159,
+    "performance": 101,
+    "accessibility": 405,
+    "cumulative": 158
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.68,
+    "accessibility": 0.71,
+    "bestPractices": 0.74,
+    "seo": 0.85,
+    "total": 298
+  },
+  "firstContentfulPaint": 4297.26316,
+  "firstMeaningfulPaint": 4297.26316,
+  "speedIndex": 10903.692065936159,
+  "largestContentfulPaint": 4297.26316,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.04711058436497664,
+  "timeToInteractive": 4297.26316,
+  "maxPotentialFirstInputDelay": 47,
+  "timeToFirstByte": 2209.7509999999997,
+  "weight": {
+    "summary": "61 requests • 2.6 MiB",
+    "total": 2694067,
+    "image": 2344483,
+    "imageCount": 24,
+    "script": 217017,
+    "scriptCount": 17,
+    "document": 34042,
+    "font": 18100,
+    "fontCount": 1,
+    "stylesheet": 80204,
+    "stylesheetCount": 16,
+    "thirdParty": 2157,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 146,
+    "+weight.total": 427,
+    "-weight.document": 260,
+    "+weight.document": 309,
+    "-weight.script": 80,
+    "+weight.script": 432,
+    "-weight.image": 194,
+    "+weight.image": 377,
+    "-weight.font": 6,
+    "+weight.font": 385,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 538,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 443
+  },
+  "axe": {
+    "passes": 629,
+    "violations": 46
+  }
+}

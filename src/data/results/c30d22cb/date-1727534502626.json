@@ -1,0 +1,66 @@
+{
+  "url": "https://www.mumbaicustomszone1.gov.in/",
+  "requestedUrl": "https://www.mumbaicustomszone1.gov.in/",
+  "timestamp": 1727547847481,
+  "ranks": {
+    "hundos": 519,
+    "performance": 270,
+    "accessibility": 481,
+    "cumulative": 519
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.52,
+    "accessibility": 0.65,
+    "bestPractices": 0.52,
+    "seo": 0.66,
+    "total": 235
+  },
+  "firstContentfulPaint": 7017.892,
+  "firstMeaningfulPaint": 7017.892,
+  "speedIndex": 10193.940341358075,
+  "largestContentfulPaint": 7017.892,
+  "totalBlockingTime": 11,
+  "cumulativeLayoutShift": 0.13539405226637777,
+  "timeToInteractive": 7317.892,
+  "maxPotentialFirstInputDelay": 72,
+  "timeToFirstByte": 225.53300000000013,
+  "weight": {
+    "summary": "62 requests • 1.7 MiB",
+    "total": 1790388,
+    "image": 0,
+    "imageCount": 21,
+    "script": 990787,
+    "scriptCount": 16,
+    "document": 115323,
+    "font": 75672,
+    "fontCount": 2,
+    "stylesheet": 608606,
+    "stylesheetCount": 22,
+    "thirdParty": 9854,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 95,
+    "+weight.total": 478,
+    "-weight.document": 409,
+    "+weight.document": 160,
+    "-weight.script": 380,
+    "+weight.script": 132,
+    "-weight.image": 1,
+    "+weight.image": 571,
+    "-weight.font": 68,
+    "+weight.font": 323,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 311,
+    "-totalBlockingTime": 17,
+    "-largestContentfulPaint": 111
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

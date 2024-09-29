@@ -1,0 +1,67 @@
+{
+  "url": "https://jammu.cantt.gov.in/",
+  "requestedUrl": "https://jammu.cantt.gov.in/",
+  "timestamp": 1727536617469,
+  "ranks": {
+    "hundos": 346,
+    "performance": 491,
+    "accessibility": 197,
+    "cumulative": 340
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.83,
+    "total": 270
+  },
+  "firstContentfulPaint": 5109.9699999999975,
+  "firstMeaningfulPaint": 5109.9699999999975,
+  "speedIndex": 13624.648579811916,
+  "largestContentfulPaint": 51479.52000000006,
+  "totalBlockingTime": 71,
+  "cumulativeLayoutShift": 1.3088447553987652,
+  "timeToInteractive": 29393.140000000043,
+  "maxPotentialFirstInputDelay": 146,
+  "timeToFirstByte": 854.748,
+  "weight": {
+    "summary": "89 requests • 7.9 MiB",
+    "total": 8308409,
+    "image": 7637613,
+    "imageCount": 30,
+    "script": 347636,
+    "scriptCount": 28,
+    "document": 16218,
+    "font": 78164,
+    "fontCount": 1,
+    "stylesheet": 228778,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 378,
+    "+weight.total": 195,
+    "-weight.document": 128,
+    "+weight.document": 441,
+    "-weight.script": 170,
+    "+weight.script": 342,
+    "-weight.image": 400,
+    "+weight.image": 171,
+    "-weight.font": 82,
+    "+weight.font": 309,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 466,
+    "-totalBlockingTime": 246,
+    "-largestContentfulPaint": 412
+  },
+  "axe": {
+    "passes": 905,
+    "violations": 33
+  }
+}

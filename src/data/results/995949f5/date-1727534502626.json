@@ -1,0 +1,67 @@
+{
+  "url": "https://agra.cantt.gov.in/",
+  "requestedUrl": "https://agra.cantt.gov.in/",
+  "timestamp": 1727572063039,
+  "ranks": {
+    "hundos": 423,
+    "performance": 386,
+    "accessibility": 214,
+    "cumulative": 418
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.39,
+    "accessibility": 0.82,
+    "bestPractices": 0.7,
+    "seo": 0.7,
+    "total": 261
+  },
+  "firstContentfulPaint": 3946.738,
+  "firstMeaningfulPaint": 3946.738,
+  "speedIndex": 12556.2677099988,
+  "largestContentfulPaint": 19846.23,
+  "totalBlockingTime": 82.49999999999955,
+  "cumulativeLayoutShift": 0.37849433002109645,
+  "timeToInteractive": 8371.722,
+  "maxPotentialFirstInputDelay": 161.99999999999955,
+  "timeToFirstByte": 946.91,
+  "weight": {
+    "summary": "85 requests • 4.8 MiB",
+    "total": 4983390,
+    "image": 4320297,
+    "imageCount": 28,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 19920,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 218475,
+    "stylesheetCount": 27,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 261,
+    "+weight.total": 312,
+    "-weight.document": 175,
+    "+weight.document": 394,
+    "-weight.script": 169,
+    "+weight.script": 343,
+    "-weight.image": 291,
+    "+weight.image": 280,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 478,
+    "-totalBlockingTime": 253,
+    "-largestContentfulPaint": 367
+  },
+  "axe": {
+    "passes": 864,
+    "violations": 39
+  }
+}

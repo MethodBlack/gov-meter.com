@@ -1,0 +1,20 @@
+{
+  "url": "https://www.iifcl.org/",
+  "error": "Unknown error.",
+  "sidequests": {
+    "-weight.total": 573,
+    "+weight.total": 573,
+    "-weight.document": 569,
+    "+weight.document": 569,
+    "-weight.script": 512,
+    "+weight.script": 512,
+    "-weight.image": 571,
+    "+weight.image": 571,
+    "-weight.font": 391,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 573,
+    "-totalBlockingTime": 400,
+    "-largestContentfulPaint": 571
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://naredco.in/",
+  "requestedUrl": "https://naredco.in/",
+  "timestamp": 1727549080229,
+  "ranks": {
+    "hundos": 468,
+    "performance": 514,
+    "accessibility": 154,
+    "cumulative": 466
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.27,
+    "accessibility": 0.84,
+    "bestPractices": 0.56,
+    "seo": 0.84,
+    "total": 251
+  },
+  "firstContentfulPaint": 4200.915,
+  "firstMeaningfulPaint": 4575.915,
+  "speedIndex": 12516.552009673813,
+  "largestContentfulPaint": 17360.915,
+  "totalBlockingTime": 768.5,
+  "cumulativeLayoutShift": 0.2353670373697445,
+  "timeToInteractive": 48898.379,
+  "maxPotentialFirstInputDelay": 442,
+  "timeToFirstByte": 248.94600000000003,
+  "weight": {
+    "summary": "261 requests • 36.7 MiB",
+    "total": 38436298,
+    "image": 36177711,
+    "imageCount": 70,
+    "script": 1085205,
+    "scriptCount": 60,
+    "document": 165750,
+    "font": 276583,
+    "fontCount": 7,
+    "stylesheet": 134385,
+    "stylesheetCount": 47,
+    "thirdParty": 1667515,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 555,
+    "+weight.total": 18,
+    "-weight.document": 474,
+    "+weight.document": 95,
+    "-weight.script": 388,
+    "+weight.script": 124,
+    "-weight.image": 554,
+    "+weight.image": 17,
+    "-weight.font": 318,
+    "+weight.font": 73,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 320,
+    "-totalBlockingTime": 152,
+    "-largestContentfulPaint": 221
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

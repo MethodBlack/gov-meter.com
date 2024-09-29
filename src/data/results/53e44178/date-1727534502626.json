@@ -1,0 +1,67 @@
+{
+  "url": "https://necouncil.gov.in/",
+  "requestedUrl": "https://necouncil.gov.in/",
+  "timestamp": 1727549586811,
+  "ranks": {
+    "hundos": 73,
+    "performance": 299,
+    "accessibility": 74,
+    "cumulative": 73
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.49,
+    "accessibility": 0.89,
+    "bestPractices": 0.96,
+    "seo": 0.82,
+    "total": 316
+  },
+  "firstContentfulPaint": 11841.164000000006,
+  "firstMeaningfulPaint": 11841.164000000006,
+  "speedIndex": 15921.35418998135,
+  "largestContentfulPaint": 12610.863000000005,
+  "totalBlockingTime": 55,
+  "cumulativeLayoutShift": 0.15577192899238523,
+  "timeToInteractive": 12133.164000000004,
+  "maxPotentialFirstInputDelay": 64,
+  "timeToFirstByte": 93.31399999999985,
+  "weight": {
+    "summary": "119 requests • 3.0 MiB",
+    "total": 3131980,
+    "image": 1912679,
+    "imageCount": 50,
+    "script": 724828,
+    "scriptCount": 33,
+    "document": 14517,
+    "font": 65996,
+    "fontCount": 4,
+    "stylesheet": 413960,
+    "stylesheetCount": 31,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 168,
+    "+weight.total": 405,
+    "-weight.document": 84,
+    "+weight.document": 485,
+    "-weight.script": 312,
+    "+weight.script": 200,
+    "-weight.image": 168,
+    "+weight.image": 403,
+    "-weight.font": 50,
+    "+weight.font": 341,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 158,
+    "-totalBlockingTime": 352,
+    "-largestContentfulPaint": 502
+  },
+  "axe": {
+    "passes": 916,
+    "violations": 4
+  }
+}

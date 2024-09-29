@@ -1,0 +1,67 @@
+{
+  "url": "https://coal.nic.in/",
+  "requestedUrl": "https://coal.nic.in/",
+  "timestamp": 1727557028546,
+  "ranks": {
+    "hundos": 165,
+    "performance": 498,
+    "accessibility": 122,
+    "cumulative": 161
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.3,
+    "accessibility": 0.86,
+    "bestPractices": 0.93,
+    "seo": 0.89,
+    "total": 298
+  },
+  "firstContentfulPaint": 6900.383,
+  "firstMeaningfulPaint": 6900.383,
+  "speedIndex": 17990.47630511833,
+  "largestContentfulPaint": 19366.604500000005,
+  "totalBlockingTime": 40.5,
+  "cumulativeLayoutShift": 1.3755276824296743,
+  "timeToInteractive": 20188.030000000002,
+  "maxPotentialFirstInputDelay": 98,
+  "timeToFirstByte": 148.308,
+  "weight": {
+    "summary": "190 requests • 4.0 MiB",
+    "total": 4152964,
+    "image": 2626947,
+    "imageCount": 61,
+    "script": 960252,
+    "scriptCount": 52,
+    "document": 78140,
+    "font": 170642,
+    "fontCount": 8,
+    "stylesheet": 316983,
+    "stylesheetCount": 68,
+    "thirdParty": 510530,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 222,
+    "+weight.total": 351,
+    "-weight.document": 369,
+    "+weight.document": 200,
+    "-weight.script": 371,
+    "+weight.script": 141,
+    "-weight.image": 213,
+    "+weight.image": 358,
+    "-weight.font": 239,
+    "+weight.font": 152,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 244,
+    "-totalBlockingTime": 54,
+    "-largestContentfulPaint": 232
+  },
+  "axe": {
+    "passes": 1016,
+    "violations": 36
+  }
+}

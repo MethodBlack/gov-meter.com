@@ -1,0 +1,67 @@
+{
+  "url": "https://fatehgarh.cantt.gov.in/",
+  "requestedUrl": "https://fatehgarh.cantt.gov.in/",
+  "timestamp": 1727555510663,
+  "ranks": {
+    "hundos": 362,
+    "performance": 418,
+    "accessibility": 194,
+    "cumulative": 360
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.35,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.76,
+    "total": 267
+  },
+  "firstContentfulPaint": 3841.25,
+  "firstMeaningfulPaint": 3841.25,
+  "speedIndex": 7894.972489615197,
+  "largestContentfulPaint": 26878,
+  "totalBlockingTime": 67.5,
+  "cumulativeLayoutShift": 1.584461608575744,
+  "timeToInteractive": 13474.125,
+  "maxPotentialFirstInputDelay": 164,
+  "timeToFirstByte": 745.9860000000001,
+  "weight": {
+    "summary": "83 requests • 4.5 MiB",
+    "total": 4685765,
+    "image": 4019589,
+    "imageCount": 24,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 15442,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 226036,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 249,
+    "+weight.total": 324,
+    "-weight.document": 103,
+    "+weight.document": 466,
+    "-weight.script": 169,
+    "+weight.script": 343,
+    "-weight.image": 275,
+    "+weight.image": 296,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 436,
+    "-totalBlockingTime": 241,
+    "-largestContentfulPaint": 388
+  },
+  "axe": {
+    "passes": 892,
+    "violations": 32
+  }
+}

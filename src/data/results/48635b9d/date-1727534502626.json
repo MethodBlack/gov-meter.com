@@ -1,0 +1,66 @@
+{
+  "url": "https://bangalorecustoms.gov.in/",
+  "requestedUrl": "https://bangalorecustoms.gov.in/",
+  "timestamp": 1727554407441,
+  "ranks": {
+    "hundos": 237,
+    "performance": 532,
+    "accessibility": 112,
+    "cumulative": 247
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.22,
+    "accessibility": 0.87,
+    "bestPractices": 1,
+    "seo": 0.76,
+    "total": 286
+  },
+  "firstContentfulPaint": 5263.1945,
+  "firstMeaningfulPaint": 5263.1945,
+  "speedIndex": 23083.301879272847,
+  "largestContentfulPaint": 21998.242,
+  "totalBlockingTime": 6135.499999999996,
+  "cumulativeLayoutShift": 0.11967596249385452,
+  "timeToInteractive": 39735.546,
+  "maxPotentialFirstInputDelay": 3022.9999999999927,
+  "timeToFirstByte": 1309.7669999999998,
+  "weight": {
+    "summary": "676 requests • 28.9 MiB",
+    "total": 30322298,
+    "image": 27857530,
+    "imageCount": 555,
+    "script": 844220,
+    "scriptCount": 66,
+    "document": 236603,
+    "font": 1118871,
+    "fontCount": 10,
+    "stylesheet": 261769,
+    "stylesheetCount": 38,
+    "thirdParty": 18393503,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 541,
+    "+weight.total": 32,
+    "-weight.document": 518,
+    "+weight.document": 51,
+    "-weight.script": 342,
+    "+weight.script": 170,
+    "-weight.image": 540,
+    "+weight.image": 31,
+    "-weight.font": 389,
+    "+weight.font": 2,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 501,
+    "-totalBlockingTime": 327,
+    "-largestContentfulPaint": 377
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

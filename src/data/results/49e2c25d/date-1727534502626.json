@@ -1,0 +1,67 @@
+{
+  "url": "https://pcimh.gov.in/",
+  "requestedUrl": "https://pcimh.gov.in/",
+  "timestamp": 1727550374995,
+  "ranks": {
+    "hundos": 349,
+    "performance": 243,
+    "accessibility": 395,
+    "cumulative": 349
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.54,
+    "accessibility": 0.72,
+    "bestPractices": 0.7,
+    "seo": 0.73,
+    "total": 269
+  },
+  "firstContentfulPaint": 9309.686499999996,
+  "firstMeaningfulPaint": 9309.686499999996,
+  "speedIndex": 11040.922193616803,
+  "largestContentfulPaint": 12598.015499999994,
+  "totalBlockingTime": 19.5,
+  "cumulativeLayoutShift": 0.09182533081613105,
+  "timeToInteractive": 9534.686499999996,
+  "maxPotentialFirstInputDelay": 74.5,
+  "timeToFirstByte": 279.65700000000004,
+  "weight": {
+    "summary": "107 requests • 11.8 MiB",
+    "total": 12397804,
+    "image": 11125538,
+    "imageCount": 71,
+    "script": 728652,
+    "scriptCount": 20,
+    "document": 18535,
+    "font": 84429,
+    "fontCount": 3,
+    "stylesheet": 440650,
+    "stylesheetCount": 12,
+    "thirdParty": 31193,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 433,
+    "+weight.total": 140,
+    "-weight.document": 162,
+    "+weight.document": 407,
+    "-weight.script": 314,
+    "+weight.script": 198,
+    "-weight.image": 440,
+    "+weight.image": 131,
+    "-weight.font": 97,
+    "+weight.font": 294,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 328,
+    "-totalBlockingTime": 31,
+    "-largestContentfulPaint": 184
+  },
+  "axe": {
+    "passes": 842,
+    "violations": 47
+  }
+}

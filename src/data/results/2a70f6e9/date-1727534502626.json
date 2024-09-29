@@ -1,0 +1,67 @@
+{
+  "url": "https://www.barc.gov.in/",
+  "requestedUrl": "https://www.barc.gov.in/",
+  "timestamp": 1727554457410,
+  "ranks": {
+    "hundos": 91,
+    "performance": 378,
+    "accessibility": 260,
+    "cumulative": 93
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.4,
+    "accessibility": 0.8,
+    "bestPractices": 0.96,
+    "seo": 0.96,
+    "total": 312
+  },
+  "firstContentfulPaint": 5192.99,
+  "firstMeaningfulPaint": 5192.99,
+  "speedIndex": 14193.265139532039,
+  "largestContentfulPaint": 30439.48499999999,
+  "totalBlockingTime": 13.5,
+  "cumulativeLayoutShift": 0.30751682237056094,
+  "timeToInteractive": 21231.77725,
+  "maxPotentialFirstInputDelay": 69,
+  "timeToFirstByte": 153.836,
+  "weight": {
+    "summary": "70 requests • 6.5 MiB",
+    "total": 6765214,
+    "image": 5154797,
+    "imageCount": 36,
+    "script": 605456,
+    "scriptCount": 13,
+    "document": 49663,
+    "font": 172701,
+    "fontCount": 3,
+    "stylesheet": 439697,
+    "stylesheetCount": 15,
+    "thirdParty": 261528,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 330,
+    "+weight.total": 243,
+    "-weight.document": 306,
+    "+weight.document": 263,
+    "-weight.script": 271,
+    "+weight.script": 241,
+    "-weight.image": 327,
+    "+weight.image": 244,
+    "-weight.font": 243,
+    "+weight.font": 148,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 255,
+    "-totalBlockingTime": 22,
+    "-largestContentfulPaint": 257
+  },
+  "axe": {
+    "passes": 783,
+    "violations": 60
+  }
+}

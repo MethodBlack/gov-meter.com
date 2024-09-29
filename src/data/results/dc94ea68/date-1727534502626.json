@@ -1,0 +1,67 @@
+{
+  "url": "https://www.grse.in/",
+  "requestedUrl": "https://www.grse.in/",
+  "timestamp": 1727562107470,
+  "ranks": {
+    "hundos": 151,
+    "performance": 230,
+    "accessibility": 64,
+    "cumulative": 148
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.9,
+    "bestPractices": 0.89,
+    "seo": 0.67,
+    "total": 301
+  },
+  "firstContentfulPaint": 9800.122,
+  "firstMeaningfulPaint": 9800.122,
+  "speedIndex": 21942.386093196972,
+  "largestContentfulPaint": 18600.183000000005,
+  "totalBlockingTime": 32.5,
+  "cumulativeLayoutShift": 0.02141396602451137,
+  "timeToInteractive": 70415.427,
+  "maxPotentialFirstInputDelay": 115,
+  "timeToFirstByte": 64.4559999999999,
+  "weight": {
+    "summary": "105 requests • 37.3 MiB",
+    "total": 39156663,
+    "image": 26630963,
+    "imageCount": 60,
+    "script": 556366,
+    "scriptCount": 21,
+    "document": 291550,
+    "font": 173426,
+    "fontCount": 3,
+    "stylesheet": 1180282,
+    "stylesheetCount": 18,
+    "thirdParty": 33500,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 557,
+    "+weight.total": 16,
+    "-weight.document": 537,
+    "+weight.document": 32,
+    "-weight.script": 260,
+    "+weight.script": 252,
+    "-weight.image": 536,
+    "+weight.image": 35,
+    "-weight.font": 246,
+    "+weight.font": 145,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 71,
+    "-totalBlockingTime": 48,
+    "-largestContentfulPaint": 229
+  },
+  "axe": {
+    "passes": 998,
+    "violations": 9
+  }
+}

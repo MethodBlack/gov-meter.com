@@ -1,0 +1,67 @@
+{
+  "url": "https://csmrs.gov.in/",
+  "requestedUrl": "https://csmrs.gov.in/",
+  "timestamp": 1727573420892,
+  "ranks": {
+    "hundos": 389,
+    "performance": 267,
+    "accessibility": 209,
+    "cumulative": 391
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.52,
+    "accessibility": 0.82,
+    "bestPractices": 0.63,
+    "seo": 0.67,
+    "total": 264
+  },
+  "firstContentfulPaint": 4912.5779999999995,
+  "firstMeaningfulPaint": 4922.0779999999995,
+  "speedIndex": 6412.593499458688,
+  "largestContentfulPaint": 5222.0779999999995,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.2835904825754948,
+  "timeToInteractive": 4922.0779999999995,
+  "maxPotentialFirstInputDelay": 19,
+  "timeToFirstByte": 399.85900000000004,
+  "weight": {
+    "summary": "71 requests • 8.2 MiB",
+    "total": 8615029,
+    "image": 7907032,
+    "imageCount": 52,
+    "script": 611788,
+    "scriptCount": 13,
+    "document": 44517,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 51692,
+    "stylesheetCount": 5,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 386,
+    "+weight.total": 187,
+    "-weight.document": 288,
+    "+weight.document": 281,
+    "-weight.script": 275,
+    "+weight.script": 237,
+    "-weight.image": 404,
+    "+weight.image": 167,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 360,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 74
+  },
+  "axe": {
+    "passes": 579,
+    "violations": 36
+  }
+}

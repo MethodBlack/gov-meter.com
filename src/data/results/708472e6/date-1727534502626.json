@@ -1,0 +1,67 @@
+{
+  "url": "https://ranikhet.cantt.gov.in/",
+  "requestedUrl": "https://ranikhet.cantt.gov.in/",
+  "timestamp": 1727572705033,
+  "ranks": {
+    "hundos": 397,
+    "performance": 474,
+    "accessibility": 222,
+    "cumulative": 393
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.32,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.76,
+    "total": 264
+  },
+  "firstContentfulPaint": 5294.988500000001,
+  "firstMeaningfulPaint": 5294.988500000001,
+  "speedIndex": 10830.682792824995,
+  "largestContentfulPaint": 30253.32399999998,
+  "totalBlockingTime": 51,
+  "cumulativeLayoutShift": 1.0749138187748013,
+  "timeToInteractive": 16901.35599999999,
+  "maxPotentialFirstInputDelay": 152,
+  "timeToFirstByte": 1688.744,
+  "weight": {
+    "summary": "81 requests • 4.2 MiB",
+    "total": 4425760,
+    "image": 3756629,
+    "imageCount": 20,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 16083,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 228350,
+    "stylesheetCount": 31,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 237,
+    "+weight.total": 336,
+    "-weight.document": 126,
+    "+weight.document": 443,
+    "-weight.script": 169,
+    "+weight.script": 343,
+    "-weight.image": 268,
+    "+weight.image": 303,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 519,
+    "-totalBlockingTime": 224,
+    "-largestContentfulPaint": 556
+  },
+  "axe": {
+    "passes": 779,
+    "violations": 42
+  }
+}

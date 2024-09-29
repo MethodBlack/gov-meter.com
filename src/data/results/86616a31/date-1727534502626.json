@@ -1,0 +1,67 @@
+{
+  "url": "https://sfio.gov.in/",
+  "requestedUrl": "https://www.sfio.nic.in/",
+  "timestamp": 1727551928352,
+  "ranks": {
+    "hundos": 109,
+    "performance": 314,
+    "accessibility": 75,
+    "cumulative": 108
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.47,
+    "accessibility": 0.89,
+    "bestPractices": 0.96,
+    "seo": 0.77,
+    "total": 309
+  },
+  "firstContentfulPaint": 4506.6855000000005,
+  "firstMeaningfulPaint": 4506.6855000000005,
+  "speedIndex": 8147.960284986499,
+  "largestContentfulPaint": 4778.543999999999,
+  "totalBlockingTime": 430.49999999999955,
+  "cumulativeLayoutShift": 0.19412110035897248,
+  "timeToInteractive": 7064.412,
+  "maxPotentialFirstInputDelay": 318,
+  "timeToFirstByte": 84.75,
+  "weight": {
+    "summary": "74 requests • 1.2 MiB",
+    "total": 1270230,
+    "image": 519249,
+    "imageCount": 22,
+    "script": 250662,
+    "scriptCount": 21,
+    "document": 17734,
+    "font": 192904,
+    "fontCount": 6,
+    "stylesheet": 286839,
+    "stylesheetCount": 21,
+    "thirdParty": 591769,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 67,
+    "+weight.total": 506,
+    "-weight.document": 152,
+    "+weight.document": 417,
+    "-weight.script": 117,
+    "+weight.script": 395,
+    "-weight.image": 64,
+    "+weight.image": 507,
+    "-weight.font": 263,
+    "+weight.font": 128,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 130,
+    "-totalBlockingTime": 376,
+    "-largestContentfulPaint": 448
+  },
+  "axe": {
+    "passes": 985,
+    "violations": 10
+  }
+}

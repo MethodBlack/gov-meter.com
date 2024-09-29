@@ -1,0 +1,67 @@
+{
+  "url": "https://hwb.gov.in/",
+  "requestedUrl": "https://hwb.gov.in/",
+  "timestamp": 1727544366033,
+  "ranks": {
+    "hundos": 247,
+    "performance": 303,
+    "accessibility": 68,
+    "cumulative": 243
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.49,
+    "accessibility": 0.9,
+    "bestPractices": 0.67,
+    "seo": 0.79,
+    "total": 285
+  },
+  "firstContentfulPaint": 5796.052,
+  "firstMeaningfulPaint": 5796.052,
+  "speedIndex": 25074.29100868616,
+  "largestContentfulPaint": 10494.077999999998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.14970343202239672,
+  "timeToInteractive": 5796.052,
+  "maxPotentialFirstInputDelay": 50,
+  "timeToFirstByte": 10234.806,
+  "weight": {
+    "summary": "92 requests • 2.6 MiB",
+    "total": 2715826,
+    "image": 1570155,
+    "imageCount": 36,
+    "script": 479685,
+    "scriptCount": 22,
+    "document": 72183,
+    "font": 159386,
+    "fontCount": 6,
+    "stylesheet": 434417,
+    "stylesheetCount": 27,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 148,
+    "+weight.total": 425,
+    "-weight.document": 364,
+    "+weight.document": 205,
+    "-weight.script": 235,
+    "+weight.script": 277,
+    "-weight.image": 151,
+    "+weight.image": 420,
+    "-weight.font": 220,
+    "+weight.font": 171,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 568,
+    "-totalBlockingTime": 329,
+    "-largestContentfulPaint": 327
+  },
+  "axe": {
+    "passes": 803,
+    "violations": 29
+  }
+}

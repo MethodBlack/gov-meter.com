@@ -1,0 +1,67 @@
+{
+  "url": "https://www.bpcnaini.co.in/",
+  "requestedUrl": "https://www.bpcnaini.co.in/",
+  "timestamp": 1727554754937,
+  "ranks": {
+    "hundos": 390,
+    "performance": 441,
+    "accessibility": 351,
+    "cumulative": 396
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.75,
+    "bestPractices": 0.7,
+    "seo": 0.85,
+    "total": 264
+  },
+  "firstContentfulPaint": 5287.701500000003,
+  "firstMeaningfulPaint": 5287.701500000003,
+  "speedIndex": 14032.813578696185,
+  "largestContentfulPaint": 6545.546000000002,
+  "totalBlockingTime": 6.5,
+  "cumulativeLayoutShift": 0.8955354635903732,
+  "timeToInteractive": 7562.193000000004,
+  "maxPotentialFirstInputDelay": 62,
+  "timeToFirstByte": 435.51200000000017,
+  "weight": {
+    "summary": "47 requests • 1.2 MiB",
+    "total": 1208753,
+    "image": 275588,
+    "imageCount": 22,
+    "script": 457457,
+    "scriptCount": 12,
+    "document": 32667,
+    "font": 44875,
+    "fontCount": 2,
+    "stylesheet": 398166,
+    "stylesheetCount": 10,
+    "thirdParty": 4007,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 62,
+    "+weight.total": 511,
+    "-weight.document": 256,
+    "+weight.document": 313,
+    "-weight.script": 224,
+    "+weight.script": 288,
+    "-weight.image": 37,
+    "+weight.image": 534,
+    "-weight.font": 32,
+    "+weight.font": 359,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 369,
+    "-totalBlockingTime": 12,
+    "-largestContentfulPaint": 106
+  },
+  "axe": {
+    "passes": 597,
+    "violations": 49
+  }
+}

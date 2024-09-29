@@ -1,0 +1,67 @@
+{
+  "url": "https://www.mha.gov.in/en",
+  "requestedUrl": "https://mha.gov.in/",
+  "timestamp": 1727562799553,
+  "ranks": {
+    "hundos": 103,
+    "performance": 211,
+    "accessibility": 33,
+    "cumulative": 102
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "bestPractices": 0.89,
+    "seo": 0.73,
+    "total": 310
+  },
+  "firstContentfulPaint": 3057.0571499999996,
+  "firstMeaningfulPaint": 3057.0571499999996,
+  "speedIndex": 9698.184166622534,
+  "largestContentfulPaint": 12017.937549999991,
+  "totalBlockingTime": 27.5,
+  "cumulativeLayoutShift": 0.1525203455410886,
+  "timeToInteractive": 9268.488274999996,
+  "maxPotentialFirstInputDelay": 98,
+  "timeToFirstByte": 130.065,
+  "weight": {
+    "summary": "198 requests • 19.0 MiB",
+    "total": 19876726,
+    "image": 18719454,
+    "imageCount": 39,
+    "script": 814264,
+    "scriptCount": 67,
+    "document": 20599,
+    "font": 164842,
+    "fontCount": 7,
+    "stylesheet": 156551,
+    "stylesheetCount": 80,
+    "thirdParty": 950804,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 507,
+    "+weight.total": 66,
+    "-weight.document": 186,
+    "+weight.document": 383,
+    "-weight.script": 332,
+    "+weight.script": 180,
+    "-weight.image": 511,
+    "+weight.image": 60,
+    "-weight.font": 226,
+    "+weight.font": 165,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 213,
+    "-totalBlockingTime": 41,
+    "-largestContentfulPaint": 178
+  },
+  "axe": {
+    "passes": 9,
+    "violations": 5
+  }
+}

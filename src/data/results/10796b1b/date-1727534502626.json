@@ -1,0 +1,66 @@
+{
+  "url": "https://dbtindia.gov.in/",
+  "requestedUrl": "https://dbtindia.gov.in/",
+  "timestamp": 1727558959960,
+  "ranks": {
+    "hundos": 473,
+    "performance": 414,
+    "accessibility": 337,
+    "cumulative": 473
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.36,
+    "accessibility": 0.76,
+    "bestPractices": 0.48,
+    "seo": 0.9,
+    "total": 250
+  },
+  "firstContentfulPaint": 3738.108,
+  "firstMeaningfulPaint": 3738.108,
+  "speedIndex": 16545.982315132333,
+  "largestContentfulPaint": 27453.030999999988,
+  "totalBlockingTime": 922.0000000000018,
+  "cumulativeLayoutShift": 0.0646259754006876,
+  "timeToInteractive": 25296.535000000003,
+  "maxPotentialFirstInputDelay": 1491,
+  "timeToFirstByte": 78.91599999999994,
+  "weight": {
+    "summary": "213 requests • 5.0 MiB",
+    "total": 5267396,
+    "image": 3048564,
+    "imageCount": 141,
+    "script": 1641164,
+    "scriptCount": 36,
+    "document": 237828,
+    "font": 199694,
+    "fontCount": 9,
+    "stylesheet": 92195,
+    "stylesheetCount": 6,
+    "thirdParty": 2360689,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 275,
+    "+weight.total": 298,
+    "-weight.document": 520,
+    "+weight.document": 49,
+    "-weight.script": 460,
+    "+weight.script": 52,
+    "-weight.image": 232,
+    "+weight.image": 339,
+    "-weight.font": 270,
+    "+weight.font": 121,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 110,
+    "-totalBlockingTime": 381,
+    "-largestContentfulPaint": 548
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

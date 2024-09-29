@@ -1,0 +1,67 @@
+{
+  "url": "https://crridom.gov.in/",
+  "requestedUrl": "https://www.crridom.gov.in/",
+  "timestamp": 1727574583578,
+  "ranks": {
+    "hundos": 22,
+    "performance": 133,
+    "accessibility": 20,
+    "cumulative": 22
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.62,
+    "accessibility": 0.95,
+    "bestPractices": 0.89,
+    "seo": 0.89,
+    "total": 335
+  },
+  "firstContentfulPaint": 3829.1215199999997,
+  "firstMeaningfulPaint": 4054.6215199999997,
+  "speedIndex": 4092.241803390798,
+  "largestContentfulPaint": 5406.44316,
+  "totalBlockingTime": 262.5,
+  "cumulativeLayoutShift": 0.11326201961740437,
+  "timeToInteractive": 4257.62152,
+  "maxPotentialFirstInputDelay": 240,
+  "timeToFirstByte": 135.24800000000002,
+  "weight": {
+    "summary": "85 requests • 1.6 MiB",
+    "total": 1646580,
+    "image": 1140544,
+    "imageCount": 59,
+    "script": 371776,
+    "scriptCount": 13,
+    "document": 25291,
+    "font": 78673,
+    "fontCount": 2,
+    "stylesheet": 26656,
+    "stylesheetCount": 5,
+    "thirdParty": 209692,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 86,
+    "+weight.total": 487,
+    "-weight.document": 225,
+    "+weight.document": 344,
+    "-weight.script": 188,
+    "+weight.script": 324,
+    "-weight.image": 114,
+    "+weight.image": 457,
+    "-weight.font": 84,
+    "+weight.font": 307,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 219,
+    "-totalBlockingTime": 113,
+    "-largestContentfulPaint": 78
+  },
+  "axe": {
+    "passes": 1985,
+    "violations": 37
+  }
+}

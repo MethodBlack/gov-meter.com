@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ies.gov.in/",
+  "requestedUrl": "https://www.ies.gov.in/",
+  "timestamp": 1727563897978,
+  "ranks": {
+    "hundos": 482,
+    "performance": 337,
+    "accessibility": 555,
+    "cumulative": 487
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.45,
+    "accessibility": 0.52,
+    "bestPractices": 0.7,
+    "seo": 0.81,
+    "total": 248
+  },
+  "firstContentfulPaint": 3806.7829999999994,
+  "firstMeaningfulPaint": 4208.2519999999995,
+  "speedIndex": 5652.336133548778,
+  "largestContentfulPaint": 6122.9555,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.507228567143266,
+  "timeToInteractive": 4208.2519999999995,
+  "maxPotentialFirstInputDelay": 43,
+  "timeToFirstByte": 102.29000000000008,
+  "weight": {
+    "summary": "47 requests • 2.3 MiB",
+    "total": 2385317,
+    "image": 1634905,
+    "imageCount": 30,
+    "script": 480353,
+    "scriptCount": 9,
+    "document": 15411,
+    "font": 90216,
+    "fontCount": 1,
+    "stylesheet": 164432,
+    "stylesheetCount": 6,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 130,
+    "+weight.total": 443,
+    "-weight.document": 100,
+    "+weight.document": 469,
+    "-weight.script": 236,
+    "+weight.script": 276,
+    "-weight.image": 155,
+    "+weight.image": 416,
+    "-weight.font": 105,
+    "+weight.font": 286,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 175,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 463
+  },
+  "axe": {
+    "passes": 1081,
+    "violations": 288
+  }
+}

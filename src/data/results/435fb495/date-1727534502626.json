@@ -1,0 +1,67 @@
+{
+  "url": "https://www.kioclltd.in/",
+  "requestedUrl": "https://www.kioclltd.in/",
+  "timestamp": 1727547100568,
+  "ranks": {
+    "hundos": 19,
+    "performance": 41,
+    "accessibility": 282,
+    "cumulative": 20
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.85,
+    "accessibility": 0.79,
+    "bestPractices": 0.96,
+    "seo": 0.77,
+    "total": 337
+  },
+  "firstContentfulPaint": 2124.611,
+  "firstMeaningfulPaint": 2518.435,
+  "speedIndex": 7191.785103694752,
+  "largestContentfulPaint": 3101.171,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0035347294406138726,
+  "timeToInteractive": 2518.435,
+  "maxPotentialFirstInputDelay": 32,
+  "timeToFirstByte": 155.64499999999998,
+  "weight": {
+    "summary": "52 requests • 16.3 MiB",
+    "total": 17141090,
+    "image": 16819600,
+    "imageCount": 35,
+    "script": 132436,
+    "scriptCount": 7,
+    "document": 35910,
+    "font": 123575,
+    "fontCount": 2,
+    "stylesheet": 30751,
+    "stylesheetCount": 7,
+    "thirdParty": 298790,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 484,
+    "+weight.total": 89,
+    "-weight.document": 264,
+    "+weight.document": 305,
+    "-weight.script": 43,
+    "+weight.script": 469,
+    "-weight.image": 498,
+    "+weight.image": 73,
+    "-weight.font": 162,
+    "+weight.font": 229,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 258,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 32
+  },
+  "axe": {
+    "passes": 686,
+    "violations": 67
+  }
+}

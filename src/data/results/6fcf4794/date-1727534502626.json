@@ -1,0 +1,67 @@
+{
+  "url": "https://ongcvidesh.com/",
+  "requestedUrl": "https://www.ongcvidesh.com/",
+  "timestamp": 1727550178553,
+  "ranks": {
+    "hundos": 439,
+    "performance": 388,
+    "accessibility": 247,
+    "cumulative": 436
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.39,
+    "accessibility": 0.81,
+    "bestPractices": 0.67,
+    "seo": 0.7,
+    "total": 257
+  },
+  "firstContentfulPaint": 9388.357,
+  "firstMeaningfulPaint": 9388.357,
+  "speedIndex": 18467.86770514497,
+  "largestContentfulPaint": 17514.07,
+  "totalBlockingTime": 627,
+  "cumulativeLayoutShift": 0.053459708848593135,
+  "timeToInteractive": 26505.24989825439,
+  "maxPotentialFirstInputDelay": 252,
+  "timeToFirstByte": 283.1270000000002,
+  "weight": {
+    "summary": "99 requests • 6.6 MiB",
+    "total": 6917080,
+    "image": 4630078,
+    "imageCount": 29,
+    "script": 1144878,
+    "scriptCount": 35,
+    "document": 163793,
+    "font": 203897,
+    "fontCount": 6,
+    "stylesheet": 757338,
+    "stylesheetCount": 18,
+    "thirdParty": 861147,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 333,
+    "+weight.total": 240,
+    "-weight.document": 470,
+    "+weight.document": 99,
+    "-weight.script": 401,
+    "+weight.script": 111,
+    "-weight.image": 312,
+    "+weight.image": 259,
+    "-weight.font": 275,
+    "+weight.font": 116,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 330,
+    "-totalBlockingTime": 149,
+    "-largestContentfulPaint": 222
+  },
+  "axe": {
+    "passes": 1277,
+    "violations": 47
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://dpd.gov.in/",
+  "requestedUrl": "https://dpd.gov.in/",
+  "timestamp": 1727560621792,
+  "ranks": {
+    "hundos": 506,
+    "performance": 88,
+    "accessibility": 560,
+    "cumulative": 505
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.7,
+    "accessibility": 0.49,
+    "bestPractices": 0.81,
+    "seo": 0.42,
+    "total": 242
+  },
+  "firstContentfulPaint": 3104.716,
+  "firstMeaningfulPaint": 3104.716,
+  "speedIndex": 4674.949687992598,
+  "largestContentfulPaint": 6007.0740000000005,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.00022570936503172706,
+  "timeToInteractive": 3104.716,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 69.99199999999996,
+  "weight": {
+    "summary": "37 requests • 3.8 MiB",
+    "total": 3991776,
+    "image": 3424471,
+    "imageCount": 18,
+    "script": 167524,
+    "scriptCount": 6,
+    "document": 22404,
+    "font": 114424,
+    "fontCount": 3,
+    "stylesheet": 262953,
+    "stylesheetCount": 9,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 215,
+    "+weight.total": 358,
+    "-weight.document": 208,
+    "+weight.document": 361,
+    "-weight.script": 62,
+    "+weight.script": 450,
+    "-weight.image": 255,
+    "+weight.image": 316,
+    "-weight.font": 149,
+    "+weight.font": 242,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 89,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 95
+  },
+  "axe": {
+    "passes": 385,
+    "violations": 34
+  }
+}

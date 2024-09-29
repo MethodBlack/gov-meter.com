@@ -1,0 +1,67 @@
+{
+  "url": "https://msde.gov.in/",
+  "requestedUrl": "https://msde.gov.in/",
+  "timestamp": 1727552106789,
+  "ranks": {
+    "hundos": 435,
+    "performance": 481,
+    "accessibility": 484,
+    "cumulative": 433
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.32,
+    "accessibility": 0.64,
+    "bestPractices": 0.93,
+    "seo": 0.69,
+    "total": 258
+  },
+  "firstContentfulPaint": 4707.3240000000005,
+  "firstMeaningfulPaint": 4707.3240000000005,
+  "speedIndex": 17537.314273726824,
+  "largestContentfulPaint": 13356.034749999999,
+  "totalBlockingTime": 44,
+  "cumulativeLayoutShift": 1.0019609412500954,
+  "timeToInteractive": 8609.156749999998,
+  "maxPotentialFirstInputDelay": 113,
+  "timeToFirstByte": 898.3849999999998,
+  "weight": {
+    "summary": "144 requests • 7.6 MiB",
+    "total": 7953697,
+    "image": 7363487,
+    "imageCount": 40,
+    "script": 322343,
+    "scriptCount": 31,
+    "document": 31656,
+    "font": 141671,
+    "fontCount": 7,
+    "stylesheet": 94022,
+    "stylesheetCount": 64,
+    "thirdParty": 192628,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 367,
+    "+weight.total": 206,
+    "-weight.document": 252,
+    "+weight.document": 317,
+    "-weight.script": 146,
+    "+weight.script": 366,
+    "-weight.image": 393,
+    "+weight.image": 178,
+    "-weight.font": 193,
+    "+weight.font": 198,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 472,
+    "-totalBlockingTime": 216,
+    "-largestContentfulPaint": 507
+  },
+  "axe": {
+    "passes": 762,
+    "violations": 12
+  }
+}

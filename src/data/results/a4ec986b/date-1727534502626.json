@@ -1,0 +1,67 @@
+{
+  "url": "https://jutogh.cantt.gov.in/",
+  "requestedUrl": "https://jutogh.cantt.gov.in/",
+  "timestamp": 1727555598301,
+  "ranks": {
+    "hundos": 382,
+    "performance": 438,
+    "accessibility": 180,
+    "cumulative": 375
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.75,
+    "total": 265
+  },
+  "firstContentfulPaint": 4224.052250000002,
+  "firstMeaningfulPaint": 4224.052250000002,
+  "speedIndex": 10587.404083828798,
+  "largestContentfulPaint": 38089.15700000002,
+  "totalBlockingTime": 26,
+  "cumulativeLayoutShift": 0.7871548624632618,
+  "timeToInteractive": 20937.315000000013,
+  "maxPotentialFirstInputDelay": 102,
+  "timeToFirstByte": 1642.4289999999999,
+  "weight": {
+    "summary": "63 requests • 5.8 MiB",
+    "total": 6131413,
+    "image": 5728132,
+    "imageCount": 20,
+    "script": 146516,
+    "scriptCount": 19,
+    "document": 12890,
+    "font": 78164,
+    "fontCount": 1,
+    "stylesheet": 165711,
+    "stylesheetCount": 22,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 316,
+    "+weight.total": 257,
+    "-weight.document": 63,
+    "+weight.document": 506,
+    "-weight.script": 50,
+    "+weight.script": 462,
+    "-weight.image": 345,
+    "+weight.image": 226,
+    "-weight.font": 82,
+    "+weight.font": 309,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 516,
+    "-totalBlockingTime": 203,
+    "-largestContentfulPaint": 563
+  },
+  "axe": {
+    "passes": 622,
+    "violations": 20
+  }
+}

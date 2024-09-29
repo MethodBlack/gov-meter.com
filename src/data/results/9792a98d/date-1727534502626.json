@@ -1,0 +1,67 @@
+{
+  "url": "https://rni.nic.in/",
+  "requestedUrl": "https://rni.nic.in/",
+  "timestamp": 1727567540031,
+  "ranks": {
+    "hundos": 500,
+    "performance": 191,
+    "accessibility": 532,
+    "cumulative": 499
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.56,
+    "accessibility": 0.58,
+    "bestPractices": 0.63,
+    "seo": 0.66,
+    "total": 243
+  },
+  "firstContentfulPaint": 6797.764,
+  "firstMeaningfulPaint": 6797.764,
+  "speedIndex": 9298.12178950183,
+  "largestContentfulPaint": 13718.292,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.002841544056396164,
+  "timeToInteractive": 6797.764,
+  "maxPotentialFirstInputDelay": 47,
+  "timeToFirstByte": 447.24699999999996,
+  "weight": {
+    "summary": "52 requests • 3.8 MiB",
+    "total": 3956214,
+    "image": 1481547,
+    "imageCount": 21,
+    "script": 536835,
+    "scriptCount": 12,
+    "document": 288883,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 567605,
+    "stylesheetCount": 12,
+    "thirdParty": 8558,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 210,
+    "+weight.total": 363,
+    "-weight.document": 534,
+    "+weight.document": 35,
+    "-weight.script": 253,
+    "+weight.script": 259,
+    "-weight.image": 139,
+    "+weight.image": 432,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 372,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 199
+  },
+  "axe": {
+    "passes": 1979,
+    "violations": 266
+  }
+}

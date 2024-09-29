@@ -1,0 +1,67 @@
+{
+  "url": "https://pachmarhi.cantt.gov.in/",
+  "requestedUrl": "https://pachmarhi.cantt.gov.in/",
+  "timestamp": 1727555789991,
+  "ranks": {
+    "hundos": 401,
+    "performance": 465,
+    "accessibility": 182,
+    "cumulative": 399
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.32,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.75,
+    "total": 263
+  },
+  "firstContentfulPaint": 5202.247500000002,
+  "firstMeaningfulPaint": 5202.247500000002,
+  "speedIndex": 9749.961695919505,
+  "largestContentfulPaint": 28747.082499999968,
+  "totalBlockingTime": 39.5,
+  "cumulativeLayoutShift": 1.2082594964403777,
+  "timeToInteractive": 16066.367499999986,
+  "maxPotentialFirstInputDelay": 129,
+  "timeToFirstByte": 696.874,
+  "weight": {
+    "summary": "77 requests • 3.9 MiB",
+    "total": 4109581,
+    "image": 3444075,
+    "imageCount": 18,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 14747,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 226061,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 221,
+    "+weight.total": 352,
+    "-weight.document": 87,
+    "+weight.document": 482,
+    "-weight.script": 169,
+    "+weight.script": 343,
+    "-weight.image": 257,
+    "+weight.image": 314,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 427,
+    "-totalBlockingTime": 211,
+    "-largestContentfulPaint": 554
+  },
+  "axe": {
+    "passes": 728,
+    "violations": 25
+  }
+}

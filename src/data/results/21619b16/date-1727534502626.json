@@ -1,0 +1,67 @@
+{
+  "url": "https://www.dgft.gov.in/CP/",
+  "requestedUrl": "https://dgft.gov.in/",
+  "timestamp": 1727541884764,
+  "ranks": {
+    "hundos": 488,
+    "performance": 569,
+    "accessibility": 329,
+    "cumulative": 484
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.03,
+    "accessibility": 0.76,
+    "bestPractices": 0.89,
+    "seo": 0.8,
+    "total": 248
+  },
+  "firstContentfulPaint": 12384.419000000004,
+  "firstMeaningfulPaint": 12384.419000000004,
+  "speedIndex": 18507.934515878263,
+  "largestContentfulPaint": 22030.735000000004,
+  "totalBlockingTime": 2050,
+  "cumulativeLayoutShift": 0.8854098272044735,
+  "timeToInteractive": 33848.9155,
+  "maxPotentialFirstInputDelay": 1761.0000000000036,
+  "timeToFirstByte": 105.84700000000001,
+  "weight": {
+    "summary": "247 requests • 7.3 MiB",
+    "total": 7699345,
+    "image": 4012936,
+    "imageCount": 149,
+    "script": 2890922,
+    "scriptCount": 70,
+    "document": 353727,
+    "font": 121401,
+    "fontCount": 2,
+    "stylesheet": 316579,
+    "stylesheetCount": 15,
+    "thirdParty": 4173381,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 355,
+    "+weight.total": 218,
+    "-weight.document": 548,
+    "+weight.document": 21,
+    "-weight.script": 495,
+    "+weight.script": 17,
+    "-weight.image": 273,
+    "+weight.image": 298,
+    "-weight.font": 160,
+    "+weight.font": 231,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 182,
+    "-totalBlockingTime": 394,
+    "-largestContentfulPaint": 534
+  },
+  "axe": {
+    "passes": 1060,
+    "violations": 67
+  }
+}

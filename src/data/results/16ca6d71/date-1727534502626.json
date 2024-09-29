@@ -1,0 +1,66 @@
+{
+  "url": "https://www.antrix.co.in/",
+  "requestedUrl": "https://www.antrix.co.in/",
+  "timestamp": 1727535008612,
+  "ranks": {
+    "hundos": 368,
+    "performance": 321,
+    "accessibility": 516,
+    "cumulative": 371
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.47,
+    "accessibility": 0.61,
+    "bestPractices": 0.89,
+    "seo": 0.69,
+    "total": 266
+  },
+  "firstContentfulPaint": 9660.580999999998,
+  "firstMeaningfulPaint": 9660.580999999998,
+  "speedIndex": 13256.277757466949,
+  "largestContentfulPaint": 21697.686,
+  "totalBlockingTime": 16,
+  "cumulativeLayoutShift": 0.17329403471978674,
+  "timeToInteractive": 11656.007000000001,
+  "maxPotentialFirstInputDelay": 82,
+  "timeToFirstByte": 523.363,
+  "weight": {
+    "summary": "85 requests • 5.6 MiB",
+    "total": 5835323,
+    "image": 4581442,
+    "imageCount": 26,
+    "script": 499432,
+    "scriptCount": 26,
+    "document": 56124,
+    "font": 266920,
+    "fontCount": 4,
+    "stylesheet": 431405,
+    "stylesheetCount": 28,
+    "thirdParty": 33846,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 300,
+    "+weight.total": 273,
+    "-weight.document": 330,
+    "+weight.document": 239,
+    "-weight.script": 241,
+    "+weight.script": 271,
+    "-weight.image": 307,
+    "+weight.image": 264,
+    "-weight.font": 313,
+    "+weight.font": 78,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 388,
+    "-totalBlockingTime": 199,
+    "-largestContentfulPaint": 533
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

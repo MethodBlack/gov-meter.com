@@ -1,0 +1,67 @@
+{
+  "url": "https://bprd.nic.in/",
+  "requestedUrl": "https://bprd.nic.in/",
+  "timestamp": 1727555059199,
+  "ranks": {
+    "hundos": 234,
+    "performance": 261,
+    "accessibility": 302,
+    "cumulative": 237
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.53,
+    "accessibility": 0.78,
+    "bestPractices": 0.89,
+    "seo": 0.66,
+    "total": 286
+  },
+  "firstContentfulPaint": 3712.9360000000006,
+  "firstMeaningfulPaint": 3712.9360000000006,
+  "speedIndex": 13479.953317137017,
+  "largestContentfulPaint": 18846.928,
+  "totalBlockingTime": 26,
+  "cumulativeLayoutShift": 0.1414427186724498,
+  "timeToInteractive": 16278.557999999997,
+  "maxPotentialFirstInputDelay": 77,
+  "timeToFirstByte": 467.054,
+  "weight": {
+    "summary": "94 requests • 13.9 MiB",
+    "total": 14585885,
+    "image": 13708518,
+    "imageCount": 62,
+    "script": 624705,
+    "scriptCount": 10,
+    "document": 12157,
+    "font": 163153,
+    "fontCount": 7,
+    "stylesheet": 76812,
+    "stylesheetCount": 13,
+    "thirdParty": 258337,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 460,
+    "+weight.total": 113,
+    "-weight.document": 53,
+    "+weight.document": 516,
+    "-weight.script": 288,
+    "+weight.script": 224,
+    "-weight.image": 470,
+    "+weight.image": 101,
+    "-weight.font": 223,
+    "+weight.font": 168,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 378,
+    "-totalBlockingTime": 203,
+    "-largestContentfulPaint": 527
+  },
+  "axe": {
+    "passes": 1770,
+    "violations": 124
+  }
+}

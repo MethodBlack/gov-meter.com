@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nsic.co.in/",
+  "requestedUrl": "https://www.nsic.co.in/",
+  "timestamp": 1727566936125,
+  "ranks": {
+    "hundos": 216,
+    "performance": 264,
+    "accessibility": 311,
+    "cumulative": 219
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.53,
+    "accessibility": 0.77,
+    "bestPractices": 0.67,
+    "seo": 0.92,
+    "total": 289
+  },
+  "firstContentfulPaint": 7838.362999999999,
+  "firstMeaningfulPaint": 11737.241999999998,
+  "speedIndex": 22273.28703254318,
+  "largestContentfulPaint": 10292.542999999998,
+  "totalBlockingTime": 153.5,
+  "cumulativeLayoutShift": 0.023343664292934354,
+  "timeToInteractive": 34320.242,
+  "maxPotentialFirstInputDelay": 108,
+  "timeToFirstByte": 125.03999999999996,
+  "weight": {
+    "summary": "107 requests • 9.5 MiB",
+    "total": 9923741,
+    "image": 7747655,
+    "imageCount": 44,
+    "script": 1145088,
+    "scriptCount": 17,
+    "document": 169337,
+    "font": 177405,
+    "fontCount": 8,
+    "stylesheet": 595887,
+    "stylesheetCount": 9,
+    "thirdParty": 1195352,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 406,
+    "+weight.total": 167,
+    "-weight.document": 476,
+    "+weight.document": 93,
+    "-weight.script": 402,
+    "+weight.script": 110,
+    "-weight.image": 401,
+    "+weight.image": 170,
+    "-weight.font": 250,
+    "+weight.font": 141,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 203,
+    "-totalBlockingTime": 94,
+    "-largestContentfulPaint": 154
+  },
+  "axe": {
+    "passes": 976,
+    "violations": 52
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://cvc.gov.in/",
+  "requestedUrl": "https://cvc.gov.in/",
+  "timestamp": 1727537550780,
+  "ranks": {
+    "hundos": 5,
+    "performance": 43,
+    "accessibility": 35,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.84,
+    "accessibility": 0.93,
+    "bestPractices": 0.93,
+    "seo": 0.85,
+    "total": 355
+  },
+  "firstContentfulPaint": 2613.3089999999997,
+  "firstMeaningfulPaint": 2613.3089999999997,
+  "speedIndex": 2690.234544985158,
+  "largestContentfulPaint": 3896.97,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0006886796254683247,
+  "timeToInteractive": 2613.3089999999997,
+  "maxPotentialFirstInputDelay": 29,
+  "timeToFirstByte": 29.361000000000004,
+  "weight": {
+    "summary": "23 requests • 373.4 KiB",
+    "total": 382400,
+    "image": 42671,
+    "imageCount": 9,
+    "script": 221991,
+    "scriptCount": 5,
+    "document": 3975,
+    "font": 50436,
+    "fontCount": 1,
+    "stylesheet": 63327,
+    "stylesheetCount": 7,
+    "thirdParty": 51497,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 18,
+    "+weight.total": 555,
+    "-weight.document": 10,
+    "+weight.document": 559,
+    "-weight.script": 84,
+    "+weight.script": 428,
+    "-weight.image": 14,
+    "+weight.image": 557,
+    "-weight.font": 38,
+    "+weight.font": 353,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 11,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 42
+  },
+  "axe": {
+    "passes": 157,
+    "violations": 11
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://www.sscnwr.org/",
+  "requestedUrl": "https://www.sscnwr.org/",
+  "timestamp": 1727569833539,
+  "ranks": {
+    "hundos": 210,
+    "performance": 68,
+    "accessibility": 436,
+    "cumulative": 210
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.75,
+    "accessibility": 0.7,
+    "bestPractices": 0.7,
+    "seo": 0.75,
+    "total": 290
+  },
+  "firstContentfulPaint": 1914.351,
+  "firstMeaningfulPaint": 1914.351,
+  "speedIndex": 6856.067122959619,
+  "largestContentfulPaint": 4645.8009999999995,
+  "totalBlockingTime": 96,
+  "cumulativeLayoutShift": 3.1190839463769213e-7,
+  "timeToInteractive": 9472.579000000002,
+  "maxPotentialFirstInputDelay": 232,
+  "timeToFirstByte": 327.46500000000003,
+  "weight": {
+    "summary": "60 requests • 1.7 MiB",
+    "total": 1782708,
+    "image": 1144505,
+    "imageCount": 23,
+    "script": 478356,
+    "scriptCount": 19,
+    "document": 15564,
+    "font": 84168,
+    "fontCount": 1,
+    "stylesheet": 58444,
+    "stylesheetCount": 13,
+    "thirdParty": 291185,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 94,
+    "+weight.total": 479,
+    "-weight.document": 111,
+    "+weight.document": 458,
+    "-weight.script": 234,
+    "+weight.script": 278,
+    "-weight.image": 117,
+    "+weight.image": 454,
+    "-weight.font": 94,
+    "+weight.font": 297,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 344,
+    "-totalBlockingTime": 78,
+    "-largestContentfulPaint": 57
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

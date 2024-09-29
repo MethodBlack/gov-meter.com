@@ -1,0 +1,67 @@
+{
+  "url": "https://akshayurja.gov.in/",
+  "requestedUrl": "https://akshayurja.gov.in/",
+  "timestamp": 1727553923011,
+  "ranks": {
+    "hundos": 74,
+    "performance": 141,
+    "accessibility": 239,
+    "cumulative": 74
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.62,
+    "accessibility": 0.81,
+    "bestPractices": 0.89,
+    "seo": 0.83,
+    "total": 315
+  },
+  "firstContentfulPaint": 5007.557999999999,
+  "firstMeaningfulPaint": 5007.558,
+  "speedIndex": 6879.643222010375,
+  "largestContentfulPaint": 6354.8369999999995,
+  "totalBlockingTime": 15.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 15566.302000000003,
+  "maxPotentialFirstInputDelay": 81,
+  "timeToFirstByte": 83.38900000000012,
+  "weight": {
+    "summary": "28 requests • 2.8 MiB",
+    "total": 2969095,
+    "image": 1039865,
+    "imageCount": 11,
+    "script": 149330,
+    "scriptCount": 7,
+    "document": 17160,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 359391,
+    "stylesheetCount": 6,
+    "thirdParty": 32955,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 164,
+    "+weight.total": 409,
+    "-weight.document": 144,
+    "+weight.document": 425,
+    "-weight.script": 53,
+    "+weight.script": 459,
+    "-weight.image": 107,
+    "+weight.image": 464,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 126,
+    "-totalBlockingTime": 343,
+    "-largestContentfulPaint": 300
+  },
+  "axe": {
+    "passes": 124,
+    "violations": 5
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.centralcoalfields.in/hindi/ind/indexh.php",
+  "requestedUrl": "https://www.centralcoalfields.in/",
+  "timestamp": 1727572924424,
+  "ranks": {
+    "hundos": 184,
+    "performance": 206,
+    "accessibility": 253,
+    "cumulative": 185
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.56,
+    "accessibility": 0.81,
+    "bestPractices": 0.85,
+    "seo": 0.73,
+    "total": 295
+  },
+  "firstContentfulPaint": 5279.069000000001,
+  "firstMeaningfulPaint": 5543.341500000002,
+  "speedIndex": 17428.88848684639,
+  "largestContentfulPaint": 17484.148999999998,
+  "totalBlockingTime": 7,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 13330.274,
+  "maxPotentialFirstInputDelay": 64,
+  "timeToFirstByte": 80.295,
+  "weight": {
+    "summary": "77 requests • 3.4 MiB",
+    "total": 3578187,
+    "image": 3057965,
+    "imageCount": 21,
+    "script": 230683,
+    "scriptCount": 31,
+    "document": 26670,
+    "font": 155554,
+    "fontCount": 5,
+    "stylesheet": 106507,
+    "stylesheetCount": 16,
+    "thirdParty": 75312,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 192,
+    "+weight.total": 381,
+    "-weight.document": 235,
+    "+weight.document": 334,
+    "-weight.script": 100,
+    "+weight.script": 412,
+    "-weight.image": 234,
+    "+weight.image": 337,
+    "-weight.font": 212,
+    "+weight.font": 179,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 115,
+    "-totalBlockingTime": 333,
+    "-largestContentfulPaint": 359
+  },
+  "axe": {
+    "passes": 1009,
+    "violations": 97
+  }
+}

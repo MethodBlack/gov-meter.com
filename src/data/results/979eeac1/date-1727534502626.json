@@ -1,0 +1,67 @@
+{
+  "url": "https://aaccc.gov.in/",
+  "requestedUrl": "https://aaccc.gov.in/",
+  "timestamp": 1727535261432,
+  "ranks": {
+    "hundos": 69,
+    "performance": 282,
+    "accessibility": 51,
+    "cumulative": 69
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.5,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "seo": 0.83,
+    "total": 317
+  },
+  "firstContentfulPaint": 3258.0179999999996,
+  "firstMeaningfulPaint": 4363.851,
+  "speedIndex": 6617.366661868886,
+  "largestContentfulPaint": 5414.779500000001,
+  "totalBlockingTime": 27.5,
+  "cumulativeLayoutShift": 0.3728092632479556,
+  "timeToInteractive": 6638.435500000002,
+  "maxPotentialFirstInputDelay": 79.00000000000023,
+  "timeToFirstByte": 86.49300000000005,
+  "weight": {
+    "summary": "49 requests • 915.3 KiB",
+    "total": 937267,
+    "image": 289025,
+    "imageCount": 10,
+    "script": 236614,
+    "scriptCount": 16,
+    "document": 13190,
+    "font": 193534,
+    "fontCount": 6,
+    "stylesheet": 204364,
+    "stylesheetCount": 15,
+    "thirdParty": 333643,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 45,
+    "+weight.total": 528,
+    "-weight.document": 66,
+    "+weight.document": 503,
+    "-weight.script": 106,
+    "+weight.script": 406,
+    "-weight.image": 39,
+    "+weight.image": 532,
+    "-weight.font": 264,
+    "+weight.font": 127,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 139,
+    "-totalBlockingTime": 348,
+    "-largestContentfulPaint": 452
+  },
+  "axe": {
+    "passes": 541,
+    "violations": 3
+  }
+}

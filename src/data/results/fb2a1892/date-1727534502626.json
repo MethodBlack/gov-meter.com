@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cbaurangabad.in/lander",
+  "requestedUrl": "https://www.cbaurangabad.in/",
+  "timestamp": 1727536237477,
+  "ranks": {
+    "hundos": 129,
+    "performance": 57,
+    "accessibility": 307,
+    "cumulative": 128
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.79,
+    "accessibility": 0.77,
+    "bestPractices": 0.74,
+    "seo": 0.75,
+    "total": 305
+  },
+  "firstContentfulPaint": 2315.1794999999997,
+  "firstMeaningfulPaint": 2739.64175,
+  "speedIndex": 5871.156270926426,
+  "largestContentfulPaint": 3828.0285,
+  "totalBlockingTime": 51.5,
+  "cumulativeLayoutShift": 0.07707481475871236,
+  "timeToInteractive": 3874.3289999999997,
+  "maxPotentialFirstInputDelay": 134,
+  "timeToFirstByte": 68.27,
+  "weight": {
+    "summary": "32 requests • 414.0 KiB",
+    "total": 423964,
+    "image": 2876,
+    "imageCount": 7,
+    "script": 336834,
+    "scriptCount": 7,
+    "document": 6709,
+    "font": 66241,
+    "fontCount": 2,
+    "stylesheet": 7029,
+    "stylesheetCount": 2,
+    "thirdParty": 422749,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 19,
+    "+weight.total": 554,
+    "-weight.document": 18,
+    "+weight.document": 551,
+    "-weight.script": 158,
+    "+weight.script": 354,
+    "-weight.image": 4,
+    "+weight.image": 567,
+    "-weight.font": 51,
+    "+weight.font": 340,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 84,
+    "-totalBlockingTime": 61,
+    "-largestContentfulPaint": 41
+  },
+  "axe": {
+    "passes": 129,
+    "violations": 11
+  }
+}

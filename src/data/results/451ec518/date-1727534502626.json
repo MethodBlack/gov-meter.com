@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ncmrwf.gov.in/",
+  "requestedUrl": "https://www.ncmrwf.gov.in/",
+  "timestamp": 1727581885353,
+  "ranks": {
+    "hundos": 176,
+    "performance": 331,
+    "accessibility": 232,
+    "cumulative": 175
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.46,
+    "accessibility": 0.82,
+    "bestPractices": 0.93,
+    "seo": 0.75,
+    "total": 296
+  },
+  "firstContentfulPaint": 7974.5830000000005,
+  "firstMeaningfulPaint": 7974.5830000000005,
+  "speedIndex": 15254.66780326303,
+  "largestContentfulPaint": 29655.166000000005,
+  "totalBlockingTime": 2.5,
+  "cumulativeLayoutShift": 0.19694664108258714,
+  "timeToInteractive": 12028.583,
+  "maxPotentialFirstInputDelay": 55,
+  "timeToFirstByte": 20.811999999999898,
+  "weight": {
+    "summary": "35 requests • 7.4 MiB",
+    "total": 7715216,
+    "image": 6487942,
+    "imageCount": 27,
+    "script": 895768,
+    "scriptCount": 5,
+    "document": 76911,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 254595,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 356,
+    "+weight.total": 217,
+    "-weight.document": 368,
+    "+weight.document": 201,
+    "-weight.script": 360,
+    "+weight.script": 152,
+    "-weight.image": 367,
+    "+weight.image": 204,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 5,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 254
+  },
+  "axe": {
+    "passes": 516,
+    "violations": 84
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://iomou.nic.in/",
+  "requestedUrl": "https://iomou.nic.in/",
+  "timestamp": 1727580295310,
+  "ranks": {
+    "hundos": 491,
+    "performance": 442,
+    "accessibility": 268,
+    "cumulative": 491
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.8,
+    "bestPractices": 0.67,
+    "seo": 0.65,
+    "total": 246
+  },
+  "firstContentfulPaint": 5409.567000000001,
+  "firstMeaningfulPaint": 5782.305,
+  "speedIndex": 19061.54970701871,
+  "largestContentfulPaint": 25204.95400000001,
+  "totalBlockingTime": 86.5,
+  "cumulativeLayoutShift": 0.49501062907996257,
+  "timeToInteractive": 20085.7575,
+  "maxPotentialFirstInputDelay": 142,
+  "timeToFirstByte": 155.99399999999997,
+  "weight": {
+    "summary": "141 requests • 13.5 MiB",
+    "total": 14104041,
+    "image": 11592876,
+    "imageCount": 71,
+    "script": 2103215,
+    "scriptCount": 38,
+    "document": 21310,
+    "font": 259875,
+    "fontCount": 7,
+    "stylesheet": 126131,
+    "stylesheetCount": 20,
+    "thirdParty": 436950,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 456,
+    "+weight.total": 117,
+    "-weight.document": 194,
+    "+weight.document": 375,
+    "-weight.script": 479,
+    "+weight.script": 33,
+    "-weight.image": 449,
+    "+weight.image": 122,
+    "-weight.font": 309,
+    "+weight.font": 82,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 260,
+    "-totalBlockingTime": 74,
+    "-largestContentfulPaint": 248
+  },
+  "axe": {
+    "passes": 1445,
+    "violations": 144
+  }
+}

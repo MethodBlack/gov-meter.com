@@ -1,0 +1,67 @@
+{
+  "url": "https://www.idtr.gov.in/",
+  "requestedUrl": "https://www.idtr.gov.in/",
+  "timestamp": 1727570305440,
+  "ranks": {
+    "hundos": 496,
+    "performance": 358,
+    "accessibility": 500,
+    "cumulative": 516
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.43,
+    "accessibility": 0.63,
+    "bestPractices": 0.59,
+    "seo": 0.74,
+    "total": 245
+  },
+  "firstContentfulPaint": 5429.743,
+  "firstMeaningfulPaint": 5527.112,
+  "speedIndex": 16020.337447711972,
+  "largestContentfulPaint": 15239.313,
+  "totalBlockingTime": 472,
+  "cumulativeLayoutShift": 0.06564208687727825,
+  "timeToInteractive": 19687.4625,
+  "maxPotentialFirstInputDelay": 224,
+  "timeToFirstByte": 136.54799999999997,
+  "weight": {
+    "summary": "134 requests • 3.6 MiB",
+    "total": 3785882,
+    "image": 1620875,
+    "imageCount": 25,
+    "script": 1472199,
+    "scriptCount": 27,
+    "document": 178098,
+    "font": 185165,
+    "fontCount": 10,
+    "stylesheet": 150029,
+    "stylesheetCount": 6,
+    "thirdParty": 2497428,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 200,
+    "+weight.total": 373,
+    "-weight.document": 486,
+    "+weight.document": 83,
+    "-weight.script": 443,
+    "+weight.script": 69,
+    "-weight.image": 154,
+    "+weight.image": 417,
+    "-weight.font": 254,
+    "+weight.font": 137,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 222,
+    "-totalBlockingTime": 131,
+    "-largestContentfulPaint": 207
+  },
+  "axe": {
+    "passes": 1198,
+    "violations": 93
+  }
+}

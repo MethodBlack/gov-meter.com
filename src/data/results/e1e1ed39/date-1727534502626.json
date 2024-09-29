@@ -1,0 +1,67 @@
+{
+  "url": "https://ibm.gov.in/IBMPortal/",
+  "requestedUrl": "https://ibm.gov.in/index.php?c=pages&m=index&id=225",
+  "timestamp": 1727563836617,
+  "ranks": {
+    "hundos": 289,
+    "performance": 249,
+    "accessibility": 442,
+    "cumulative": 292
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.54,
+    "accessibility": 0.74,
+    "bestPractices": 0.85,
+    "seo": 0.64,
+    "total": 277
+  },
+  "firstContentfulPaint": 14111.273000000001,
+  "firstMeaningfulPaint": 14336.273000000001,
+  "speedIndex": 15429.608284289618,
+  "largestContentfulPaint": 15461.273000000001,
+  "totalBlockingTime": 50,
+  "cumulativeLayoutShift": 0.06384419743597611,
+  "timeToInteractive": 19061.273,
+  "maxPotentialFirstInputDelay": 150,
+  "timeToFirstByte": 813.62,
+  "weight": {
+    "summary": "95 requests • 5.7 MiB",
+    "total": 6002407,
+    "image": 1536083,
+    "imageCount": 25,
+    "script": 3139422,
+    "scriptCount": 34,
+    "document": 51029,
+    "font": 79607,
+    "fontCount": 9,
+    "stylesheet": 453283,
+    "stylesheetCount": 20,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 309,
+    "+weight.total": 264,
+    "-weight.document": 316,
+    "+weight.document": 253,
+    "-weight.script": 498,
+    "+weight.script": 14,
+    "-weight.image": 146,
+    "+weight.image": 425,
+    "-weight.font": 87,
+    "+weight.font": 304,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 456,
+    "-totalBlockingTime": 222,
+    "-largestContentfulPaint": 516
+  },
+  "axe": {
+    "passes": 2025,
+    "violations": 62
+  }
+}

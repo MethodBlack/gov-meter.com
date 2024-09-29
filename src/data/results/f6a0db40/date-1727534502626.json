@@ -1,0 +1,67 @@
+{
+  "url": "https://cbc.gov.in/",
+  "requestedUrl": "https://cbc.gov.in/",
+  "timestamp": 1727555951356,
+  "ranks": {
+    "hundos": 200,
+    "performance": 310,
+    "accessibility": 137,
+    "cumulative": 200
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.48,
+    "accessibility": 0.85,
+    "bestPractices": 0.85,
+    "seo": 0.74,
+    "total": 292
+  },
+  "firstContentfulPaint": 9410.870999999996,
+  "firstMeaningfulPaint": 9410.870999999996,
+  "speedIndex": 16428.864247164594,
+  "largestContentfulPaint": 17781.209499999997,
+  "totalBlockingTime": 310.5,
+  "cumulativeLayoutShift": 0.05054296914793254,
+  "timeToInteractive": 17048.033581695556,
+  "maxPotentialFirstInputDelay": 538,
+  "timeToFirstByte": 86.95400000000018,
+  "weight": {
+    "summary": "269 requests • 8.3 MiB",
+    "total": 8726292,
+    "image": 7565802,
+    "imageCount": 32,
+    "script": 731305,
+    "scriptCount": 90,
+    "document": 24030,
+    "font": 134707,
+    "fontCount": 10,
+    "stylesheet": 272185,
+    "stylesheetCount": 134,
+    "thirdParty": 292000,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 388,
+    "+weight.total": 185,
+    "-weight.document": 218,
+    "+weight.document": 351,
+    "-weight.script": 316,
+    "+weight.script": 196,
+    "-weight.image": 397,
+    "+weight.image": 174,
+    "-weight.font": 180,
+    "+weight.font": 211,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 143,
+    "-totalBlockingTime": 372,
+    "-largestContentfulPaint": 526
+  },
+  "axe": {
+    "passes": 1641,
+    "violations": 57
+  }
+}

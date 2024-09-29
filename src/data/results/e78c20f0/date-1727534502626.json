@@ -1,0 +1,66 @@
+{
+  "url": "https://csb.gov.in/",
+  "requestedUrl": "https://csb.gov.in/",
+  "timestamp": 1727537530370,
+  "ranks": {
+    "hundos": 416,
+    "performance": 228,
+    "accessibility": 414,
+    "cumulative": 416
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.71,
+    "bestPractices": 0.7,
+    "seo": 0.65,
+    "total": 261
+  },
+  "firstContentfulPaint": 16493.527999999995,
+  "firstMeaningfulPaint": 16493.527999999995,
+  "speedIndex": 19834.373766111014,
+  "largestContentfulPaint": 19494.234999999997,
+  "totalBlockingTime": 10.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 21720.566,
+  "maxPotentialFirstInputDelay": 66,
+  "timeToFirstByte": 756.2919999999999,
+  "weight": {
+    "summary": "102 requests • 3.1 MiB",
+    "total": 3215852,
+    "image": 800658,
+    "imageCount": 32,
+    "script": 1454034,
+    "scriptCount": 29,
+    "document": 106698,
+    "font": 99488,
+    "fontCount": 4,
+    "stylesheet": 754003,
+    "stylesheetCount": 34,
+    "thirdParty": 206090,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 172,
+    "+weight.total": 401,
+    "-weight.document": 402,
+    "+weight.document": 167,
+    "-weight.script": 440,
+    "+weight.script": 72,
+    "-weight.image": 89,
+    "+weight.image": 482,
+    "-weight.font": 120,
+    "+weight.font": 271,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 447,
+    "-totalBlockingTime": 197,
+    "-largestContentfulPaint": 529
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

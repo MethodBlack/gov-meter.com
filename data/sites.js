@@ -125,7 +125,8 @@ module.exports = {
 			'https://ibm.gov.in/index.php?c=pages&m=index&id=224',
 			'https://ddpdoo.gov.in/units/NADP',
 			'https://ceeindia.org/envis',
-			'https://birdsjute.in/'
+			'https://birdsjute.in/',
+			'https://rrcnes.gov.in/'
 		]);
 
 		const fetch = (await import('node-fetch')).default;

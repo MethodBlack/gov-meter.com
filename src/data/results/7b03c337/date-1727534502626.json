@@ -1,0 +1,67 @@
+{
+  "url": "https://powermin.gov.in/",
+  "requestedUrl": "https://powermin.gov.in/",
+  "timestamp": 1727550412765,
+  "ranks": {
+    "hundos": 185,
+    "performance": 297,
+    "accessibility": 108,
+    "cumulative": 183
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.49,
+    "accessibility": 0.87,
+    "bestPractices": 0.7,
+    "seo": 0.89,
+    "total": 295
+  },
+  "firstContentfulPaint": 3151.335,
+  "firstMeaningfulPaint": 3151.335,
+  "speedIndex": 11303.4350583353,
+  "largestContentfulPaint": 5687.791499999999,
+  "totalBlockingTime": 9.5,
+  "cumulativeLayoutShift": 0.3100534500995644,
+  "timeToInteractive": 6221.002499999999,
+  "maxPotentialFirstInputDelay": 69,
+  "timeToFirstByte": 1827.725,
+  "weight": {
+    "summary": "70 requests • 5.6 MiB",
+    "total": 5846501,
+    "image": 4618723,
+    "imageCount": 35,
+    "script": 878021,
+    "scriptCount": 17,
+    "document": 69682,
+    "font": 45316,
+    "fontCount": 2,
+    "stylesheet": 233660,
+    "stylesheetCount": 13,
+    "thirdParty": 358621,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 301,
+    "+weight.total": 272,
+    "-weight.document": 357,
+    "+weight.document": 212,
+    "-weight.script": 353,
+    "+weight.script": 159,
+    "-weight.image": 310,
+    "+weight.image": 261,
+    "-weight.font": 33,
+    "+weight.font": 358,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 526,
+    "-totalBlockingTime": 196,
+    "-largestContentfulPaint": 456
+  },
+  "axe": {
+    "passes": 1405,
+    "violations": 35
+  }
+}

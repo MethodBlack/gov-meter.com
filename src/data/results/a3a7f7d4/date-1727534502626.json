@@ -1,0 +1,67 @@
+{
+  "url": "https://www.neeri.res.in/",
+  "requestedUrl": "https://www.neeri.res.in/",
+  "timestamp": 1727539279376,
+  "ranks": {
+    "hundos": 152,
+    "performance": 274,
+    "accessibility": 82,
+    "cumulative": 151
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.52,
+    "accessibility": 0.89,
+    "bestPractices": 0.89,
+    "seo": 0.71,
+    "total": 301
+  },
+  "firstContentfulPaint": 9344.902499999998,
+  "firstMeaningfulPaint": 9344.902499999998,
+  "speedIndex": 25924.208515947597,
+  "largestContentfulPaint": 9717.930499999999,
+  "totalBlockingTime": 16,
+  "cumulativeLayoutShift": 0.10729099246965157,
+  "timeToInteractive": 68940.46375000001,
+  "maxPotentialFirstInputDelay": 64,
+  "timeToFirstByte": 476.37800000000004,
+  "weight": {
+    "summary": "123 requests • 28.8 MiB",
+    "total": 30178696,
+    "image": 28588662,
+    "imageCount": 75,
+    "script": 903156,
+    "scriptCount": 18,
+    "document": 155833,
+    "font": 95064,
+    "fontCount": 3,
+    "stylesheet": 435067,
+    "stylesheetCount": 23,
+    "thirdParty": 120729,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 540,
+    "+weight.total": 33,
+    "-weight.document": 457,
+    "+weight.document": 112,
+    "-weight.script": 363,
+    "+weight.script": 149,
+    "-weight.image": 542,
+    "+weight.image": 29,
+    "-weight.font": 114,
+    "+weight.font": 277,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 380,
+    "-totalBlockingTime": 199,
+    "-largestContentfulPaint": 487
+  },
+  "axe": {
+    "passes": 1322,
+    "violations": 30
+  }
+}

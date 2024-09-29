@@ -1,0 +1,66 @@
+{
+  "url": "https://delhimetrorail.com/",
+  "requestedUrl": "https://www.delhimetrorail.com/",
+  "timestamp": 1727558784868,
+  "ranks": {
+    "hundos": 261,
+    "performance": 506,
+    "accessibility": 305,
+    "cumulative": 261
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.28,
+    "accessibility": 0.78,
+    "bestPractices": 0.93,
+    "seo": 0.83,
+    "total": 282
+  },
+  "firstContentfulPaint": 5282.9675,
+  "firstMeaningfulPaint": 5657.967500000001,
+  "speedIndex": 17454.91061521795,
+  "largestContentfulPaint": 7157.967500000001,
+  "totalBlockingTime": 2913.5,
+  "cumulativeLayoutShift": 0.02735500584415141,
+  "timeToInteractive": 29769.967500000013,
+  "maxPotentialFirstInputDelay": 1824,
+  "timeToFirstByte": 495.873,
+  "weight": {
+    "summary": "354 requests • 12.0 MiB",
+    "total": 12570433,
+    "image": 9431156,
+    "imageCount": 248,
+    "script": 2749442,
+    "scriptCount": 47,
+    "document": 156720,
+    "font": 113163,
+    "fontCount": 9,
+    "stylesheet": 95958,
+    "stylesheetCount": 10,
+    "thirdParty": 9384887,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 436,
+    "+weight.total": 137,
+    "-weight.document": 461,
+    "+weight.document": 108,
+    "-weight.script": 493,
+    "+weight.script": 19,
+    "-weight.image": 423,
+    "+weight.image": 148,
+    "-weight.font": 144,
+    "+weight.font": 247,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 381,
+    "-totalBlockingTime": 324,
+    "-largestContentfulPaint": 305
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

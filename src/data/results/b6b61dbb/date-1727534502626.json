@@ -1,0 +1,67 @@
+{
+  "url": "https://dor.gov.in/",
+  "requestedUrl": "https://dor.gov.in/",
+  "timestamp": 1727541032967,
+  "ranks": {
+    "hundos": 187,
+    "performance": 178,
+    "accessibility": 47,
+    "cumulative": 186
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.57,
+    "accessibility": 0.92,
+    "bestPractices": 0.74,
+    "seo": 0.71,
+    "total": 294
+  },
+  "firstContentfulPaint": 5424.32,
+  "firstMeaningfulPaint": 5424.32,
+  "speedIndex": 9769.231168960203,
+  "largestContentfulPaint": 10210.375,
+  "totalBlockingTime": 13,
+  "cumulativeLayoutShift": 0.03750863164505931,
+  "timeToInteractive": 11479.795000000002,
+  "maxPotentialFirstInputDelay": 76,
+  "timeToFirstByte": 77.85199999999986,
+  "weight": {
+    "summary": "131 requests • 4.0 MiB",
+    "total": 4233940,
+    "image": 3148441,
+    "imageCount": 38,
+    "script": 312990,
+    "scriptCount": 17,
+    "document": 18148,
+    "font": 491562,
+    "fontCount": 9,
+    "stylesheet": 264431,
+    "stylesheetCount": 66,
+    "thirdParty": 600,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 228,
+    "+weight.total": 345,
+    "-weight.document": 158,
+    "+weight.document": 411,
+    "-weight.script": 141,
+    "+weight.script": 371,
+    "-weight.image": 238,
+    "+weight.image": 333,
+    "-weight.font": 370,
+    "+weight.font": 21,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 106,
+    "-totalBlockingTime": 340,
+    "-largestContentfulPaint": 325
+  },
+  "axe": {
+    "passes": 868,
+    "violations": 30
+  }
+}

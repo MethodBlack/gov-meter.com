@@ -1,0 +1,67 @@
+{
+  "url": "https://yas.nic.in/sports",
+  "requestedUrl": "https://yas.nic.in/sports",
+  "timestamp": 1727575979527,
+  "ranks": {
+    "hundos": 430,
+    "performance": 151,
+    "accessibility": 65,
+    "cumulative": 428
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.6,
+    "accessibility": 0.9,
+    "bestPractices": 0.3,
+    "seo": 0.79,
+    "total": 259
+  },
+  "firstContentfulPaint": 6129.2985,
+  "firstMeaningfulPaint": 6540.275,
+  "speedIndex": 6129.2985,
+  "largestContentfulPaint": 9739.151499999998,
+  "totalBlockingTime": 48,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 6679.799499999999,
+  "maxPotentialFirstInputDelay": 134,
+  "timeToFirstByte": 50.874999999999986,
+  "weight": {
+    "summary": "129 requests • 1.8 MiB",
+    "total": 1904372,
+    "image": 1141051,
+    "imageCount": 68,
+    "script": 504551,
+    "scriptCount": 21,
+    "document": 21147,
+    "font": 49095,
+    "fontCount": 3,
+    "stylesheet": 178826,
+    "stylesheetCount": 17,
+    "thirdParty": 271414,
+    "thirdPartyCount": 13
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 106,
+    "+weight.total": 467,
+    "-weight.document": 192,
+    "+weight.document": 377,
+    "-weight.script": 244,
+    "+weight.script": 268,
+    "-weight.image": 115,
+    "+weight.image": 456,
+    "-weight.font": 37,
+    "+weight.font": 354,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 41,
+    "-totalBlockingTime": 58,
+    "-largestContentfulPaint": 144
+  },
+  "axe": {
+    "passes": 776,
+    "violations": 9
+  }
+}

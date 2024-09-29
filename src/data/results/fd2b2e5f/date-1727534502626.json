@@ -1,0 +1,67 @@
+{
+  "url": "https://awbi.gov.in/",
+  "requestedUrl": "https://awbi.gov.in/",
+  "timestamp": 1727534984402,
+  "ranks": {
+    "hundos": 535,
+    "performance": 437,
+    "accessibility": 531,
+    "cumulative": 535
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.58,
+    "bestPractices": 0.67,
+    "seo": 0.69,
+    "total": 228
+  },
+  "firstContentfulPaint": 4061.3165,
+  "firstMeaningfulPaint": 4061.3165,
+  "speedIndex": 10572.610395128977,
+  "largestContentfulPaint": 17322.568499999994,
+  "totalBlockingTime": 101.5,
+  "cumulativeLayoutShift": 0.7916160388821385,
+  "timeToInteractive": 11238.416000000001,
+  "maxPotentialFirstInputDelay": 203,
+  "timeToFirstByte": 232,
+  "weight": {
+    "summary": "77 requests • 5.2 MiB",
+    "total": 5469062,
+    "image": 4396789,
+    "imageCount": 50,
+    "script": 845582,
+    "scriptCount": 9,
+    "document": 12232,
+    "font": 77637,
+    "fontCount": 1,
+    "stylesheet": 84949,
+    "stylesheetCount": 10,
+    "thirdParty": 198650,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 287,
+    "+weight.total": 286,
+    "-weight.document": 54,
+    "+weight.document": 515,
+    "-weight.script": 343,
+    "+weight.script": 169,
+    "-weight.image": 296,
+    "+weight.image": 275,
+    "-weight.font": 75,
+    "+weight.font": 316,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 316,
+    "-totalBlockingTime": 82,
+    "-largestContentfulPaint": 220
+  },
+  "axe": {
+    "passes": 1036,
+    "violations": 111
+  }
+}

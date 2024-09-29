@@ -1,0 +1,67 @@
+{
+  "url": "https://zsi.gov.in/",
+  "requestedUrl": "https://zsi.gov.in/",
+  "timestamp": 1727593401455,
+  "ranks": {
+    "hundos": 127,
+    "performance": 174,
+    "accessibility": 129,
+    "cumulative": 149
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.58,
+    "accessibility": 0.85,
+    "bestPractices": 0.93,
+    "seo": 0.65,
+    "total": 305
+  },
+  "firstContentfulPaint": 2573.635,
+  "firstMeaningfulPaint": 2573.635,
+  "speedIndex": 18143.80159538521,
+  "largestContentfulPaint": 12727.635,
+  "totalBlockingTime": 199,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 9944.678750000001,
+  "maxPotentialFirstInputDelay": 291,
+  "timeToFirstByte": 3447.3030000000003,
+  "weight": {
+    "summary": "71 requests • 28.6 MiB",
+    "total": 29946410,
+    "image": 29475904,
+    "imageCount": 51,
+    "script": 219904,
+    "scriptCount": 11,
+    "document": 15989,
+    "font": 137201,
+    "fontCount": 3,
+    "stylesheet": 97412,
+    "stylesheetCount": 5,
+    "thirdParty": 74040,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 538,
+    "+weight.total": 35,
+    "-weight.document": 122,
+    "+weight.document": 447,
+    "-weight.script": 81,
+    "+weight.script": 431,
+    "-weight.image": 545,
+    "+weight.image": 26,
+    "-weight.font": 185,
+    "+weight.font": 206,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 553,
+    "-totalBlockingTime": 275,
+    "-largestContentfulPaint": 341
+  },
+  "axe": {
+    "passes": 974,
+    "violations": 11
+  }
+}

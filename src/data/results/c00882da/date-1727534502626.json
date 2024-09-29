@@ -1,0 +1,67 @@
+{
+  "url": "https://www.bsnl.co.in/",
+  "requestedUrl": "https://www.bsnl.co.in/",
+  "timestamp": 1727554769963,
+  "ranks": {
+    "hundos": 276,
+    "performance": 262,
+    "accessibility": 485,
+    "cumulative": 277
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.53,
+    "accessibility": 0.64,
+    "bestPractices": 0.89,
+    "seo": 0.74,
+    "total": 280
+  },
+  "firstContentfulPaint": 8388.234,
+  "firstMeaningfulPaint": 8388.234,
+  "speedIndex": 15546.25805725586,
+  "largestContentfulPaint": 20197.546,
+  "totalBlockingTime": 159.57800000000043,
+  "cumulativeLayoutShift": 0.0009327798839998837,
+  "timeToInteractive": 17544.429000000004,
+  "maxPotentialFirstInputDelay": 210,
+  "timeToFirstByte": 189.20100000000002,
+  "weight": {
+    "summary": "85 requests • 7.5 MiB",
+    "total": 7916545,
+    "image": 4517263,
+    "imageCount": 35,
+    "script": 1165253,
+    "scriptCount": 16,
+    "document": 131896,
+    "font": 1123666,
+    "fontCount": 9,
+    "stylesheet": 977924,
+    "stylesheetCount": 23,
+    "thirdParty": 241500,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 366,
+    "+weight.total": 207,
+    "-weight.document": 433,
+    "+weight.document": 136,
+    "-weight.script": 403,
+    "+weight.script": 109,
+    "-weight.image": 303,
+    "+weight.image": 268,
+    "-weight.font": 390,
+    "+weight.font": 1,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 287,
+    "-totalBlockingTime": 96,
+    "-largestContentfulPaint": 236
+  },
+  "axe": {
+    "passes": 2123,
+    "violations": 48
+  }
+}

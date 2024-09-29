@@ -1,0 +1,67 @@
+{
+  "url": "https://tribal.gov.in/",
+  "requestedUrl": "https://tribal.gov.in/",
+  "timestamp": 1727553008435,
+  "ranks": {
+    "hundos": 229,
+    "performance": 339,
+    "accessibility": 48,
+    "cumulative": 230
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.45,
+    "accessibility": 0.92,
+    "bestPractices": 0.67,
+    "seo": 0.83,
+    "total": 287
+  },
+  "firstContentfulPaint": 3772.417,
+  "firstMeaningfulPaint": 3772.417,
+  "speedIndex": 11415.3165801713,
+  "largestContentfulPaint": 4097.111,
+  "totalBlockingTime": 496,
+  "cumulativeLayoutShift": 0.2534555186362948,
+  "timeToInteractive": 21290.642000000003,
+  "maxPotentialFirstInputDelay": 457,
+  "timeToFirstByte": 75.37599999999998,
+  "weight": {
+    "summary": "175 requests • 6.2 MiB",
+    "total": 6481640,
+    "image": 4019991,
+    "imageCount": 111,
+    "script": 1575869,
+    "scriptCount": 30,
+    "document": 244044,
+    "font": 303919,
+    "fontCount": 6,
+    "stylesheet": 289320,
+    "stylesheetCount": 6,
+    "thirdParty": 3913679,
+    "thirdPartyCount": 12
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 324,
+    "+weight.total": 249,
+    "-weight.document": 523,
+    "+weight.document": 46,
+    "-weight.script": 453,
+    "+weight.script": 59,
+    "-weight.image": 276,
+    "+weight.image": 295,
+    "-weight.font": 328,
+    "+weight.font": 63,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 101,
+    "-totalBlockingTime": 378,
+    "-largestContentfulPaint": 441
+  },
+  "axe": {
+    "passes": 2610,
+    "violations": 62
+  }
+}

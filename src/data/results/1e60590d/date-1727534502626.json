@@ -1,0 +1,67 @@
+{
+  "url": "https://nrcpomegranate.org/",
+  "requestedUrl": "https://www.nrcpomegranate.org/",
+  "timestamp": 1727563575230,
+  "ranks": {
+    "hundos": 101,
+    "performance": 329,
+    "accessibility": 257,
+    "cumulative": 99
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.46,
+    "accessibility": 0.8,
+    "bestPractices": 1,
+    "seo": 0.85,
+    "total": 311
+  },
+  "firstContentfulPaint": 5863.37094,
+  "firstMeaningfulPaint": 5863.37094,
+  "speedIndex": 12900.30482506257,
+  "largestContentfulPaint": 14093.20472,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.2055128844352313,
+  "timeToInteractive": 5863.37094,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 1577.091,
+  "weight": {
+    "summary": "22 requests • 1.6 MiB",
+    "total": 1700933,
+    "image": 1457150,
+    "imageCount": 1,
+    "script": 69548,
+    "scriptCount": 8,
+    "document": 8586,
+    "font": 117311,
+    "fontCount": 2,
+    "stylesheet": 47343,
+    "stylesheetCount": 7,
+    "thirdParty": 41279,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 89,
+    "+weight.total": 484,
+    "-weight.document": 24,
+    "+weight.document": 545,
+    "-weight.script": 16,
+    "+weight.script": 496,
+    "-weight.image": 138,
+    "+weight.image": 433,
+    "-weight.font": 155,
+    "+weight.font": 236,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 510,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 509
+  },
+  "axe": {
+    "passes": 386,
+    "violations": 16
+  }
+}

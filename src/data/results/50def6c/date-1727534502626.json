@@ -1,0 +1,66 @@
+{
+  "url": "https://www.aicl.in/",
+  "requestedUrl": "https://www.aicl.in/",
+  "timestamp": 1727554183338,
+  "ranks": {
+    "hundos": 267,
+    "performance": 260,
+    "accessibility": 286,
+    "cumulative": 267
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.53,
+    "accessibility": 0.79,
+    "bestPractices": 0.7,
+    "seo": 0.79,
+    "total": 281
+  },
+  "firstContentfulPaint": 5996.529,
+  "firstMeaningfulPaint": 5996.529,
+  "speedIndex": 11817.639176796927,
+  "largestContentfulPaint": 8245.539,
+  "totalBlockingTime": 194.27199999999812,
+  "cumulativeLayoutShift": 0.00841163024593948,
+  "timeToInteractive": 10612.448,
+  "maxPotentialFirstInputDelay": 150,
+  "timeToFirstByte": 363.7979999999998,
+  "weight": {
+    "summary": "134 requests • 2.5 MiB",
+    "total": 2609941,
+    "image": 1014143,
+    "imageCount": 48,
+    "script": 607404,
+    "scriptCount": 40,
+    "document": 48928,
+    "font": 352658,
+    "fontCount": 8,
+    "stylesheet": 164006,
+    "stylesheetCount": 26,
+    "thirdParty": 766603,
+    "thirdPartyCount": 14
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 143,
+    "+weight.total": 430,
+    "-weight.document": 302,
+    "+weight.document": 267,
+    "-weight.script": 273,
+    "+weight.script": 239,
+    "-weight.image": 104,
+    "+weight.image": 467,
+    "-weight.font": 341,
+    "+weight.font": 50,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 351,
+    "-totalBlockingTime": 102,
+    "-largestContentfulPaint": 125
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

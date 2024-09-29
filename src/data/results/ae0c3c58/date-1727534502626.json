@@ -1,0 +1,67 @@
+{
+  "url": "https://secl-cil.in/index.php",
+  "requestedUrl": "https://www.secl-cil.in/",
+  "timestamp": 1727552261523,
+  "ranks": {
+    "hundos": 196,
+    "performance": 510,
+    "accessibility": 41,
+    "cumulative": 190
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.28,
+    "accessibility": 0.92,
+    "bestPractices": 0.96,
+    "seo": 0.77,
+    "total": 293
+  },
+  "firstContentfulPaint": 4377.31444,
+  "firstMeaningfulPaint": 4377.31444,
+  "speedIndex": 40320.27177403568,
+  "largestContentfulPaint": 9402.31444,
+  "totalBlockingTime": 1200.5,
+  "cumulativeLayoutShift": 0.1262481758015318,
+  "timeToInteractive": 45805.102880000006,
+  "maxPotentialFirstInputDelay": 1082,
+  "timeToFirstByte": 144.80200000000002,
+  "weight": {
+    "summary": "468 requests • 62.5 MiB",
+    "total": 65515088,
+    "image": 62453118,
+    "imageCount": 425,
+    "script": 2723807,
+    "scriptCount": 27,
+    "document": 195124,
+    "font": 78953,
+    "fontCount": 1,
+    "stylesheet": 60878,
+    "stylesheetCount": 9,
+    "thirdParty": 13873839,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 570,
+    "+weight.total": 3,
+    "-weight.document": 497,
+    "+weight.document": 72,
+    "-weight.script": 492,
+    "+weight.script": 20,
+    "-weight.image": 568,
+    "+weight.image": 3,
+    "-weight.font": 85,
+    "+weight.font": 306,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 236,
+    "-totalBlockingTime": 168,
+    "-largestContentfulPaint": 142
+  },
+  "axe": {
+    "passes": 7,
+    "violations": 3
+  }
+}

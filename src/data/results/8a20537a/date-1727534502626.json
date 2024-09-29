@@ -1,0 +1,67 @@
+{
+  "url": "https://cotcorp.org.in/?AspxAutoDetectCookieSupport=1",
+  "requestedUrl": "https://cotcorp.org.in/",
+  "timestamp": 1727574317332,
+  "ranks": {
+    "hundos": 118,
+    "performance": 69,
+    "accessibility": 404,
+    "cumulative": 120
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.74,
+    "accessibility": 0.71,
+    "bestPractices": 0.96,
+    "seo": 0.65,
+    "total": 306
+  },
+  "firstContentfulPaint": 2638.6229999999996,
+  "firstMeaningfulPaint": 3404.8305,
+  "speedIndex": 2778.57644004159,
+  "largestContentfulPaint": 4439.802499999999,
+  "totalBlockingTime": 4,
+  "cumulativeLayoutShift": 0.15381012861366064,
+  "timeToInteractive": 3404.8305,
+  "maxPotentialFirstInputDelay": 37,
+  "timeToFirstByte": 53.235,
+  "weight": {
+    "summary": "31 requests • 521.0 KiB",
+    "total": 533489,
+    "image": 253251,
+    "imageCount": 17,
+    "script": 56620,
+    "scriptCount": 4,
+    "document": 8377,
+    "font": 169710,
+    "fontCount": 3,
+    "stylesheet": 44627,
+    "stylesheetCount": 5,
+    "thirdParty": 91706,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 23,
+    "+weight.total": 550,
+    "-weight.document": 23,
+    "+weight.document": 546,
+    "-weight.script": 13,
+    "+weight.script": 499,
+    "-weight.image": 34,
+    "+weight.image": 537,
+    "-weight.font": 237,
+    "+weight.font": 154,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 47,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 53
+  },
+  "axe": {
+    "passes": 259,
+    "violations": 45
+  }
+}

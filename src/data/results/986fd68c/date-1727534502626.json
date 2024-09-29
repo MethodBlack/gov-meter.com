@@ -1,0 +1,67 @@
+{
+  "url": "https://www.becil.com/",
+  "requestedUrl": "https://www.becil.com/",
+  "timestamp": 1727555031788,
+  "ranks": {
+    "hundos": 12,
+    "performance": 165,
+    "accessibility": 7,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.59,
+    "accessibility": 0.98,
+    "bestPractices": 0.93,
+    "seo": 0.93,
+    "total": 343
+  },
+  "firstContentfulPaint": 3485.961,
+  "firstMeaningfulPaint": 3485.961,
+  "speedIndex": 14027.366170927378,
+  "largestContentfulPaint": 16603.764000000003,
+  "totalBlockingTime": 47.5,
+  "cumulativeLayoutShift": 0.0004680069103924729,
+  "timeToInteractive": 6183.4580000000005,
+  "maxPotentialFirstInputDelay": 80.5,
+  "timeToFirstByte": 721.663,
+  "weight": {
+    "summary": "59 requests • 7.0 MiB",
+    "total": 7371638,
+    "image": 6702866,
+    "imageCount": 32,
+    "script": 136631,
+    "scriptCount": 8,
+    "document": 14089,
+    "font": 407663,
+    "fontCount": 6,
+    "stylesheet": 110389,
+    "stylesheetCount": 12,
+    "thirdParty": 42281,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 342,
+    "+weight.total": 231,
+    "-weight.document": 80,
+    "+weight.document": 489,
+    "-weight.script": 44,
+    "+weight.script": 468,
+    "-weight.image": 371,
+    "+weight.image": 200,
+    "-weight.font": 361,
+    "+weight.font": 30,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 430,
+    "-totalBlockingTime": 218,
+    "-largestContentfulPaint": 523
+  },
+  "axe": {
+    "passes": 1116,
+    "violations": 8
+  }
+}

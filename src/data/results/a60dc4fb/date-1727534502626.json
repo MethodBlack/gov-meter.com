@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cmpdi.co.in/hi",
+  "requestedUrl": "https://www.cmpdi.co.in/",
+  "timestamp": 1727556480470,
+  "ranks": {
+    "hundos": 370,
+    "performance": 428,
+    "accessibility": 37,
+    "cumulative": 365
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.35,
+    "accessibility": 0.93,
+    "bestPractices": 0.48,
+    "seo": 0.9,
+    "total": 266
+  },
+  "firstContentfulPaint": 16428.73150000001,
+  "firstMeaningfulPaint": 16428.73150000001,
+  "speedIndex": 29882.357548614436,
+  "largestContentfulPaint": 28357.78450000001,
+  "totalBlockingTime": 38.5,
+  "cumulativeLayoutShift": 0.47270019631454024,
+  "timeToInteractive": 27354.236500000006,
+  "maxPotentialFirstInputDelay": 49.5,
+  "timeToFirstByte": 191.043,
+  "weight": {
+    "summary": "171 requests • 11.9 MiB",
+    "total": 12498307,
+    "image": 11476437,
+    "imageCount": 36,
+    "script": 379209,
+    "scriptCount": 20,
+    "document": 21515,
+    "font": 441836,
+    "fontCount": 5,
+    "stylesheet": 178031,
+    "stylesheetCount": 107,
+    "thirdParty": 23533,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 434,
+    "+weight.total": 139,
+    "-weight.document": 196,
+    "+weight.document": 373,
+    "-weight.script": 195,
+    "+weight.script": 317,
+    "-weight.image": 447,
+    "+weight.image": 124,
+    "-weight.font": 367,
+    "+weight.font": 24,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 288,
+    "-totalBlockingTime": 53,
+    "-largestContentfulPaint": 253
+  },
+  "axe": {
+    "passes": 1553,
+    "violations": 25
+  }
+}

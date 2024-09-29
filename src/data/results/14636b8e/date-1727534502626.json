@@ -1,0 +1,66 @@
+{
+  "url": "https://www.bhel.com/",
+  "requestedUrl": "https://www.bhel.com/",
+  "timestamp": 1727571642603,
+  "ranks": {
+    "hundos": 507,
+    "performance": 225,
+    "accessibility": 386,
+    "cumulative": 507
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.73,
+    "bestPractices": 0.44,
+    "seo": 0.7,
+    "total": 242
+  },
+  "firstContentfulPaint": 6440.94975,
+  "firstMeaningfulPaint": 6440.94975,
+  "speedIndex": 18304.696381900514,
+  "largestContentfulPaint": 35645.965449999974,
+  "totalBlockingTime": 24,
+  "cumulativeLayoutShift": 0.00029228976605380296,
+  "timeToInteractive": 28620.582349999982,
+  "maxPotentialFirstInputDelay": 89,
+  "timeToFirstByte": 641.295,
+  "weight": {
+    "summary": "187 requests • 11.3 MiB",
+    "total": 11811531,
+    "image": 9297352,
+    "imageCount": 48,
+    "script": 971248,
+    "scriptCount": 67,
+    "document": 213643,
+    "font": 657020,
+    "fontCount": 8,
+    "stylesheet": 671569,
+    "stylesheetCount": 62,
+    "thirdParty": 61459,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 425,
+    "+weight.total": 148,
+    "-weight.document": 513,
+    "+weight.document": 56,
+    "-weight.script": 376,
+    "+weight.script": 136,
+    "-weight.image": 420,
+    "+weight.image": 151,
+    "-weight.font": 380,
+    "+weight.font": 11,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 411,
+    "-totalBlockingTime": 202,
+    "-largestContentfulPaint": 561
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

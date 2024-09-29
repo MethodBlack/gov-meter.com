@@ -1,0 +1,67 @@
+{
+  "url": "https://www.dsir.gov.in/",
+  "requestedUrl": "https://dsir.gov.in/",
+  "timestamp": 1727559578991,
+  "ranks": {
+    "hundos": 263,
+    "performance": 290,
+    "accessibility": 179,
+    "cumulative": 263
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.5,
+    "accessibility": 0.82,
+    "bestPractices": 0.67,
+    "seo": 0.83,
+    "total": 282
+  },
+  "firstContentfulPaint": 4385.629499999999,
+  "firstMeaningfulPaint": 4385.629499999999,
+  "speedIndex": 24600.621032647476,
+  "largestContentfulPaint": 4749.543499999999,
+  "totalBlockingTime": 507.5,
+  "cumulativeLayoutShift": 0.08233967078775602,
+  "timeToInteractive": 30064.538499999995,
+  "maxPotentialFirstInputDelay": 276,
+  "timeToFirstByte": 144.23299999999995,
+  "weight": {
+    "summary": "97 requests • 29.7 MiB",
+    "total": 31151408,
+    "image": 28678543,
+    "imageCount": 54,
+    "script": 2049739,
+    "scriptCount": 13,
+    "document": 67336,
+    "font": 174990,
+    "fontCount": 9,
+    "stylesheet": 135496,
+    "stylesheetCount": 4,
+    "thirdParty": 1843747,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 544,
+    "+weight.total": 29,
+    "-weight.document": 348,
+    "+weight.document": 221,
+    "-weight.script": 477,
+    "+weight.script": 35,
+    "-weight.image": 543,
+    "+weight.image": 28,
+    "-weight.font": 248,
+    "+weight.font": 143,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 234,
+    "-totalBlockingTime": 135,
+    "-largestContentfulPaint": 63
+  },
+  "axe": {
+    "passes": 579,
+    "violations": 16
+  }
+}

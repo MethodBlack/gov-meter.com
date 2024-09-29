@@ -1,0 +1,67 @@
+{
+  "url": "https://mausam.imd.gov.in/chandigarh/",
+  "requestedUrl": "https://mausam.imd.gov.in/chandigarh",
+  "timestamp": 1727581410092,
+  "ranks": {
+    "hundos": 160,
+    "performance": 135,
+    "accessibility": 411,
+    "cumulative": 165
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.62,
+    "accessibility": 0.71,
+    "bestPractices": 0.93,
+    "seo": 0.72,
+    "total": 298
+  },
+  "firstContentfulPaint": 4374.737499999999,
+  "firstMeaningfulPaint": 4374.737499999999,
+  "speedIndex": 5702.745777819328,
+  "largestContentfulPaint": 24366.370000000014,
+  "totalBlockingTime": 10,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 8059.079999999999,
+  "maxPotentialFirstInputDelay": 62,
+  "timeToFirstByte": 86.208,
+  "weight": {
+    "summary": "53 requests • 3.5 MiB",
+    "total": 3720012,
+    "image": 2856959,
+    "imageCount": 30,
+    "script": 617821,
+    "scriptCount": 11,
+    "document": 42603,
+    "font": 74981,
+    "fontCount": 1,
+    "stylesheet": 125541,
+    "stylesheetCount": 4,
+    "thirdParty": 707157,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 195,
+    "+weight.total": 378,
+    "-weight.document": 282,
+    "+weight.document": 287,
+    "-weight.script": 280,
+    "+weight.script": 232,
+    "-weight.image": 223,
+    "+weight.image": 348,
+    "-weight.font": 63,
+    "+weight.font": 328,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 138,
+    "-totalBlockingTime": 337,
+    "-largestContentfulPaint": 382
+  },
+  "axe": {
+    "passes": 1128,
+    "violations": 93
+  }
+}

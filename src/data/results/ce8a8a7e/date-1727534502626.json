@@ -1,0 +1,66 @@
+{
+  "url": "https://pib.gov.in/indexm.aspx",
+  "requestedUrl": "https://pib.gov.in/",
+  "timestamp": 1727589897583,
+  "ranks": {
+    "hundos": 565,
+    "performance": 375,
+    "accessibility": 503,
+    "cumulative": 563
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.41,
+    "accessibility": 0.63,
+    "bestPractices": 0.44,
+    "seo": 0.57,
+    "total": 205
+  },
+  "firstContentfulPaint": 3120.2156800000002,
+  "firstMeaningfulPaint": 3842.9233600000002,
+  "speedIndex": 46666.63656929685,
+  "largestContentfulPaint": 3842.9233600000002,
+  "totalBlockingTime": 2554.500000000001,
+  "cumulativeLayoutShift": 0.11426692319268002,
+  "timeToInteractive": 26073.08578,
+  "maxPotentialFirstInputDelay": 1265,
+  "timeToFirstByte": 22778.878,
+  "weight": {
+    "summary": "609 requests • 16.8 MiB",
+    "total": 17648313,
+    "image": 15061324,
+    "imageCount": 515,
+    "script": 2010345,
+    "scriptCount": 50,
+    "document": 416871,
+    "font": 22187,
+    "fontCount": 10,
+    "stylesheet": 88461,
+    "stylesheetCount": 6,
+    "thirdParty": 15111454,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 492,
+    "+weight.total": 81,
+    "-weight.document": 555,
+    "+weight.document": 14,
+    "-weight.script": 474,
+    "+weight.script": 38,
+    "-weight.image": 487,
+    "+weight.image": 84,
+    "-weight.font": 14,
+    "+weight.font": 377,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 572,
+    "-totalBlockingTime": 395,
+    "-largestContentfulPaint": 437
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

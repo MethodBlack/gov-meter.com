@@ -1,0 +1,67 @@
+{
+  "url": "https://nepa.gov.in/",
+  "requestedUrl": "https://nepa.gov.in/",
+  "timestamp": 1727567293015,
+  "ranks": {
+    "hundos": 318,
+    "performance": 236,
+    "accessibility": 381,
+    "cumulative": 317
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.73,
+    "bestPractices": 0.7,
+    "seo": 0.75,
+    "total": 273
+  },
+  "firstContentfulPaint": 13715.016499999998,
+  "firstMeaningfulPaint": 13715.016499999998,
+  "speedIndex": 36746.36320814977,
+  "largestContentfulPaint": 16942.1285,
+  "totalBlockingTime": 81,
+  "cumulativeLayoutShift": 0.00024078015062218905,
+  "timeToInteractive": 62333.69649999998,
+  "maxPotentialFirstInputDelay": 212,
+  "timeToFirstByte": 100.93399999999986,
+  "weight": {
+    "summary": "90 requests • 22.6 MiB",
+    "total": 23694665,
+    "image": 22570678,
+    "imageCount": 48,
+    "script": 476421,
+    "scriptCount": 19,
+    "document": 63532,
+    "font": 125263,
+    "fontCount": 4,
+    "stylesheet": 458771,
+    "stylesheetCount": 18,
+    "thirdParty": 63921,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 523,
+    "+weight.total": 50,
+    "-weight.document": 340,
+    "+weight.document": 229,
+    "-weight.script": 233,
+    "+weight.script": 279,
+    "-weight.image": 525,
+    "+weight.image": 46,
+    "-weight.font": 167,
+    "+weight.font": 224,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 172,
+    "-totalBlockingTime": 360,
+    "-largestContentfulPaint": 525
+  },
+  "axe": {
+    "passes": 749,
+    "violations": 86
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.naco.gov.in/",
+  "requestedUrl": "https://www.naco.gov.in/",
+  "timestamp": 1727581727902,
+  "ranks": {
+    "hundos": 182,
+    "performance": 278,
+    "accessibility": 107,
+    "cumulative": 179
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.51,
+    "accessibility": 0.87,
+    "bestPractices": 0.7,
+    "seo": 0.88,
+    "total": 296
+  },
+  "firstContentfulPaint": 5809.863,
+  "firstMeaningfulPaint": 5809.863,
+  "speedIndex": 12335.36172398622,
+  "largestContentfulPaint": 12865.968639999996,
+  "totalBlockingTime": 27,
+  "cumulativeLayoutShift": 0.12349582613045224,
+  "timeToInteractive": 11181.657749999995,
+  "maxPotentialFirstInputDelay": 93,
+  "timeToFirstByte": 3871.728,
+  "weight": {
+    "summary": "105 requests • 2.6 MiB",
+    "total": 2756984,
+    "image": 1957989,
+    "imageCount": 54,
+    "script": 472122,
+    "scriptCount": 19,
+    "document": 51640,
+    "font": 93399,
+    "fontCount": 6,
+    "stylesheet": 181834,
+    "stylesheetCount": 25,
+    "thirdParty": 200415,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 152,
+    "+weight.total": 421,
+    "-weight.document": 319,
+    "+weight.document": 250,
+    "-weight.script": 230,
+    "+weight.script": 282,
+    "-weight.image": 169,
+    "+weight.image": 402,
+    "-weight.font": 111,
+    "+weight.font": 280,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 560,
+    "-totalBlockingTime": 204,
+    "-largestContentfulPaint": 504
+  },
+  "axe": {
+    "passes": 1028,
+    "violations": 33
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://dgms.gov.in/",
+  "requestedUrl": "https://dgms.gov.in/",
+  "timestamp": 1727576468119,
+  "ranks": {
+    "hundos": 316,
+    "performance": 458,
+    "accessibility": 324,
+    "cumulative": 332
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.76,
+    "bestPractices": 0.89,
+    "seo": 0.73,
+    "total": 274
+  },
+  "firstContentfulPaint": 6153.6775,
+  "firstMeaningfulPaint": 6574.7835,
+  "speedIndex": 15156.440602076635,
+  "largestContentfulPaint": 17290.5215,
+  "totalBlockingTime": 1042.0760000000005,
+  "cumulativeLayoutShift": 0.003403949363855251,
+  "timeToInteractive": 11608.1985,
+  "maxPotentialFirstInputDelay": 585,
+  "timeToFirstByte": 3203.064,
+  "weight": {
+    "summary": "108 requests • 5.3 MiB",
+    "total": 5561616,
+    "image": 3687005,
+    "imageCount": 63,
+    "script": 762775,
+    "scriptCount": 13,
+    "document": 141726,
+    "font": 79617,
+    "fontCount": 2,
+    "stylesheet": 361392,
+    "stylesheetCount": 17,
+    "thirdParty": 251533,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 290,
+    "+weight.total": 283,
+    "-weight.document": 444,
+    "+weight.document": 125,
+    "-weight.script": 320,
+    "+weight.script": 192,
+    "-weight.image": 266,
+    "+weight.image": 305,
+    "-weight.font": 88,
+    "+weight.font": 303,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 552,
+    "-totalBlockingTime": 312,
+    "-largestContentfulPaint": 358
+  },
+  "axe": {
+    "passes": 1261,
+    "violations": 42
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://rdsdemaharashtra.dgt.gov.in/",
+  "requestedUrl": "https://rdsdemaharashtra.dgt.gov.in/",
+  "timestamp": 1727590763264,
+  "ranks": {
+    "hundos": 228,
+    "performance": 336,
+    "accessibility": 348,
+    "cumulative": 227
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.46,
+    "accessibility": 0.75,
+    "bestPractices": 0.85,
+    "seo": 0.82,
+    "total": 288
+  },
+  "firstContentfulPaint": 9305.085500000001,
+  "firstMeaningfulPaint": 9305.085500000001,
+  "speedIndex": 22808.614890884335,
+  "largestContentfulPaint": 16975.066860000003,
+  "totalBlockingTime": 380.5,
+  "cumulativeLayoutShift": 0.012469140860573602,
+  "timeToInteractive": 24226.863,
+  "maxPotentialFirstInputDelay": 372,
+  "timeToFirstByte": 1138.299,
+  "weight": {
+    "summary": "177 requests • 5.1 MiB",
+    "total": 5345470,
+    "image": 4302960,
+    "imageCount": 63,
+    "script": 928301,
+    "scriptCount": 39,
+    "document": 22131,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 92032,
+    "stylesheetCount": 72,
+    "thirdParty": 861173,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 282,
+    "+weight.total": 291,
+    "-weight.document": 205,
+    "+weight.document": 364,
+    "-weight.script": 364,
+    "+weight.script": 148,
+    "-weight.image": 290,
+    "+weight.image": 281,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 495,
+    "-totalBlockingTime": 290,
+    "-largestContentfulPaint": 356
+  },
+  "axe": {
+    "passes": 1165,
+    "violations": 42
+  }
+}

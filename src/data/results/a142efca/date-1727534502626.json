@@ -1,0 +1,67 @@
+{
+  "url": "https://www.dgshipping.gov.in/",
+  "requestedUrl": "https://www.dgshipping.gov.in/",
+  "timestamp": 1727542028921,
+  "ranks": {
+    "hundos": 481,
+    "performance": 129,
+    "accessibility": 476,
+    "cumulative": 480
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.63,
+    "accessibility": 0.65,
+    "bestPractices": 0.63,
+    "seo": 0.58,
+    "total": 249
+  },
+  "firstContentfulPaint": 3252.5069999999996,
+  "firstMeaningfulPaint": 3720.5109999999995,
+  "speedIndex": 6492.0320603191685,
+  "largestContentfulPaint": 15579.506999999998,
+  "totalBlockingTime": 30.5,
+  "cumulativeLayoutShift": 0.021270344135436128,
+  "timeToInteractive": 5960.668499999998,
+  "maxPotentialFirstInputDelay": 79,
+  "timeToFirstByte": 449.731,
+  "weight": {
+    "summary": "64 requests • 2.4 MiB",
+    "total": 2564464,
+    "image": 2162238,
+    "imageCount": 42,
+    "script": 242158,
+    "scriptCount": 10,
+    "document": 119799,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 39721,
+    "stylesheetCount": 10,
+    "thirdParty": 106865,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 140,
+    "+weight.total": 433,
+    "-weight.document": 412,
+    "+weight.document": 157,
+    "-weight.script": 112,
+    "+weight.script": 400,
+    "-weight.image": 178,
+    "+weight.image": 393,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 374,
+    "-totalBlockingTime": 47,
+    "-largestContentfulPaint": 210
+  },
+  "axe": {
+    "passes": 743,
+    "violations": 44
+  }
+}

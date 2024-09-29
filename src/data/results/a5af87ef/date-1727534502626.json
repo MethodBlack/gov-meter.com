@@ -1,0 +1,67 @@
+{
+  "url": "https://www.itecgoi.in/index",
+  "requestedUrl": "https://www.itecgoi.in/",
+  "timestamp": 1727580422983,
+  "ranks": {
+    "hundos": 63,
+    "performance": 84,
+    "accessibility": 161,
+    "cumulative": 62
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.7,
+    "accessibility": 0.83,
+    "bestPractices": 0.93,
+    "seo": 0.75,
+    "total": 321
+  },
+  "firstContentfulPaint": 3277.6275,
+  "firstMeaningfulPaint": 3280.1275,
+  "speedIndex": 3614.365906604088,
+  "largestContentfulPaint": 4501.987,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.16094814600287388,
+  "timeToInteractive": 3280.1275,
+  "maxPotentialFirstInputDelay": 26,
+  "timeToFirstByte": 47.236,
+  "weight": {
+    "summary": "53 requests • 18.8 MiB",
+    "total": 19761711,
+    "image": 19546364,
+    "imageCount": 42,
+    "script": 154589,
+    "scriptCount": 7,
+    "document": 10283,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 50391,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 506,
+    "+weight.total": 67,
+    "-weight.document": 34,
+    "+weight.document": 535,
+    "-weight.script": 56,
+    "+weight.script": 456,
+    "-weight.image": 514,
+    "+weight.image": 57,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 32,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 56
+  },
+  "axe": {
+    "passes": 612,
+    "violations": 33
+  }
+}

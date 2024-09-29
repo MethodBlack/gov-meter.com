@@ -1,0 +1,67 @@
+{
+  "url": "https://rvnl.org/",
+  "requestedUrl": "https://www.rvnl.org/",
+  "timestamp": 1727590370989,
+  "ranks": {
+    "hundos": 552,
+    "performance": 548,
+    "accessibility": 492,
+    "cumulative": 552
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.17,
+    "accessibility": 0.64,
+    "bestPractices": 0.7,
+    "seo": 0.68,
+    "total": 219
+  },
+  "firstContentfulPaint": 47064.303490000035,
+  "firstMeaningfulPaint": 47568.44425000003,
+  "speedIndex": 47064.303490000035,
+  "largestContentfulPaint": 50287.48585000003,
+  "totalBlockingTime": 528,
+  "cumulativeLayoutShift": 1.564318853786809,
+  "timeToInteractive": 69160.47793000002,
+  "maxPotentialFirstInputDelay": 444,
+  "timeToFirstByte": 47.49599999999998,
+  "weight": {
+    "summary": "148 requests • 33.5 MiB",
+    "total": 35135127,
+    "image": 24580284,
+    "imageCount": 57,
+    "script": 8527796,
+    "scriptCount": 18,
+    "document": 69270,
+    "font": 795473,
+    "fontCount": 11,
+    "stylesheet": 1062200,
+    "stylesheetCount": 25,
+    "thirdParty": 1294239,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 549,
+    "+weight.total": 24,
+    "-weight.document": 356,
+    "+weight.document": 213,
+    "-weight.script": 510,
+    "+weight.script": 2,
+    "-weight.image": 534,
+    "+weight.image": 37,
+    "-weight.font": 383,
+    "+weight.font": 8,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 34,
+    "-totalBlockingTime": 139,
+    "-largestContentfulPaint": 270
+  },
+  "axe": {
+    "passes": 1289,
+    "violations": 73
+  }
+}

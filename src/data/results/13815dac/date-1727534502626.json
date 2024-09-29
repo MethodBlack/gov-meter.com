@@ -1,0 +1,67 @@
+{
+  "url": "https://seismo.gov.in/",
+  "requestedUrl": "https://seismo.gov.in/",
+  "timestamp": 1727565847880,
+  "ranks": {
+    "hundos": 156,
+    "performance": 374,
+    "accessibility": 124,
+    "cumulative": 156
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.41,
+    "accessibility": 0.86,
+    "bestPractices": 0.89,
+    "seo": 0.83,
+    "total": 299
+  },
+  "firstContentfulPaint": 15398.523500000007,
+  "firstMeaningfulPaint": 15647.876250000005,
+  "speedIndex": 23598.872690205324,
+  "largestContentfulPaint": 50019.56349999999,
+  "totalBlockingTime": 206.5,
+  "cumulativeLayoutShift": 0.2242965719990344,
+  "timeToInteractive": 24305.855750000002,
+  "maxPotentialFirstInputDelay": 265,
+  "timeToFirstByte": 746.594,
+  "weight": {
+    "summary": "113 requests • 8.3 MiB",
+    "total": 8681531,
+    "image": 6528421,
+    "imageCount": 27,
+    "script": 1238400,
+    "scriptCount": 35,
+    "document": 139503,
+    "font": 123770,
+    "fontCount": 4,
+    "stylesheet": 651437,
+    "stylesheetCount": 44,
+    "thirdParty": 84407,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 387,
+    "+weight.total": 186,
+    "-weight.document": 442,
+    "+weight.document": 127,
+    "-weight.script": 409,
+    "+weight.script": 103,
+    "-weight.image": 368,
+    "+weight.image": 203,
+    "-weight.font": 164,
+    "+weight.font": 227,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 437,
+    "-totalBlockingTime": 277,
+    "-largestContentfulPaint": 411
+  },
+  "axe": {
+    "passes": 787,
+    "violations": 46
+  }
+}

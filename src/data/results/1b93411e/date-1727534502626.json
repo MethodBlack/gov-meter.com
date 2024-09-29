@@ -1,0 +1,67 @@
+{
+  "url": "https://www.iglonline.net/",
+  "requestedUrl": "https://www.iglonline.net/",
+  "timestamp": 1727580565633,
+  "ranks": {
+    "hundos": 172,
+    "performance": 371,
+    "accessibility": 163,
+    "cumulative": 170
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.41,
+    "accessibility": 0.83,
+    "bestPractices": 0.89,
+    "seo": 0.84,
+    "total": 297
+  },
+  "firstContentfulPaint": 4382.093827333138,
+  "firstMeaningfulPaint": 5689.414842799765,
+  "speedIndex": 8956.310134973617,
+  "largestContentfulPaint": 12861.865339732733,
+  "totalBlockingTime": 96,
+  "cumulativeLayoutShift": 0.345483665476649,
+  "timeToInteractive": 10320.35162889952,
+  "maxPotentialFirstInputDelay": 131.5,
+  "timeToFirstByte": 969.166,
+  "weight": {
+    "summary": "79 requests • 2.0 MiB",
+    "total": 2072346,
+    "image": 983387,
+    "imageCount": 27,
+    "script": 751970,
+    "scriptCount": 21,
+    "document": 29125,
+    "font": 123170,
+    "fontCount": 5,
+    "stylesheet": 183115,
+    "stylesheetCount": 19,
+    "thirdParty": 937055,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 119,
+    "+weight.total": 454,
+    "-weight.document": 246,
+    "+weight.document": 323,
+    "-weight.script": 318,
+    "+weight.script": 194,
+    "-weight.image": 100,
+    "+weight.image": 471,
+    "-weight.font": 161,
+    "+weight.font": 230,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 480,
+    "-totalBlockingTime": 257,
+    "-largestContentfulPaint": 342
+  },
+  "axe": {
+    "passes": 1226,
+    "violations": 36
+  }
+}

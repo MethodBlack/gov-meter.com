@@ -1,0 +1,66 @@
+{
+  "url": "https://aaib.gov.in/",
+  "requestedUrl": "https://aaib.gov.in/",
+  "timestamp": 1727571009411,
+  "ranks": {
+    "hundos": 94,
+    "performance": 240,
+    "accessibility": 255,
+    "cumulative": 98
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.54,
+    "accessibility": 0.81,
+    "bestPractices": 0.93,
+    "seo": 0.83,
+    "total": 311
+  },
+  "firstContentfulPaint": 3736.7129999999997,
+  "firstMeaningfulPaint": 3736.7129999999997,
+  "speedIndex": 4418.131908043099,
+  "largestContentfulPaint": 3980.4975,
+  "totalBlockingTime": 0.5,
+  "cumulativeLayoutShift": 0.8474176880699312,
+  "timeToInteractive": 5686.989,
+  "maxPotentialFirstInputDelay": 51,
+  "timeToFirstByte": 67.47000000000003,
+  "weight": {
+    "summary": "57 requests • 128.9 MiB",
+    "total": 135211688,
+    "image": 114784442,
+    "imageCount": 32,
+    "script": 374511,
+    "scriptCount": 11,
+    "document": 199934,
+    "font": 91831,
+    "fontCount": 2,
+    "stylesheet": 83282,
+    "stylesheetCount": 8,
+    "thirdParty": 521784,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 572,
+    "+weight.total": 1,
+    "-weight.document": 501,
+    "+weight.document": 68,
+    "-weight.script": 193,
+    "+weight.script": 319,
+    "-weight.image": 570,
+    "+weight.image": 1,
+    "-weight.font": 108,
+    "+weight.font": 283,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 80,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 43
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

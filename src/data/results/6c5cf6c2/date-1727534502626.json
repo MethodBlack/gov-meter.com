@@ -1,0 +1,56 @@
+{
+  "url": "https://drdpat.bih.nic.in/",
+  "requestedUrl": "https://drdpat.bih.nic.in/",
+  "timestamp": 1727542404629,
+  "ranks": {
+    "hundos": 572,
+    "performance": 571,
+    "accessibility": 571,
+    "cumulative": 572
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": null,
+    "accessibility": 0.33,
+    "bestPractices": 0.96,
+    "seo": 0.58,
+    "total": 187
+  },
+  "cumulativeLayoutShift": 0,
+  "timeToFirstByte": 72.14300000000003,
+  "weight": {
+    "summary": "37 requests • 67.7 KiB",
+    "total": 69289,
+    "image": 41570,
+    "imageCount": 28,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 20990,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 6729,
+    "stylesheetCount": 4,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "sidequests": {
+    "-weight.total": 3,
+    "+weight.total": 570,
+    "-weight.document": 190,
+    "+weight.document": 379,
+    "-weight.script": 1,
+    "+weight.script": 512,
+    "-weight.image": 12,
+    "+weight.image": 559,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 95,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 281
+  },
+  "axe": {
+    "passes": 280,
+    "violations": 58
+  }
+}

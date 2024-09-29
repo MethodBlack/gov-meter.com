@@ -1,0 +1,66 @@
+{
+  "url": "https://www.vizagsteel.com/",
+  "requestedUrl": "https://www.vizagsteel.com/",
+  "timestamp": 1727568806877,
+  "ranks": {
+    "hundos": 246,
+    "performance": 445,
+    "accessibility": 141,
+    "cumulative": 246
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.85,
+    "bestPractices": 0.81,
+    "seo": 0.85,
+    "total": 285
+  },
+  "firstContentfulPaint": 4909.79,
+  "firstMeaningfulPaint": 4909.79,
+  "speedIndex": 25064.414782182415,
+  "largestContentfulPaint": 4909.79,
+  "totalBlockingTime": 2572,
+  "cumulativeLayoutShift": 0.0010181965070453348,
+  "timeToInteractive": 33633.373499999994,
+  "maxPotentialFirstInputDelay": 2761,
+  "timeToFirstByte": 296.07000000000005,
+  "weight": {
+    "summary": "484 requests • 15.1 MiB",
+    "total": 15878714,
+    "image": 13962116,
+    "imageCount": 432,
+    "script": 1083219,
+    "scriptCount": 31,
+    "document": 345489,
+    "font": 77395,
+    "fontCount": 1,
+    "stylesheet": 407537,
+    "stylesheetCount": 11,
+    "thirdParty": 9032598,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 472,
+    "+weight.total": 101,
+    "-weight.document": 546,
+    "+weight.document": 23,
+    "-weight.script": 387,
+    "+weight.script": 125,
+    "-weight.image": 475,
+    "+weight.image": 96,
+    "-weight.font": 73,
+    "+weight.font": 318,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 337,
+    "-totalBlockingTime": 185,
+    "-largestContentfulPaint": 66
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.niscpr.res.in/",
+  "requestedUrl": "https://www.niscpr.res.in/",
+  "timestamp": 1727558345436,
+  "ranks": {
+    "hundos": 312,
+    "performance": 377,
+    "accessibility": 248,
+    "cumulative": 314
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.4,
+    "accessibility": 0.81,
+    "bestPractices": 0.89,
+    "seo": 0.64,
+    "total": 274
+  },
+  "firstContentfulPaint": 3036.684,
+  "firstMeaningfulPaint": 3036.684,
+  "speedIndex": 10632.818486741648,
+  "largestContentfulPaint": 8789.470999999998,
+  "totalBlockingTime": 37.5,
+  "cumulativeLayoutShift": 0.49729383906665325,
+  "timeToInteractive": 12510.813000000002,
+  "maxPotentialFirstInputDelay": 122,
+  "timeToFirstByte": 291.1390000000001,
+  "weight": {
+    "summary": "80 requests • 14.9 MiB",
+    "total": 15583924,
+    "image": 15036387,
+    "imageCount": 45,
+    "script": 402919,
+    "scriptCount": 16,
+    "document": 11372,
+    "font": 77540,
+    "fontCount": 1,
+    "stylesheet": 52711,
+    "stylesheetCount": 12,
+    "thirdParty": 296901,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 471,
+    "+weight.total": 102,
+    "-weight.document": 43,
+    "+weight.document": 526,
+    "-weight.script": 206,
+    "+weight.script": 306,
+    "-weight.image": 485,
+    "+weight.image": 86,
+    "-weight.font": 74,
+    "+weight.font": 317,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 335,
+    "-totalBlockingTime": 52,
+    "-largestContentfulPaint": 139
+  },
+  "axe": {
+    "passes": 593,
+    "violations": 47
+  }
+}

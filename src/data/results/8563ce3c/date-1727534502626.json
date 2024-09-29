@@ -1,0 +1,67 @@
+{
+  "url": "https://aftkolkata.nic.in/",
+  "requestedUrl": "https://aftkolkata.nic.in/",
+  "timestamp": 1727571266000,
+  "ranks": {
+    "hundos": 102,
+    "performance": 66,
+    "accessibility": 145,
+    "cumulative": 103
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.75,
+    "accessibility": 0.84,
+    "bestPractices": 0.89,
+    "seo": 0.62,
+    "total": 310
+  },
+  "firstContentfulPaint": 2465.6665,
+  "firstMeaningfulPaint": 2465.6665,
+  "speedIndex": 2726.5735779746046,
+  "largestContentfulPaint": 5931.156499999999,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0007909504041223294,
+  "timeToInteractive": 2465.6665,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 155.041,
+  "weight": {
+    "summary": "59 requests • 574.6 KiB",
+    "total": 588348,
+    "image": 454885,
+    "imageCount": 32,
+    "script": 72015,
+    "scriptCount": 8,
+    "document": 20423,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 39593,
+    "stylesheetCount": 14,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 25,
+    "+weight.total": 548,
+    "-weight.document": 181,
+    "+weight.document": 388,
+    "-weight.script": 17,
+    "+weight.script": 495,
+    "-weight.image": 58,
+    "+weight.image": 513,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 257,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 93
+  },
+  "axe": {
+    "passes": 599,
+    "violations": 17
+  }
+}

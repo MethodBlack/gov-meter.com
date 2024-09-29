@@ -1,0 +1,67 @@
+{
+  "url": "https://mundracustoms.gov.in/",
+  "requestedUrl": "https://mundracustoms.gov.in/",
+  "timestamp": 1727589453814,
+  "ranks": {
+    "hundos": 137,
+    "performance": 36,
+    "accessibility": 498,
+    "cumulative": 133
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.86,
+    "accessibility": 0.63,
+    "bestPractices": 0.7,
+    "seo": 0.85,
+    "total": 304
+  },
+  "firstContentfulPaint": 2307.5485,
+  "firstMeaningfulPaint": 2307.5485,
+  "speedIndex": 5512.584698685394,
+  "largestContentfulPaint": 3149.5165,
+  "totalBlockingTime": 70.77750000000015,
+  "cumulativeLayoutShift": 0.03554636182547855,
+  "timeToInteractive": 4726.409,
+  "maxPotentialFirstInputDelay": 79,
+  "timeToFirstByte": 704.521,
+  "weight": {
+    "summary": "57 requests • 3.2 MiB",
+    "total": 3401410,
+    "image": 2976393,
+    "imageCount": 26,
+    "script": 312963,
+    "scriptCount": 17,
+    "document": 50778,
+    "font": 38553,
+    "fontCount": 5,
+    "stylesheet": 22723,
+    "stylesheetCount": 8,
+    "thirdParty": 33532,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 182,
+    "+weight.total": 391,
+    "-weight.document": 314,
+    "+weight.document": 255,
+    "-weight.script": 140,
+    "+weight.script": 372,
+    "-weight.image": 228,
+    "+weight.image": 343,
+    "-weight.font": 27,
+    "+weight.font": 364,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 429,
+    "-totalBlockingTime": 245,
+    "-largestContentfulPaint": 286
+  },
+  "axe": {
+    "passes": 370,
+    "violations": 35
+  }
+}

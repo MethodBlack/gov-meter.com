@@ -1,0 +1,67 @@
+{
+  "url": "https://dgmap.gov.in/",
+  "requestedUrl": "https://dgmap.gov.in/",
+  "timestamp": 1727541904937,
+  "ranks": {
+    "hundos": 449,
+    "performance": 10,
+    "accessibility": 561,
+    "cumulative": 449
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.97,
+    "accessibility": 0.49,
+    "bestPractices": 0.59,
+    "seo": 0.5,
+    "total": 255
+  },
+  "firstContentfulPaint": 2090.065,
+  "firstMeaningfulPaint": 2090.065,
+  "speedIndex": 2538.618952005267,
+  "largestContentfulPaint": 2090.065,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.004082675479875489,
+  "timeToInteractive": 2090.065,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 60.454999999999984,
+  "weight": {
+    "summary": "32 requests • 300.9 KiB",
+    "total": 308080,
+    "image": 188964,
+    "imageCount": 23,
+    "script": 56023,
+    "scriptCount": 5,
+    "document": 34505,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 28588,
+    "stylesheetCount": 3,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 12,
+    "+weight.total": 561,
+    "-weight.document": 262,
+    "+weight.document": 307,
+    "-weight.script": 12,
+    "+weight.script": 500,
+    "-weight.image": 30,
+    "+weight.image": 541,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 63,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 8
+  },
+  "axe": {
+    "passes": 403,
+    "violations": 50
+  }
+}

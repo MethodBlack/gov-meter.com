@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ireps.gov.in/",
+  "requestedUrl": "https://www.ireps.gov.in/",
+  "timestamp": 1727580378358,
+  "ranks": {
+    "hundos": 543,
+    "performance": 400,
+    "accessibility": 547,
+    "cumulative": 544
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.38,
+    "accessibility": 0.55,
+    "bestPractices": 0.7,
+    "seo": 0.6,
+    "total": 223
+  },
+  "firstContentfulPaint": 4298.3505000000005,
+  "firstMeaningfulPaint": 4323.3505000000005,
+  "speedIndex": 10760.688149723057,
+  "largestContentfulPaint": 5848.522999999999,
+  "totalBlockingTime": 284.5,
+  "cumulativeLayoutShift": 0.3453278724582468,
+  "timeToInteractive": 14772.801,
+  "maxPotentialFirstInputDelay": 218,
+  "timeToFirstByte": 30.070999999999998,
+  "weight": {
+    "summary": "57 requests • 3.4 MiB",
+    "total": 3529395,
+    "image": 2192900,
+    "imageCount": 16,
+    "script": 965277,
+    "scriptCount": 14,
+    "document": 57932,
+    "font": 113859,
+    "fontCount": 4,
+    "stylesheet": 141192,
+    "stylesheetCount": 7,
+    "thirdParty": 1102944,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 189,
+    "+weight.total": 384,
+    "-weight.document": 332,
+    "+weight.document": 237,
+    "-weight.script": 374,
+    "+weight.script": 138,
+    "-weight.image": 179,
+    "+weight.image": 392,
+    "-weight.font": 147,
+    "+weight.font": 244,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 12,
+    "-totalBlockingTime": 116,
+    "-largestContentfulPaint": 90
+  },
+  "axe": {
+    "passes": 827,
+    "violations": 54
+  }
+}

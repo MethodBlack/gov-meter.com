@@ -1,0 +1,67 @@
+{
+  "url": "https://cicef.gov.in/",
+  "requestedUrl": "https://cicef.gov.in/",
+  "timestamp": 1727573240340,
+  "ranks": {
+    "hundos": 140,
+    "performance": 44,
+    "accessibility": 319,
+    "cumulative": 137
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.84,
+    "accessibility": 0.76,
+    "bestPractices": 0.85,
+    "seo": 0.58,
+    "total": 303
+  },
+  "firstContentfulPaint": 2586.649,
+  "firstMeaningfulPaint": 2586.649,
+  "speedIndex": 2787.352050016856,
+  "largestContentfulPaint": 3871.649,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2586.649,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 81.827,
+  "weight": {
+    "summary": "19 requests • 580.8 KiB",
+    "total": 594780,
+    "image": 256549,
+    "imageCount": 12,
+    "script": 310907,
+    "scriptCount": 4,
+    "document": 12485,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 14839,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 26,
+    "+weight.total": 547,
+    "-weight.document": 61,
+    "+weight.document": 508,
+    "-weight.script": 139,
+    "+weight.script": 373,
+    "-weight.image": 35,
+    "+weight.image": 536,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 118,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 438
+  },
+  "axe": {
+    "passes": 371,
+    "violations": 15
+  }
+}

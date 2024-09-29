@@ -1,0 +1,66 @@
+{
+  "url": "https://seepz.gov.in/",
+  "requestedUrl": "https://seepz.gov.in/",
+  "timestamp": 1727569226865,
+  "ranks": {
+    "hundos": 440,
+    "performance": 381,
+    "accessibility": 340,
+    "cumulative": 439
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.4,
+    "accessibility": 0.76,
+    "bestPractices": 0.67,
+    "seo": 0.74,
+    "total": 257
+  },
+  "firstContentfulPaint": 3904.7000000000007,
+  "firstMeaningfulPaint": 3904.7000000000007,
+  "speedIndex": 28457.627337050395,
+  "largestContentfulPaint": 8699.5,
+  "totalBlockingTime": 613.0000000000009,
+  "cumulativeLayoutShift": 0.09699643758919155,
+  "timeToInteractive": 67085.92449999998,
+  "maxPotentialFirstInputDelay": 343,
+  "timeToFirstByte": 210.00600000000009,
+  "weight": {
+    "summary": "161 requests • 25.6 MiB",
+    "total": 26830529,
+    "image": 18653646,
+    "imageCount": 90,
+    "script": 1109601,
+    "scriptCount": 36,
+    "document": 25214,
+    "font": 69662,
+    "fontCount": 2,
+    "stylesheet": 176159,
+    "stylesheetCount": 23,
+    "thirdParty": 784515,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 531,
+    "+weight.total": 42,
+    "-weight.document": 224,
+    "+weight.document": 345,
+    "-weight.script": 397,
+    "+weight.script": 115,
+    "-weight.image": 510,
+    "+weight.image": 61,
+    "-weight.font": 54,
+    "+weight.font": 337,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 299,
+    "-totalBlockingTime": 148,
+    "-largestContentfulPaint": 135
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

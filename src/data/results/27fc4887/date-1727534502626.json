@@ -1,0 +1,66 @@
+{
+  "url": "https://www.publicationsdivision.nic.in/",
+  "requestedUrl": "https://www.publicationsdivision.nic.in/",
+  "timestamp": 1727568473553,
+  "ranks": {
+    "hundos": 353,
+    "performance": 562,
+    "accessibility": 237,
+    "cumulative": 353
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.13,
+    "accessibility": 0.82,
+    "bestPractices": 0.89,
+    "seo": 0.84,
+    "total": 268
+  },
+  "firstContentfulPaint": 10902.464750000001,
+  "firstMeaningfulPaint": 10902.464750000001,
+  "speedIndex": 49015.16086095865,
+  "largestContentfulPaint": 11511.08475,
+  "totalBlockingTime": 1526,
+  "cumulativeLayoutShift": 0.3111809415617541,
+  "timeToInteractive": 32963.57650000001,
+  "maxPotentialFirstInputDelay": 1325,
+  "timeToFirstByte": 13872.57,
+  "weight": {
+    "summary": "629 requests • 33.2 MiB",
+    "total": 34837010,
+    "image": 31894832,
+    "imageCount": 531,
+    "script": 1621671,
+    "scriptCount": 54,
+    "document": 290268,
+    "font": 219401,
+    "fontCount": 6,
+    "stylesheet": 794196,
+    "stylesheetCount": 23,
+    "thirdParty": 23052189,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 548,
+    "+weight.total": 25,
+    "-weight.document": 536,
+    "+weight.document": 33,
+    "-weight.script": 457,
+    "+weight.script": 55,
+    "-weight.image": 548,
+    "+weight.image": 23,
+    "-weight.font": 285,
+    "+weight.font": 106,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 571,
+    "-totalBlockingTime": 390,
+    "-largestContentfulPaint": 497
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

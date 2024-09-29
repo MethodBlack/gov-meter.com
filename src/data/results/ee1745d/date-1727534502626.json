@@ -1,0 +1,67 @@
+{
+  "url": "https://dhr.indianrailways.gov.in/",
+  "requestedUrl": "https://dhr.indianrailways.gov.in/",
+  "timestamp": 1727558672225,
+  "ranks": {
+    "hundos": 524,
+    "performance": 18,
+    "accessibility": 565,
+    "cumulative": 523
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.92,
+    "accessibility": 0.46,
+    "bestPractices": 0.44,
+    "seo": 0.5,
+    "total": 232
+  },
+  "firstContentfulPaint": 1626.7024999999999,
+  "firstMeaningfulPaint": 1626.7024999999999,
+  "speedIndex": 3259.509052014114,
+  "largestContentfulPaint": 3116.147499999999,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.00894450163002843,
+  "timeToInteractive": 1626.7024999999999,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 82.23000000000002,
+  "weight": {
+    "summary": "38 requests • 1.0 MiB",
+    "total": 1056934,
+    "image": 1018841,
+    "imageCount": 21,
+    "script": 20985,
+    "scriptCount": 8,
+    "document": 13614,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 3494,
+    "stylesheetCount": 5,
+    "thirdParty": 386218,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 51,
+    "+weight.total": 522,
+    "-weight.document": 72,
+    "+weight.document": 497,
+    "-weight.script": 7,
+    "+weight.script": 505,
+    "-weight.image": 105,
+    "+weight.image": 466,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 121,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 433
+  },
+  "axe": {
+    "passes": 439,
+    "violations": 29
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.igtr-indore.com/",
+  "requestedUrl": "https://www.igtr-indore.com/",
+  "timestamp": 1727580530800,
+  "ranks": {
+    "hundos": 79,
+    "performance": 87,
+    "accessibility": 382,
+    "cumulative": 79
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.7,
+    "accessibility": 0.73,
+    "bestPractices": 0.96,
+    "seo": 0.75,
+    "total": 314
+  },
+  "firstContentfulPaint": 2434.7262009029546,
+  "firstMeaningfulPaint": 2434.7262009029546,
+  "speedIndex": 4102.563458075912,
+  "largestContentfulPaint": 27954.7300778787,
+  "totalBlockingTime": 66,
+  "cumulativeLayoutShift": 0.000017715976878167953,
+  "timeToInteractive": 4304.726200902955,
+  "maxPotentialFirstInputDelay": 162,
+  "timeToFirstByte": 133.914,
+  "weight": {
+    "summary": "57 requests • 4.9 MiB",
+    "total": 5182436,
+    "image": 4673330,
+    "imageCount": 35,
+    "script": 372339,
+    "scriptCount": 15,
+    "document": 12022,
+    "font": 77878,
+    "fontCount": 1,
+    "stylesheet": 46483,
+    "stylesheetCount": 3,
+    "thirdParty": 432961,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 268,
+    "+weight.total": 305,
+    "-weight.document": 51,
+    "+weight.document": 518,
+    "-weight.script": 189,
+    "+weight.script": 323,
+    "-weight.image": 314,
+    "+weight.image": 257,
+    "-weight.font": 78,
+    "+weight.font": 313,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 216,
+    "-totalBlockingTime": 67,
+    "-largestContentfulPaint": 251
+  },
+  "axe": {
+    "passes": 1129,
+    "violations": 94
+  }
+}

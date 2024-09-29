@@ -1,0 +1,66 @@
+{
+  "url": "https://indianmuseumkolkata.org/",
+  "requestedUrl": "https://indianmuseumkolkata.org/",
+  "timestamp": 1727545959187,
+  "ranks": {
+    "hundos": 465,
+    "performance": 560,
+    "accessibility": 153,
+    "cumulative": 462
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.14,
+    "accessibility": 0.84,
+    "bestPractices": 0.78,
+    "seo": 0.76,
+    "total": 252
+  },
+  "firstContentfulPaint": 3319.5044999999996,
+  "firstMeaningfulPaint": 3319.5044999999996,
+  "speedIndex": 14179.82009898651,
+  "largestContentfulPaint": 30207.3065,
+  "totalBlockingTime": 877.5,
+  "cumulativeLayoutShift": 1.0128956078578613,
+  "timeToInteractive": 21144.8045,
+  "maxPotentialFirstInputDelay": 1520,
+  "timeToFirstByte": 702.521,
+  "weight": {
+    "summary": "118 requests • 8.1 MiB",
+    "total": 8493603,
+    "image": 7434344,
+    "imageCount": 19,
+    "script": 294750,
+    "scriptCount": 40,
+    "document": 25781,
+    "font": 516483,
+    "fontCount": 12,
+    "stylesheet": 218157,
+    "stylesheetCount": 38,
+    "thirdParty": 277050,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 383,
+    "+weight.total": 190,
+    "-weight.document": 226,
+    "+weight.document": 343,
+    "-weight.script": 135,
+    "+weight.script": 377,
+    "-weight.image": 395,
+    "+weight.image": 176,
+    "-weight.font": 372,
+    "+weight.font": 19,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 428,
+    "-totalBlockingTime": 307,
+    "-largestContentfulPaint": 395
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

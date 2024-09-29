@@ -1,0 +1,66 @@
+{
+  "url": "https://www.scl.gov.in/",
+  "requestedUrl": "https://www.scl.gov.in/",
+  "timestamp": 1727551914026,
+  "ranks": {
+    "hundos": 47,
+    "performance": 229,
+    "accessibility": 238,
+    "cumulative": 67
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.82,
+    "bestPractices": 0.93,
+    "seo": 0.9,
+    "total": 324
+  },
+  "firstContentfulPaint": 6019.845000000001,
+  "firstMeaningfulPaint": 6019.845000000001,
+  "speedIndex": 21788.944783975036,
+  "largestContentfulPaint": 42903.45900000006,
+  "totalBlockingTime": 117,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 36334.04400000002,
+  "maxPotentialFirstInputDelay": 203,
+  "timeToFirstByte": 140.80500000000006,
+  "weight": {
+    "summary": "76 requests • 26.4 MiB",
+    "total": 27642270,
+    "image": 23100143,
+    "imageCount": 49,
+    "script": 1892781,
+    "scriptCount": 8,
+    "document": 46139,
+    "font": 629038,
+    "fontCount": 7,
+    "stylesheet": 581539,
+    "stylesheetCount": 8,
+    "thirdParty": 27985,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 533,
+    "+weight.total": 40,
+    "-weight.document": 295,
+    "+weight.document": 274,
+    "-weight.script": 471,
+    "+weight.script": 41,
+    "-weight.image": 528,
+    "+weight.image": 43,
+    "-weight.font": 378,
+    "+weight.font": 13,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 229,
+    "-totalBlockingTime": 87,
+    "-largestContentfulPaint": 268
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

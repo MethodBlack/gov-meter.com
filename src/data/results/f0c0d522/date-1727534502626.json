@@ -1,0 +1,67 @@
+{
+  "url": "https://dghindia.gov.in/",
+  "requestedUrl": "https://dghindia.gov.in/",
+  "timestamp": 1727560146645,
+  "ranks": {
+    "hundos": 451,
+    "performance": 403,
+    "accessibility": 392,
+    "cumulative": 447
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.37,
+    "accessibility": 0.72,
+    "bestPractices": 0.96,
+    "seo": 0.5,
+    "total": 255
+  },
+  "firstContentfulPaint": 3530.3499999999995,
+  "firstMeaningfulPaint": 3680.35,
+  "speedIndex": 6701.8809946987785,
+  "largestContentfulPaint": 10735.7,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 1.1374735915769223,
+  "timeToInteractive": 3680.35,
+  "maxPotentialFirstInputDelay": 40.000000000000455,
+  "timeToFirstByte": 255.082,
+  "weight": {
+    "summary": "79 requests • 4.6 MiB",
+    "total": 4823835,
+    "image": 4120137,
+    "imageCount": 45,
+    "script": 191239,
+    "scriptCount": 13,
+    "document": 88270,
+    "font": 166793,
+    "fontCount": 8,
+    "stylesheet": 257396,
+    "stylesheetCount": 12,
+    "thirdParty": 68182,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 256,
+    "+weight.total": 317,
+    "-weight.document": 381,
+    "+weight.document": 188,
+    "-weight.script": 70,
+    "+weight.script": 442,
+    "-weight.image": 282,
+    "+weight.image": 289,
+    "-weight.font": 234,
+    "+weight.font": 157,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 322,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 161
+  },
+  "axe": {
+    "passes": 746,
+    "violations": 36
+  }
+}

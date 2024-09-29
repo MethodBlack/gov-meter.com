@@ -1,0 +1,67 @@
+{
+  "url": "https://morar.cantt.gov.in/",
+  "requestedUrl": "https://morar.cantt.gov.in/",
+  "timestamp": 1727555749349,
+  "ranks": {
+    "hundos": 459,
+    "performance": 559,
+    "accessibility": 167,
+    "cumulative": 454
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.14,
+    "accessibility": 0.83,
+    "bestPractices": 0.74,
+    "seo": 0.83,
+    "total": 254
+  },
+  "firstContentfulPaint": 3967.1939999999995,
+  "firstMeaningfulPaint": 3967.1939999999995,
+  "speedIndex": 11545.515949074936,
+  "largestContentfulPaint": 29623.791000000012,
+  "totalBlockingTime": 796,
+  "cumulativeLayoutShift": 1.229888578353266,
+  "timeToInteractive": 17297.15650000001,
+  "maxPotentialFirstInputDelay": 376,
+  "timeToFirstByte": 989.863,
+  "weight": {
+    "summary": "181 requests • 4.8 MiB",
+    "total": 5026283,
+    "image": 3737912,
+    "imageCount": 33,
+    "script": 614066,
+    "scriptCount": 64,
+    "document": 43001,
+    "font": 78164,
+    "fontCount": 10,
+    "stylesheet": 553140,
+    "stylesheetCount": 71,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 262,
+    "+weight.total": 311,
+    "-weight.document": 285,
+    "+weight.document": 284,
+    "-weight.script": 276,
+    "+weight.script": 236,
+    "-weight.image": 267,
+    "+weight.image": 304,
+    "-weight.font": 82,
+    "+weight.font": 309,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 483,
+    "-totalBlockingTime": 306,
+    "-largestContentfulPaint": 391
+  },
+  "axe": {
+    "passes": 972,
+    "violations": 43
+  }
+}

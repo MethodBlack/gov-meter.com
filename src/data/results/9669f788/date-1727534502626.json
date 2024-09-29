@@ -1,0 +1,67 @@
+{
+  "url": "https://www.kvic.gov.in/kvicres/index.php",
+  "requestedUrl": "https://www.kvic.gov.in/",
+  "timestamp": 1727564806780,
+  "ranks": {
+    "hundos": 361,
+    "performance": 346,
+    "accessibility": 456,
+    "cumulative": 364
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.44,
+    "accessibility": 0.68,
+    "bestPractices": 0.81,
+    "seo": 0.74,
+    "total": 267
+  },
+  "firstContentfulPaint": 2758.379,
+  "firstMeaningfulPaint": 2758.379,
+  "speedIndex": 7401.549261957356,
+  "largestContentfulPaint": 16126.602750000005,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.4403244679519082,
+  "timeToInteractive": 2758.379,
+  "maxPotentialFirstInputDelay": 43,
+  "timeToFirstByte": 65.017,
+  "weight": {
+    "summary": "50 requests • 5.0 MiB",
+    "total": 5204782,
+    "image": 4923050,
+    "imageCount": 37,
+    "script": 152284,
+    "scriptCount": 10,
+    "document": 83978,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 44713,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 6
+  },
+  "sidequests": {
+    "-weight.total": 272,
+    "+weight.total": 301,
+    "-weight.document": 378,
+    "+weight.document": 191,
+    "-weight.script": 55,
+    "+weight.script": 457,
+    "-weight.image": 320,
+    "+weight.image": 251,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 73,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 216
+  },
+  "axe": {
+    "passes": 1126,
+    "violations": 82
+  }
+}

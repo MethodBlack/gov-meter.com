@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cdac.in/",
+  "requestedUrl": "https://www.cdac.in/",
+  "timestamp": 1727573507123,
+  "ranks": {
+    "hundos": 17,
+    "performance": 256,
+    "accessibility": 19,
+    "cumulative": 19
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.53,
+    "accessibility": 0.95,
+    "bestPractices": 0.89,
+    "seo": 1,
+    "total": 337
+  },
+  "firstContentfulPaint": 4662.598000000001,
+  "firstMeaningfulPaint": 4662.598000000001,
+  "speedIndex": 8635.094595446326,
+  "largestContentfulPaint": 5619.263000000001,
+  "totalBlockingTime": 46.5,
+  "cumulativeLayoutShift": 0.20230697807686196,
+  "timeToInteractive": 11139.087,
+  "maxPotentialFirstInputDelay": 143,
+  "timeToFirstByte": 178.80900000000003,
+  "weight": {
+    "summary": "102 requests • 4.1 MiB",
+    "total": 4247245,
+    "image": 2658565,
+    "imageCount": 78,
+    "script": 715043,
+    "scriptCount": 13,
+    "document": 110134,
+    "font": 388819,
+    "fontCount": 1,
+    "stylesheet": 374684,
+    "stylesheetCount": 9,
+    "thirdParty": 109174,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 229,
+    "+weight.total": 344,
+    "-weight.document": 405,
+    "+weight.document": 164,
+    "-weight.script": 310,
+    "+weight.script": 202,
+    "-weight.image": 215,
+    "+weight.image": 356,
+    "-weight.font": 359,
+    "+weight.font": 32,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 279,
+    "-totalBlockingTime": 57,
+    "-largestContentfulPaint": 86
+  },
+  "axe": {
+    "passes": 1502,
+    "violations": 19
+  }
+}

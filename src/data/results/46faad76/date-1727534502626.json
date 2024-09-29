@@ -1,0 +1,67 @@
+{
+  "url": "https://mealib.nic.in/",
+  "requestedUrl": "https://mealib.nic.in/",
+  "timestamp": 1727581123095,
+  "ranks": {
+    "hundos": 191,
+    "performance": 85,
+    "accessibility": 91,
+    "cumulative": 191
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.7,
+    "accessibility": 0.88,
+    "bestPractices": 0.85,
+    "seo": 0.5,
+    "total": 293
+  },
+  "firstContentfulPaint": 2742.25,
+  "firstMeaningfulPaint": 2902.75,
+  "speedIndex": 3722.965452302551,
+  "largestContentfulPaint": 7842.25,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.000034132431175876705,
+  "timeToInteractive": 2902.75,
+  "maxPotentialFirstInputDelay": 21,
+  "timeToFirstByte": 49.459,
+  "weight": {
+    "summary": "57 requests • 1.3 MiB",
+    "total": 1371183,
+    "image": 861667,
+    "imageCount": 47,
+    "script": 412727,
+    "scriptCount": 8,
+    "document": 27122,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 69667,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 69,
+    "+weight.total": 504,
+    "-weight.document": 238,
+    "+weight.document": 331,
+    "-weight.script": 210,
+    "+weight.script": 302,
+    "-weight.image": 94,
+    "+weight.image": 477,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 39,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 120
+  },
+  "axe": {
+    "passes": 601,
+    "violations": 15
+  }
+}

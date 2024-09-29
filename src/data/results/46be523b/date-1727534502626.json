@@ -1,0 +1,67 @@
+{
+  "url": "https://www.greentribunal.gov.in/",
+  "requestedUrl": "https://www.greentribunal.gov.in/",
+  "timestamp": 1727548384491,
+  "ranks": {
+    "hundos": 203,
+    "performance": 204,
+    "accessibility": 457,
+    "cumulative": 204
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.56,
+    "accessibility": 0.68,
+    "bestPractices": 0.96,
+    "seo": 0.72,
+    "total": 292
+  },
+  "firstContentfulPaint": 6553.101500000001,
+  "firstMeaningfulPaint": 6553.101500000001,
+  "speedIndex": 13910.966175549254,
+  "largestContentfulPaint": 7685.029500000003,
+  "totalBlockingTime": 67.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 7356.917500000002,
+  "maxPotentialFirstInputDelay": 163,
+  "timeToFirstByte": 973.7530000000002,
+  "weight": {
+    "summary": "61 requests • 4.2 MiB",
+    "total": 4428073,
+    "image": 3762365,
+    "imageCount": 13,
+    "script": 372905,
+    "scriptCount": 15,
+    "document": 45598,
+    "font": 0,
+    "fontCount": 10,
+    "stylesheet": 247205,
+    "stylesheetCount": 22,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 238,
+    "+weight.total": 335,
+    "-weight.document": 293,
+    "+weight.document": 276,
+    "-weight.script": 191,
+    "+weight.script": 321,
+    "-weight.image": 269,
+    "+weight.image": 302,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 481,
+    "-totalBlockingTime": 241,
+    "-largestContentfulPaint": 308
+  },
+  "axe": {
+    "passes": 629,
+    "violations": 83
+  }
+}

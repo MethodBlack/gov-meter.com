@@ -1,0 +1,67 @@
+{
+  "url": "http://pdonpoultry.org/pdpnew/",
+  "requestedUrl": "https://pdonpoultry.org/",
+  "timestamp": 1727560611585,
+  "ranks": {
+    "hundos": 339,
+    "performance": 30,
+    "accessibility": 563,
+    "cumulative": 337
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.87,
+    "accessibility": 0.47,
+    "bestPractices": 0.78,
+    "seo": 0.58,
+    "total": 270
+  },
+  "firstContentfulPaint": 1308.6899999999996,
+  "firstMeaningfulPaint": 1308.6899999999996,
+  "speedIndex": 4151.494077998638,
+  "largestContentfulPaint": 3756.909999999998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1308.6899999999996,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 98.13,
+  "weight": {
+    "summary": "4 requests • 452.5 KiB",
+    "total": 463400,
+    "image": 462360,
+    "imageCount": 1,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 581,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 20,
+    "+weight.total": 553,
+    "-weight.document": 2,
+    "+weight.document": 567,
+    "-weight.script": 1,
+    "+weight.script": 512,
+    "-weight.image": 59,
+    "+weight.image": 512,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 166,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 434
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 6
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://dst.gov.in/scientific-programmes/mission-nano-science-and-technology-nano-mission",
+  "requestedUrl": "https://dst.gov.in/scientific-programmes/mission-nano-science-and-technology-nano-mission",
+  "timestamp": 1727581566898,
+  "ranks": {
+    "hundos": 222,
+    "performance": 383,
+    "accessibility": 96,
+    "cumulative": 217
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.39,
+    "accessibility": 0.88,
+    "bestPractices": 0.93,
+    "seo": 0.69,
+    "total": 289
+  },
+  "firstContentfulPaint": 5731.083999999999,
+  "firstMeaningfulPaint": 5731.083999999999,
+  "speedIndex": 9408.063758000037,
+  "largestContentfulPaint": 13199.38950000001,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.35965665125748447,
+  "timeToInteractive": 5731.083999999999,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 1499.341,
+  "weight": {
+    "summary": "91 requests • 1.6 MiB",
+    "total": 1637097,
+    "image": 1393973,
+    "imageCount": 39,
+    "script": 117613,
+    "scriptCount": 20,
+    "document": 14200,
+    "font": 52369,
+    "fontCount": 4,
+    "stylesheet": 58942,
+    "stylesheetCount": 27,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 85,
+    "+weight.total": 488,
+    "-weight.document": 81,
+    "+weight.document": 488,
+    "-weight.script": 32,
+    "+weight.script": 480,
+    "-weight.image": 135,
+    "+weight.image": 436,
+    "-weight.font": 40,
+    "+weight.font": 351,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 507,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 506
+  },
+  "axe": {
+    "passes": 752,
+    "violations": 33
+  }
+}

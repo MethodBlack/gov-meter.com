@@ -1,0 +1,67 @@
+{
+  "url": "https://asijabalpur.gov.in/",
+  "requestedUrl": "https://asijabalpur.gov.in/",
+  "timestamp": 1727535096088,
+  "ranks": {
+    "hundos": 64,
+    "performance": 119,
+    "accessibility": 95,
+    "cumulative": 66
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.64,
+    "accessibility": 0.88,
+    "bestPractices": 0.93,
+    "seo": 0.75,
+    "total": 320
+  },
+  "firstContentfulPaint": 3753.1475000000005,
+  "firstMeaningfulPaint": 3753.1475000000005,
+  "speedIndex": 4901.838886006356,
+  "largestContentfulPaint": 11978.45,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.059129315295816366,
+  "timeToInteractive": 3753.1475000000005,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 111.97500000000002,
+  "weight": {
+    "summary": "30 requests • 2.0 MiB",
+    "total": 2051450,
+    "image": 1566447,
+    "imageCount": 19,
+    "script": 259983,
+    "scriptCount": 3,
+    "document": 16568,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 208452,
+    "stylesheetCount": 7,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 118,
+    "+weight.total": 455,
+    "-weight.document": 134,
+    "+weight.document": 435,
+    "-weight.script": 122,
+    "+weight.script": 390,
+    "-weight.image": 150,
+    "+weight.image": 421,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 188,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 500
+  },
+  "axe": {
+    "passes": 324,
+    "violations": 32
+  }
+}

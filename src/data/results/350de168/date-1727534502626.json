@@ -1,0 +1,67 @@
+{
+  "url": "https://amritsarovar.gov.in/login",
+  "requestedUrl": "https://amritsarovar.gov.in/",
+  "timestamp": 1727581543468,
+  "ranks": {
+    "hundos": 546,
+    "performance": 444,
+    "accessibility": 428,
+    "cumulative": 548
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.7,
+    "bestPractices": 0.41,
+    "seo": 0.75,
+    "total": 220
+  },
+  "firstContentfulPaint": 10852.308499999996,
+  "firstMeaningfulPaint": 11530.174499999994,
+  "speedIndex": 25051.541240645136,
+  "largestContentfulPaint": 30984.019499999988,
+  "totalBlockingTime": 613,
+  "cumulativeLayoutShift": 0.14292285333124422,
+  "timeToInteractive": 43706.64799999999,
+  "maxPotentialFirstInputDelay": 216,
+  "timeToFirstByte": 65.19,
+  "weight": {
+    "summary": "320 requests • 20.4 MiB",
+    "total": 21438890,
+    "image": 16418391,
+    "imageCount": 87,
+    "script": 3142353,
+    "scriptCount": 83,
+    "document": 432300,
+    "font": 203174,
+    "fontCount": 12,
+    "stylesheet": 1063857,
+    "stylesheetCount": 24,
+    "thirdParty": 3819597,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 510,
+    "+weight.total": 63,
+    "-weight.document": 557,
+    "+weight.document": 12,
+    "-weight.script": 501,
+    "+weight.script": 11,
+    "-weight.image": 496,
+    "+weight.image": 75,
+    "-weight.font": 273,
+    "+weight.font": 118,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 74,
+    "-totalBlockingTime": 147,
+    "-largestContentfulPaint": 258
+  },
+  "axe": {
+    "passes": 1453,
+    "violations": 91
+  }
+}

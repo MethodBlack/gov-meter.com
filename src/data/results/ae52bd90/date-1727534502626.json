@@ -1,0 +1,67 @@
+{
+  "url": "https://indbiz.gov.in/",
+  "requestedUrl": "https://indbiz.gov.in/",
+  "timestamp": 1727542567094,
+  "ranks": {
+    "hundos": 283,
+    "performance": 200,
+    "accessibility": 330,
+    "cumulative": 283
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.56,
+    "accessibility": 0.76,
+    "bestPractices": 0.7,
+    "seo": 0.76,
+    "total": 278
+  },
+  "firstContentfulPaint": 5621.546,
+  "firstMeaningfulPaint": 5621.546,
+  "speedIndex": 10868.81847891269,
+  "largestContentfulPaint": 9559.008000000002,
+  "totalBlockingTime": 80.00000000000091,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 9768.103000000001,
+  "maxPotentialFirstInputDelay": 178.00000000000182,
+  "timeToFirstByte": 1777.809,
+  "weight": {
+    "summary": "83 requests • 3.6 MiB",
+    "total": 3766905,
+    "image": 3054156,
+    "imageCount": 31,
+    "script": 541034,
+    "scriptCount": 27,
+    "document": 18740,
+    "font": 65087,
+    "fontCount": 1,
+    "stylesheet": 86898,
+    "stylesheetCount": 16,
+    "thirdParty": 174438,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 198,
+    "+weight.total": 375,
+    "-weight.document": 165,
+    "+weight.document": 404,
+    "-weight.script": 256,
+    "+weight.script": 256,
+    "-weight.image": 233,
+    "+weight.image": 338,
+    "-weight.font": 49,
+    "+weight.font": 342,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 524,
+    "-totalBlockingTime": 252,
+    "-largestContentfulPaint": 320
+  },
+  "axe": {
+    "passes": 818,
+    "violations": 78
+  }
+}

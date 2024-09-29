@@ -1,0 +1,67 @@
+{
+  "url": "https://www.braithwaiteindia.com/",
+  "requestedUrl": "https://www.braithwaiteindia.com/",
+  "timestamp": 1727536001570,
+  "ranks": {
+    "hundos": 126,
+    "performance": 144,
+    "accessibility": 447,
+    "cumulative": 126
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.62,
+    "accessibility": 0.69,
+    "bestPractices": 0.89,
+    "seo": 0.85,
+    "total": 305
+  },
+  "firstContentfulPaint": 3401.8034700000007,
+  "firstMeaningfulPaint": 3401.8034700000007,
+  "speedIndex": 32210.946926432713,
+  "largestContentfulPaint": 5634.141690000002,
+  "totalBlockingTime": 95,
+  "cumulativeLayoutShift": 0.05929540887810796,
+  "timeToInteractive": 29878.97967,
+  "maxPotentialFirstInputDelay": 119,
+  "timeToFirstByte": 1911.2789999999995,
+  "weight": {
+    "summary": "170 requests • 8.9 MiB",
+    "total": 9375801,
+    "image": 7921041,
+    "imageCount": 82,
+    "script": 1079935,
+    "scriptCount": 49,
+    "document": 131129,
+    "font": 137858,
+    "fontCount": 5,
+    "stylesheet": 104053,
+    "stylesheetCount": 26,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 395,
+    "+weight.total": 178,
+    "-weight.document": 428,
+    "+weight.document": 141,
+    "-weight.script": 386,
+    "+weight.script": 126,
+    "-weight.image": 406,
+    "+weight.image": 165,
+    "-weight.font": 187,
+    "+weight.font": 204,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 530,
+    "-totalBlockingTime": 256,
+    "-largestContentfulPaint": 293
+  },
+  "axe": {
+    "passes": 1999,
+    "violations": 125
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://csir4pi.res.in/",
+  "requestedUrl": "https://www.csir4pi.in/",
+  "timestamp": 1727557934750,
+  "ranks": {
+    "hundos": 144,
+    "performance": 254,
+    "accessibility": 126,
+    "cumulative": 142
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.54,
+    "accessibility": 0.86,
+    "bestPractices": 0.85,
+    "seo": 0.78,
+    "total": 303
+  },
+  "firstContentfulPaint": 6001.81,
+  "firstMeaningfulPaint": 6990.140000000001,
+  "speedIndex": 60235.77064235489,
+  "largestContentfulPaint": 9910.355999999998,
+  "totalBlockingTime": 143,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 56359.21725000001,
+  "maxPotentialFirstInputDelay": 142,
+  "timeToFirstByte": 215.096,
+  "weight": {
+    "summary": "100 requests • 16.5 MiB",
+    "total": 17300936,
+    "image": 16328324,
+    "imageCount": 44,
+    "script": 678567,
+    "scriptCount": 33,
+    "document": 125491,
+    "font": 92473,
+    "fontCount": 2,
+    "stylesheet": 74836,
+    "stylesheetCount": 15,
+    "thirdParty": 706243,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 487,
+    "+weight.total": 86,
+    "-weight.document": 420,
+    "+weight.document": 149,
+    "-weight.script": 300,
+    "+weight.script": 212,
+    "-weight.image": 495,
+    "+weight.image": 76,
+    "-weight.font": 109,
+    "+weight.font": 282,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 302,
+    "-totalBlockingTime": 92,
+    "-largestContentfulPaint": 148
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

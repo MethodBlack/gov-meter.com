@@ -1,0 +1,66 @@
+{
+  "url": "https://rsfpdhyd.nic.in/",
+  "requestedUrl": "https://rsfpdhyd.nic.in/",
+  "timestamp": 1727551450307,
+  "ranks": {
+    "hundos": 161,
+    "performance": 108,
+    "accessibility": 463,
+    "cumulative": 166
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.66,
+    "accessibility": 0.68,
+    "bestPractices": 0.89,
+    "seo": 0.75,
+    "total": 298
+  },
+  "firstContentfulPaint": 4118.286,
+  "firstMeaningfulPaint": 4118.286,
+  "speedIndex": 5032.475068055413,
+  "largestContentfulPaint": 6476.706,
+  "totalBlockingTime": 18,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 90627.2270000008,
+  "maxPotentialFirstInputDelay": 86,
+  "timeToFirstByte": 80.37400000000002,
+  "weight": {
+    "summary": "26 requests • 59.3 MiB",
+    "total": 62195324,
+    "image": 58975465,
+    "imageCount": 16,
+    "script": 230368,
+    "scriptCount": 4,
+    "document": 19924,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 187606,
+    "stylesheetCount": 4,
+    "thirdParty": 31406,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 567,
+    "+weight.total": 6,
+    "-weight.document": 176,
+    "+weight.document": 393,
+    "-weight.script": 97,
+    "+weight.script": 415,
+    "-weight.image": 564,
+    "+weight.image": 7,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 116,
+    "-totalBlockingTime": 345,
+    "-largestContentfulPaint": 301
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

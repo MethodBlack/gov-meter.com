@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nmc.org.in/",
+  "requestedUrl": "https://www.nmc.org.in/",
+  "timestamp": 1727548924940,
+  "ranks": {
+    "hundos": 392,
+    "performance": 302,
+    "accessibility": 403,
+    "cumulative": 394
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.49,
+    "accessibility": 0.71,
+    "bestPractices": 0.74,
+    "seo": 0.7,
+    "total": 264
+  },
+  "firstContentfulPaint": 12945.728500000001,
+  "firstMeaningfulPaint": 12945.728500000001,
+  "speedIndex": 18590.900821293144,
+  "largestContentfulPaint": 14257.964500000002,
+  "totalBlockingTime": 281,
+  "cumulativeLayoutShift": 0.0015010097750713766,
+  "timeToInteractive": 19464.041999999998,
+  "maxPotentialFirstInputDelay": 595.9999999999982,
+  "timeToFirstByte": 508.429,
+  "weight": {
+    "summary": "125 requests • 3.6 MiB",
+    "total": 3745003,
+    "image": 1515780,
+    "imageCount": 29,
+    "script": 1252289,
+    "scriptCount": 45,
+    "document": 105194,
+    "font": 197415,
+    "fontCount": 7,
+    "stylesheet": 687569,
+    "stylesheetCount": 41,
+    "thirdParty": 263605,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 197,
+    "+weight.total": 376,
+    "-weight.document": 400,
+    "+weight.document": 169,
+    "-weight.script": 411,
+    "+weight.script": 101,
+    "-weight.image": 143,
+    "+weight.image": 428,
+    "-weight.font": 267,
+    "+weight.font": 124,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 383,
+    "-totalBlockingTime": 283,
+    "-largestContentfulPaint": 347
+  },
+  "axe": {
+    "passes": 1295,
+    "violations": 43
+  }
+}

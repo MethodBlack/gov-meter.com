@@ -1,0 +1,67 @@
+{
+  "url": "https://lansdowne.cantt.gov.in/",
+  "requestedUrl": "https://lansdowne.cantt.gov.in/",
+  "timestamp": 1727555673584,
+  "ranks": {
+    "hundos": 433,
+    "performance": 477,
+    "accessibility": 293,
+    "cumulative": 431
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.32,
+    "accessibility": 0.78,
+    "bestPractices": 0.74,
+    "seo": 0.75,
+    "total": 259
+  },
+  "firstContentfulPaint": 5438.0459999999985,
+  "firstMeaningfulPaint": 5438.0459999999985,
+  "speedIndex": 12012.766281326063,
+  "largestContentfulPaint": 48925.55800000008,
+  "totalBlockingTime": 39.5,
+  "cumulativeLayoutShift": 1.085421044515795,
+  "timeToInteractive": 28805.768000000062,
+  "maxPotentialFirstInputDelay": 95,
+  "timeToFirstByte": 669.145,
+  "weight": {
+    "summary": "91 requests • 7.3 MiB",
+    "total": 7640697,
+    "image": 6972417,
+    "imageCount": 32,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 15812,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 227770,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 353,
+    "+weight.total": 220,
+    "-weight.document": 120,
+    "+weight.document": 449,
+    "-weight.script": 169,
+    "+weight.script": 343,
+    "-weight.image": 379,
+    "+weight.image": 192,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 419,
+    "-totalBlockingTime": 211,
+    "-largestContentfulPaint": 567
+  },
+  "axe": {
+    "passes": 710,
+    "violations": 29
+  }
+}

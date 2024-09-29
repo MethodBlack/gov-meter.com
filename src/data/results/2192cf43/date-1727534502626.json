@@ -1,0 +1,67 @@
+{
+  "url": "https://www.orientalinsurance.org.in/",
+  "requestedUrl": "https://www.orientalinsurance.org.in/",
+  "timestamp": 1727552889784,
+  "ranks": {
+    "hundos": 487,
+    "performance": 567,
+    "accessibility": 359,
+    "cumulative": 494
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.09,
+    "accessibility": 0.74,
+    "bestPractices": 0.7,
+    "seo": 0.92,
+    "total": 248
+  },
+  "firstContentfulPaint": 2869.2706999999996,
+  "firstMeaningfulPaint": 6772.5184999999965,
+  "speedIndex": 23439.52929355826,
+  "largestContentfulPaint": 23771.47977872924,
+  "totalBlockingTime": 1709.0000000000036,
+  "cumulativeLayoutShift": 1.7335836860301586,
+  "timeToInteractive": 31984.761814364614,
+  "maxPotentialFirstInputDelay": 1181.0000000000073,
+  "timeToFirstByte": 48.95999999999981,
+  "weight": {
+    "summary": "420 requests • 13.3 MiB",
+    "total": 13914321,
+    "image": 9331248,
+    "imageCount": 257,
+    "script": 3642854,
+    "scriptCount": 89,
+    "document": 191947,
+    "font": 316706,
+    "fontCount": 7,
+    "stylesheet": 352248,
+    "stylesheetCount": 11,
+    "thirdParty": 11082231,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 453,
+    "+weight.total": 120,
+    "-weight.document": 494,
+    "+weight.document": 75,
+    "-weight.script": 502,
+    "+weight.script": 10,
+    "-weight.image": 421,
+    "+weight.image": 150,
+    "-weight.font": 330,
+    "+weight.font": 61,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 37,
+    "-totalBlockingTime": 175,
+    "-largestContentfulPaint": 244
+  },
+  "axe": {
+    "passes": 218,
+    "violations": 4
+  }
+}

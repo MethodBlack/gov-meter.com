@@ -1,0 +1,67 @@
+{
+  "url": "https://saltcomindia.gov.in/",
+  "requestedUrl": "https://saltcomindia.gov.in/",
+  "timestamp": 1727567692481,
+  "ranks": {
+    "hundos": 408,
+    "performance": 362,
+    "accessibility": 543,
+    "cumulative": 410
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.42,
+    "accessibility": 0.56,
+    "bestPractices": 0.89,
+    "seo": 0.75,
+    "total": 262
+  },
+  "firstContentfulPaint": 4701.673500000001,
+  "firstMeaningfulPaint": 4701.673500000001,
+  "speedIndex": 9133.389660257286,
+  "largestContentfulPaint": 8097.313,
+  "totalBlockingTime": 69.5,
+  "cumulativeLayoutShift": 0.3135068315911914,
+  "timeToInteractive": 7529.0885,
+  "maxPotentialFirstInputDelay": 188,
+  "timeToFirstByte": 94.60099999999989,
+  "weight": {
+    "summary": "75 requests • 3.1 MiB",
+    "total": 3255794,
+    "image": 2585050,
+    "imageCount": 42,
+    "script": 169298,
+    "scriptCount": 9,
+    "document": 13364,
+    "font": 198693,
+    "fontCount": 6,
+    "stylesheet": 289389,
+    "stylesheetCount": 17,
+    "thirdParty": 45893,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 175,
+    "+weight.total": 398,
+    "-weight.document": 69,
+    "+weight.document": 500,
+    "-weight.script": 64,
+    "+weight.script": 448,
+    "-weight.image": 210,
+    "+weight.image": 361,
+    "-weight.font": 268,
+    "+weight.font": 123,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 162,
+    "-totalBlockingTime": 356,
+    "-largestContentfulPaint": 479
+  },
+  "axe": {
+    "passes": 548,
+    "violations": 37
+  }
+}

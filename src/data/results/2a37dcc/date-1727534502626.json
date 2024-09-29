@@ -1,0 +1,67 @@
+{
+  "url": "https://www.powergrid.in/",
+  "requestedUrl": "https://www.powergrid.in/",
+  "timestamp": 1727589822046,
+  "ranks": {
+    "hundos": 42,
+    "performance": 153,
+    "accessibility": 283,
+    "cumulative": 42
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.6,
+    "accessibility": 0.79,
+    "bestPractices": 0.96,
+    "seo": 0.91,
+    "total": 326
+  },
+  "firstContentfulPaint": 3309.0530000000003,
+  "firstMeaningfulPaint": 3309.0530000000003,
+  "speedIndex": 7387.604554297126,
+  "largestContentfulPaint": 7874.828000000003,
+  "totalBlockingTime": 197,
+  "cumulativeLayoutShift": 0.019376258158885856,
+  "timeToInteractive": 9747.462500000005,
+  "maxPotentialFirstInputDelay": 444,
+  "timeToFirstByte": 60.803,
+  "weight": {
+    "summary": "157 requests • 21.3 MiB",
+    "total": 22352834,
+    "image": 10751949,
+    "imageCount": 89,
+    "script": 489223,
+    "scriptCount": 23,
+    "document": 78307,
+    "font": 140979,
+    "fontCount": 4,
+    "stylesheet": 99927,
+    "stylesheetCount": 33,
+    "thirdParty": 255162,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 515,
+    "+weight.total": 58,
+    "-weight.document": 371,
+    "+weight.document": 198,
+    "-weight.script": 238,
+    "+weight.script": 274,
+    "-weight.image": 437,
+    "+weight.image": 134,
+    "-weight.font": 192,
+    "+weight.font": 199,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 64,
+    "-totalBlockingTime": 103,
+    "-largestContentfulPaint": 121
+  },
+  "axe": {
+    "passes": 1640,
+    "violations": 94
+  }
+}

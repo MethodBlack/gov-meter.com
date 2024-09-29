@@ -1,0 +1,67 @@
+{
+  "url": "https://bhavini.nic.in/",
+  "requestedUrl": "https://bhavini.nic.in/",
+  "timestamp": 1727554786192,
+  "ranks": {
+    "hundos": 327,
+    "performance": 118,
+    "accessibility": 522,
+    "cumulative": 323
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.65,
+    "accessibility": 0.59,
+    "bestPractices": 0.67,
+    "seo": 0.81,
+    "total": 272
+  },
+  "firstContentfulPaint": 4659.888,
+  "firstMeaningfulPaint": 4659.888,
+  "speedIndex": 12091.151840006543,
+  "largestContentfulPaint": 4734.888,
+  "totalBlockingTime": 6,
+  "cumulativeLayoutShift": 0.0020527986747563287,
+  "timeToInteractive": 6084.888,
+  "maxPotentialFirstInputDelay": 62,
+  "timeToFirstByte": 2292.174,
+  "weight": {
+    "summary": "17 requests • 4.1 MiB",
+    "total": 4277510,
+    "image": 3667361,
+    "imageCount": 5,
+    "script": 454194,
+    "scriptCount": 5,
+    "document": 53414,
+    "font": 53230,
+    "fontCount": 2,
+    "stylesheet": 49311,
+    "stylesheetCount": 4,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 231,
+    "+weight.total": 342,
+    "-weight.document": 325,
+    "+weight.document": 244,
+    "-weight.script": 222,
+    "+weight.script": 290,
+    "-weight.image": 263,
+    "+weight.image": 308,
+    "-weight.font": 41,
+    "+weight.font": 350,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 540,
+    "-totalBlockingTime": 193,
+    "-largestContentfulPaint": 447
+  },
+  "axe": {
+    "passes": 344,
+    "violations": 30
+  }
+}

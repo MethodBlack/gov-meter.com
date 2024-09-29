@@ -1,0 +1,67 @@
+{
+  "url": "https://www.edcilindia.co.in/",
+  "requestedUrl": "https://www.edcilindia.co.in/",
+  "timestamp": 1727560825475,
+  "ranks": {
+    "hundos": 410,
+    "performance": 245,
+    "accessibility": 438,
+    "cumulative": 406
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.54,
+    "accessibility": 0.69,
+    "bestPractices": 0.74,
+    "seo": 0.65,
+    "total": 262
+  },
+  "firstContentfulPaint": 4667.544,
+  "firstMeaningfulPaint": 4674.544,
+  "speedIndex": 12504.982959131043,
+  "largestContentfulPaint": 10873.544,
+  "totalBlockingTime": 179.5,
+  "cumulativeLayoutShift": 0.018239891938762832,
+  "timeToInteractive": 6128.044,
+  "maxPotentialFirstInputDelay": 319,
+  "timeToFirstByte": 749.953,
+  "weight": {
+    "summary": "87 requests • 3.8 MiB",
+    "total": 4018542,
+    "image": 3276908,
+    "imageCount": 32,
+    "script": 433523,
+    "scriptCount": 29,
+    "document": 21663,
+    "font": 154428,
+    "fontCount": 7,
+    "stylesheet": 132020,
+    "stylesheetCount": 18,
+    "thirdParty": 157604,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 217,
+    "+weight.total": 356,
+    "-weight.document": 199,
+    "+weight.document": 370,
+    "-weight.script": 215,
+    "+weight.script": 297,
+    "-weight.image": 248,
+    "+weight.image": 323,
+    "-weight.font": 209,
+    "+weight.font": 182,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 444,
+    "-totalBlockingTime": 273,
+    "-largestContentfulPaint": 329
+  },
+  "axe": {
+    "passes": 292,
+    "violations": 21
+  }
+}

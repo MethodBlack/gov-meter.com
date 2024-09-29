@@ -1,0 +1,67 @@
+{
+  "url": "https://www.hindustancopper.com/",
+  "requestedUrl": "https://www.hindustancopper.com/",
+  "timestamp": 1727544491240,
+  "ranks": {
+    "hundos": 455,
+    "performance": 499,
+    "accessibility": 18,
+    "cumulative": 452
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.3,
+    "accessibility": 0.95,
+    "bestPractices": 0.67,
+    "seo": 0.62,
+    "total": 254
+  },
+  "firstContentfulPaint": 6302.9619999999995,
+  "firstMeaningfulPaint": 6302.9619999999995,
+  "speedIndex": 20719.349991652503,
+  "largestContentfulPaint": 15172.057999999997,
+  "totalBlockingTime": 157,
+  "cumulativeLayoutShift": 0.8193684811518281,
+  "timeToInteractive": 14878.425749999999,
+  "maxPotentialFirstInputDelay": 220,
+  "timeToFirstByte": 208.94000000000005,
+  "weight": {
+    "summary": "82 requests • 13.7 MiB",
+    "total": 14415820,
+    "image": 12961593,
+    "imageCount": 30,
+    "script": 502610,
+    "scriptCount": 24,
+    "document": 81547,
+    "font": 222020,
+    "fontCount": 4,
+    "stylesheet": 648050,
+    "stylesheetCount": 23,
+    "thirdParty": 251081,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 459,
+    "+weight.total": 114,
+    "-weight.document": 374,
+    "+weight.document": 195,
+    "-weight.script": 243,
+    "+weight.script": 269,
+    "-weight.image": 462,
+    "+weight.image": 109,
+    "-weight.font": 286,
+    "+weight.font": 105,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 298,
+    "-totalBlockingTime": 95,
+    "-largestContentfulPaint": 206
+  },
+  "axe": {
+    "passes": 756,
+    "violations": 7
+  }
+}

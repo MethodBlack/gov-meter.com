@@ -1,0 +1,67 @@
+{
+  "url": "https://bengalchemicals.co.in/",
+  "requestedUrl": "https://bengalchemicals.co.in/",
+  "timestamp": 1727535328629,
+  "ranks": {
+    "hundos": 61,
+    "performance": 162,
+    "accessibility": 81,
+    "cumulative": 60
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.59,
+    "accessibility": 0.89,
+    "bestPractices": 0.96,
+    "seo": 0.78,
+    "total": 322
+  },
+  "firstContentfulPaint": 3770.013999999999,
+  "firstMeaningfulPaint": 3837.215999999999,
+  "speedIndex": 8242.67821121568,
+  "largestContentfulPaint": 10303.598999999995,
+  "totalBlockingTime": 131.5,
+  "cumulativeLayoutShift": 0.012869736195605821,
+  "timeToInteractive": 8838.977999999997,
+  "maxPotentialFirstInputDelay": 130,
+  "timeToFirstByte": 137.85300000000007,
+  "weight": {
+    "summary": "91 requests • 1.5 MiB",
+    "total": 1599923,
+    "image": 637515,
+    "imageCount": 11,
+    "script": 398750,
+    "scriptCount": 65,
+    "document": 188030,
+    "font": 324516,
+    "fontCount": 7,
+    "stylesheet": 51112,
+    "stylesheetCount": 6,
+    "thirdParty": 151990,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 84,
+    "+weight.total": 489,
+    "-weight.document": 493,
+    "+weight.document": 76,
+    "-weight.script": 203,
+    "+weight.script": 309,
+    "-weight.image": 73,
+    "+weight.image": 498,
+    "-weight.font": 333,
+    "+weight.font": 58,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 224,
+    "-totalBlockingTime": 89,
+    "-largestContentfulPaint": 155
+  },
+  "axe": {
+    "passes": 525,
+    "violations": 23
+  }
+}

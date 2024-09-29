@@ -1,0 +1,66 @@
+{
+  "url": "https://trichy.bhel.com/",
+  "requestedUrl": "https://trichy.bhel.com/",
+  "timestamp": 1727554630497,
+  "ranks": {
+    "hundos": 341,
+    "performance": 79,
+    "accessibility": 434,
+    "cumulative": 344
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.72,
+    "accessibility": 0.7,
+    "bestPractices": 0.7,
+    "seo": 0.58,
+    "total": 270
+  },
+  "firstContentfulPaint": 3685.6397499999994,
+  "firstMeaningfulPaint": 3685.6397499999994,
+  "speedIndex": 4979.196193038391,
+  "largestContentfulPaint": 4736.080499999999,
+  "totalBlockingTime": 29.5,
+  "cumulativeLayoutShift": 0.023081999345142233,
+  "timeToInteractive": 6954.946749999999,
+  "maxPotentialFirstInputDelay": 109,
+  "timeToFirstByte": 286.62700000000007,
+  "weight": {
+    "summary": "42 requests • 625.5 KiB",
+    "total": 640520,
+    "image": 186911,
+    "imageCount": 29,
+    "script": 420547,
+    "scriptCount": 8,
+    "document": 18300,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 14328,
+    "stylesheetCount": 3,
+    "thirdParty": 233823,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 28,
+    "+weight.total": 545,
+    "-weight.document": 160,
+    "+weight.document": 409,
+    "-weight.script": 213,
+    "+weight.script": 299,
+    "-weight.image": 29,
+    "+weight.image": 542,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 332,
+    "-totalBlockingTime": 45,
+    "-largestContentfulPaint": 60
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

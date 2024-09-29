@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nppaindia.nic.in/",
+  "requestedUrl": "https://www.nppaindia.nic.in/",
+  "timestamp": 1727587082698,
+  "ranks": {
+    "hundos": 555,
+    "performance": 322,
+    "accessibility": 542,
+    "cumulative": 554
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.47,
+    "accessibility": 0.56,
+    "bestPractices": 0.48,
+    "seo": 0.67,
+    "total": 218
+  },
+  "firstContentfulPaint": 4450.273,
+  "firstMeaningfulPaint": 4450.273,
+  "speedIndex": 16706.282885816796,
+  "largestContentfulPaint": 12466.701000000001,
+  "totalBlockingTime": 358.5,
+  "cumulativeLayoutShift": 0.06904248743691352,
+  "timeToInteractive": 26675.063000000002,
+  "maxPotentialFirstInputDelay": 234,
+  "timeToFirstByte": 259.75399999999996,
+  "weight": {
+    "summary": "139 requests • 4.9 MiB",
+    "total": 5143953,
+    "image": 3111641,
+    "imageCount": 60,
+    "script": 1485113,
+    "scriptCount": 25,
+    "document": 98403,
+    "font": 195781,
+    "fontCount": 7,
+    "stylesheet": 209036,
+    "stylesheetCount": 25,
+    "thirdParty": 1104702,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 266,
+    "+weight.total": 307,
+    "-weight.document": 392,
+    "+weight.document": 177,
+    "-weight.script": 444,
+    "+weight.script": 68,
+    "-weight.image": 236,
+    "+weight.image": 335,
+    "-weight.font": 265,
+    "+weight.font": 126,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 324,
+    "-totalBlockingTime": 124,
+    "-largestContentfulPaint": 181
+  },
+  "axe": {
+    "passes": 330,
+    "violations": 14
+  }
+}

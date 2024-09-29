@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nal.res.in/",
+  "requestedUrl": "https://www.nal.res.in/",
+  "timestamp": 1727558145999,
+  "ranks": {
+    "hundos": 190,
+    "performance": 210,
+    "accessibility": 134,
+    "cumulative": 189
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "bestPractices": 0.7,
+    "seo": 0.84,
+    "total": 294
+  },
+  "firstContentfulPaint": 4677.734,
+  "firstMeaningfulPaint": 4677.734,
+  "speedIndex": 7428.365781066661,
+  "largestContentfulPaint": 7344.385999999999,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.14209443220139345,
+  "timeToInteractive": 4677.734,
+  "maxPotentialFirstInputDelay": 47,
+  "timeToFirstByte": 167.86099999999988,
+  "weight": {
+    "summary": "195 requests • 48.6 MiB",
+    "total": 50917928,
+    "image": 48370853,
+    "imageCount": 166,
+    "script": 344978,
+    "scriptCount": 11,
+    "document": 33810,
+    "font": 115289,
+    "fontCount": 9,
+    "stylesheet": 285077,
+    "stylesheetCount": 4,
+    "thirdParty": 2159,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 563,
+    "+weight.total": 10,
+    "-weight.document": 259,
+    "+weight.document": 310,
+    "-weight.script": 166,
+    "+weight.script": 346,
+    "-weight.image": 560,
+    "+weight.image": 11,
+    "-weight.font": 151,
+    "+weight.font": 240,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 271,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 117
+  },
+  "axe": {
+    "passes": 651,
+    "violations": 32
+  }
+}

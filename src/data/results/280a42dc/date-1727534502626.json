@@ -1,0 +1,67 @@
+{
+  "url": "https://www.indiatradefair.com/",
+  "requestedUrl": "https://www.indiatradefair.com/",
+  "timestamp": 1727580024689,
+  "ranks": {
+    "hundos": 125,
+    "performance": 102,
+    "accessibility": 279,
+    "cumulative": 125
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.67,
+    "accessibility": 0.79,
+    "bestPractices": 0.85,
+    "seo": 0.74,
+    "total": 305
+  },
+  "firstContentfulPaint": 2912.5374999999995,
+  "firstMeaningfulPaint": 3090.4249999999993,
+  "speedIndex": 4627.895286500634,
+  "largestContentfulPaint": 18090.424999999996,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.04164543975305945,
+  "timeToInteractive": 3154.4249999999993,
+  "maxPotentialFirstInputDelay": 39,
+  "timeToFirstByte": 64.51100000000001,
+  "weight": {
+    "summary": "62 requests • 10.0 MiB",
+    "total": 10516760,
+    "image": 9530248,
+    "imageCount": 36,
+    "script": 88173,
+    "scriptCount": 8,
+    "document": 26761,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 60879,
+    "stylesheetCount": 11,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 413,
+    "+weight.total": 160,
+    "-weight.document": 236,
+    "+weight.document": 333,
+    "-weight.script": 25,
+    "+weight.script": 487,
+    "-weight.image": 426,
+    "+weight.image": 145,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 72,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 225
+  },
+  "axe": {
+    "passes": 1400,
+    "violations": 58
+  }
+}

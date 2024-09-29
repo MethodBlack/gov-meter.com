@@ -1,0 +1,67 @@
+{
+  "url": "https://chandrapura.kvs.ac.in/",
+  "requestedUrl": "https://chandrapura.kvs.ac.in/",
+  "timestamp": 1727564760826,
+  "ranks": {
+    "hundos": 419,
+    "performance": 288,
+    "accessibility": 391,
+    "cumulative": 417
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.5,
+    "accessibility": 0.72,
+    "bestPractices": 0.67,
+    "seo": 0.72,
+    "total": 261
+  },
+  "firstContentfulPaint": 11896.560000000003,
+  "firstMeaningfulPaint": 12166.668000000003,
+  "speedIndex": 14356.89104281296,
+  "largestContentfulPaint": 13917.360000000008,
+  "totalBlockingTime": 254.5000000000009,
+  "cumulativeLayoutShift": 0.05143369424775963,
+  "timeToInteractive": 17361.116,
+  "maxPotentialFirstInputDelay": 131.5,
+  "timeToFirstByte": 92.41800000000012,
+  "weight": {
+    "summary": "237 requests • 3.4 MiB",
+    "total": 3560121,
+    "image": 1547298,
+    "imageCount": 98,
+    "script": 1094005,
+    "scriptCount": 40,
+    "document": 139679,
+    "font": 145802,
+    "fontCount": 10,
+    "stylesheet": 500028,
+    "stylesheetCount": 45,
+    "thirdParty": 1153254,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 191,
+    "+weight.total": 382,
+    "-weight.document": 443,
+    "+weight.document": 126,
+    "-weight.script": 391,
+    "+weight.script": 121,
+    "-weight.image": 148,
+    "+weight.image": 423,
+    "-weight.font": 197,
+    "+weight.font": 194,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 154,
+    "-totalBlockingTime": 370,
+    "-largestContentfulPaint": 508
+  },
+  "axe": {
+    "passes": 465,
+    "violations": 26
+  }
+}

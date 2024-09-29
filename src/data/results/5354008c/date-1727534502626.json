@@ -1,0 +1,67 @@
+{
+  "url": "https://mausam.imd.gov.in/goa/",
+  "requestedUrl": "https://mausam.imd.gov.in/goa",
+  "timestamp": 1727565316477,
+  "ranks": {
+    "hundos": 134,
+    "performance": 126,
+    "accessibility": 408,
+    "cumulative": 136
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.63,
+    "accessibility": 0.71,
+    "bestPractices": 0.89,
+    "seo": 0.81,
+    "total": 304
+  },
+  "firstContentfulPaint": 3861.804,
+  "firstMeaningfulPaint": 3861.804,
+  "speedIndex": 5322.073145864678,
+  "largestContentfulPaint": 18833.76099999999,
+  "totalBlockingTime": 12,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 7882.23,
+  "maxPotentialFirstInputDelay": 62,
+  "timeToFirstByte": 100.266,
+  "weight": {
+    "summary": "47 requests • 2.7 MiB",
+    "total": 2831970,
+    "image": 1969817,
+    "imageCount": 24,
+    "script": 617800,
+    "scriptCount": 11,
+    "document": 41854,
+    "font": 74989,
+    "fontCount": 1,
+    "stylesheet": 125419,
+    "stylesheetCount": 4,
+    "thirdParty": 707148,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 157,
+    "+weight.total": 416,
+    "-weight.document": 279,
+    "+weight.document": 290,
+    "-weight.script": 279,
+    "+weight.script": 233,
+    "-weight.image": 171,
+    "+weight.image": 400,
+    "-weight.font": 66,
+    "+weight.font": 325,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 169,
+    "-totalBlockingTime": 339,
+    "-largestContentfulPaint": 364
+  },
+  "axe": {
+    "passes": 860,
+    "violations": 70
+  }
+}

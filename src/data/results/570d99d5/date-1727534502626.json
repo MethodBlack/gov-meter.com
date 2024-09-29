@@ -1,0 +1,66 @@
+{
+  "url": "https://mines.gov.in/webportal/",
+  "requestedUrl": "https://mines.gov.in/",
+  "timestamp": 1727565407367,
+  "ranks": {
+    "hundos": 218,
+    "performance": 541,
+    "accessibility": 234,
+    "cumulative": 221
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.19,
+    "accessibility": 0.82,
+    "bestPractices": 0.96,
+    "seo": 0.92,
+    "total": 289
+  },
+  "firstContentfulPaint": 4305.563999999998,
+  "firstMeaningfulPaint": 4419.063999999998,
+  "speedIndex": 12103.104932991406,
+  "largestContentfulPaint": 12544.660499999994,
+  "totalBlockingTime": 576.5,
+  "cumulativeLayoutShift": 0.6633097571968538,
+  "timeToInteractive": 14465.894500000002,
+  "maxPotentialFirstInputDelay": 227,
+  "timeToFirstByte": 39.246,
+  "weight": {
+    "summary": "104 requests • 41.2 MiB",
+    "total": 43153744,
+    "image": 41683896,
+    "imageCount": 57,
+    "script": 990192,
+    "scriptCount": 5,
+    "document": 3084,
+    "font": 129015,
+    "fontCount": 2,
+    "stylesheet": 59123,
+    "stylesheetCount": 1,
+    "thirdParty": 219555,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 561,
+    "+weight.total": 12,
+    "-weight.document": 7,
+    "+weight.document": 562,
+    "-weight.script": 379,
+    "+weight.script": 133,
+    "-weight.image": 558,
+    "+weight.image": 13,
+    "-weight.font": 175,
+    "+weight.font": 216,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 18,
+    "-totalBlockingTime": 143,
+    "-largestContentfulPaint": 183
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

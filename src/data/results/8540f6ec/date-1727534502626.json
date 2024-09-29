@@ -1,0 +1,67 @@
+{
+  "url": "https://msmediagra.gov.in/",
+  "requestedUrl": "https://msmediagra.gov.in/",
+  "timestamp": 1727541241970,
+  "ranks": {
+    "hundos": 82,
+    "performance": 72,
+    "accessibility": 121,
+    "cumulative": 81
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.74,
+    "accessibility": 0.86,
+    "bestPractices": 0.85,
+    "seo": 0.68,
+    "total": 313
+  },
+  "firstContentfulPaint": 1002.2105,
+  "firstMeaningfulPaint": 2487.1215,
+  "speedIndex": 3245.1612794249695,
+  "largestContentfulPaint": 11471.420999999998,
+  "totalBlockingTime": 66.50000000000011,
+  "cumulativeLayoutShift": 0.028612387776102897,
+  "timeToInteractive": 4151.834,
+  "maxPotentialFirstInputDelay": 105,
+  "timeToFirstByte": 195.88400000000001,
+  "weight": {
+    "summary": "29 requests • 1.9 MiB",
+    "total": 1994008,
+    "image": 1853304,
+    "imageCount": 23,
+    "script": 109527,
+    "scriptCount": 3,
+    "document": 26504,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 4673,
+    "stylesheetCount": 2,
+    "thirdParty": 122420,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 113,
+    "+weight.total": 460,
+    "-weight.document": 232,
+    "+weight.document": 337,
+    "-weight.script": 30,
+    "+weight.script": 482,
+    "-weight.image": 164,
+    "+weight.image": 407,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 290,
+    "-totalBlockingTime": 68,
+    "-largestContentfulPaint": 171
+  },
+  "axe": {
+    "passes": 372,
+    "violations": 33
+  }
+}

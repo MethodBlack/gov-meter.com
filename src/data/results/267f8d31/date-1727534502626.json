@@ -1,0 +1,66 @@
+{
+  "url": "https://agriwelfare.gov.in/",
+  "requestedUrl": "https://agriwelfare.gov.in/",
+  "timestamp": 1727575455825,
+  "ranks": {
+    "hundos": 350,
+    "performance": 504,
+    "accessibility": 336,
+    "cumulative": 350
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.28,
+    "accessibility": 0.76,
+    "bestPractices": 0.93,
+    "seo": 0.72,
+    "total": 269
+  },
+  "firstContentfulPaint": 5071.058639999999,
+  "firstMeaningfulPaint": 5416.856919999999,
+  "speedIndex": 12617.143316162917,
+  "largestContentfulPaint": 14842.162629999995,
+  "totalBlockingTime": 2045.5,
+  "cumulativeLayoutShift": 0.03610709410084403,
+  "timeToInteractive": 24610.964040000006,
+  "maxPotentialFirstInputDelay": 1137,
+  "timeToFirstByte": 69.66300000000001,
+  "weight": {
+    "summary": "175 requests • 16.2 MiB",
+    "total": 17003017,
+    "image": 13997015,
+    "imageCount": 98,
+    "script": 1463507,
+    "scriptCount": 45,
+    "document": 314065,
+    "font": 237775,
+    "fontCount": 5,
+    "stylesheet": 586909,
+    "stylesheetCount": 17,
+    "thirdParty": 1513543,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 482,
+    "+weight.total": 91,
+    "-weight.document": 539,
+    "+weight.document": 30,
+    "-weight.script": 441,
+    "+weight.script": 71,
+    "-weight.image": 476,
+    "+weight.image": 95,
+    "-weight.font": 297,
+    "+weight.font": 94,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 87,
+    "-totalBlockingTime": 180,
+    "-largestContentfulPaint": 204
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

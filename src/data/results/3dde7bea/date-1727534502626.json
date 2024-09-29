@@ -1,0 +1,56 @@
+{
+  "url": "https://pfcindia.com/ensite",
+  "requestedUrl": "https://www.pfcindia.com/",
+  "timestamp": 1727550452780,
+  "ranks": {
+    "hundos": 544,
+    "performance": 572,
+    "accessibility": 159,
+    "cumulative": 543
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": null,
+    "accessibility": 0.83,
+    "bestPractices": 0.67,
+    "seo": 0.73,
+    "total": 223
+  },
+  "cumulativeLayoutShift": 0.1583035849932646,
+  "timeToFirstByte": 4210.796,
+  "weight": {
+    "summary": "124 requests • 7.3 MiB",
+    "total": 7634077,
+    "image": 7082771,
+    "imageCount": 61,
+    "script": 169169,
+    "scriptCount": 18,
+    "document": 41357,
+    "font": 144799,
+    "fontCount": 12,
+    "stylesheet": 194169,
+    "stylesheetCount": 28,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "sidequests": {
+    "-weight.total": 352,
+    "+weight.total": 221,
+    "-weight.document": 277,
+    "+weight.document": 292,
+    "-weight.script": 63,
+    "+weight.script": 449,
+    "-weight.image": 384,
+    "+weight.image": 187,
+    "-weight.font": 195,
+    "+weight.font": 196,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 562,
+    "-totalBlockingTime": 329,
+    "-largestContentfulPaint": 421
+  },
+  "axe": {
+    "passes": 872,
+    "violations": 25
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://cabsec.gov.in/",
+  "requestedUrl": "https://cabsec.gov.in/",
+  "timestamp": 1727572046433,
+  "ranks": {
+    "hundos": 16,
+    "performance": 111,
+    "accessibility": 1,
+    "cumulative": 16
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.65,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 0.8,
+    "total": 338
+  },
+  "firstContentfulPaint": 3631.05,
+  "firstMeaningfulPaint": 5806.05,
+  "speedIndex": 4435.135500613417,
+  "largestContentfulPaint": 6256.05,
+  "totalBlockingTime": 2,
+  "cumulativeLayoutShift": 0.10482490178382106,
+  "timeToInteractive": 5806.05,
+  "maxPotentialFirstInputDelay": 52,
+  "timeToFirstByte": 92.776,
+  "weight": {
+    "summary": "69 requests • 4.0 MiB",
+    "total": 4186192,
+    "image": 2970806,
+    "imageCount": 29,
+    "script": 288081,
+    "scriptCount": 14,
+    "document": 14053,
+    "font": 831858,
+    "fontCount": 2,
+    "stylesheet": 80853,
+    "stylesheetCount": 22,
+    "thirdParty": 106907,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 226,
+    "+weight.total": 347,
+    "-weight.document": 79,
+    "+weight.document": 490,
+    "-weight.script": 133,
+    "+weight.script": 379,
+    "-weight.image": 227,
+    "+weight.image": 344,
+    "-weight.font": 385,
+    "+weight.font": 6,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 155,
+    "-totalBlockingTime": 329,
+    "-largestContentfulPaint": 299
+  },
+  "axe": {
+    "passes": 862,
+    "violations": 0
+  }
+}

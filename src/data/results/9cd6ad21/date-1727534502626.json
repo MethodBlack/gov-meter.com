@@ -1,0 +1,67 @@
+{
+  "url": "https://amritsarcustoms.gov.in/",
+  "requestedUrl": "https://amritsarcustoms.gov.in/",
+  "timestamp": 1727558564847,
+  "ranks": {
+    "hundos": 33,
+    "performance": 74,
+    "accessibility": 115,
+    "cumulative": 33
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.73,
+    "accessibility": 0.86,
+    "bestPractices": 0.96,
+    "seo": 0.75,
+    "total": 330
+  },
+  "firstContentfulPaint": 813,
+  "firstMeaningfulPaint": 813,
+  "speedIndex": 3853.121785985827,
+  "largestContentfulPaint": 4290,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.21702321398442173,
+  "timeToInteractive": 813,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 99.45199999999977,
+  "weight": {
+    "summary": "3 requests • 639.0 KiB",
+    "total": 654336,
+    "image": 651633,
+    "imageCount": 2,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 2703,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 30,
+    "+weight.total": 543,
+    "-weight.document": 6,
+    "+weight.document": 563,
+    "-weight.script": 1,
+    "+weight.script": 512,
+    "-weight.image": 77,
+    "+weight.image": 494,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 167,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 442
+  },
+  "axe": {
+    "passes": 28,
+    "violations": 4
+  }
+}

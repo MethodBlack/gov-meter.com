@@ -1,0 +1,67 @@
+{
+  "url": "https://www.commissionercustomslucknow.gov.in/",
+  "requestedUrl": "https://www.commissionercustomslucknow.gov.in/",
+  "timestamp": 1727557243780,
+  "ranks": {
+    "hundos": 59,
+    "performance": 20,
+    "accessibility": 341,
+    "cumulative": 57
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.91,
+    "accessibility": 0.75,
+    "bestPractices": 0.89,
+    "seo": 0.67,
+    "total": 322
+  },
+  "firstContentfulPaint": 1522.0710000000004,
+  "firstMeaningfulPaint": 1522.0710000000004,
+  "speedIndex": 5365.606836024047,
+  "largestContentfulPaint": 2847.5190000000007,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0031553737164562224,
+  "timeToInteractive": 1522.0710000000004,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 159.53799999999956,
+  "weight": {
+    "summary": "19 requests • 143.8 KiB",
+    "total": 147297,
+    "image": 88680,
+    "imageCount": 14,
+    "script": 28696,
+    "scriptCount": 2,
+    "document": 9952,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 19969,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 8,
+    "+weight.total": 565,
+    "-weight.document": 32,
+    "+weight.document": 537,
+    "-weight.script": 9,
+    "+weight.script": 503,
+    "-weight.image": 22,
+    "+weight.image": 549,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 265,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 23
+  },
+  "axe": {
+    "passes": 118,
+    "violations": 7
+  }
+}

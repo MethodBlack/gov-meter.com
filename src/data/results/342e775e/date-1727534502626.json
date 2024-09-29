@@ -1,0 +1,67 @@
+{
+  "url": "https://www.mppost.gov.in/",
+  "requestedUrl": "https://www.mppost.gov.in/",
+  "timestamp": 1727547226024,
+  "ranks": {
+    "hundos": 146,
+    "performance": 26,
+    "accessibility": 419,
+    "cumulative": 146
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.88,
+    "accessibility": 0.7,
+    "bestPractices": 0.67,
+    "seo": 0.77,
+    "total": 302
+  },
+  "firstContentfulPaint": 2341.5015,
+  "firstMeaningfulPaint": 2341.5015,
+  "speedIndex": 7287.258507032371,
+  "largestContentfulPaint": 2341.5015,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.019626265723747517,
+  "timeToInteractive": 2341.5015,
+  "maxPotentialFirstInputDelay": 32,
+  "timeToFirstByte": 86.58799999999974,
+  "weight": {
+    "summary": "52 requests • 1.5 MiB",
+    "total": 1599250,
+    "image": 1308311,
+    "imageCount": 37,
+    "script": 225014,
+    "scriptCount": 9,
+    "document": 40272,
+    "font": 0,
+    "fontCount": 2,
+    "stylesheet": 25653,
+    "stylesheetCount": 3,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 83,
+    "+weight.total": 490,
+    "-weight.document": 276,
+    "+weight.document": 293,
+    "-weight.script": 92,
+    "+weight.script": 420,
+    "-weight.image": 131,
+    "+weight.image": 440,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 141,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 425
+  },
+  "axe": {
+    "passes": 624,
+    "violations": 36
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://cht.gov.in/",
+  "requestedUrl": "https://cht.gov.in/",
+  "timestamp": 1727556780956,
+  "ranks": {
+    "hundos": 217,
+    "performance": 415,
+    "accessibility": 36,
+    "cumulative": 216
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.36,
+    "accessibility": 0.93,
+    "bestPractices": 0.89,
+    "seo": 0.71,
+    "total": 289
+  },
+  "firstContentfulPaint": 18679.775000000005,
+  "firstMeaningfulPaint": 18679.775000000005,
+  "speedIndex": 20262.628586777344,
+  "largestContentfulPaint": 34509.47775000002,
+  "totalBlockingTime": 381,
+  "cumulativeLayoutShift": 0.21145121050136043,
+  "timeToInteractive": 58545.97025000001,
+  "maxPotentialFirstInputDelay": 386,
+  "timeToFirstByte": 97.02700000000004,
+  "weight": {
+    "summary": "161 requests • 16.6 MiB",
+    "total": 17431944,
+    "image": 14726387,
+    "imageCount": 49,
+    "script": 1328602,
+    "scriptCount": 50,
+    "document": 150914,
+    "font": 405380,
+    "fontCount": 7,
+    "stylesheet": 818996,
+    "stylesheetCount": 51,
+    "thirdParty": 303608,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 490,
+    "+weight.total": 83,
+    "-weight.document": 455,
+    "+weight.document": 114,
+    "-weight.script": 421,
+    "+weight.script": 91,
+    "-weight.image": 481,
+    "+weight.image": 90,
+    "-weight.font": 360,
+    "+weight.font": 31,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 165,
+    "-totalBlockingTime": 374,
+    "-largestContentfulPaint": 560
+  },
+  "axe": {
+    "passes": 1772,
+    "violations": 15
+  }
+}

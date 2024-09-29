@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nift.ac.in/",
+  "requestedUrl": "https://www.nift.ac.in/",
+  "timestamp": 1727566338560,
+  "ranks": {
+    "hundos": 549,
+    "performance": 565,
+    "accessibility": 399,
+    "cumulative": 549
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.1,
+    "accessibility": 0.72,
+    "bestPractices": 0.7,
+    "seo": 0.68,
+    "total": 220
+  },
+  "firstContentfulPaint": 7239.710999999999,
+  "firstMeaningfulPaint": 7542.2155,
+  "speedIndex": 60385.9943587031,
+  "largestContentfulPaint": 21941.880999999994,
+  "totalBlockingTime": 1020.5,
+  "cumulativeLayoutShift": 0.6180035452504925,
+  "timeToInteractive": 84505.43625679014,
+  "maxPotentialFirstInputDelay": 254,
+  "timeToFirstByte": 623.7280000000001,
+  "weight": {
+    "summary": "370 requests • 21.5 MiB",
+    "total": 22593688,
+    "image": 19566953,
+    "imageCount": 105,
+    "script": 1574366,
+    "scriptCount": 73,
+    "document": 634016,
+    "font": 117501,
+    "fontCount": 26,
+    "stylesheet": 341575,
+    "stylesheetCount": 43,
+    "thirdParty": 2586689,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 516,
+    "+weight.total": 57,
+    "-weight.document": 562,
+    "+weight.document": 7,
+    "-weight.script": 452,
+    "+weight.script": 60,
+    "-weight.image": 515,
+    "+weight.image": 56,
+    "-weight.font": 156,
+    "+weight.font": 235,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 407,
+    "-totalBlockingTime": 311,
+    "-largestContentfulPaint": 376
+  },
+  "axe": {
+    "passes": 2332,
+    "violations": 106
+  }
+}

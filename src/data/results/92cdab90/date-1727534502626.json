@@ -1,0 +1,67 @@
+{
+  "url": "https://nth.gov.in/",
+  "requestedUrl": "https://nth.gov.in/",
+  "timestamp": 1727566948936,
+  "ranks": {
+    "hundos": 86,
+    "performance": 147,
+    "accessibility": 356,
+    "cumulative": 88
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.61,
+    "accessibility": 0.75,
+    "bestPractices": 1,
+    "seo": 0.77,
+    "total": 313
+  },
+  "firstContentfulPaint": 1776.1155000000003,
+  "firstMeaningfulPaint": 1776.1155000000003,
+  "speedIndex": 8091.468939703304,
+  "largestContentfulPaint": 8468.096249999999,
+  "totalBlockingTime": 16.5,
+  "cumulativeLayoutShift": 0.15038463535097357,
+  "timeToInteractive": 8848.077,
+  "maxPotentialFirstInputDelay": 83,
+  "timeToFirstByte": 289.4830000000002,
+  "weight": {
+    "summary": "77 requests • 2.9 MiB",
+    "total": 3087138,
+    "image": 2126842,
+    "imageCount": 58,
+    "script": 670415,
+    "scriptCount": 8,
+    "document": 13588,
+    "font": 210224,
+    "fontCount": 5,
+    "stylesheet": 66069,
+    "stylesheetCount": 5,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 167,
+    "+weight.total": 406,
+    "-weight.document": 70,
+    "+weight.document": 499,
+    "-weight.script": 296,
+    "+weight.script": 216,
+    "-weight.image": 177,
+    "+weight.image": 394,
+    "-weight.font": 277,
+    "+weight.font": 114,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 334,
+    "-totalBlockingTime": 27,
+    "-largestContentfulPaint": 129
+  },
+  "axe": {
+    "passes": 1143,
+    "violations": 102
+  }
+}

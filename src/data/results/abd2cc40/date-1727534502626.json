@@ -1,0 +1,67 @@
+{
+  "url": "https://www.railtel.in/",
+  "requestedUrl": "https://www.railtelindia.com/",
+  "timestamp": 1727568658020,
+  "ranks": {
+    "hundos": 503,
+    "performance": 563,
+    "accessibility": 347,
+    "cumulative": 501
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.12,
+    "accessibility": 0.75,
+    "bestPractices": 0.74,
+    "seo": 0.82,
+    "total": 243
+  },
+  "firstContentfulPaint": 5048.7175000000025,
+  "firstMeaningfulPaint": 5065.7175000000025,
+  "speedIndex": 12782.419644639242,
+  "largestContentfulPaint": 10653.790500000003,
+  "totalBlockingTime": 1451.0000000000018,
+  "cumulativeLayoutShift": 0.3960378521074649,
+  "timeToInteractive": 13687.980000000007,
+  "maxPotentialFirstInputDelay": 1348.000000000001,
+  "timeToFirstByte": 224.502,
+  "weight": {
+    "summary": "300 requests • 7.5 MiB",
+    "total": 7907350,
+    "image": 5964314,
+    "imageCount": 253,
+    "script": 893313,
+    "scriptCount": 29,
+    "document": 180720,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 28871,
+    "stylesheetCount": 9,
+    "thirdParty": 4630344,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 364,
+    "+weight.total": 209,
+    "-weight.document": 489,
+    "+weight.document": 80,
+    "-weight.script": 359,
+    "+weight.script": 153,
+    "-weight.image": 353,
+    "+weight.image": 218,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 309,
+    "-totalBlockingTime": 172,
+    "-largestContentfulPaint": 159
+  },
+  "axe": {
+    "passes": 995,
+    "violations": 39
+  }
+}

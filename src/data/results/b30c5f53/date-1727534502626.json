@@ -1,0 +1,67 @@
+{
+  "url": "https://dpe.gov.in/",
+  "requestedUrl": "https://dpe.gov.in/",
+  "timestamp": 1727541017381,
+  "ranks": {
+    "hundos": 296,
+    "performance": 564,
+    "accessibility": 24,
+    "cumulative": 287
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.12,
+    "accessibility": 0.94,
+    "bestPractices": 0.89,
+    "seo": 0.82,
+    "total": 277
+  },
+  "firstContentfulPaint": 6136.916999999998,
+  "firstMeaningfulPaint": 6136.916999999998,
+  "speedIndex": 24539.004350742332,
+  "largestContentfulPaint": 9447.78,
+  "totalBlockingTime": 1069.0000000000005,
+  "cumulativeLayoutShift": 0.49218893237797406,
+  "timeToInteractive": 12577.061000000002,
+  "maxPotentialFirstInputDelay": 1106,
+  "timeToFirstByte": 7584.678,
+  "weight": {
+    "summary": "338 requests • 7.5 MiB",
+    "total": 7861046,
+    "image": 6746781,
+    "imageCount": 267,
+    "script": 820617,
+    "scriptCount": 29,
+    "document": 185644,
+    "font": 28660,
+    "fontCount": 2,
+    "stylesheet": 75481,
+    "stylesheetCount": 32,
+    "thirdParty": 1599186,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 361,
+    "+weight.total": 212,
+    "-weight.document": 490,
+    "+weight.document": 79,
+    "-weight.script": 335,
+    "+weight.script": 177,
+    "-weight.image": 373,
+    "+weight.image": 198,
+    "-weight.font": 19,
+    "+weight.font": 372,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 566,
+    "-totalBlockingTime": 386,
+    "-largestContentfulPaint": 486
+  },
+  "axe": {
+    "passes": 982,
+    "violations": 6
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.msmedijaipur.gov.in/",
+  "requestedUrl": "https://www.msmedijaipur.gov.in/",
+  "timestamp": 1727541405486,
+  "ranks": {
+    "hundos": 471,
+    "performance": 399,
+    "accessibility": 478,
+    "cumulative": 471
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.38,
+    "accessibility": 0.65,
+    "bestPractices": 0.67,
+    "seo": 0.8,
+    "total": 250
+  },
+  "firstContentfulPaint": 4345.365,
+  "firstMeaningfulPaint": 4345.365,
+  "speedIndex": 10372.383896477277,
+  "largestContentfulPaint": 12502.410250000003,
+  "totalBlockingTime": 8.5,
+  "cumulativeLayoutShift": 0.4542863359107448,
+  "timeToInteractive": 5515.512000000001,
+  "maxPotentialFirstInputDelay": 67,
+  "timeToFirstByte": 142.89300000000003,
+  "weight": {
+    "summary": "61 requests • 3.3 MiB",
+    "total": 3453148,
+    "image": 2556374,
+    "imageCount": 29,
+    "script": 363854,
+    "scriptCount": 17,
+    "document": 34108,
+    "font": 156404,
+    "fontCount": 4,
+    "stylesheet": 342408,
+    "stylesheetCount": 10,
+    "thirdParty": 115922,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 187,
+    "+weight.total": 386,
+    "-weight.document": 261,
+    "+weight.document": 308,
+    "-weight.script": 187,
+    "+weight.script": 325,
+    "-weight.image": 207,
+    "+weight.image": 364,
+    "-weight.font": 214,
+    "+weight.font": 177,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 231,
+    "-totalBlockingTime": 15,
+    "-largestContentfulPaint": 182
+  },
+  "axe": {
+    "passes": 464,
+    "violations": 62
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://wcd.gov.in/",
+  "requestedUrl": "https://wcd.nic.in/",
+  "timestamp": 1727570685530,
+  "ranks": {
+    "hundos": 502,
+    "performance": 526,
+    "accessibility": 140,
+    "cumulative": 502
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.24,
+    "accessibility": 0.85,
+    "bestPractices": 0.67,
+    "seo": 0.67,
+    "total": 243
+  },
+  "firstContentfulPaint": 3609.234,
+  "firstMeaningfulPaint": 3609.234,
+  "speedIndex": 11618.135929366428,
+  "largestContentfulPaint": 11181.061000000002,
+  "totalBlockingTime": 420.5,
+  "cumulativeLayoutShift": 0.8192349324001852,
+  "timeToInteractive": 30621.325500000003,
+  "maxPotentialFirstInputDelay": 324,
+  "timeToFirstByte": 228.90300000000002,
+  "weight": {
+    "summary": "183 requests • 5.5 MiB",
+    "total": 5755058,
+    "image": 2496590,
+    "imageCount": 57,
+    "script": 2365410,
+    "scriptCount": 62,
+    "document": 250447,
+    "font": 215376,
+    "fontCount": 7,
+    "stylesheet": 333981,
+    "stylesheetCount": 15,
+    "thirdParty": 3013086,
+    "thirdPartyCount": 13
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 297,
+    "+weight.total": 276,
+    "-weight.document": 524,
+    "+weight.document": 45,
+    "-weight.script": 487,
+    "+weight.script": 25,
+    "-weight.image": 201,
+    "+weight.image": 370,
+    "-weight.font": 282,
+    "+weight.font": 109,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 313,
+    "-totalBlockingTime": 127,
+    "-largestContentfulPaint": 168
+  },
+  "axe": {
+    "passes": 6104,
+    "violations": 227
+  }
+}

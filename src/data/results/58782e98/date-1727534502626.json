@@ -1,0 +1,67 @@
+{
+  "url": "https://nainital.cantt.gov.in/",
+  "requestedUrl": "https://nainital.cantt.gov.in/",
+  "timestamp": 1727572640233,
+  "ranks": {
+    "hundos": 333,
+    "performance": 464,
+    "accessibility": 216,
+    "cumulative": 330
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.32,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.83,
+    "total": 271
+  },
+  "firstContentfulPaint": 5030.267000000001,
+  "firstMeaningfulPaint": 5030.267000000001,
+  "speedIndex": 9666.94037734572,
+  "largestContentfulPaint": 27994.65299999997,
+  "totalBlockingTime": 43.5,
+  "cumulativeLayoutShift": 1.1626965775091822,
+  "timeToInteractive": 15882.578999999985,
+  "maxPotentialFirstInputDelay": 137,
+  "timeToFirstByte": 1603.621,
+  "weight": {
+    "summary": "82 requests • 3.9 MiB",
+    "total": 4059049,
+    "image": 3392852,
+    "imageCount": 23,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 15557,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 225942,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 218,
+    "+weight.total": 355,
+    "-weight.document": 110,
+    "+weight.document": 459,
+    "-weight.script": 169,
+    "+weight.script": 343,
+    "-weight.image": 253,
+    "+weight.image": 318,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 512,
+    "-totalBlockingTime": 215,
+    "-largestContentfulPaint": 551
+  },
+  "axe": {
+    "passes": 801,
+    "violations": 39
+  }
+}

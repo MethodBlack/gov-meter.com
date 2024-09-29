@@ -1,0 +1,67 @@
+{
+  "url": "https://dst.gov.in/",
+  "requestedUrl": "https://dst.gov.in/",
+  "timestamp": 1727541092246,
+  "ranks": {
+    "hundos": 486,
+    "performance": 432,
+    "accessibility": 277,
+    "cumulative": 482
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.79,
+    "bestPractices": 0.85,
+    "seo": 0.5,
+    "total": 248
+  },
+  "firstContentfulPaint": 3969.3917499999993,
+  "firstMeaningfulPaint": 3969.3917499999993,
+  "speedIndex": 8498.278257530415,
+  "largestContentfulPaint": 13759.98125,
+  "totalBlockingTime": 2,
+  "cumulativeLayoutShift": 1.571743045354457,
+  "timeToInteractive": 4078.7909999999993,
+  "maxPotentialFirstInputDelay": 54,
+  "timeToFirstByte": 400.02300000000014,
+  "weight": {
+    "summary": "111 requests • 2.7 MiB",
+    "total": 2814384,
+    "image": 2554698,
+    "imageCount": 55,
+    "script": 120053,
+    "scriptCount": 21,
+    "document": 16640,
+    "font": 52369,
+    "fontCount": 4,
+    "stylesheet": 70624,
+    "stylesheetCount": 30,
+    "thirdParty": 328118,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 6
+  },
+  "sidequests": {
+    "-weight.total": 155,
+    "+weight.total": 418,
+    "-weight.document": 136,
+    "+weight.document": 433,
+    "-weight.script": 34,
+    "+weight.script": 478,
+    "-weight.image": 206,
+    "+weight.image": 365,
+    "-weight.font": 40,
+    "+weight.font": 351,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 361,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 201
+  },
+  "axe": {
+    "passes": 855,
+    "violations": 38
+  }
+}

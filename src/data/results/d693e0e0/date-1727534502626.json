@@ -1,0 +1,67 @@
+{
+  "url": "https://defenceinvestorcell.gov.in/",
+  "requestedUrl": "https://defenceinvestorcell.gov.in/",
+  "timestamp": 1727558750249,
+  "ranks": {
+    "hundos": 23,
+    "performance": 122,
+    "accessibility": 27,
+    "cumulative": 25
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.64,
+    "accessibility": 0.94,
+    "bestPractices": 0.93,
+    "seo": 0.82,
+    "total": 333
+  },
+  "firstContentfulPaint": 4463.026000000001,
+  "firstMeaningfulPaint": 5022.7440000000015,
+  "speedIndex": 5117.3414000095145,
+  "largestContentfulPaint": 5348.782500000003,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.11248417124824164,
+  "timeToInteractive": 5022.7440000000015,
+  "maxPotentialFirstInputDelay": 28,
+  "timeToFirstByte": 56.12099999999998,
+  "weight": {
+    "summary": "56 requests • 1.4 MiB",
+    "total": 1480490,
+    "image": 1040080,
+    "imageCount": 24,
+    "script": 261491,
+    "scriptCount": 13,
+    "document": 10506,
+    "font": 126324,
+    "fontCount": 6,
+    "stylesheet": 42089,
+    "stylesheetCount": 12,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 77,
+    "+weight.total": 496,
+    "-weight.document": 37,
+    "+weight.document": 532,
+    "-weight.script": 124,
+    "+weight.script": 388,
+    "-weight.image": 108,
+    "+weight.image": 463,
+    "-weight.font": 169,
+    "+weight.font": 222,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 51,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 76
+  },
+  "axe": {
+    "passes": 505,
+    "violations": 14
+  }
+}

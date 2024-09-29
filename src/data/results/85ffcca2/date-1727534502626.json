@@ -1,0 +1,67 @@
+{
+  "url": "https://barrackpore.cantt.gov.in/",
+  "requestedUrl": "https://barrackpore.cantt.gov.in/",
+  "timestamp": 1727536328362,
+  "ranks": {
+    "hundos": 363,
+    "performance": 419,
+    "accessibility": 195,
+    "cumulative": 361
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.35,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.76,
+    "total": 267
+  },
+  "firstContentfulPaint": 3806.3759999999997,
+  "firstMeaningfulPaint": 3806.3759999999997,
+  "speedIndex": 7941.382389472745,
+  "largestContentfulPaint": 25837.752000000008,
+  "totalBlockingTime": 43,
+  "cumulativeLayoutShift": 0.9960165269756668,
+  "timeToInteractive": 13130.128000000004,
+  "maxPotentialFirstInputDelay": 136,
+  "timeToFirstByte": 770.5319999999999,
+  "weight": {
+    "summary": "81 requests • 4.3 MiB",
+    "total": 4490025,
+    "image": 3824277,
+    "imageCount": 24,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 22606,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 218444,
+    "stylesheetCount": 27,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 241,
+    "+weight.total": 332,
+    "-weight.document": 212,
+    "+weight.document": 357,
+    "-weight.script": 169,
+    "+weight.script": 343,
+    "-weight.image": 270,
+    "+weight.image": 301,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 452,
+    "-totalBlockingTime": 214,
+    "-largestContentfulPaint": 544
+  },
+  "axe": {
+    "passes": 792,
+    "violations": 32
+  }
+}

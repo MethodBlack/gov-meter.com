@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ssc-cr.org/",
+  "requestedUrl": "https://www.ssc-cr.org/",
+  "timestamp": 1727592106470,
+  "ranks": {
+    "hundos": 7,
+    "performance": 6,
+    "accessibility": 173,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 0.82,
+    "bestPractices": 0.96,
+    "seo": 0.73,
+    "total": 349
+  },
+  "firstContentfulPaint": 1309.31986,
+  "firstMeaningfulPaint": 1334.81986,
+  "speedIndex": 2290.9679890137522,
+  "largestContentfulPaint": 2140.309755,
+  "totalBlockingTime": 6.5,
+  "cumulativeLayoutShift": 0.01581770987728397,
+  "timeToInteractive": 2187.309755,
+  "maxPotentialFirstInputDelay": 62,
+  "timeToFirstByte": 85.413,
+  "weight": {
+    "summary": "21 requests • 323.2 KiB",
+    "total": 330930,
+    "image": 9419,
+    "imageCount": 3,
+    "script": 121267,
+    "scriptCount": 3,
+    "document": 49908,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 243180,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 17,
+    "+weight.total": 556,
+    "-weight.document": 309,
+    "+weight.document": 260,
+    "-weight.script": 35,
+    "+weight.script": 477,
+    "-weight.image": 6,
+    "+weight.image": 565,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 134,
+    "-totalBlockingTime": 332,
+    "-largestContentfulPaint": 282
+  },
+  "axe": {
+    "passes": 51,
+    "violations": 2
+  }
+}

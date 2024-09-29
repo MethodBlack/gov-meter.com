@@ -1,0 +1,66 @@
+{
+  "url": "https://www.cgtmse.in/",
+  "requestedUrl": "https://www.cgtmse.in/",
+  "timestamp": 1727557670045,
+  "ranks": {
+    "hundos": 564,
+    "performance": 553,
+    "accessibility": 535,
+    "cumulative": 565
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.16,
+    "accessibility": 0.58,
+    "bestPractices": 0.48,
+    "seo": 0.83,
+    "total": 205
+  },
+  "firstContentfulPaint": 7472.905999999997,
+  "firstMeaningfulPaint": 7472.905999999997,
+  "speedIndex": 16163.717176232178,
+  "largestContentfulPaint": 13664.242999999995,
+  "totalBlockingTime": 2134.499999999998,
+  "cumulativeLayoutShift": 0.2207889049247609,
+  "timeToInteractive": 25590.134999999995,
+  "maxPotentialFirstInputDelay": 1322.9999999999982,
+  "timeToFirstByte": 455.799,
+  "weight": {
+    "summary": "411 requests • 12.5 MiB",
+    "total": 13127077,
+    "image": 10286829,
+    "imageCount": 329,
+    "script": 2047827,
+    "scriptCount": 31,
+    "document": 289239,
+    "font": 249746,
+    "fontCount": 8,
+    "stylesheet": 161484,
+    "stylesheetCount": 6,
+    "thirdParty": 7680270,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 444,
+    "+weight.total": 129,
+    "-weight.document": 535,
+    "+weight.document": 34,
+    "-weight.script": 476,
+    "+weight.script": 36,
+    "-weight.image": 434,
+    "+weight.image": 137,
+    "-weight.font": 305,
+    "+weight.font": 86,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 376,
+    "-totalBlockingTime": 181,
+    "-largestContentfulPaint": 198
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

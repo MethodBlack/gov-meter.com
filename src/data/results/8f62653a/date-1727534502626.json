@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ircon.org/index.php?lang=en",
+  "requestedUrl": "https://www.ircon.org/",
+  "timestamp": 1727564565909,
+  "ranks": {
+    "hundos": 381,
+    "performance": 279,
+    "accessibility": 376,
+    "cumulative": 380
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.51,
+    "accessibility": 0.73,
+    "bestPractices": 0.67,
+    "seo": 0.74,
+    "total": 265
+  },
+  "firstContentfulPaint": 15845.6855,
+  "firstMeaningfulPaint": 15845.685500000001,
+  "speedIndex": 55849.80353140437,
+  "largestContentfulPaint": 16546.853,
+  "totalBlockingTime": 216.5,
+  "cumulativeLayoutShift": 0.00006622242504313093,
+  "timeToInteractive": 65898.90650000003,
+  "maxPotentialFirstInputDelay": 321,
+  "timeToFirstByte": 974.485,
+  "weight": {
+    "summary": "101 requests • 35.0 MiB",
+    "total": 36736594,
+    "image": 34459938,
+    "imageCount": 52,
+    "script": 1571302,
+    "scriptCount": 24,
+    "document": 20517,
+    "font": 109033,
+    "fontCount": 3,
+    "stylesheet": 572027,
+    "stylesheetCount": 17,
+    "thirdParty": 61619,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 552,
+    "+weight.total": 21,
+    "-weight.document": 182,
+    "+weight.document": 387,
+    "-weight.script": 451,
+    "+weight.script": 61,
+    "-weight.image": 551,
+    "+weight.image": 20,
+    "-weight.font": 136,
+    "+weight.font": 255,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 482,
+    "-totalBlockingTime": 279,
+    "-largestContentfulPaint": 351
+  },
+  "axe": {
+    "passes": 1258,
+    "violations": 44
+  }
+}

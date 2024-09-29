@@ -1,0 +1,67 @@
+{
+  "url": "https://www.dredge-india.com/",
+  "requestedUrl": "https://www.dredge-india.com/",
+  "timestamp": 1727542449338,
+  "ranks": {
+    "hundos": 221,
+    "performance": 276,
+    "accessibility": 370,
+    "cumulative": 220
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.51,
+    "accessibility": 0.74,
+    "bestPractices": 0.93,
+    "seo": 0.71,
+    "total": 289
+  },
+  "firstContentfulPaint": 5050.326000000001,
+  "firstMeaningfulPaint": 5050.326000000001,
+  "speedIndex": 10539.052095260668,
+  "largestContentfulPaint": 7826.894000000003,
+  "totalBlockingTime": 287.5,
+  "cumulativeLayoutShift": 0.002047294193236133,
+  "timeToInteractive": 8713.774500000005,
+  "maxPotentialFirstInputDelay": 394,
+  "timeToFirstByte": 654.412,
+  "weight": {
+    "summary": "101 requests • 4.1 MiB",
+    "total": 4340296,
+    "image": 3302778,
+    "imageCount": 48,
+    "script": 224356,
+    "scriptCount": 23,
+    "document": 18272,
+    "font": 540433,
+    "fontCount": 10,
+    "stylesheet": 205305,
+    "stylesheetCount": 17,
+    "thirdParty": 73482,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 233,
+    "+weight.total": 340,
+    "-weight.document": 159,
+    "+weight.document": 410,
+    "-weight.script": 91,
+    "+weight.script": 421,
+    "-weight.image": 251,
+    "+weight.image": 320,
+    "-weight.font": 373,
+    "+weight.font": 18,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 414,
+    "-totalBlockingTime": 284,
+    "-largestContentfulPaint": 311
+  },
+  "axe": {
+    "passes": 1089,
+    "violations": 64
+  }
+}

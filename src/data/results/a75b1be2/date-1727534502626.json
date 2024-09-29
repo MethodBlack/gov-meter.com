@@ -1,0 +1,67 @@
+{
+  "url": "https://crcdavanagere.nic.in/",
+  "requestedUrl": "https://crcdvg.nic.in/",
+  "timestamp": 1727538363150,
+  "ranks": {
+    "hundos": 179,
+    "performance": 528,
+    "accessibility": 76,
+    "cumulative": 176
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.23,
+    "accessibility": 0.89,
+    "bestPractices": 1,
+    "seo": 0.84,
+    "total": 296
+  },
+  "firstContentfulPaint": 5229.765000000001,
+  "firstMeaningfulPaint": 6749.6640000000025,
+  "speedIndex": 8912.792042469417,
+  "largestContentfulPaint": 6791.004750000002,
+  "totalBlockingTime": 478.9999999999982,
+  "cumulativeLayoutShift": 0.8258756354861176,
+  "timeToInteractive": 11401.155500000004,
+  "maxPotentialFirstInputDelay": 718.9999999999982,
+  "timeToFirstByte": 70.38299999999998,
+  "weight": {
+    "summary": "84 requests • 3.1 MiB",
+    "total": 3254970,
+    "image": 2619043,
+    "imageCount": 34,
+    "script": 144452,
+    "scriptCount": 20,
+    "document": 14773,
+    "font": 192466,
+    "fontCount": 6,
+    "stylesheet": 282017,
+    "stylesheetCount": 21,
+    "thirdParty": 2361884,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 174,
+    "+weight.total": 399,
+    "-weight.document": 88,
+    "+weight.document": 481,
+    "-weight.script": 45,
+    "+weight.script": 467,
+    "-weight.image": 212,
+    "+weight.image": 359,
+    "-weight.font": 262,
+    "+weight.font": 129,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 91,
+    "-totalBlockingTime": 133,
+    "-largestContentfulPaint": 110
+  },
+  "axe": {
+    "passes": 1027,
+    "violations": 11
+  }
+}

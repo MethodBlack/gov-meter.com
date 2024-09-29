@@ -1,0 +1,66 @@
+{
+  "url": "https://pcb.ap.gov.in/UI/Home.aspx",
+  "requestedUrl": "https://pcb.ap.gov.in/",
+  "timestamp": 1727534967871,
+  "ranks": {
+    "hundos": 340,
+    "performance": 130,
+    "accessibility": 501,
+    "cumulative": 345
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.63,
+    "accessibility": 0.63,
+    "bestPractices": 0.63,
+    "seo": 0.81,
+    "total": 270
+  },
+  "firstContentfulPaint": 3175.5879999999997,
+  "firstMeaningfulPaint": 3175.5879999999997,
+  "speedIndex": 7417.367456515358,
+  "largestContentfulPaint": 4271.052,
+  "totalBlockingTime": 27,
+  "cumulativeLayoutShift": 0.19595703996481784,
+  "timeToInteractive": 6320.8099999999995,
+  "maxPotentialFirstInputDelay": 104,
+  "timeToFirstByte": 182.28699999999998,
+  "weight": {
+    "summary": "75 requests • 4.5 MiB",
+    "total": 4755250,
+    "image": 4229492,
+    "imageCount": 39,
+    "script": 254865,
+    "scriptCount": 21,
+    "document": 15478,
+    "font": 211688,
+    "fontCount": 5,
+    "stylesheet": 43101,
+    "stylesheetCount": 8,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 253,
+    "+weight.total": 320,
+    "-weight.document": 106,
+    "+weight.document": 463,
+    "-weight.script": 119,
+    "+weight.script": 393,
+    "-weight.image": 286,
+    "+weight.image": 285,
+    "-weight.font": 278,
+    "+weight.font": 113,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 285,
+    "-totalBlockingTime": 40,
+    "-largestContentfulPaint": 49
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

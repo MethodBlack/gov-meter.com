@@ -1,0 +1,67 @@
+{
+  "url": "https://icpe.in/",
+  "requestedUrl": "https://icpe.in/",
+  "timestamp": 1727561318950,
+  "ranks": {
+    "hundos": 427,
+    "performance": 115,
+    "accessibility": 559,
+    "cumulative": 426
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.65,
+    "accessibility": 0.5,
+    "bestPractices": 0.78,
+    "seo": 0.67,
+    "total": 260
+  },
+  "firstContentfulPaint": 1734.7199999999998,
+  "firstMeaningfulPaint": 1898.7814999999998,
+  "speedIndex": 9244.373808822702,
+  "largestContentfulPaint": 9874.855499999998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.00017657329365161186,
+  "timeToInteractive": 1898.7814999999998,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 199.63,
+  "weight": {
+    "summary": "43 requests • 1.5 MiB",
+    "total": 1589056,
+    "image": 1555548,
+    "imageCount": 37,
+    "script": 13348,
+    "scriptCount": 2,
+    "document": 19456,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 587,
+    "stylesheetCount": 1,
+    "thirdParty": 4683,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 82,
+    "+weight.total": 491,
+    "-weight.document": 172,
+    "+weight.document": 397,
+    "-weight.script": 5,
+    "+weight.script": 507,
+    "-weight.image": 149,
+    "+weight.image": 422,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 291,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 146
+  },
+  "axe": {
+    "passes": 1330,
+    "violations": 96
+  }
+}

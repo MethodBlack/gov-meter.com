@@ -1,0 +1,67 @@
+{
+  "url": "https://uiic.co.in/",
+  "requestedUrl": "https://uiic.co.in/",
+  "timestamp": 1727593033795,
+  "ranks": {
+    "hundos": 314,
+    "performance": 459,
+    "accessibility": 427,
+    "cumulative": 315
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.7,
+    "bestPractices": 0.93,
+    "seo": 0.78,
+    "total": 274
+  },
+  "firstContentfulPaint": 4760.6950000000015,
+  "firstMeaningfulPaint": 4760.6950000000015,
+  "speedIndex": 19910.935621511962,
+  "largestContentfulPaint": 20271.25375,
+  "totalBlockingTime": 5.5,
+  "cumulativeLayoutShift": 0.6651575297246235,
+  "timeToInteractive": 15044.962250000004,
+  "maxPotentialFirstInputDelay": 55,
+  "timeToFirstByte": 347.1070000000004,
+  "weight": {
+    "summary": "111 requests • 5.0 MiB",
+    "total": 5294164,
+    "image": 4331465,
+    "imageCount": 74,
+    "script": 242044,
+    "scriptCount": 14,
+    "document": 105146,
+    "font": 269437,
+    "fontCount": 3,
+    "stylesheet": 345533,
+    "stylesheetCount": 18,
+    "thirdParty": 109285,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 278,
+    "+weight.total": 295,
+    "-weight.document": 399,
+    "+weight.document": 170,
+    "-weight.script": 111,
+    "+weight.script": 401,
+    "-weight.image": 292,
+    "+weight.image": 279,
+    "-weight.font": 314,
+    "+weight.font": 77,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 348,
+    "-totalBlockingTime": 10,
+    "-largestContentfulPaint": 237
+  },
+  "axe": {
+    "passes": 1673,
+    "violations": 83
+  }
+}

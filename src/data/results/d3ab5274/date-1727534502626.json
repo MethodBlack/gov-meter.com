@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nielit.gov.in/srinagar/",
+  "requestedUrl": "https://www.nielit.gov.in/srinagar",
+  "timestamp": 1727548637147,
+  "ranks": {
+    "hundos": 85,
+    "performance": 189,
+    "accessibility": 318,
+    "cumulative": 87
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.56,
+    "accessibility": 0.76,
+    "bestPractices": 0.96,
+    "seo": 0.85,
+    "total": 313
+  },
+  "firstContentfulPaint": 8703.78025,
+  "firstMeaningfulPaint": 10674.064750000001,
+  "speedIndex": 8886.799192209251,
+  "largestContentfulPaint": 11671.84925,
+  "totalBlockingTime": 116.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 11755.707,
+  "maxPotentialFirstInputDelay": 136,
+  "timeToFirstByte": 58.327999999999996,
+  "weight": {
+    "summary": "18 requests • 1.8 MiB",
+    "total": 1890080,
+    "image": 38505,
+    "imageCount": 3,
+    "script": 417404,
+    "scriptCount": 4,
+    "document": 20864,
+    "font": 150504,
+    "fontCount": 6,
+    "stylesheet": 1262381,
+    "stylesheetCount": 3,
+    "thirdParty": 155142,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 104,
+    "+weight.total": 469,
+    "-weight.document": 188,
+    "+weight.document": 381,
+    "-weight.script": 212,
+    "+weight.script": 300,
+    "-weight.image": 11,
+    "+weight.image": 560,
+    "-weight.font": 206,
+    "+weight.font": 185,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 58,
+    "-totalBlockingTime": 86,
+    "-largestContentfulPaint": 173
+  },
+  "axe": {
+    "passes": 173,
+    "violations": 7
+  }
+}

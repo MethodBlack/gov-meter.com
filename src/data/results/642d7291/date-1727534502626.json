@@ -1,0 +1,67 @@
+{
+  "url": "https://www.dgca.gov.in/digigov-portal/",
+  "requestedUrl": "https://dgca.gov.in/",
+  "timestamp": 1727560085021,
+  "ranks": {
+    "hundos": 220,
+    "performance": 166,
+    "accessibility": 483,
+    "cumulative": 215
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.59,
+    "accessibility": 0.64,
+    "bestPractices": 0.85,
+    "seo": 0.81,
+    "total": 289
+  },
+  "firstContentfulPaint": 3276.3410000000003,
+  "firstMeaningfulPaint": 3276.3410000000003,
+  "speedIndex": 19264.823543422,
+  "largestContentfulPaint": 69501.341,
+  "totalBlockingTime": 29,
+  "cumulativeLayoutShift": 0.04098889316627145,
+  "timeToInteractive": 23355.341,
+  "maxPotentialFirstInputDelay": 108,
+  "timeToFirstByte": 200.947,
+  "weight": {
+    "summary": "78 requests • 28.1 MiB",
+    "total": 29470467,
+    "image": 29102789,
+    "imageCount": 47,
+    "script": 151456,
+    "scriptCount": 21,
+    "document": 156182,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 58895,
+    "stylesheetCount": 7,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 536,
+    "+weight.total": 37,
+    "-weight.document": 458,
+    "+weight.document": 111,
+    "-weight.script": 54,
+    "+weight.script": 458,
+    "-weight.image": 544,
+    "+weight.image": 27,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 292,
+    "-totalBlockingTime": 44,
+    "-largestContentfulPaint": 276
+  },
+  "axe": {
+    "passes": 270,
+    "violations": 10
+  }
+}

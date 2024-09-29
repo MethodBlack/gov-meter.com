@@ -1,0 +1,67 @@
+{
+  "url": "https://www.hajcommittee.gov.in/",
+  "requestedUrl": "https://www.hajcommittee.gov.in/",
+  "timestamp": 1727578678570,
+  "ranks": {
+    "hundos": 366,
+    "performance": 175,
+    "accessibility": 530,
+    "cumulative": 368
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.57,
+    "accessibility": 0.58,
+    "bestPractices": 0.93,
+    "seo": 0.58,
+    "total": 266
+  },
+  "firstContentfulPaint": 7444.197500000001,
+  "firstMeaningfulPaint": 7444.197500000001,
+  "speedIndex": 7444.197500000001,
+  "largestContentfulPaint": 9890.737000000001,
+  "totalBlockingTime": 68.5,
+  "cumulativeLayoutShift": 0.0006445415185856676,
+  "timeToInteractive": 8246.451000000001,
+  "maxPotentialFirstInputDelay": 151,
+  "timeToFirstByte": 129.69100000000003,
+  "weight": {
+    "summary": "43 requests • 3.1 MiB",
+    "total": 3205114,
+    "image": 1840200,
+    "imageCount": 28,
+    "script": 1107097,
+    "scriptCount": 6,
+    "document": 9367,
+    "font": 175029,
+    "fontCount": 3,
+    "stylesheet": 73421,
+    "stylesheetCount": 5,
+    "thirdParty": 1677,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 170,
+    "+weight.total": 403,
+    "-weight.document": 31,
+    "+weight.document": 538,
+    "-weight.script": 395,
+    "+weight.script": 117,
+    "-weight.image": 163,
+    "+weight.image": 408,
+    "-weight.font": 249,
+    "+weight.font": 142,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 211,
+    "-totalBlockingTime": 69,
+    "-largestContentfulPaint": 147
+  },
+  "axe": {
+    "passes": 977,
+    "violations": 81
+  }
+}

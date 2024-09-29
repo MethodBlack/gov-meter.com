@@ -1,0 +1,67 @@
+{
+  "url": "https://ansi.gov.in/",
+  "requestedUrl": "https://ansi.gov.in/",
+  "timestamp": 1727571173239,
+  "ranks": {
+    "hundos": 15,
+    "performance": 78,
+    "accessibility": 139,
+    "cumulative": 15
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.72,
+    "accessibility": 0.85,
+    "bestPractices": 0.96,
+    "seo": 0.86,
+    "total": 339
+  },
+  "firstContentfulPaint": 2411.648,
+  "firstMeaningfulPaint": 2411.648,
+  "speedIndex": 4293.04671586609,
+  "largestContentfulPaint": 6356.492999999999,
+  "totalBlockingTime": 38.5,
+  "cumulativeLayoutShift": 0.01922263312954266,
+  "timeToInteractive": 6253.307999999998,
+  "maxPotentialFirstInputDelay": 127,
+  "timeToFirstByte": 93.96799999999996,
+  "weight": {
+    "summary": "75 requests • 1.9 MiB",
+    "total": 2000598,
+    "image": 1500560,
+    "imageCount": 21,
+    "script": 258734,
+    "scriptCount": 14,
+    "document": 13705,
+    "font": 101740,
+    "fontCount": 4,
+    "stylesheet": 125859,
+    "stylesheetCount": 35,
+    "thirdParty": 65917,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 114,
+    "+weight.total": 459,
+    "-weight.document": 75,
+    "+weight.document": 494,
+    "-weight.script": 121,
+    "+weight.script": 391,
+    "-weight.image": 142,
+    "+weight.image": 429,
+    "-weight.font": 125,
+    "+weight.font": 266,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 160,
+    "-totalBlockingTime": 349,
+    "-largestContentfulPaint": 466
+  },
+  "axe": {
+    "passes": 806,
+    "violations": 97
+  }
+}

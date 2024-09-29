@@ -1,0 +1,67 @@
+{
+  "url": "https://gac.gov.in/",
+  "requestedUrl": "https://gac.gov.in/",
+  "timestamp": 1727578636772,
+  "ranks": {
+    "hundos": 257,
+    "performance": 197,
+    "accessibility": 417,
+    "cumulative": 257
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.56,
+    "accessibility": 0.7,
+    "bestPractices": 0.89,
+    "seo": 0.67,
+    "total": 282
+  },
+  "firstContentfulPaint": 10153.125,
+  "firstMeaningfulPaint": 10153.125,
+  "speedIndex": 10153.125,
+  "largestContentfulPaint": 11134.125,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.00011685929887982187,
+  "timeToInteractive": 10153.125,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 177.146,
+  "weight": {
+    "summary": "63 requests • 1.7 MiB",
+    "total": 1767571,
+    "image": 226780,
+    "imageCount": 3,
+    "script": 618251,
+    "scriptCount": 15,
+    "document": 15597,
+    "font": 151299,
+    "fontCount": 31,
+    "stylesheet": 755644,
+    "stylesheetCount": 13,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 93,
+    "+weight.total": 480,
+    "-weight.document": 115,
+    "+weight.document": 454,
+    "-weight.script": 286,
+    "+weight.script": 226,
+    "-weight.image": 32,
+    "+weight.image": 539,
+    "-weight.font": 208,
+    "+weight.font": 183,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 278,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 167
+  },
+  "axe": {
+    "passes": 158,
+    "violations": 20
+  }
+}

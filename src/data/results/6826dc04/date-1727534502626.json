@@ -1,0 +1,67 @@
+{
+  "url": "https://www.indiapost.gov.in/vas/Pages/IndiaPostHome.aspx",
+  "requestedUrl": "https://www.indiapost.gov.in/",
+  "timestamp": 1727575851705,
+  "ranks": {
+    "hundos": 304,
+    "performance": 363,
+    "accessibility": 97,
+    "cumulative": 303
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.42,
+    "accessibility": 0.88,
+    "bestPractices": 0.7,
+    "seo": 0.76,
+    "total": 276
+  },
+  "firstContentfulPaint": 6227.803999999999,
+  "firstMeaningfulPaint": 6227.803999999999,
+  "speedIndex": 9638.017013868388,
+  "largestContentfulPaint": 10711.983999999997,
+  "totalBlockingTime": 582,
+  "cumulativeLayoutShift": 0.0002042599994643437,
+  "timeToInteractive": 26444.100000000013,
+  "maxPotentialFirstInputDelay": 462.5,
+  "timeToFirstByte": 429.676,
+  "weight": {
+    "summary": "103 requests • 4.6 MiB",
+    "total": 4772303,
+    "image": 1832993,
+    "imageCount": 46,
+    "script": 2494782,
+    "scriptCount": 27,
+    "document": 37022,
+    "font": 70873,
+    "fontCount": 2,
+    "stylesheet": 137824,
+    "stylesheetCount": 11,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 254,
+    "+weight.total": 319,
+    "-weight.document": 267,
+    "+weight.document": 302,
+    "-weight.script": 489,
+    "+weight.script": 23,
+    "-weight.image": 162,
+    "+weight.image": 409,
+    "-weight.font": 55,
+    "+weight.font": 336,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 367,
+    "-totalBlockingTime": 145,
+    "-largestContentfulPaint": 160
+  },
+  "axe": {
+    "passes": 1695,
+    "violations": 35
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://chemexcil.in/",
+  "requestedUrl": "https://chemexcil.in/",
+  "timestamp": 1727537734896,
+  "ranks": {
+    "hundos": 532,
+    "performance": 552,
+    "accessibility": 518,
+    "cumulative": 531
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.16,
+    "accessibility": 0.6,
+    "bestPractices": 0.7,
+    "seo": 0.83,
+    "total": 229
+  },
+  "firstContentfulPaint": 3517.508,
+  "firstMeaningfulPaint": 3517.508,
+  "speedIndex": 13023.502644111068,
+  "largestContentfulPaint": 10057.435999999998,
+  "totalBlockingTime": 760.5,
+  "cumulativeLayoutShift": 0.9481572872038049,
+  "timeToInteractive": 22218.904250000003,
+  "maxPotentialFirstInputDelay": 305,
+  "timeToFirstByte": 1073.6580000000001,
+  "weight": {
+    "summary": "162 requests • 5.7 MiB",
+    "total": 5975978,
+    "image": 4300274,
+    "imageCount": 76,
+    "script": 1025963,
+    "scriptCount": 24,
+    "document": 142095,
+    "font": 232578,
+    "fontCount": 12,
+    "stylesheet": 142464,
+    "stylesheetCount": 12,
+    "thirdParty": 1544887,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 307,
+    "+weight.total": 266,
+    "-weight.document": 446,
+    "+weight.document": 123,
+    "-weight.script": 383,
+    "+weight.script": 129,
+    "-weight.image": 289,
+    "+weight.image": 282,
+    "-weight.font": 295,
+    "+weight.font": 96,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 492,
+    "-totalBlockingTime": 305,
+    "-largestContentfulPaint": 324
+  },
+  "axe": {
+    "passes": 1366,
+    "violations": 34
+  }
+}

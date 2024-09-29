@@ -1,0 +1,67 @@
+{
+  "url": "https://jute.dac.gov.in/",
+  "requestedUrl": "https://jute.dac.gov.in/",
+  "timestamp": 1727560518385,
+  "ranks": {
+    "hundos": 157,
+    "performance": 80,
+    "accessibility": 156,
+    "cumulative": 155
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.71,
+    "accessibility": 0.83,
+    "bestPractices": 0.7,
+    "seo": 0.75,
+    "total": 299
+  },
+  "firstContentfulPaint": 2353.893,
+  "firstMeaningfulPaint": 2353.893,
+  "speedIndex": 8898.829708066296,
+  "largestContentfulPaint": 4825.134,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2353.893,
+  "maxPotentialFirstInputDelay": 31.5,
+  "timeToFirstByte": 3774.625,
+  "weight": {
+    "summary": "15 requests • 865.8 KiB",
+    "total": 886619,
+    "image": 773718,
+    "imageCount": 7,
+    "script": 45011,
+    "scriptCount": 4,
+    "document": 8297,
+    "font": 14513,
+    "fontCount": 1,
+    "stylesheet": 45080,
+    "stylesheetCount": 2,
+    "thirdParty": 60171,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 39,
+    "+weight.total": 534,
+    "-weight.document": 22,
+    "+weight.document": 547,
+    "-weight.script": 11,
+    "+weight.script": 501,
+    "-weight.image": 85,
+    "+weight.image": 486,
+    "-weight.font": 5,
+    "+weight.font": 386,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 558,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 449
+  },
+  "axe": {
+    "passes": 144,
+    "violations": 13
+  }
+}

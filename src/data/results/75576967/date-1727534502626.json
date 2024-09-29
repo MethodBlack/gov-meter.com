@@ -1,0 +1,67 @@
+{
+  "url": "https://westbengalpost.gov.in/MAIN",
+  "requestedUrl": "https://westbengalpost.gov.in/",
+  "timestamp": 1727593197581,
+  "ranks": {
+    "hundos": 195,
+    "performance": 223,
+    "accessibility": 443,
+    "cumulative": 195
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.69,
+    "bestPractices": 0.89,
+    "seo": 0.8,
+    "total": 293
+  },
+  "firstContentfulPaint": 3140.59654,
+  "firstMeaningfulPaint": 3841.200460000001,
+  "speedIndex": 16556.552992321256,
+  "largestContentfulPaint": 28410.086539999997,
+  "totalBlockingTime": 94.5,
+  "cumulativeLayoutShift": 0.11217559155152076,
+  "timeToInteractive": 15708.18562,
+  "maxPotentialFirstInputDelay": 157,
+  "timeToFirstByte": 95.794,
+  "weight": {
+    "summary": "70 requests • 6.4 MiB",
+    "total": 6709905,
+    "image": 5606370,
+    "imageCount": 19,
+    "script": 161453,
+    "scriptCount": 28,
+    "document": 10485,
+    "font": 789126,
+    "fontCount": 7,
+    "stylesheet": 122959,
+    "stylesheetCount": 11,
+    "thirdParty": 255579,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 328,
+    "+weight.total": 245,
+    "-weight.document": 35,
+    "+weight.document": 534,
+    "-weight.script": 59,
+    "+weight.script": 453,
+    "-weight.image": 341,
+    "+weight.image": 230,
+    "-weight.font": 382,
+    "+weight.font": 9,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 164,
+    "-totalBlockingTime": 362,
+    "-largestContentfulPaint": 553
+  },
+  "axe": {
+    "passes": 766,
+    "violations": 62
+  }
+}

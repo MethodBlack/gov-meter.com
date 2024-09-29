@@ -1,0 +1,67 @@
+{
+  "url": "https://dehradun.cantt.gov.in/",
+  "requestedUrl": "https://dehradun.cantt.gov.in/",
+  "timestamp": 1727555453010,
+  "ranks": {
+    "hundos": 405,
+    "performance": 420,
+    "accessibility": 206,
+    "cumulative": 402
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.35,
+    "accessibility": 0.82,
+    "bestPractices": 0.7,
+    "seo": 0.76,
+    "total": 263
+  },
+  "firstContentfulPaint": 3721.0889999999995,
+  "firstMeaningfulPaint": 3721.0889999999995,
+  "speedIndex": 8370.425658707445,
+  "largestContentfulPaint": 14227.270000000004,
+  "totalBlockingTime": 55,
+  "cumulativeLayoutShift": 1.017186126102488,
+  "timeToInteractive": 9158.6335,
+  "maxPotentialFirstInputDelay": 160,
+  "timeToFirstByte": 1765.6000000000001,
+  "weight": {
+    "summary": "74 requests • 2.0 MiB",
+    "total": 2095769,
+    "image": 1427672,
+    "imageCount": 15,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 15520,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 227879,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 121,
+    "+weight.total": 452,
+    "-weight.document": 108,
+    "+weight.document": 461,
+    "-weight.script": 169,
+    "+weight.script": 343,
+    "-weight.image": 137,
+    "+weight.image": 434,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 523,
+    "-totalBlockingTime": 229,
+    "-largestContentfulPaint": 346
+  },
+  "axe": {
+    "passes": 832,
+    "violations": 35
+  }
+}

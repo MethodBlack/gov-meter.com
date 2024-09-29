@@ -1,0 +1,67 @@
+{
+  "url": "https://portal.natmo.gov.in/en/",
+  "requestedUrl": "https://portal.natmo.gov.in/",
+  "timestamp": 1727547935026,
+  "ranks": {
+    "hundos": 18,
+    "performance": 246,
+    "accessibility": 5,
+    "cumulative": 17
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.54,
+    "accessibility": 0.98,
+    "bestPractices": 0.96,
+    "seo": 0.89,
+    "total": 337
+  },
+  "firstContentfulPaint": 9246.1835,
+  "firstMeaningfulPaint": 9325.1835,
+  "speedIndex": 12871.395317659088,
+  "largestContentfulPaint": 13526.120750000002,
+  "totalBlockingTime": 134,
+  "cumulativeLayoutShift": 0.04980124257274115,
+  "timeToInteractive": 17402.309999999998,
+  "maxPotentialFirstInputDelay": 158,
+  "timeToFirstByte": 205.87800000000001,
+  "weight": {
+    "summary": "40 requests • 3.7 MiB",
+    "total": 3931544,
+    "image": 2299017,
+    "imageCount": 26,
+    "script": 648911,
+    "scriptCount": 2,
+    "document": 37098,
+    "font": 180418,
+    "fontCount": 4,
+    "stylesheet": 765273,
+    "stylesheetCount": 6,
+    "thirdParty": 352255,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 207,
+    "+weight.total": 366,
+    "-weight.document": 270,
+    "+weight.document": 299,
+    "-weight.script": 293,
+    "+weight.script": 219,
+    "-weight.image": 190,
+    "+weight.image": 381,
+    "-weight.font": 252,
+    "+weight.font": 139,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 295,
+    "-totalBlockingTime": 90,
+    "-largestContentfulPaint": 195
+  },
+  "axe": {
+    "passes": 684,
+    "violations": 2
+  }
+}

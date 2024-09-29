@@ -1,0 +1,67 @@
+{
+  "url": "https://clw.indianrailways.gov.in/",
+  "requestedUrl": "https://clw.indianrailways.gov.in/",
+  "timestamp": 1727557000655,
+  "ranks": {
+    "hundos": 527,
+    "performance": 148,
+    "accessibility": 301,
+    "cumulative": 527
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.61,
+    "accessibility": 0.78,
+    "bestPractices": 0.41,
+    "seo": 0.5,
+    "total": 230
+  },
+  "firstContentfulPaint": 2151.7079999999996,
+  "firstMeaningfulPaint": 2173.2079999999996,
+  "speedIndex": 36388.43821441305,
+  "largestContentfulPaint": 3669.798,
+  "totalBlockingTime": 663.0000000000036,
+  "cumulativeLayoutShift": 0.0065517383654992494,
+  "timeToInteractive": 41099.14625000003,
+  "maxPotentialFirstInputDelay": 887.0000000000041,
+  "timeToFirstByte": 114.72199999999975,
+  "weight": {
+    "summary": "70 requests • 13.0 MiB",
+    "total": 13647314,
+    "image": 13163249,
+    "imageCount": 36,
+    "script": 342199,
+    "scriptCount": 17,
+    "document": 131517,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 6245,
+    "stylesheetCount": 5,
+    "thirdParty": 814264,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 449,
+    "+weight.total": 124,
+    "-weight.document": 430,
+    "+weight.document": 139,
+    "-weight.script": 164,
+    "+weight.script": 348,
+    "-weight.image": 465,
+    "+weight.image": 106,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 191,
+    "-totalBlockingTime": 151,
+    "-largestContentfulPaint": 38
+  },
+  "axe": {
+    "passes": 701,
+    "violations": 80
+  }
+}

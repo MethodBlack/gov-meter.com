@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nbri.res.in/",
+  "requestedUrl": "https://www.nbri.res.in/",
+  "timestamp": 1727558181753,
+  "ranks": {
+    "hundos": 271,
+    "performance": 253,
+    "accessibility": 365,
+    "cumulative": 270
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.54,
+    "accessibility": 0.74,
+    "bestPractices": 0.85,
+    "seo": 0.68,
+    "total": 281
+  },
+  "firstContentfulPaint": 10266.779999999997,
+  "firstMeaningfulPaint": 10532.777249999997,
+  "speedIndex": 48663.57874002127,
+  "largestContentfulPaint": 123350.07450000035,
+  "totalBlockingTime": 97.5,
+  "cumulativeLayoutShift": 0.0550320346076279,
+  "timeToInteractive": 34331.169000000016,
+  "maxPotentialFirstInputDelay": 177,
+  "timeToFirstByte": 3721.062,
+  "weight": {
+    "summary": "98 requests • 23.0 MiB",
+    "total": 24127059,
+    "image": 23285412,
+    "imageCount": 44,
+    "script": 592933,
+    "scriptCount": 29,
+    "document": 19327,
+    "font": 164972,
+    "fontCount": 5,
+    "stylesheet": 64369,
+    "stylesheetCount": 15,
+    "thirdParty": 486577,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 525,
+    "+weight.total": 48,
+    "-weight.document": 168,
+    "+weight.document": 401,
+    "-weight.script": 269,
+    "+weight.script": 243,
+    "-weight.image": 529,
+    "+weight.image": 42,
+    "-weight.font": 227,
+    "+weight.font": 164,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 556,
+    "-totalBlockingTime": 259,
+    "-largestContentfulPaint": 420
+  },
+  "axe": {
+    "passes": 843,
+    "violations": 53
+  }
+}

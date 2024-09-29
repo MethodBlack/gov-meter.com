@@ -1,0 +1,67 @@
+{
+  "url": "https://crcbhopal.nic.in/",
+  "requestedUrl": "https://crcbhopal.nic.in/",
+  "timestamp": 1727557420156,
+  "ranks": {
+    "hundos": 53,
+    "performance": 190,
+    "accessibility": 104,
+    "cumulative": 48
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.56,
+    "accessibility": 0.87,
+    "bestPractices": 0.96,
+    "seo": 0.84,
+    "total": 323
+  },
+  "firstContentfulPaint": 4749.1979999999985,
+  "firstMeaningfulPaint": 4749.1979999999985,
+  "speedIndex": 8993.058226331568,
+  "largestContentfulPaint": 10786.72800000001,
+  "totalBlockingTime": 97,
+  "cumulativeLayoutShift": 0.06396198261251125,
+  "timeToInteractive": 10084.358000000006,
+  "maxPotentialFirstInputDelay": 113.5,
+  "timeToFirstByte": 126.375,
+  "weight": {
+    "summary": "80 requests • 1.4 MiB",
+    "total": 1468637,
+    "image": 643855,
+    "imageCount": 25,
+    "script": 428091,
+    "scriptCount": 28,
+    "document": 17203,
+    "font": 113654,
+    "fontCount": 5,
+    "stylesheet": 263715,
+    "stylesheetCount": 18,
+    "thirdParty": 891827,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 75,
+    "+weight.total": 498,
+    "-weight.document": 145,
+    "+weight.document": 424,
+    "-weight.script": 214,
+    "+weight.script": 298,
+    "-weight.image": 75,
+    "+weight.image": 496,
+    "-weight.font": 145,
+    "+weight.font": 246,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 206,
+    "-totalBlockingTime": 79,
+    "-largestContentfulPaint": 162
+  },
+  "axe": {
+    "passes": 826,
+    "violations": 6
+  }
+}

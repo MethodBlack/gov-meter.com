@@ -1,0 +1,67 @@
+{
+  "url": "https://www.seci.co.in/",
+  "requestedUrl": "https://www.seci.co.in/",
+  "timestamp": 1727569624548,
+  "ranks": {
+    "hundos": 70,
+    "performance": 95,
+    "accessibility": 270,
+    "cumulative": 70
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.68,
+    "accessibility": 0.79,
+    "bestPractices": 0.96,
+    "seo": 0.74,
+    "total": 317
+  },
+  "firstContentfulPaint": 2645.0469999999996,
+  "firstMeaningfulPaint": 2645.0469999999996,
+  "speedIndex": 4553.295710732355,
+  "largestContentfulPaint": 4847.1785,
+  "totalBlockingTime": 3,
+  "cumulativeLayoutShift": 0.16897324235871958,
+  "timeToInteractive": 4091.4884999999995,
+  "maxPotentialFirstInputDelay": 56,
+  "timeToFirstByte": 119.96699999999998,
+  "weight": {
+    "summary": "43 requests • 870.5 KiB",
+    "total": 891357,
+    "image": 624089,
+    "imageCount": 14,
+    "script": 61933,
+    "scriptCount": 5,
+    "document": 50663,
+    "font": 113744,
+    "fontCount": 2,
+    "stylesheet": 33666,
+    "stylesheetCount": 5,
+    "thirdParty": 182887,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 40,
+    "+weight.total": 533,
+    "-weight.document": 313,
+    "+weight.document": 256,
+    "-weight.script": 14,
+    "+weight.script": 498,
+    "-weight.image": 72,
+    "+weight.image": 499,
+    "-weight.font": 146,
+    "+weight.font": 245,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 197,
+    "-totalBlockingTime": 7,
+    "-largestContentfulPaint": 65
+  },
+  "axe": {
+    "passes": 947,
+    "violations": 15
+  }
+}

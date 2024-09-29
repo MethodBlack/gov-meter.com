@@ -1,0 +1,67 @@
+{
+  "url": "https://www.dgtr.gov.in/",
+  "requestedUrl": "https://www.dgtr.gov.in/",
+  "timestamp": 1727560363543,
+  "ranks": {
+    "hundos": 96,
+    "performance": 172,
+    "accessibility": 38,
+    "cumulative": 96
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.58,
+    "accessibility": 0.93,
+    "bestPractices": 0.93,
+    "seo": 0.67,
+    "total": 311
+  },
+  "firstContentfulPaint": 5358.88,
+  "firstMeaningfulPaint": 5358.88,
+  "speedIndex": 9576.746628083212,
+  "largestContentfulPaint": 5547.103999999999,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.11799360471980697,
+  "timeToInteractive": 5358.88,
+  "maxPotentialFirstInputDelay": 47,
+  "timeToFirstByte": 144.42500000000018,
+  "weight": {
+    "summary": "83 requests • 1.1 MiB",
+    "total": 1164337,
+    "image": 622843,
+    "imageCount": 41,
+    "script": 296726,
+    "scriptCount": 18,
+    "document": 52837,
+    "font": 27540,
+    "fontCount": 2,
+    "stylesheet": 164391,
+    "stylesheetCount": 21,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 60,
+    "+weight.total": 513,
+    "-weight.document": 321,
+    "+weight.document": 248,
+    "-weight.script": 136,
+    "+weight.script": 376,
+    "-weight.image": 71,
+    "+weight.image": 500,
+    "-weight.font": 18,
+    "+weight.font": 373,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 235,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 83
+  },
+  "axe": {
+    "passes": 682,
+    "violations": 26
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://cewacor.nic.in/",
+  "requestedUrl": "https://cewacor.nic.in/",
+  "timestamp": 1727573442190,
+  "ranks": {
+    "hundos": 58,
+    "performance": 335,
+    "accessibility": 21,
+    "cumulative": 58
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.46,
+    "accessibility": 0.95,
+    "bestPractices": 0.89,
+    "seo": 0.92,
+    "total": 322
+  },
+  "firstContentfulPaint": 8378.867,
+  "firstMeaningfulPaint": 8378.867,
+  "speedIndex": 20208.33776633888,
+  "largestContentfulPaint": 20599.958000000002,
+  "totalBlockingTime": 206.5,
+  "cumulativeLayoutShift": 0.14540590947635307,
+  "timeToInteractive": 32787.408500000005,
+  "maxPotentialFirstInputDelay": 267,
+  "timeToFirstByte": 674.0820000000001,
+  "weight": {
+    "summary": "139 requests • 11.3 MiB",
+    "total": 11841122,
+    "image": 9979335,
+    "imageCount": 47,
+    "script": 945316,
+    "scriptCount": 35,
+    "document": 156366,
+    "font": 127195,
+    "fontCount": 2,
+    "stylesheet": 632470,
+    "stylesheetCount": 51,
+    "thirdParty": 377499,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 427,
+    "+weight.total": 146,
+    "-weight.document": 459,
+    "+weight.document": 110,
+    "-weight.script": 365,
+    "+weight.script": 147,
+    "-weight.image": 431,
+    "+weight.image": 140,
+    "-weight.font": 172,
+    "+weight.font": 219,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 421,
+    "-totalBlockingTime": 277,
+    "-largestContentfulPaint": 374
+  },
+  "axe": {
+    "passes": 1749,
+    "violations": 95
+  }
+}

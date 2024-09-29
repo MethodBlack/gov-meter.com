@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nmdfc.org/",
+  "requestedUrl": "https://www.nmdfc.org/",
+  "timestamp": 1727548939813,
+  "ranks": {
+    "hundos": 284,
+    "performance": 201,
+    "accessibility": 94,
+    "cumulative": 284
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "bestPractices": 0.67,
+    "seo": 0.67,
+    "total": 278
+  },
+  "firstContentfulPaint": 5578.3275,
+  "firstMeaningfulPaint": 5578.3275,
+  "speedIndex": 11272.06311414327,
+  "largestContentfulPaint": 52936.764999999985,
+  "totalBlockingTime": 38.5,
+  "cumulativeLayoutShift": 0.0002712290029536993,
+  "timeToInteractive": 11461.8135,
+  "maxPotentialFirstInputDelay": 98,
+  "timeToFirstByte": 169.86700000000002,
+  "weight": {
+    "summary": "63 requests • 11.0 MiB",
+    "total": 11566985,
+    "image": 5486561,
+    "imageCount": 20,
+    "script": 1350706,
+    "scriptCount": 15,
+    "document": 14482,
+    "font": 376631,
+    "fontCount": 4,
+    "stylesheet": 79581,
+    "stylesheetCount": 11,
+    "thirdParty": 278029,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 421,
+    "+weight.total": 152,
+    "-weight.document": 83,
+    "+weight.document": 486,
+    "-weight.script": 425,
+    "+weight.script": 87,
+    "-weight.image": 336,
+    "+weight.image": 235,
+    "-weight.font": 354,
+    "+weight.font": 37,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 275,
+    "-totalBlockingTime": 53,
+    "-largestContentfulPaint": 272
+  },
+  "axe": {
+    "passes": 684,
+    "violations": 23
+  }
+}

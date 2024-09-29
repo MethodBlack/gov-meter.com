@@ -1,0 +1,67 @@
+{
+  "url": "https://www.naa.gov.in/",
+  "requestedUrl": "https://www.naa.gov.in/",
+  "timestamp": 1727565668116,
+  "ranks": {
+    "hundos": 99,
+    "performance": 83,
+    "accessibility": 325,
+    "cumulative": 100
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.7,
+    "accessibility": 0.76,
+    "bestPractices": 0.93,
+    "seo": 0.72,
+    "total": 311
+  },
+  "firstContentfulPaint": 2086.505,
+  "firstMeaningfulPaint": 2236.505,
+  "speedIndex": 3602.9411828905913,
+  "largestContentfulPaint": 5236.505,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.1668826481693703,
+  "timeToInteractive": 2236.505,
+  "maxPotentialFirstInputDelay": 36,
+  "timeToFirstByte": 117.47000000000003,
+  "weight": {
+    "summary": "113 requests • 2.7 MiB",
+    "total": 2876532,
+    "image": 2631213,
+    "imageCount": 40,
+    "script": 159708,
+    "scriptCount": 32,
+    "document": 11314,
+    "font": 3230,
+    "fontCount": 7,
+    "stylesheet": 70880,
+    "stylesheetCount": 32,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 159,
+    "+weight.total": 414,
+    "-weight.document": 42,
+    "+weight.document": 527,
+    "-weight.script": 57,
+    "+weight.script": 455,
+    "-weight.image": 214,
+    "+weight.image": 357,
+    "-weight.font": 2,
+    "+weight.font": 389,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 195,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 75
+  },
+  "axe": {
+    "passes": 968,
+    "violations": 49
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cmeri.res.in/",
+  "requestedUrl": "https://www.cmeri.res.in/",
+  "timestamp": 1727538820307,
+  "ranks": {
+    "hundos": 517,
+    "performance": 333,
+    "accessibility": 479,
+    "cumulative": 517
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.46,
+    "accessibility": 0.65,
+    "bestPractices": 0.48,
+    "seo": 0.8,
+    "total": 239
+  },
+  "firstContentfulPaint": 7131.317999999999,
+  "firstMeaningfulPaint": 7131.317999999999,
+  "speedIndex": 18382.92722139033,
+  "largestContentfulPaint": 16790.192999999996,
+  "totalBlockingTime": 381,
+  "cumulativeLayoutShift": 0.053375325929091666,
+  "timeToInteractive": 25106.35775,
+  "maxPotentialFirstInputDelay": 227,
+  "timeToFirstByte": 3734.212,
+  "weight": {
+    "summary": "199 requests • 7.7 MiB",
+    "total": 8082218,
+    "image": 5217254,
+    "imageCount": 61,
+    "script": 2353080,
+    "scriptCount": 62,
+    "document": 175989,
+    "font": 128950,
+    "fontCount": 5,
+    "stylesheet": 160915,
+    "stylesheetCount": 51,
+    "thirdParty": 1952564,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 371,
+    "+weight.total": 202,
+    "-weight.document": 483,
+    "+weight.document": 86,
+    "-weight.script": 486,
+    "+weight.script": 26,
+    "-weight.image": 330,
+    "+weight.image": 241,
+    "-weight.font": 174,
+    "+weight.font": 217,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 557,
+    "-totalBlockingTime": 291,
+    "-largestContentfulPaint": 353
+  },
+  "axe": {
+    "passes": 2980,
+    "violations": 166
+  }
+}

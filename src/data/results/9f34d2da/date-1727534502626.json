@@ -1,0 +1,67 @@
+{
+  "url": "https://mausam.imd.gov.in/gangtok/",
+  "requestedUrl": "https://mausam.imd.gov.in/gangtok",
+  "timestamp": 1727547532543,
+  "ranks": {
+    "hundos": 158,
+    "performance": 120,
+    "accessibility": 426,
+    "cumulative": 157
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.64,
+    "accessibility": 0.7,
+    "bestPractices": 0.93,
+    "seo": 0.72,
+    "total": 299
+  },
+  "firstContentfulPaint": 3688.273,
+  "firstMeaningfulPaint": 3688.273,
+  "speedIndex": 5058.542675676632,
+  "largestContentfulPaint": 35475.29300000003,
+  "totalBlockingTime": 10,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 7609.553,
+  "maxPotentialFirstInputDelay": 61,
+  "timeToFirstByte": 82.22,
+  "weight": {
+    "summary": "44 requests • 6.1 MiB",
+    "total": 6418325,
+    "image": 5564327,
+    "imageCount": 21,
+    "script": 617946,
+    "scriptCount": 11,
+    "document": 33509,
+    "font": 74990,
+    "fontCount": 1,
+    "stylesheet": 125458,
+    "stylesheetCount": 4,
+    "thirdParty": 707292,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 323,
+    "+weight.total": 250,
+    "-weight.document": 258,
+    "+weight.document": 311,
+    "-weight.script": 284,
+    "+weight.script": 228,
+    "-weight.image": 339,
+    "+weight.image": 232,
+    "-weight.font": 67,
+    "+weight.font": 324,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 120,
+    "-totalBlockingTime": 337,
+    "-largestContentfulPaint": 404
+  },
+  "axe": {
+    "passes": 934,
+    "violations": 76
+  }
+}

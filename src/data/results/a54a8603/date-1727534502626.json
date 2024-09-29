@@ -1,0 +1,67 @@
+{
+  "url": "https://rrcb.gov.in/",
+  "requestedUrl": "https://rrcb.gov.in/",
+  "timestamp": 1727551158497,
+  "ranks": {
+    "hundos": 145,
+    "performance": 5,
+    "accessibility": 451,
+    "cumulative": 145
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.68,
+    "bestPractices": 0.85,
+    "seo": 0.5,
+    "total": 302
+  },
+  "firstContentfulPaint": 975.513,
+  "firstMeaningfulPaint": 975.513,
+  "speedIndex": 3056.2895600260013,
+  "largestContentfulPaint": 1530.513,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0000896807928874771,
+  "timeToInteractive": 975.513,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 156.49,
+  "weight": {
+    "summary": "11 requests • 490.3 KiB",
+    "total": 502040,
+    "image": 464839,
+    "imageCount": 5,
+    "script": 8433,
+    "scriptCount": 2,
+    "document": 21650,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 7118,
+    "stylesheetCount": 3,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 21,
+    "+weight.total": 552,
+    "-weight.document": 198,
+    "+weight.document": 371,
+    "-weight.script": 3,
+    "+weight.script": 509,
+    "-weight.image": 60,
+    "+weight.image": 511,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 262,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 5
+  },
+  "axe": {
+    "passes": 213,
+    "violations": 28
+  }
+}

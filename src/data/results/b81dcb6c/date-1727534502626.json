@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cmfri.org.in/",
+  "requestedUrl": "https://www.cmfri.org.in/",
+  "timestamp": 1727544818335,
+  "ranks": {
+    "hundos": 202,
+    "performance": 364,
+    "accessibility": 299,
+    "cumulative": 203
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.42,
+    "accessibility": 0.78,
+    "bestPractices": 0.89,
+    "seo": 0.83,
+    "total": 292
+  },
+  "firstContentfulPaint": 6115.808999999996,
+  "firstMeaningfulPaint": 6115.808999999996,
+  "speedIndex": 14984.650992948336,
+  "largestContentfulPaint": 13208.766999999989,
+  "totalBlockingTime": 23,
+  "cumulativeLayoutShift": 0.25914375131638573,
+  "timeToInteractive": 11379.91499999999,
+  "maxPotentialFirstInputDelay": 82,
+  "timeToFirstByte": 368.95899999999983,
+  "weight": {
+    "summary": "126 requests • 11.2 MiB",
+    "total": 11698688,
+    "image": 10155978,
+    "imageCount": 78,
+    "script": 578949,
+    "scriptCount": 20,
+    "document": 280258,
+    "font": 318495,
+    "fontCount": 7,
+    "stylesheet": 365008,
+    "stylesheetCount": 20,
+    "thirdParty": 166369,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 423,
+    "+weight.total": 150,
+    "-weight.document": 529,
+    "+weight.document": 40,
+    "-weight.script": 263,
+    "+weight.script": 249,
+    "-weight.image": 432,
+    "+weight.image": 139,
+    "-weight.font": 331,
+    "+weight.font": 60,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 353,
+    "-totalBlockingTime": 37,
+    "-largestContentfulPaint": 188
+  },
+  "axe": {
+    "passes": 936,
+    "violations": 56
+  }
+}

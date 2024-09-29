@@ -1,0 +1,67 @@
+{
+  "url": "https://ncpcr.gov.in/",
+  "requestedUrl": "https://ncpcr.gov.in/",
+  "timestamp": 1727565948564,
+  "ranks": {
+    "hundos": 494,
+    "performance": 508,
+    "accessibility": 152,
+    "cumulative": 492
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.28,
+    "accessibility": 0.84,
+    "bestPractices": 0.44,
+    "seo": 0.9,
+    "total": 246
+  },
+  "firstContentfulPaint": 5564.545999999997,
+  "firstMeaningfulPaint": 5662.545999999998,
+  "speedIndex": 22941.882996878954,
+  "largestContentfulPaint": 12414.786999999997,
+  "totalBlockingTime": 1836.9999999999927,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 27604.603999999985,
+  "maxPotentialFirstInputDelay": 1422.9999999999854,
+  "timeToFirstByte": 1011.8980000000001,
+  "weight": {
+    "summary": "279 requests • 8.4 MiB",
+    "total": 8799405,
+    "image": 6384195,
+    "imageCount": 194,
+    "script": 1362009,
+    "scriptCount": 47,
+    "document": 232848,
+    "font": 147645,
+    "fontCount": 4,
+    "stylesheet": 250577,
+    "stylesheetCount": 23,
+    "thirdParty": 4967942,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 2,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 390,
+    "+weight.total": 183,
+    "-weight.document": 515,
+    "+weight.document": 54,
+    "-weight.script": 428,
+    "+weight.script": 84,
+    "-weight.image": 364,
+    "+weight.image": 207,
+    "-weight.font": 199,
+    "+weight.font": 192,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 486,
+    "-totalBlockingTime": 320,
+    "-largestContentfulPaint": 338
+  },
+  "axe": {
+    "passes": 24233,
+    "violations": 208
+  }
+}

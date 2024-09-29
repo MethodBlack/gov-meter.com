@@ -1,0 +1,66 @@
+{
+  "url": "https://mausam.imd.gov.in/",
+  "requestedUrl": "https://mausam.imd.gov.in/",
+  "timestamp": 1727579990478,
+  "ranks": {
+    "hundos": 338,
+    "performance": 263,
+    "accessibility": 389,
+    "cumulative": 346
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.53,
+    "accessibility": 0.73,
+    "bestPractices": 0.74,
+    "seo": 0.7,
+    "total": 270
+  },
+  "firstContentfulPaint": 6111.571,
+  "firstMeaningfulPaint": 6111.571,
+  "speedIndex": 18368.947523608553,
+  "largestContentfulPaint": 8864.152999999998,
+  "totalBlockingTime": 165.5,
+  "cumulativeLayoutShift": 0.0002448593651058304,
+  "timeToInteractive": 39649.680250000005,
+  "maxPotentialFirstInputDelay": 116,
+  "timeToFirstByte": 60.82099999999991,
+  "weight": {
+    "summary": "139 requests • 56.5 MiB",
+    "total": 59283291,
+    "image": 56381943,
+    "imageCount": 81,
+    "script": 1532492,
+    "scriptCount": 22,
+    "document": 563855,
+    "font": 295553,
+    "fontCount": 7,
+    "stylesheet": 312111,
+    "stylesheetCount": 10,
+    "thirdParty": 1816466,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 565,
+    "+weight.total": 8,
+    "-weight.document": 560,
+    "+weight.document": 9,
+    "-weight.script": 448,
+    "+weight.script": 64,
+    "-weight.image": 563,
+    "+weight.image": 8,
+    "-weight.font": 323,
+    "+weight.font": 68,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 65,
+    "-totalBlockingTime": 98,
+    "-largestContentfulPaint": 140
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

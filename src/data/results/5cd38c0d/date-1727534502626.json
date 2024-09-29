@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ddpmod.gov.in/",
+  "requestedUrl": "https://ddpmod.gov.in/",
+  "timestamp": 1727559060517,
+  "ranks": {
+    "hundos": 124,
+    "performance": 340,
+    "accessibility": 85,
+    "cumulative": 119
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.45,
+    "accessibility": 0.89,
+    "bestPractices": 0.85,
+    "seo": 0.87,
+    "total": 306
+  },
+  "firstContentfulPaint": 5643.698000000003,
+  "firstMeaningfulPaint": 5653.698000000003,
+  "speedIndex": 11490.225522161065,
+  "largestContentfulPaint": 11799.420000000004,
+  "totalBlockingTime": 1,
+  "cumulativeLayoutShift": 0.23085488196814896,
+  "timeToInteractive": 7694.201000000001,
+  "maxPotentialFirstInputDelay": 52,
+  "timeToFirstByte": 1576.1150000000002,
+  "weight": {
+    "summary": "97 requests • 2.6 MiB",
+    "total": 2766303,
+    "image": 1977812,
+    "imageCount": 74,
+    "script": 471357,
+    "scriptCount": 10,
+    "document": 71369,
+    "font": 71195,
+    "fontCount": 5,
+    "stylesheet": 173902,
+    "stylesheetCount": 5,
+    "thirdParty": 429685,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 153,
+    "+weight.total": 420,
+    "-weight.document": 361,
+    "+weight.document": 208,
+    "-weight.script": 229,
+    "+weight.script": 283,
+    "-weight.image": 172,
+    "+weight.image": 399,
+    "-weight.font": 56,
+    "+weight.font": 335,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 509,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 499
+  },
+  "axe": {
+    "passes": 1066,
+    "violations": 44
+  }
+}

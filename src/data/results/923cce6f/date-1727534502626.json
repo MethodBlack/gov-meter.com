@@ -1,0 +1,67 @@
+{
+  "url": "https://pharmaceuticals.gov.in/bengal-chemicals-pharmaceuticals-limited",
+  "requestedUrl": "https://pharmaceuticals.gov.in/bengal-chemicals-pharmaceuticals-limited",
+  "timestamp": 1727535317465,
+  "ranks": {
+    "hundos": 9,
+    "performance": 209,
+    "accessibility": 4,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 0.97,
+    "total": 345
+  },
+  "firstContentfulPaint": 5695.2075,
+  "firstMeaningfulPaint": 6273.2080000000005,
+  "speedIndex": 7068.083915060434,
+  "largestContentfulPaint": 6595.494000000001,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.14168496378817685,
+  "timeToInteractive": 6273.2080000000005,
+  "maxPotentialFirstInputDelay": 38,
+  "timeToFirstByte": 136.52200000000005,
+  "weight": {
+    "summary": "98 requests • 1.1 MiB",
+    "total": 1148704,
+    "image": 387973,
+    "imageCount": 42,
+    "script": 515690,
+    "scriptCount": 21,
+    "document": 13737,
+    "font": 164232,
+    "fontCount": 7,
+    "stylesheet": 66525,
+    "stylesheetCount": 26,
+    "thirdParty": 105289,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 58,
+    "+weight.total": 515,
+    "-weight.document": 76,
+    "+weight.document": 493,
+    "-weight.script": 246,
+    "+weight.script": 266,
+    "-weight.image": 51,
+    "+weight.image": 520,
+    "-weight.font": 225,
+    "+weight.font": 166,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 221,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 108
+  },
+  "axe": {
+    "passes": 775,
+    "violations": 25
+  }
+}

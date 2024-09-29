@@ -1,0 +1,62 @@
+{
+  "url": "https://www.pmjay.gov.in/",
+  "requestedUrl": "https://www.pmjay.gov.in/",
+  "timestamp": 1727566223745,
+  "ranks": {
+    "hundos": 504,
+    "performance": 555,
+    "cumulative": 504
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.16,
+    "accessibility": 0.73,
+    "bestPractices": 0.7,
+    "seo": 0.84,
+    "total": 243
+  },
+  "firstContentfulPaint": 8603.466,
+  "firstMeaningfulPaint": 8603.466,
+  "speedIndex": 25491.727187687913,
+  "largestContentfulPaint": 30284.952500000036,
+  "totalBlockingTime": 3495.500000000018,
+  "cumulativeLayoutShift": 0.19902272323432563,
+  "timeToInteractive": 74692.12802966316,
+  "maxPotentialFirstInputDelay": 1568.000000000029,
+  "timeToFirstByte": 80.22499999999991,
+  "weight": {
+    "summary": "1222 requests • 12.8 MiB",
+    "total": 13410230,
+    "image": 7134491,
+    "imageCount": 172,
+    "script": 1815459,
+    "scriptCount": 361,
+    "document": 2599343,
+    "font": 106495,
+    "fontCount": 131,
+    "stylesheet": 255352,
+    "stylesheetCount": 135,
+    "thirdParty": 9788158,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 445,
+    "+weight.total": 128,
+    "-weight.document": 566,
+    "+weight.document": 3,
+    "-weight.script": 468,
+    "+weight.script": 44,
+    "-weight.image": 388,
+    "+weight.image": 183,
+    "-weight.font": 134,
+    "+weight.font": 257,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 114,
+    "-totalBlockingTime": 396,
+    "-largestContentfulPaint": 557
+  }
+}

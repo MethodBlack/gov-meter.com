@@ -1,0 +1,67 @@
+{
+  "url": "https://fiuindia.gov.in/",
+  "requestedUrl": "https://fiuindia.gov.in/",
+  "timestamp": 1727561979406,
+  "ranks": {
+    "hundos": 49,
+    "performance": 91,
+    "accessibility": 158,
+    "cumulative": 52
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.69,
+    "accessibility": 0.83,
+    "bestPractices": 0.96,
+    "seo": 0.75,
+    "total": 323
+  },
+  "firstContentfulPaint": 2627.92,
+  "firstMeaningfulPaint": 2627.92,
+  "speedIndex": 2797.0850540242195,
+  "largestContentfulPaint": 6652.3499999999985,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.1262681019361681,
+  "timeToInteractive": 2627.92,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 72.08200000000002,
+  "weight": {
+    "summary": "30 requests • 2.6 MiB",
+    "total": 2702139,
+    "image": 2360408,
+    "imageCount": 24,
+    "script": 83475,
+    "scriptCount": 2,
+    "document": 6527,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 251729,
+    "stylesheetCount": 3,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 147,
+    "+weight.total": 426,
+    "-weight.document": 15,
+    "+weight.document": 554,
+    "-weight.script": 23,
+    "+weight.script": 489,
+    "-weight.image": 195,
+    "+weight.image": 376,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 94,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 109
+  },
+  "axe": {
+    "passes": 482,
+    "violations": 20
+  }
+}

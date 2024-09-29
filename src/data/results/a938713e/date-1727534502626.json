@@ -1,0 +1,67 @@
+{
+  "url": "https://ncismindia.org/",
+  "requestedUrl": "https://ncismindia.org/",
+  "timestamp": 1727581968237,
+  "ranks": {
+    "hundos": 215,
+    "performance": 96,
+    "accessibility": 406,
+    "cumulative": 218
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.68,
+    "accessibility": 0.71,
+    "bestPractices": 0.89,
+    "seo": 0.61,
+    "total": 289
+  },
+  "firstContentfulPaint": 3853.981,
+  "firstMeaningfulPaint": 5857.777,
+  "speedIndex": 5058.581118017478,
+  "largestContentfulPaint": 5625.307000000001,
+  "totalBlockingTime": 54,
+  "cumulativeLayoutShift": 0.00017603990811129673,
+  "timeToInteractive": 7200.471999999998,
+  "maxPotentialFirstInputDelay": 150,
+  "timeToFirstByte": 228.271,
+  "weight": {
+    "summary": "73 requests • 1.9 MiB",
+    "total": 2034125,
+    "image": 1300413,
+    "imageCount": 26,
+    "script": 234866,
+    "scriptCount": 20,
+    "document": 36091,
+    "font": 329737,
+    "fontCount": 8,
+    "stylesheet": 133018,
+    "stylesheetCount": 18,
+    "thirdParty": 392413,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 116,
+    "+weight.total": 457,
+    "-weight.document": 265,
+    "+weight.document": 304,
+    "-weight.script": 103,
+    "+weight.script": 409,
+    "-weight.image": 129,
+    "+weight.image": 442,
+    "-weight.font": 335,
+    "+weight.font": 56,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 312,
+    "-totalBlockingTime": 63,
+    "-largestContentfulPaint": 87
+  },
+  "axe": {
+    "passes": 2233,
+    "violations": 48
+  }
+}

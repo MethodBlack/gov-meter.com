@@ -1,0 +1,67 @@
+{
+  "url": "https://jabalpur.cantt.gov.in/",
+  "requestedUrl": "https://jabalpur.cantt.gov.in/",
+  "timestamp": 1727536576323,
+  "ranks": {
+    "hundos": 383,
+    "performance": 455,
+    "accessibility": 205,
+    "cumulative": 378
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.76,
+    "total": 265
+  },
+  "firstContentfulPaint": 3852.105,
+  "firstMeaningfulPaint": 3852.105,
+  "speedIndex": 11573.313156120788,
+  "largestContentfulPaint": 32646.76799999999,
+  "totalBlockingTime": 78,
+  "cumulativeLayoutShift": 1.2818351245546702,
+  "timeToInteractive": 15295.093999999994,
+  "maxPotentialFirstInputDelay": 174,
+  "timeToFirstByte": 1936.6749999999997,
+  "weight": {
+    "summary": "89 requests • 5.5 MiB",
+    "total": 5793319,
+    "image": 5125527,
+    "imageCount": 30,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 17033,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 226061,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 299,
+    "+weight.total": 274,
+    "-weight.document": 142,
+    "+weight.document": 427,
+    "-weight.script": 169,
+    "+weight.script": 343,
+    "-weight.image": 326,
+    "+weight.image": 245,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 531,
+    "-totalBlockingTime": 249,
+    "-largestContentfulPaint": 401
+  },
+  "axe": {
+    "passes": 939,
+    "violations": 35
+  }
+}

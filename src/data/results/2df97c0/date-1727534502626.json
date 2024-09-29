@@ -1,0 +1,67 @@
+{
+  "url": "https://jutecomm.gov.in/",
+  "requestedUrl": "https://jutecomm.gov.in/",
+  "timestamp": 1727550069714,
+  "ranks": {
+    "hundos": 52,
+    "performance": 110,
+    "accessibility": 444,
+    "cumulative": 56
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.66,
+    "accessibility": 0.69,
+    "bestPractices": 0.96,
+    "seo": 0.92,
+    "total": 323
+  },
+  "firstContentfulPaint": 3893.8200000000006,
+  "firstMeaningfulPaint": 3893.8200000000006,
+  "speedIndex": 7079.5763614488005,
+  "largestContentfulPaint": 5093.82,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.07172136417546982,
+  "timeToInteractive": 3893.8200000000006,
+  "maxPotentialFirstInputDelay": 43,
+  "timeToFirstByte": 57.47799999999961,
+  "weight": {
+    "summary": "35 requests • 5.2 MiB",
+    "total": 5498956,
+    "image": 5026718,
+    "imageCount": 22,
+    "script": 123622,
+    "scriptCount": 6,
+    "document": 97202,
+    "font": 33699,
+    "fontCount": 1,
+    "stylesheet": 217715,
+    "stylesheetCount": 5,
+    "thirdParty": 131288,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 288,
+    "+weight.total": 285,
+    "-weight.document": 390,
+    "+weight.document": 179,
+    "-weight.script": 37,
+    "+weight.script": 475,
+    "-weight.image": 324,
+    "+weight.image": 247,
+    "-weight.font": 23,
+    "+weight.font": 368,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 57,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 71
+  },
+  "axe": {
+    "passes": 472,
+    "violations": 76
+  }
+}

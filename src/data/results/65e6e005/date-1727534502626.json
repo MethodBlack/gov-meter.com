@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nisg.org/",
+  "requestedUrl": "https://www.nisg.org/",
+  "timestamp": 1727566278843,
+  "ranks": {
+    "hundos": 3,
+    "performance": 28,
+    "accessibility": 89,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.87,
+    "accessibility": 0.88,
+    "bestPractices": 1,
+    "seo": 0.98,
+    "total": 373
+  },
+  "firstContentfulPaint": 1866.562,
+  "firstMeaningfulPaint": 1886.062,
+  "speedIndex": 3442.2280771897285,
+  "largestContentfulPaint": 3690.8779999999997,
+  "totalBlockingTime": 27,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 10819.485,
+  "maxPotentialFirstInputDelay": 98,
+  "timeToFirstByte": 150.82999999999993,
+  "weight": {
+    "summary": "166 requests • 1.7 MiB",
+    "total": 1804647,
+    "image": 72650,
+    "imageCount": 15,
+    "script": 803478,
+    "scriptCount": 75,
+    "document": 156530,
+    "font": 99699,
+    "fontCount": 3,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 1485813,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 98,
+    "+weight.total": 475,
+    "-weight.document": 460,
+    "+weight.document": 109,
+    "-weight.script": 329,
+    "+weight.script": 183,
+    "-weight.image": 19,
+    "+weight.image": 552,
+    "-weight.font": 122,
+    "+weight.font": 269,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 249,
+    "-totalBlockingTime": 40,
+    "-largestContentfulPaint": 39
+  },
+  "axe": {
+    "passes": 1448,
+    "violations": 9
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://mausam.imd.gov.in/chennai/",
+  "requestedUrl": "https://mausam.imd.gov.in/chennai",
+  "timestamp": 1727551359030,
+  "ranks": {
+    "hundos": 110,
+    "performance": 127,
+    "accessibility": 332,
+    "cumulative": 110
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.63,
+    "accessibility": 0.76,
+    "bestPractices": 0.89,
+    "seo": 0.8,
+    "total": 308
+  },
+  "firstContentfulPaint": 4179.639999999999,
+  "firstMeaningfulPaint": 4374.487999999999,
+  "speedIndex": 5459.647749783642,
+  "largestContentfulPaint": 13077.429000000004,
+  "totalBlockingTime": 17,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 8312.959499999999,
+  "maxPotentialFirstInputDelay": 66,
+  "timeToFirstByte": 85.347,
+  "weight": {
+    "summary": "55 requests • 1.5 MiB",
+    "total": 1563493,
+    "image": 682076,
+    "imageCount": 32,
+    "script": 617869,
+    "scriptCount": 11,
+    "document": 61006,
+    "font": 74983,
+    "fontCount": 1,
+    "stylesheet": 125416,
+    "stylesheetCount": 4,
+    "thirdParty": 707217,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 80,
+    "+weight.total": 493,
+    "-weight.document": 336,
+    "+weight.document": 233,
+    "-weight.script": 281,
+    "+weight.script": 231,
+    "-weight.image": 79,
+    "+weight.image": 492,
+    "-weight.font": 64,
+    "+weight.font": 327,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 133,
+    "-totalBlockingTime": 344,
+    "-largestContentfulPaint": 343
+  },
+  "axe": {
+    "passes": 1608,
+    "violations": 102
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://bcb.gov.in/",
+  "requestedUrl": "https://bcb.gov.in/",
+  "timestamp": 1727554344443,
+  "ranks": {
+    "hundos": 309,
+    "performance": 27,
+    "accessibility": 567,
+    "cumulative": 307
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.87,
+    "accessibility": 0.45,
+    "bestPractices": 0.85,
+    "seo": 0.58,
+    "total": 275
+  },
+  "firstContentfulPaint": 988.31,
+  "firstMeaningfulPaint": 988.31,
+  "speedIndex": 3082.8297160142642,
+  "largestContentfulPaint": 988.31,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.25111005001196296,
+  "timeToInteractive": 988.31,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 86.56899999999996,
+  "weight": {
+    "summary": "7 requests • 90.3 KiB",
+    "total": 92511,
+    "image": 79672,
+    "imageCount": 5,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 2603,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 10236,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 6,
+    "+weight.total": 567,
+    "-weight.document": 5,
+    "+weight.document": 564,
+    "-weight.script": 1,
+    "+weight.script": 512,
+    "-weight.image": 21,
+    "+weight.image": 550,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 140,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 422
+  },
+  "axe": {
+    "passes": 170,
+    "violations": 14
+  }
+}

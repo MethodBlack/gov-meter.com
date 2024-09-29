@@ -1,0 +1,67 @@
+{
+  "url": "https://delhi.cantt.gov.in/",
+  "requestedUrl": "https://delhi.cantt.gov.in/",
+  "timestamp": 1727572397328,
+  "ranks": {
+    "hundos": 456,
+    "performance": 470,
+    "accessibility": 184,
+    "cumulative": 453
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.32,
+    "accessibility": 0.82,
+    "bestPractices": 0.7,
+    "seo": 0.7,
+    "total": 254
+  },
+  "firstContentfulPaint": 5160.934500000001,
+  "firstMeaningfulPaint": 5160.934500000001,
+  "speedIndex": 10119.564778367105,
+  "largestContentfulPaint": 33925.553999999975,
+  "totalBlockingTime": 57.5,
+  "cumulativeLayoutShift": 1.3156144875931641,
+  "timeToInteractive": 19039.989499999996,
+  "maxPotentialFirstInputDelay": 165,
+  "timeToFirstByte": 801.0729999999999,
+  "weight": {
+    "summary": "78 requests • 5.0 MiB",
+    "total": 5226931,
+    "image": 4559378,
+    "imageCount": 19,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 16602,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 226253,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 274,
+    "+weight.total": 299,
+    "-weight.document": 135,
+    "+weight.document": 434,
+    "-weight.script": 169,
+    "+weight.script": 343,
+    "-weight.image": 306,
+    "+weight.image": 265,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 454,
+    "-totalBlockingTime": 231,
+    "-largestContentfulPaint": 402
+  },
+  "axe": {
+    "passes": 870,
+    "violations": 27
+  }
+}

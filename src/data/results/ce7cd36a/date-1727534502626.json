@@ -1,0 +1,67 @@
+{
+  "url": "https://itdc.co.in/",
+  "requestedUrl": "https://www.itdc.co.in/",
+  "timestamp": 1727545772706,
+  "ranks": {
+    "hundos": 224,
+    "performance": 248,
+    "accessibility": 71,
+    "cumulative": 224
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.54,
+    "accessibility": 0.9,
+    "bestPractices": 0.7,
+    "seo": 0.75,
+    "total": 289
+  },
+  "firstContentfulPaint": 4415.009,
+  "firstMeaningfulPaint": 4415.009,
+  "speedIndex": 15140.177805212086,
+  "largestContentfulPaint": 20304.586000000003,
+  "totalBlockingTime": 189.99999999999955,
+  "cumulativeLayoutShift": 0.01148844904757568,
+  "timeToInteractive": 41574.624749999995,
+  "maxPotentialFirstInputDelay": 160.99999999999955,
+  "timeToFirstByte": 926.3200000000002,
+  "weight": {
+    "summary": "128 requests • 13.0 MiB",
+    "total": 13638252,
+    "image": 9766966,
+    "imageCount": 65,
+    "script": 865740,
+    "scriptCount": 27,
+    "document": 71089,
+    "font": 77842,
+    "fontCount": 7,
+    "stylesheet": 122440,
+    "stylesheetCount": 16,
+    "thirdParty": 853921,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 448,
+    "+weight.total": 125,
+    "-weight.document": 360,
+    "+weight.document": 209,
+    "-weight.script": 349,
+    "+weight.script": 163,
+    "-weight.image": 429,
+    "+weight.image": 142,
+    "-weight.font": 76,
+    "+weight.font": 315,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 477,
+    "-totalBlockingTime": 274,
+    "-largestContentfulPaint": 373
+  },
+  "axe": {
+    "passes": 1665,
+    "violations": 86
+  }
+}

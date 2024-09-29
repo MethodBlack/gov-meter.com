@@ -1,0 +1,67 @@
+{
+  "url": "https://ncvbdc.mohfw.gov.in/",
+  "requestedUrl": "https://ncvbdc.mohfw.gov.in/",
+  "timestamp": 1727549333918,
+  "ranks": {
+    "hundos": 135,
+    "performance": 103,
+    "accessibility": 242,
+    "cumulative": 132
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.67,
+    "accessibility": 0.81,
+    "bestPractices": 0.89,
+    "seo": 0.67,
+    "total": 304
+  },
+  "firstContentfulPaint": 3562.737,
+  "firstMeaningfulPaint": 3562.737,
+  "speedIndex": 4906.215129909948,
+  "largestContentfulPaint": 6334.737,
+  "totalBlockingTime": 5.5,
+  "cumulativeLayoutShift": 0.00750974636338193,
+  "timeToInteractive": 3861.737,
+  "maxPotentialFirstInputDelay": 61,
+  "timeToFirstByte": 149.98899999999992,
+  "weight": {
+    "summary": "113 requests • 7.0 MiB",
+    "total": 7303785,
+    "image": 6804146,
+    "imageCount": 89,
+    "script": 470948,
+    "scriptCount": 14,
+    "document": 16888,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 11803,
+    "stylesheetCount": 9,
+    "thirdParty": 85136,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 339,
+    "+weight.total": 234,
+    "-weight.document": 141,
+    "+weight.document": 428,
+    "-weight.script": 228,
+    "+weight.script": 284,
+    "-weight.image": 375,
+    "+weight.image": 196,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 248,
+    "-totalBlockingTime": 10,
+    "-largestContentfulPaint": 101
+  },
+  "axe": {
+    "passes": 753,
+    "violations": 25
+  }
+}

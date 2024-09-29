@@ -1,0 +1,67 @@
+{
+  "url": "https://stopthepipeline.org/",
+  "requestedUrl": "https://envismadrasuniv.org/",
+  "timestamp": 1727561304710,
+  "ranks": {
+    "hundos": 14,
+    "performance": 309,
+    "accessibility": 2,
+    "cumulative": 14
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.48,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 341
+  },
+  "firstContentfulPaint": 6573.907000000002,
+  "firstMeaningfulPaint": 6573.907000000002,
+  "speedIndex": 15330.789779958175,
+  "largestContentfulPaint": 7142.050000000001,
+  "totalBlockingTime": 368,
+  "cumulativeLayoutShift": 0.007970069751922625,
+  "timeToInteractive": 13835.256,
+  "maxPotentialFirstInputDelay": 283,
+  "timeToFirstByte": 748.4999999999999,
+  "weight": {
+    "summary": "49 requests • 1.5 MiB",
+    "total": 1580149,
+    "image": 110096,
+    "imageCount": 3,
+    "script": 1223610,
+    "scriptCount": 25,
+    "document": 21610,
+    "font": 90547,
+    "fontCount": 5,
+    "stylesheet": 131634,
+    "stylesheetCount": 6,
+    "thirdParty": 1443298,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 81,
+    "+weight.total": 492,
+    "-weight.document": 197,
+    "+weight.document": 372,
+    "-weight.script": 408,
+    "+weight.script": 104,
+    "-weight.image": 24,
+    "+weight.image": 547,
+    "-weight.font": 106,
+    "+weight.font": 285,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 440,
+    "-totalBlockingTime": 287,
+    "-largestContentfulPaint": 304
+  },
+  "axe": {
+    "passes": 258,
+    "violations": 2
+  }
+}

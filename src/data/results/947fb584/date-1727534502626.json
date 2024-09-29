@@ -1,0 +1,67 @@
+{
+  "url": "https://bareilly.cantt.gov.in/",
+  "requestedUrl": "https://bareilly.cantt.gov.in/",
+  "timestamp": 1727572237820,
+  "ranks": {
+    "hundos": 371,
+    "performance": 433,
+    "accessibility": 221,
+    "cumulative": 367
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.76,
+    "total": 266
+  },
+  "firstContentfulPaint": 3801.305,
+  "firstMeaningfulPaint": 3801.305,
+  "speedIndex": 8535.244856684221,
+  "largestContentfulPaint": 29918.82699999999,
+  "totalBlockingTime": 63,
+  "cumulativeLayoutShift": 1.345949521587414,
+  "timeToInteractive": 13101.9355,
+  "maxPotentialFirstInputDelay": 176,
+  "timeToFirstByte": 1756.1100000000001,
+  "weight": {
+    "summary": "81 requests • 5.1 MiB",
+    "total": 5295431,
+    "image": 4626032,
+    "imageCount": 22,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 16862,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 227839,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 279,
+    "+weight.total": 294,
+    "-weight.document": 140,
+    "+weight.document": 429,
+    "-weight.script": 169,
+    "+weight.script": 343,
+    "-weight.image": 311,
+    "+weight.image": 260,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 522,
+    "-totalBlockingTime": 237,
+    "-largestContentfulPaint": 394
+  },
+  "axe": {
+    "passes": 840,
+    "violations": 42
+  }
+}

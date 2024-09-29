@@ -1,0 +1,67 @@
+{
+  "url": "https://babina.cantt.gov.in/",
+  "requestedUrl": "https://babina.cantt.gov.in/",
+  "timestamp": 1727572202176,
+  "ranks": {
+    "hundos": 305,
+    "performance": 404,
+    "accessibility": 230,
+    "cumulative": 304
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.37,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.83,
+    "total": 276
+  },
+  "firstContentfulPaint": 3823.084999999999,
+  "firstMeaningfulPaint": 3823.084999999999,
+  "speedIndex": 9654.652718995101,
+  "largestContentfulPaint": 6004.8765,
+  "totalBlockingTime": 63.5,
+  "cumulativeLayoutShift": 1.3641734115651902,
+  "timeToInteractive": 23092.918999999994,
+  "maxPotentialFirstInputDelay": 173,
+  "timeToFirstByte": 763.211,
+  "weight": {
+    "summary": "91 requests • 7.9 MiB",
+    "total": 8286646,
+    "image": 7616988,
+    "imageCount": 32,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 17044,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 227916,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 377,
+    "+weight.total": 196,
+    "-weight.document": 143,
+    "+weight.document": 426,
+    "-weight.script": 169,
+    "+weight.script": 343,
+    "-weight.image": 399,
+    "+weight.image": 172,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 449,
+    "-totalBlockingTime": 238,
+    "-largestContentfulPaint": 298
+  },
+  "axe": {
+    "passes": 941,
+    "violations": 57
+  }
+}

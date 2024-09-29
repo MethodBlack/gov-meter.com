@@ -1,0 +1,67 @@
+{
+  "url": "https://roorkee.cantt.gov.in/",
+  "requestedUrl": "https://roorkee.cantt.gov.in/",
+  "timestamp": 1727572717319,
+  "ranks": {
+    "hundos": 343,
+    "performance": 485,
+    "accessibility": 203,
+    "cumulative": 341
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.83,
+    "total": 270
+  },
+  "firstContentfulPaint": 5146.314249999998,
+  "firstMeaningfulPaint": 5146.314249999998,
+  "speedIndex": 10694.622802470349,
+  "largestContentfulPaint": 31441.811500000018,
+  "totalBlockingTime": 69,
+  "cumulativeLayoutShift": 1.5172648870560235,
+  "timeToInteractive": 20199.576750000015,
+  "maxPotentialFirstInputDelay": 170.0000000000009,
+  "timeToFirstByte": 754.6870000000001,
+  "weight": {
+    "summary": "82 requests • 4.4 MiB",
+    "total": 4626136,
+    "image": 3959462,
+    "imageCount": 23,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 15855,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 226121,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 247,
+    "+weight.total": 326,
+    "-weight.document": 121,
+    "+weight.document": 448,
+    "-weight.script": 169,
+    "+weight.script": 343,
+    "-weight.image": 272,
+    "+weight.image": 299,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 446,
+    "-totalBlockingTime": 243,
+    "-largestContentfulPaint": 399
+  },
+  "axe": {
+    "passes": 909,
+    "violations": 34
+  }
+}

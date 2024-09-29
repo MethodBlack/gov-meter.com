@@ -1,0 +1,67 @@
+{
+  "url": "https://www.pawanhans.co.in/",
+  "requestedUrl": "https://www.pawanhans.co.in/",
+  "timestamp": 1727550247670,
+  "ranks": {
+    "hundos": 409,
+    "performance": 318,
+    "accessibility": 521,
+    "cumulative": 411
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.47,
+    "accessibility": 0.6,
+    "bestPractices": 0.7,
+    "seo": 0.85,
+    "total": 262
+  },
+  "firstContentfulPaint": 5367.026000000001,
+  "firstMeaningfulPaint": 5367.026000000001,
+  "speedIndex": 11165.18471596945,
+  "largestContentfulPaint": 15926.543500000003,
+  "totalBlockingTime": 1.5,
+  "cumulativeLayoutShift": 0.19826888793641992,
+  "timeToInteractive": 5558.785,
+  "maxPotentialFirstInputDelay": 53,
+  "timeToFirstByte": 134.358,
+  "weight": {
+    "summary": "157 requests • 3.5 MiB",
+    "total": 3670214,
+    "image": 3010112,
+    "imageCount": 72,
+    "script": 524449,
+    "scriptCount": 24,
+    "document": 31675,
+    "font": 18599,
+    "fontCount": 1,
+    "stylesheet": 55871,
+    "stylesheetCount": 11,
+    "thirdParty": 473125,
+    "thirdPartyCount": 35
+  },
+  "run": {
+    "number": 1,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 194,
+    "+weight.total": 379,
+    "-weight.document": 253,
+    "+weight.document": 316,
+    "-weight.script": 249,
+    "+weight.script": 263,
+    "-weight.image": 230,
+    "+weight.image": 341,
+    "-weight.font": 10,
+    "+weight.font": 381,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 218,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 213
+  },
+  "axe": {
+    "passes": 627,
+    "violations": 127
+  }
+}

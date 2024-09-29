@@ -1,0 +1,67 @@
+{
+  "url": "https://britatom.gov.in/",
+  "requestedUrl": "https://britatom.gov.in/",
+  "timestamp": 1727554856234,
+  "ranks": {
+    "hundos": 336,
+    "performance": 493,
+    "accessibility": 477,
+    "cumulative": 336
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.65,
+    "bestPractices": 0.93,
+    "seo": 0.82,
+    "total": 271
+  },
+  "firstContentfulPaint": 7053.782999999999,
+  "firstMeaningfulPaint": 7053.782999999999,
+  "speedIndex": 15135.581531902804,
+  "largestContentfulPaint": 27050.872000000007,
+  "totalBlockingTime": 4.5,
+  "cumulativeLayoutShift": 0.9746104322095522,
+  "timeToInteractive": 8253.783,
+  "maxPotentialFirstInputDelay": 59,
+  "timeToFirstByte": 2770.2770000000005,
+  "weight": {
+    "summary": "136 requests • 7.6 MiB",
+    "total": 8006055,
+    "image": 7106313,
+    "imageCount": 60,
+    "script": 408397,
+    "scriptCount": 27,
+    "document": 22572,
+    "font": 259889,
+    "fontCount": 4,
+    "stylesheet": 208884,
+    "stylesheetCount": 44,
+    "thirdParty": 89175,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 369,
+    "+weight.total": 204,
+    "-weight.document": 211,
+    "+weight.document": 358,
+    "-weight.script": 208,
+    "+weight.script": 304,
+    "-weight.image": 386,
+    "+weight.image": 185,
+    "-weight.font": 310,
+    "+weight.font": 81,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 547,
+    "-totalBlockingTime": 191,
+    "-largestContentfulPaint": 547
+  },
+  "axe": {
+    "passes": 1418,
+    "violations": 55
+  }
+}

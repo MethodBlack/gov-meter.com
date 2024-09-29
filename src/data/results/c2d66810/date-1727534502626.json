@@ -1,0 +1,67 @@
+{
+  "url": "https://www.wapcos.co.in/",
+  "requestedUrl": "https://www.wapcos.co.in/",
+  "timestamp": 1727593181001,
+  "ranks": {
+    "hundos": 81,
+    "performance": 195,
+    "accessibility": 133,
+    "cumulative": 80
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.56,
+    "accessibility": 0.85,
+    "bestPractices": 0.89,
+    "seo": 0.83,
+    "total": 313
+  },
+  "firstContentfulPaint": 8640.615,
+  "firstMeaningfulPaint": 8640.615,
+  "speedIndex": 10029.529505956893,
+  "largestContentfulPaint": 13409.699999999995,
+  "totalBlockingTime": 52,
+  "cumulativeLayoutShift": 0.000005919883450825341,
+  "timeToInteractive": 15140.974999999999,
+  "maxPotentialFirstInputDelay": 152,
+  "timeToFirstByte": 135.64099999999985,
+  "weight": {
+    "summary": "89 requests • 15.2 MiB",
+    "total": 15951949,
+    "image": 10210330,
+    "imageCount": 52,
+    "script": 450987,
+    "scriptCount": 15,
+    "document": 16303,
+    "font": 242102,
+    "fontCount": 3,
+    "stylesheet": 1067299,
+    "stylesheetCount": 14,
+    "thirdParty": 625846,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 473,
+    "+weight.total": 100,
+    "-weight.document": 130,
+    "+weight.document": 439,
+    "-weight.script": 220,
+    "+weight.script": 292,
+    "-weight.image": 433,
+    "+weight.image": 138,
+    "-weight.font": 301,
+    "+weight.font": 90,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 220,
+    "-totalBlockingTime": 62,
+    "-largestContentfulPaint": 193
+  },
+  "axe": {
+    "passes": 666,
+    "violations": 31
+  }
+}

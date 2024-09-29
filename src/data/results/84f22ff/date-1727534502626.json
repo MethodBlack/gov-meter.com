@@ -1,0 +1,67 @@
+{
+  "url": "https://ampri.res.in/",
+  "requestedUrl": "https://www.ampri.res.in/",
+  "timestamp": 1727557695410,
+  "ranks": {
+    "hundos": 294,
+    "performance": 359,
+    "accessibility": 384,
+    "cumulative": 294
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.43,
+    "accessibility": 0.73,
+    "bestPractices": 0.89,
+    "seo": 0.72,
+    "total": 277
+  },
+  "firstContentfulPaint": 6979.669499999998,
+  "firstMeaningfulPaint": 7086.169499999998,
+  "speedIndex": 19113.731403122692,
+  "largestContentfulPaint": 8032.721499999998,
+  "totalBlockingTime": 503.5,
+  "cumulativeLayoutShift": 0.003252703612922071,
+  "timeToInteractive": 12276.570499999994,
+  "maxPotentialFirstInputDelay": 301,
+  "timeToFirstByte": 3004.459,
+  "weight": {
+    "summary": "166 requests • 3.8 MiB",
+    "total": 3980231,
+    "image": 2941908,
+    "imageCount": 87,
+    "script": 590092,
+    "scriptCount": 35,
+    "document": 29930,
+    "font": 259856,
+    "fontCount": 6,
+    "stylesheet": 157218,
+    "stylesheetCount": 32,
+    "thirdParty": 408601,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 213,
+    "+weight.total": 360,
+    "-weight.document": 247,
+    "+weight.document": 322,
+    "-weight.script": 268,
+    "+weight.script": 244,
+    "-weight.image": 226,
+    "+weight.image": 345,
+    "-weight.font": 308,
+    "+weight.font": 83,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 549,
+    "-totalBlockingTime": 298,
+    "-largestContentfulPaint": 313
+  },
+  "axe": {
+    "passes": 1369,
+    "violations": 125
+  }
+}

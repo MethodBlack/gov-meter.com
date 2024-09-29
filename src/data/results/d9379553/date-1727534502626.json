@@ -1,0 +1,67 @@
+{
+  "url": "https://dipam.gov.in/",
+  "requestedUrl": "https://dipam.gov.in/",
+  "timestamp": 1727575755121,
+  "ranks": {
+    "hundos": 236,
+    "performance": 540,
+    "accessibility": 284,
+    "cumulative": 271
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.2,
+    "accessibility": 0.79,
+    "bestPractices": 0.93,
+    "seo": 0.89,
+    "total": 286
+  },
+  "firstContentfulPaint": 6114.570000000001,
+  "firstMeaningfulPaint": 6967.68,
+  "speedIndex": 98021.5575282394,
+  "largestContentfulPaint": 10509.143999999997,
+  "totalBlockingTime": 980,
+  "cumulativeLayoutShift": 0.26489665207976953,
+  "timeToInteractive": 117294.47249999984,
+  "maxPotentialFirstInputDelay": 937.9999999999854,
+  "timeToFirstByte": 35.349999999999994,
+  "weight": {
+    "summary": "404 requests • 63.3 MiB",
+    "total": 66331996,
+    "image": 63195418,
+    "imageCount": 312,
+    "script": 2171124,
+    "scriptCount": 56,
+    "document": 266049,
+    "font": 186981,
+    "fontCount": 6,
+    "stylesheet": 492522,
+    "stylesheetCount": 17,
+    "thirdParty": 4573321,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 571,
+    "+weight.total": 2,
+    "-weight.document": 527,
+    "+weight.document": 42,
+    "-weight.script": 481,
+    "+weight.script": 31,
+    "-weight.image": 569,
+    "+weight.image": 2,
+    "-weight.font": 255,
+    "+weight.font": 136,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 14,
+    "-totalBlockingTime": 162,
+    "-largestContentfulPaint": 157
+  },
+  "axe": {
+    "passes": 20879,
+    "violations": 188
+  }
+}

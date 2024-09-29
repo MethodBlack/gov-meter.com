@@ -1,0 +1,67 @@
+{
+  "url": "https://recindia.nic.in/",
+  "requestedUrl": "https://www.recindia.nic.in/",
+  "timestamp": 1727591159806,
+  "ranks": {
+    "hundos": 554,
+    "performance": 345,
+    "accessibility": 252,
+    "cumulative": 555
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.44,
+    "accessibility": 0.81,
+    "bestPractices": null,
+    "seo": 0.92,
+    "total": 218
+  },
+  "firstContentfulPaint": 5242.926000000001,
+  "firstMeaningfulPaint": 5861.261000000001,
+  "speedIndex": 6542.892202736155,
+  "largestContentfulPaint": 25258.37500000001,
+  "totalBlockingTime": 85,
+  "cumulativeLayoutShift": 0.30961775730479574,
+  "timeToInteractive": 6892.926,
+  "maxPotentialFirstInputDelay": 114,
+  "timeToFirstByte": 105.26800000000001,
+  "weight": {
+    "summary": "80 requests • 5.8 MiB",
+    "total": 6087843,
+    "image": 5590802,
+    "imageCount": 48,
+    "script": 282071,
+    "scriptCount": 14,
+    "document": 12278,
+    "font": 147499,
+    "fontCount": 6,
+    "stylesheet": 54157,
+    "stylesheetCount": 9,
+    "thirdParty": 136877,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 5,
+    "total": 5
+  },
+  "sidequests": {
+    "-weight.total": 315,
+    "+weight.total": 258,
+    "-weight.document": 56,
+    "+weight.document": 513,
+    "-weight.script": 128,
+    "+weight.script": 384,
+    "-weight.image": 340,
+    "+weight.image": 231,
+    "-weight.font": 198,
+    "+weight.font": 193,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 181,
+    "-totalBlockingTime": 361,
+    "-largestContentfulPaint": 541
+  },
+  "axe": {
+    "passes": 740,
+    "violations": 65
+  }
+}

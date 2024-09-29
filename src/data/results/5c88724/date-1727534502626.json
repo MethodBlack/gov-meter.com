@@ -1,0 +1,67 @@
+{
+  "url": "https://www.iocl.com/",
+  "requestedUrl": "https://www.iocl.com/",
+  "timestamp": 1727546079510,
+  "ranks": {
+    "hundos": 522,
+    "performance": 502,
+    "accessibility": 533,
+    "cumulative": 521
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.29,
+    "accessibility": 0.58,
+    "bestPractices": 0.7,
+    "seo": 0.77,
+    "total": 234
+  },
+  "firstContentfulPaint": 2426.829,
+  "firstMeaningfulPaint": 3397.4496,
+  "speedIndex": 22586.69970023034,
+  "largestContentfulPaint": 4741.199200000001,
+  "totalBlockingTime": 3026.500000000002,
+  "cumulativeLayoutShift": 0.23096913829996418,
+  "timeToInteractive": 28000.566699999996,
+  "maxPotentialFirstInputDelay": 2061.000000000002,
+  "timeToFirstByte": 146.78600000000003,
+  "weight": {
+    "summary": "385 requests • 16.9 MiB",
+    "total": 17745169,
+    "image": 15042699,
+    "imageCount": 247,
+    "script": 1866279,
+    "scriptCount": 50,
+    "document": 209254,
+    "font": 296151,
+    "fontCount": 8,
+    "stylesheet": 157419,
+    "stylesheetCount": 17,
+    "thirdParty": 12368575,
+    "thirdPartyCount": 12
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 493,
+    "+weight.total": 80,
+    "-weight.document": 509,
+    "+weight.document": 60,
+    "-weight.script": 470,
+    "+weight.script": 42,
+    "-weight.image": 486,
+    "+weight.image": 85,
+    "-weight.font": 324,
+    "+weight.font": 67,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 241,
+    "-totalBlockingTime": 186,
+    "-largestContentfulPaint": 61
+  },
+  "axe": {
+    "passes": 23366,
+    "violations": 416
+  }
+}

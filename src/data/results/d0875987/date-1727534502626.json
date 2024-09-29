@@ -1,0 +1,67 @@
+{
+  "url": "https://packolkata.gov.in/",
+  "requestedUrl": "https://packolkata.gov.in/",
+  "timestamp": 1727568009119,
+  "ranks": {
+    "hundos": 212,
+    "performance": 150,
+    "accessibility": 452,
+    "cumulative": 213
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.6,
+    "accessibility": 0.68,
+    "bestPractices": 0.89,
+    "seo": 0.73,
+    "total": 290
+  },
+  "firstContentfulPaint": 2037.07,
+  "firstMeaningfulPaint": 2718.1400000000003,
+  "speedIndex": 3938.2433444202406,
+  "largestContentfulPaint": 7062.385000000002,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.2611773264115299,
+  "timeToInteractive": 2718.1400000000003,
+  "maxPotentialFirstInputDelay": 17,
+  "timeToFirstByte": 372.33299999999997,
+  "weight": {
+    "summary": "45 requests • 1,015.8 KiB",
+    "total": 1040138,
+    "image": 759906,
+    "imageCount": 34,
+    "script": 231272,
+    "scriptCount": 6,
+    "document": 27692,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 21268,
+    "stylesheetCount": 4,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 50,
+    "+weight.total": 523,
+    "-weight.document": 240,
+    "+weight.document": 329,
+    "-weight.script": 101,
+    "+weight.script": 411,
+    "-weight.image": 83,
+    "+weight.image": 488,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 354,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 112
+  },
+  "axe": {
+    "passes": 473,
+    "violations": 32
+  }
+}

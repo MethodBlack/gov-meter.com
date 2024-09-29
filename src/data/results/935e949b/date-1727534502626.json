@@ -1,0 +1,67 @@
+{
+  "url": "https://bharatpetroresources.in/",
+  "requestedUrl": "https://bharatpetroresources.in/",
+  "timestamp": 1727571767167,
+  "ranks": {
+    "hundos": 239,
+    "performance": 289,
+    "accessibility": 258,
+    "cumulative": 233
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.5,
+    "accessibility": 0.8,
+    "bestPractices": 0.7,
+    "seo": 0.86,
+    "total": 286
+  },
+  "firstContentfulPaint": 2221.6515,
+  "firstMeaningfulPaint": 2221.6515,
+  "speedIndex": 24193.97245717953,
+  "largestContentfulPaint": 4045.4784999999997,
+  "totalBlockingTime": 19,
+  "cumulativeLayoutShift": 2.2007992073400144,
+  "timeToInteractive": 5699.071500000001,
+  "maxPotentialFirstInputDelay": 69,
+  "timeToFirstByte": 12808.616,
+  "weight": {
+    "summary": "45 requests • 1.0 MiB",
+    "total": 1068925,
+    "image": 419547,
+    "imageCount": 23,
+    "script": 482393,
+    "scriptCount": 11,
+    "document": 42388,
+    "font": 37171,
+    "fontCount": 1,
+    "stylesheet": 87009,
+    "stylesheetCount": 6,
+    "thirdParty": 309950,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 53,
+    "+weight.total": 520,
+    "-weight.document": 281,
+    "+weight.document": 288,
+    "-weight.script": 237,
+    "+weight.script": 275,
+    "-weight.image": 54,
+    "+weight.image": 517,
+    "-weight.font": 25,
+    "+weight.font": 366,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 570,
+    "-totalBlockingTime": 346,
+    "-largestContentfulPaint": 440
+  },
+  "axe": {
+    "passes": 477,
+    "violations": 34
+  }
+}

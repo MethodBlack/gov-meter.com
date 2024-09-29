@@ -1,0 +1,67 @@
+{
+  "url": "https://indianarmy.nic.in/",
+  "requestedUrl": "https://indianarmy.nic.in/",
+  "timestamp": 1727580040072,
+  "ranks": {
+    "hundos": 510,
+    "performance": 543,
+    "accessibility": 371,
+    "cumulative": 510
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.19,
+    "accessibility": 0.74,
+    "bestPractices": 0.67,
+    "seo": 0.81,
+    "total": 241
+  },
+  "firstContentfulPaint": 5051.252,
+  "firstMeaningfulPaint": 5547.686,
+  "speedIndex": 25577.15642158061,
+  "largestContentfulPaint": 11266.965999999999,
+  "totalBlockingTime": 580.4999999999964,
+  "cumulativeLayoutShift": 0.5645939117076457,
+  "timeToInteractive": 42168.918499999985,
+  "maxPotentialFirstInputDelay": 547.9999999999927,
+  "timeToFirstByte": 224.512,
+  "weight": {
+    "summary": "195 requests • 10.9 MiB",
+    "total": 11419816,
+    "image": 6316846,
+    "imageCount": 123,
+    "script": 4073826,
+    "scriptCount": 35,
+    "document": 235850,
+    "font": 224290,
+    "fontCount": 5,
+    "stylesheet": 520509,
+    "stylesheetCount": 10,
+    "thirdParty": 5037332,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 418,
+    "+weight.total": 155,
+    "-weight.document": 517,
+    "+weight.document": 52,
+    "-weight.script": 507,
+    "+weight.script": 5,
+    "-weight.image": 361,
+    "+weight.image": 210,
+    "-weight.font": 288,
+    "+weight.font": 103,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 310,
+    "-totalBlockingTime": 144,
+    "-largestContentfulPaint": 169
+  },
+  "axe": {
+    "passes": 6324,
+    "violations": 138
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ugc.gov.in/ErrorPage/index?code=404",
+  "requestedUrl": "https://www.ugc.ac.in/deb",
+  "timestamp": 1727577047621,
+  "ranks": {
+    "hundos": 76,
+    "performance": 35,
+    "accessibility": 401,
+    "cumulative": 78
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.86,
+    "accessibility": 0.71,
+    "bestPractices": 0.85,
+    "seo": 0.72,
+    "total": 314
+  },
+  "firstContentfulPaint": 2939.2715000000003,
+  "firstMeaningfulPaint": 2939.2715000000003,
+  "speedIndex": 2939.2715000000003,
+  "largestContentfulPaint": 3472.2515,
+  "totalBlockingTime": 8.5,
+  "cumulativeLayoutShift": 0.02930213303434434,
+  "timeToInteractive": 3260.7615,
+  "maxPotentialFirstInputDelay": 67,
+  "timeToFirstByte": 82.478,
+  "weight": {
+    "summary": "30 requests • 763.5 KiB",
+    "total": 781840,
+    "image": 343254,
+    "imageCount": 19,
+    "script": 249070,
+    "scriptCount": 6,
+    "document": 8834,
+    "font": 78292,
+    "fontCount": 1,
+    "stylesheet": 100277,
+    "stylesheetCount": 1,
+    "thirdParty": 104348,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 35,
+    "+weight.total": 538,
+    "-weight.document": 26,
+    "+weight.document": 543,
+    "-weight.script": 115,
+    "+weight.script": 397,
+    "-weight.image": 41,
+    "+weight.image": 530,
+    "-weight.font": 83,
+    "+weight.font": 308,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 122,
+    "-totalBlockingTime": 334,
+    "-largestContentfulPaint": 288
+  },
+  "axe": {
+    "passes": 524,
+    "violations": 35
+  }
+}

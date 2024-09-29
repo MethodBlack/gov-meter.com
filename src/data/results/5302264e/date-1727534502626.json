@@ -1,0 +1,67 @@
+{
+  "url": "https://consumeraffairs.nic.in/",
+  "requestedUrl": "https://consumeraffairs.nic.in/",
+  "timestamp": 1727559044481,
+  "ranks": {
+    "hundos": 365,
+    "performance": 547,
+    "accessibility": 312,
+    "cumulative": 363
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.18,
+    "accessibility": 0.77,
+    "bestPractices": 0.89,
+    "seo": 0.83,
+    "total": 267
+  },
+  "firstContentfulPaint": 6432.732000000003,
+  "firstMeaningfulPaint": 6507.732000000004,
+  "speedIndex": 23966.868665236645,
+  "largestContentfulPaint": 34010.35600000003,
+  "totalBlockingTime": 593,
+  "cumulativeLayoutShift": 0.5505125809205424,
+  "timeToInteractive": 31561.42950000002,
+  "maxPotentialFirstInputDelay": 356,
+  "timeToFirstByte": 2373.518,
+  "weight": {
+    "summary": "282 requests • 19.5 MiB",
+    "total": 20404900,
+    "image": 17832551,
+    "imageCount": 164,
+    "script": 839484,
+    "scriptCount": 53,
+    "document": 160989,
+    "font": 225860,
+    "fontCount": 7,
+    "stylesheet": 126224,
+    "stylesheetCount": 41,
+    "thirdParty": 4462444,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 508,
+    "+weight.total": 65,
+    "-weight.document": 467,
+    "+weight.document": 102,
+    "-weight.script": 341,
+    "+weight.script": 171,
+    "-weight.image": 506,
+    "+weight.image": 65,
+    "-weight.font": 291,
+    "+weight.font": 100,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 541,
+    "-totalBlockingTime": 302,
+    "-largestContentfulPaint": 403
+  },
+  "axe": {
+    "passes": 7351,
+    "violations": 69
+  }
+}

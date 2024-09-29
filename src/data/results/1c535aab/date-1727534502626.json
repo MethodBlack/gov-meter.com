@@ -1,0 +1,66 @@
+{
+  "url": "https://www.dubaidxbairport.com/",
+  "requestedUrl": "https://ayush.gov.in/",
+  "timestamp": 1727571383817,
+  "ranks": {
+    "hundos": 566,
+    "performance": 570,
+    "accessibility": 473,
+    "cumulative": 566
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.03,
+    "accessibility": 0.66,
+    "bestPractices": 0.48,
+    "seo": 0.86,
+    "total": 203
+  },
+  "firstContentfulPaint": 29577.52049999999,
+  "firstMeaningfulPaint": 30663.899499999992,
+  "speedIndex": 29577.52049999999,
+  "largestContentfulPaint": 98544.96925000013,
+  "totalBlockingTime": 2036.9999999999854,
+  "cumulativeLayoutShift": 0.877036013992724,
+  "timeToInteractive": 73909.29291499998,
+  "maxPotentialFirstInputDelay": 604,
+  "timeToFirstByte": 338.667,
+  "weight": {
+    "summary": "642 requests • 16.4 MiB",
+    "total": 17248104,
+    "image": 8993627,
+    "imageCount": 147,
+    "script": 3705176,
+    "scriptCount": 199,
+    "document": 546836,
+    "font": 284283,
+    "fontCount": 18,
+    "stylesheet": 779014,
+    "stylesheetCount": 25,
+    "thirdParty": 17152535,
+    "thirdPartyCount": 14
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 486,
+    "+weight.total": 87,
+    "-weight.document": 559,
+    "+weight.document": 10,
+    "-weight.script": 503,
+    "+weight.script": 9,
+    "-weight.image": 416,
+    "+weight.image": 155,
+    "-weight.font": 321,
+    "+weight.font": 70,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 345,
+    "-totalBlockingTime": 179,
+    "-largestContentfulPaint": 280
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://mausam.imd.gov.in/bhopal/",
+  "requestedUrl": "https://mausam.imd.gov.in/bhopal",
+  "timestamp": 1727565270016,
+  "ranks": {
+    "hundos": 131,
+    "performance": 121,
+    "accessibility": 410,
+    "cumulative": 130
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.64,
+    "accessibility": 0.71,
+    "bestPractices": 0.89,
+    "seo": 0.8,
+    "total": 304
+  },
+  "firstContentfulPaint": 3962.3289999999997,
+  "firstMeaningfulPaint": 3962.3289999999997,
+  "speedIndex": 5108.219408042614,
+  "largestContentfulPaint": 24318.932,
+  "totalBlockingTime": 18,
+  "cumulativeLayoutShift": 0.00013478181100468715,
+  "timeToInteractive": 7962.842999999998,
+  "maxPotentialFirstInputDelay": 71,
+  "timeToFirstByte": 93.926,
+  "weight": {
+    "summary": "52 requests • 3.8 MiB",
+    "total": 3978598,
+    "image": 3110805,
+    "imageCount": 29,
+    "script": 617949,
+    "scriptCount": 11,
+    "document": 47569,
+    "font": 74990,
+    "fontCount": 1,
+    "stylesheet": 125420,
+    "stylesheetCount": 4,
+    "thirdParty": 707070,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 212,
+    "+weight.total": 361,
+    "-weight.document": 298,
+    "+weight.document": 271,
+    "-weight.script": 285,
+    "+weight.script": 227,
+    "-weight.image": 235,
+    "+weight.image": 336,
+    "-weight.font": 67,
+    "+weight.font": 324,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 159,
+    "-totalBlockingTime": 345,
+    "-largestContentfulPaint": 381
+  },
+  "axe": {
+    "passes": 1052,
+    "violations": 77
+  }
+}

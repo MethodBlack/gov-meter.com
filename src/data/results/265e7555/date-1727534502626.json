@@ -1,0 +1,66 @@
+{
+  "url": "https://chemicals.gov.in/",
+  "requestedUrl": "https://chemicals.gov.in/",
+  "timestamp": 1727540225552,
+  "ranks": {
+    "hundos": 274,
+    "performance": 496,
+    "accessibility": 314,
+    "cumulative": 274
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.77,
+    "bestPractices": 0.89,
+    "seo": 0.83,
+    "total": 280
+  },
+  "firstContentfulPaint": 17834.444500000012,
+  "firstMeaningfulPaint": 17834.444500000012,
+  "speedIndex": 43032.89568010255,
+  "largestContentfulPaint": 88087.67300000013,
+  "totalBlockingTime": 1186.5000000000073,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 59192.52950000005,
+  "maxPotentialFirstInputDelay": 1228.0000000000073,
+  "timeToFirstByte": 41.98600000000002,
+  "weight": {
+    "summary": "201 requests • 25.2 MiB",
+    "total": 26446348,
+    "image": 20568873,
+    "imageCount": 59,
+    "script": 4920400,
+    "scriptCount": 49,
+    "document": 171708,
+    "font": 366312,
+    "fontCount": 7,
+    "stylesheet": 373214,
+    "stylesheetCount": 62,
+    "thirdParty": 1780826,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 530,
+    "+weight.total": 43,
+    "-weight.document": 481,
+    "+weight.document": 88,
+    "-weight.script": 509,
+    "+weight.script": 3,
+    "-weight.image": 519,
+    "+weight.image": 52,
+    "-weight.font": 347,
+    "+weight.font": 44,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 22,
+    "-totalBlockingTime": 166,
+    "-largestContentfulPaint": 277
+  },
+  "axe": {
+    "error": "{}"
+  }
+}

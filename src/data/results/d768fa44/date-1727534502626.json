@@ -1,0 +1,67 @@
+{
+  "url": "https://dalhousie.cantt.gov.in/",
+  "requestedUrl": "https://dalhousie.cantt.gov.in/",
+  "timestamp": 1727536453755,
+  "ranks": {
+    "hundos": 369,
+    "performance": 457,
+    "accessibility": 160,
+    "cumulative": 366
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.83,
+    "bestPractices": 0.74,
+    "seo": 0.76,
+    "total": 266
+  },
+  "firstContentfulPaint": 5206.614000000001,
+  "firstMeaningfulPaint": 5206.614000000001,
+  "speedIndex": 13621.232740296076,
+  "largestContentfulPaint": 28623.760000000028,
+  "totalBlockingTime": 59,
+  "cumulativeLayoutShift": 0.7596548932085477,
+  "timeToInteractive": 18165.338000000018,
+  "maxPotentialFirstInputDelay": 155,
+  "timeToFirstByte": 792.8679999999999,
+  "weight": {
+    "summary": "77 requests • 3.9 MiB",
+    "total": 4081531,
+    "image": 3415194,
+    "imageCount": 18,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 15584,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 226055,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 219,
+    "+weight.total": 354,
+    "-weight.document": 114,
+    "+weight.document": 455,
+    "-weight.script": 169,
+    "+weight.script": 343,
+    "-weight.image": 254,
+    "+weight.image": 317,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 453,
+    "-totalBlockingTime": 232,
+    "-largestContentfulPaint": 389
+  },
+  "axe": {
+    "passes": 883,
+    "violations": 31
+  }
+}

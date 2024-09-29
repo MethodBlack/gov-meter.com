@@ -1,0 +1,67 @@
+{
+  "url": "https://shillong.cantt.gov.in/",
+  "requestedUrl": "https://shillong.cantt.gov.in/",
+  "timestamp": 1727555928567,
+  "ranks": {
+    "hundos": 358,
+    "performance": 407,
+    "accessibility": 213,
+    "cumulative": 356
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.36,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.76,
+    "total": 268
+  },
+  "firstContentfulPaint": 3950.9155,
+  "firstMeaningfulPaint": 3950.9155,
+  "speedIndex": 8014.755476749879,
+  "largestContentfulPaint": 30351.5815,
+  "totalBlockingTime": 53.5,
+  "cumulativeLayoutShift": 0.8717223768835509,
+  "timeToInteractive": 7101.496999999999,
+  "maxPotentialFirstInputDelay": 146,
+  "timeToFirstByte": 1608.063,
+  "weight": {
+    "summary": "75 requests • 5.0 MiB",
+    "total": 5190857,
+    "image": 4525468,
+    "imageCount": 18,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 22431,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 218260,
+    "stylesheetCount": 27,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 270,
+    "+weight.total": 303,
+    "-weight.document": 209,
+    "+weight.document": 360,
+    "-weight.script": 169,
+    "+weight.script": 343,
+    "-weight.image": 304,
+    "+weight.image": 267,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 514,
+    "-totalBlockingTime": 227,
+    "-largestContentfulPaint": 396
+  },
+  "axe": {
+    "passes": 744,
+    "violations": 38
+  }
+}

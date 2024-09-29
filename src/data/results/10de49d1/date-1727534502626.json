@@ -1,0 +1,67 @@
+{
+  "url": "https://ajmer.cantt.gov.in/",
+  "requestedUrl": "https://ajmer.cantt.gov.in/",
+  "timestamp": 1727555136181,
+  "ranks": {
+    "hundos": 396,
+    "performance": 489,
+    "accessibility": 204,
+    "cumulative": 389
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.77,
+    "total": 264
+  },
+  "firstContentfulPaint": 5778.621500000003,
+  "firstMeaningfulPaint": 5778.621500000003,
+  "speedIndex": 13115.172399249124,
+  "largestContentfulPaint": 36029.66424999999,
+  "totalBlockingTime": 43,
+  "cumulativeLayoutShift": 0.9577697754705006,
+  "timeToInteractive": 19926.243,
+  "maxPotentialFirstInputDelay": 136,
+  "timeToFirstByte": 680.1639999999999,
+  "weight": {
+    "summary": "80 requests • 4.9 MiB",
+    "total": 5169578,
+    "image": 4503434,
+    "imageCount": 21,
+    "script": 346572,
+    "scriptCount": 28,
+    "document": 15528,
+    "font": 78126,
+    "fontCount": 1,
+    "stylesheet": 225918,
+    "stylesheetCount": 29,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 267,
+    "+weight.total": 306,
+    "-weight.document": 109,
+    "+weight.document": 460,
+    "-weight.script": 169,
+    "+weight.script": 343,
+    "-weight.image": 302,
+    "+weight.image": 269,
+    "-weight.font": 81,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 424,
+    "-totalBlockingTime": 214,
+    "-largestContentfulPaint": 562
+  },
+  "axe": {
+    "passes": 808,
+    "violations": 34
+  }
+}

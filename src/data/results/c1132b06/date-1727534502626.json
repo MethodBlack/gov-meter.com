@@ -1,0 +1,66 @@
+{
+  "url": "https://www.commerce.gov.in/",
+  "requestedUrl": "https://commerce.gov.in/",
+  "timestamp": 1727540258107,
+  "ranks": {
+    "hundos": 107,
+    "performance": 369,
+    "accessibility": 62,
+    "cumulative": 107
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.42,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "seo": 0.83,
+    "total": 309
+  },
+  "firstContentfulPaint": 5381.518,
+  "firstMeaningfulPaint": 5381.518,
+  "speedIndex": 46120.5503646816,
+  "largestContentfulPaint": 8647.340000000002,
+  "totalBlockingTime": 394,
+  "cumulativeLayoutShift": 0.1332514027951303,
+  "timeToInteractive": 38205.73850000001,
+  "maxPotentialFirstInputDelay": 462,
+  "timeToFirstByte": 2614.999,
+  "weight": {
+    "summary": "226 requests • 12.4 MiB",
+    "total": 12956069,
+    "image": 11809790,
+    "imageCount": 159,
+    "script": 825716,
+    "scriptCount": 43,
+    "document": 160058,
+    "font": 40995,
+    "fontCount": 3,
+    "stylesheet": 115375,
+    "stylesheetCount": 15,
+    "thirdParty": 3259767,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 443,
+    "+weight.total": 130,
+    "-weight.document": 466,
+    "+weight.document": 103,
+    "-weight.script": 337,
+    "+weight.script": 175,
+    "-weight.image": 454,
+    "+weight.image": 117,
+    "-weight.font": 29,
+    "+weight.font": 362,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 545,
+    "-totalBlockingTime": 293,
+    "-largestContentfulPaint": 315
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

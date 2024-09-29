@@ -1,0 +1,67 @@
+{
+  "url": "https://cmat.nta.nic.in/",
+  "requestedUrl": "https://cmat.nta.nic.in/",
+  "timestamp": 1727538319290,
+  "ranks": {
+    "hundos": 24,
+    "performance": 82,
+    "accessibility": 117,
+    "cumulative": 24
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.7,
+    "accessibility": 0.86,
+    "bestPractices": 0.93,
+    "seo": 0.84,
+    "total": 333
+  },
+  "firstContentfulPaint": 2194.842,
+  "firstMeaningfulPaint": 2835.9440000000004,
+  "speedIndex": 3499.2431140336444,
+  "largestContentfulPaint": 4537.0779999999995,
+  "totalBlockingTime": 71.50000000000045,
+  "cumulativeLayoutShift": 0.21117935854948777,
+  "timeToInteractive": 6573.883999999996,
+  "maxPotentialFirstInputDelay": 145,
+  "timeToFirstByte": 76.94800000000001,
+  "weight": {
+    "summary": "90 requests • 943.0 KiB",
+    "total": 965676,
+    "image": 149747,
+    "imageCount": 16,
+    "script": 238004,
+    "scriptCount": 20,
+    "document": 15444,
+    "font": 283905,
+    "fontCount": 8,
+    "stylesheet": 241462,
+    "stylesheetCount": 19,
+    "thirdParty": 185178,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 47,
+    "+weight.total": 526,
+    "-weight.document": 104,
+    "+weight.document": 465,
+    "-weight.script": 108,
+    "+weight.script": 404,
+    "-weight.image": 26,
+    "+weight.image": 545,
+    "-weight.font": 320,
+    "+weight.font": 71,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 102,
+    "-totalBlockingTime": 357,
+    "-largestContentfulPaint": 445
+  },
+  "axe": {
+    "passes": 864,
+    "violations": 8
+  }
+}

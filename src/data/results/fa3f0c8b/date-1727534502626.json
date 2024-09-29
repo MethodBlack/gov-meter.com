@@ -1,0 +1,67 @@
+{
+  "url": "https://www.spmcil.com/hi/",
+  "requestedUrl": "https://www.spmcil.com/",
+  "timestamp": 1727551848330,
+  "ranks": {
+    "hundos": 375,
+    "performance": 524,
+    "accessibility": 267,
+    "cumulative": 373
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.25,
+    "accessibility": 0.8,
+    "bestPractices": 0.7,
+    "seo": 0.9,
+    "total": 265
+  },
+  "firstContentfulPaint": 12066.836499999998,
+  "firstMeaningfulPaint": 12548.509499999996,
+  "speedIndex": 40702.108058587466,
+  "largestContentfulPaint": 20115.65449999999,
+  "totalBlockingTime": 6041.914250000005,
+  "cumulativeLayoutShift": 0.022870974354280114,
+  "timeToInteractive": 57242.53575000001,
+  "maxPotentialFirstInputDelay": 2601,
+  "timeToFirstByte": 2410.1710000000003,
+  "weight": {
+    "summary": "447 requests • 26.6 MiB",
+    "total": 27888354,
+    "image": 23523608,
+    "imageCount": 299,
+    "script": 2683421,
+    "scriptCount": 83,
+    "document": 237685,
+    "font": 362824,
+    "fontCount": 7,
+    "stylesheet": 1071079,
+    "stylesheetCount": 40,
+    "thirdParty": 9608952,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 534,
+    "+weight.total": 39,
+    "-weight.document": 519,
+    "+weight.document": 50,
+    "-weight.script": 491,
+    "+weight.script": 21,
+    "-weight.image": 531,
+    "+weight.image": 40,
+    "-weight.font": 345,
+    "+weight.font": 46,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 542,
+    "-totalBlockingTime": 326,
+    "-largestContentfulPaint": 371
+  },
+  "axe": {
+    "passes": 2425,
+    "violations": 125
+  }
+}

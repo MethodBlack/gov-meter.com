@@ -1,0 +1,67 @@
+{
+  "url": "https://morth.nic.in/",
+  "requestedUrl": "https://morth.nic.in/",
+  "timestamp": 1727551642882,
+  "ranks": {
+    "hundos": 178,
+    "performance": 427,
+    "accessibility": 80,
+    "cumulative": 177
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.35,
+    "accessibility": 0.89,
+    "bestPractices": 0.85,
+    "seo": 0.87,
+    "total": 296
+  },
+  "firstContentfulPaint": 13554.426499999998,
+  "firstMeaningfulPaint": 13554.426499999998,
+  "speedIndex": 13554.426499999998,
+  "largestContentfulPaint": 15815.0485,
+  "totalBlockingTime": 167,
+  "cumulativeLayoutShift": 0.379953493993769,
+  "timeToInteractive": 16589.591500000002,
+  "maxPotentialFirstInputDelay": 263,
+  "timeToFirstByte": 77.43,
+  "weight": {
+    "summary": "188 requests • 13.1 MiB",
+    "total": 13758323,
+    "image": 11594174,
+    "imageCount": 95,
+    "script": 1311582,
+    "scriptCount": 46,
+    "document": 19984,
+    "font": 198959,
+    "fontCount": 5,
+    "stylesheet": 633083,
+    "stylesheetCount": 40,
+    "thirdParty": 217264,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 450,
+    "+weight.total": 123,
+    "-weight.document": 177,
+    "+weight.document": 392,
+    "-weight.script": 418,
+    "+weight.script": 94,
+    "-weight.image": 450,
+    "+weight.image": 121,
+    "-weight.font": 269,
+    "+weight.font": 122,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 103,
+    "-totalBlockingTime": 367,
+    "-largestContentfulPaint": 519
+  },
+  "axe": {
+    "passes": 1612,
+    "violations": 18
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://mospi.gov.in/",
+  "requestedUrl": "https://mospi.gov.in/",
+  "timestamp": 1727552572212,
+  "ranks": {
+    "hundos": 292,
+    "performance": 227,
+    "accessibility": 138,
+    "cumulative": 293
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "bestPractices": 0.48,
+    "seo": 0.89,
+    "total": 277
+  },
+  "firstContentfulPaint": 12233.62,
+  "firstMeaningfulPaint": 12233.62,
+  "speedIndex": 19623.76819839056,
+  "largestContentfulPaint": 19960.10475,
+  "totalBlockingTime": 91.5,
+  "cumulativeLayoutShift": 0.036430178971112434,
+  "timeToInteractive": 22462.274500000003,
+  "maxPotentialFirstInputDelay": 224,
+  "timeToFirstByte": 1722.935,
+  "weight": {
+    "summary": "192 requests • 3.8 MiB",
+    "total": 3939824,
+    "image": 2234335,
+    "imageCount": 58,
+    "script": 994182,
+    "scriptCount": 55,
+    "document": 264966,
+    "font": 169100,
+    "fontCount": 18,
+    "stylesheet": 276789,
+    "stylesheetCount": 50,
+    "thirdParty": 425189,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 209,
+    "+weight.total": 364,
+    "-weight.document": 526,
+    "+weight.document": 43,
+    "-weight.script": 381,
+    "+weight.script": 131,
+    "-weight.image": 183,
+    "+weight.image": 388,
+    "-weight.font": 236,
+    "+weight.font": 155,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 520,
+    "-totalBlockingTime": 255,
+    "-largestContentfulPaint": 368
+  },
+  "axe": {
+    "passes": 1580,
+    "violations": 75
+  }
+}

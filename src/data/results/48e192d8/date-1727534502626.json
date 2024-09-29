@@ -1,0 +1,67 @@
+{
+  "url": "https://rlda.indianrailways.gov.in/",
+  "requestedUrl": "https://rlda.indianrailways.gov.in/",
+  "timestamp": 1727551040307,
+  "ranks": {
+    "hundos": 533,
+    "performance": 132,
+    "accessibility": 350,
+    "cumulative": 532
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.63,
+    "accessibility": 0.75,
+    "bestPractices": 0.41,
+    "seo": 0.5,
+    "total": 229
+  },
+  "firstContentfulPaint": 2362.0379999999986,
+  "firstMeaningfulPaint": 2603.7109999999984,
+  "speedIndex": 41904.52886388767,
+  "largestContentfulPaint": 7141.307499999997,
+  "totalBlockingTime": 10,
+  "cumulativeLayoutShift": 0.007194605099979311,
+  "timeToInteractive": 65308.175499999954,
+  "maxPotentialFirstInputDelay": 70,
+  "timeToFirstByte": 115.7650000000001,
+  "weight": {
+    "summary": "65 requests • 22.1 MiB",
+    "total": 23189493,
+    "image": 22726643,
+    "imageCount": 35,
+    "script": 329256,
+    "scriptCount": 15,
+    "document": 123649,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 6245,
+    "stylesheetCount": 5,
+    "thirdParty": 800957,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 520,
+    "+weight.total": 53,
+    "-weight.document": 418,
+    "+weight.document": 151,
+    "-weight.script": 154,
+    "+weight.script": 358,
+    "-weight.image": 526,
+    "+weight.image": 45,
+    "-weight.font": 1,
+    "+weight.font": 391,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 193,
+    "-totalBlockingTime": 16,
+    "-largestContentfulPaint": 114
+  },
+  "axe": {
+    "passes": 571,
+    "violations": 45
+  }
+}

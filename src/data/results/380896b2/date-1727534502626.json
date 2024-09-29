@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ihbt.res.in/en/",
+  "requestedUrl": "https://www.ihbt.res.in/",
+  "timestamp": 1727539012973,
+  "ranks": {
+    "hundos": 497,
+    "performance": 350,
+    "accessibility": 334,
+    "cumulative": 495
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.44,
+    "accessibility": 0.76,
+    "bestPractices": 0.44,
+    "seo": 0.81,
+    "total": 245
+  },
+  "firstContentfulPaint": 11648.062749999996,
+  "firstMeaningfulPaint": 13046.942499999996,
+  "speedIndex": 16212.898437945416,
+  "largestContentfulPaint": 12460.446249999995,
+  "totalBlockingTime": 450,
+  "cumulativeLayoutShift": 0.02067509771023853,
+  "timeToInteractive": 25401.373999999993,
+  "maxPotentialFirstInputDelay": 287,
+  "timeToFirstByte": 746.923,
+  "weight": {
+    "summary": "268 requests • 23.0 MiB",
+    "total": 24097119,
+    "image": 21774357,
+    "imageCount": 150,
+    "script": 1769543,
+    "scriptCount": 45,
+    "document": 172718,
+    "font": 89340,
+    "fontCount": 5,
+    "stylesheet": 201239,
+    "stylesheetCount": 38,
+    "thirdParty": 2982353,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 524,
+    "+weight.total": 49,
+    "-weight.document": 482,
+    "+weight.document": 87,
+    "-weight.script": 466,
+    "+weight.script": 46,
+    "-weight.image": 523,
+    "+weight.image": 48,
+    "-weight.font": 102,
+    "+weight.font": 289,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 439,
+    "-totalBlockingTime": 296,
+    "-largestContentfulPaint": 339
+  },
+  "axe": {
+    "passes": 3676,
+    "violations": 159
+  }
+}
